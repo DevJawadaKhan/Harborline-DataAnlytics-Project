@@ -1,0 +1,48 @@
+case_id,child_id,county,volunteer_id,date_assigned,date_closed,status,outcome,reject_reason,severity
+C-10822,CH-5905,chambers,V-133,2025-10-29,18-Jun-2026,CLOSED,Permanent Kinship,exact duplicate row,critical
+C-10815,CH-5468,Chambers County,V-060,2025-10-10,,open,,exact duplicate row,critical
+C-11013,CH-5605,Chambers,V-074,10/16/2025,22-Feb-2026,Closed,Permanent Kinship,exact duplicate row,critical
+C-10324,CH-5416,CHAMBERS,V-117,2026-05-03,,Open,,exact duplicate row,critical
+C-10249,CH-6138,Jefferson,V-126,2025-06-07,2025-11-29,Closed,Reunified,exact duplicate row,critical
+C-10962,CH-5888,Jefferson,V-081,2025-04-25,2025-08-18,CLOSED,Reunified,exact duplicate row,critical
+C-10317,CH-5219,Hardin,V-039,2025-04-27,2026-01-10,Closed,Reunified,exact duplicate row,critical
+C-10895,CH-5390,Jefferson,V-121,2025-01-19,2026-06-11,closed,Aged Out,exact duplicate row,critical
+C-10389,CH-5395,Orange,V-064,2025-07-11,2026-03-16,closed,Permanent Kinship,exact duplicate row,critical
+C-11045,CH-6027,Hardin,V-090,2025-11-26,,Open,,exact duplicate row,critical
+C-10235,CH-5832,JEFFERSON,V-129,10-Oct-2025,22-Dec-2025,Closed,Aged Out,exact duplicate row,critical
+C-10892,CH-6128,Chambers,V-022,13-Oct-2025,2026-04-29,CLOSED,Aged Out,exact duplicate row,critical
+C-10468,CH-5094,Orange County,V-028,2025-06-22,2026-02-03,Closed,Permanent Kinship,exact duplicate row,critical
+C-10965,CH-5908,hardin,V-028,05-Jun-2026,,OPEN,,exact duplicate row,critical
+C-10270,CH-5139,Hardin County,V-028,2025-11-19,,Open,,exact duplicate row,critical
+C-10238,CH-5437,Hardin,V-017,2025-10-04,,Open,,exact duplicate row,critical
+C-10197,CH-5497,Chambers County,V-125,2025-01-09,09/03/2025,Closed,Aged Out,exact duplicate row,critical
+C-10809,CH-5081,HARDIN,V-038,2025-02-16,09/23/2025,Closed,Permanent Kinship,exact duplicate row,critical
+C-10721,CH-5093,Jefferson County,V-057,27-Jan-2026,,open,,exact duplicate row,critical
+C-10856,CH-6061,hardin,V-020,03/16/2025,,open,,exact duplicate row,critical
+C-11009,CH-5218,CHAMBERS,V-010,02/24/2025,2025-06-12,CLOSED,Other,exact duplicate row,critical
+C-10323,CH-5702,hardin,V-060,04/28/2025,2026-02-02,CLOSED,Adopted,exact duplicate row,critical
+C-10377,CH-5221,orange,V-012,2026-02-22,,OPEN,,exact duplicate row,critical
+C-10143,CH-5039,orange,V-104,05/12/2026,,OPEN,,exact duplicate row,critical
+C-10600,CH-5446,Hardin,V-140,26-Nov-2025,,OPEN,,exact duplicate row,critical
+C-10454,CH-6046,Chambers County,V-043,08/05/2025,,OPEN,,exact duplicate row,critical
+C-11088,CH-5237,Hardin,V-068,02/08/2025,,OPEN,,exact duplicate row,critical
+C-10910,CH-6103,Hardin,V-099,02/24/2025,03/12/2026,CLOSED,Adopted,exact duplicate row,critical
+C-10119,CH-5546,jefferson,V-073,27-Mar-2025,2026-03-11,CLOSED,Permanent Kinship,exact duplicate row,critical
+C-10546,CH-6102,Chambers County,V-131,02/09/2026,,open,,exact duplicate row,critical
+C-10808,CH-5164,Chambers,V-046,2025-06-06,08/31/2025,closed,Permanent Kinship,exact duplicate row,critical
+C-10210,CH-5124,Hardin County,V-034,2025-08-15,06/30/2026,Closed,Aged Out,exact duplicate row,critical
+C-10832,CH-5657,Jefferson County,V-071,2025-05-07,2025-08-19,closed,Reunified,exact duplicate row,critical
+C-10164,CH-6104,Orange County,V-057,2025-05-03,2025-11-25,CLOSED,Other,exact duplicate row,critical
+C-10818,CH-5082,hardin,V-095,09/11/2025,,Open,,exact duplicate row,critical
+C-10939,CH-5935,Chambers,V-124,2025-10-26 00:00:00,2025-10-06 00:00:00,Closed,Aged Out,closed before assigned,critical
+C-10370,CH-5050,Hardin,V-008,2026-06-10 00:00:00,2026-06-03 00:00:00,Closed,Reunified,closed before assigned,critical
+C-10758,CH-5878,Orange,V-071,2026-03-28 00:00:00,2026-02-17 00:00:00,Closed,Aged Out,closed before assigned,critical
+C-10301,CH-5140,Chambers,V-052,2026-03-25 00:00:00,2026-02-25 00:00:00,Closed,Aged Out,closed before assigned,critical
+C-10160,CH-5542,Jefferson,V-067,2026-07-17 00:00:00,2026-06-07 00:00:00,Closed,Adopted,closed before assigned,critical
+C-10252,CH-5388,Chambers,V-043,2026-05-16 00:00:00,2026-04-13 00:00:00,Closed,Other,closed before assigned,critical
+C-10386,CH-5466,Chambers,V-134,2026-05-10 00:00:00,2026-04-08 00:00:00,Closed,Permanent Kinship,closed before assigned,critical
+C-10137,CH-5330,Hardin,V-036,2025-12-02 00:00:00,2025-11-17 00:00:00,Closed,Reunified,closed before assigned,critical
+C-10607,CH-5637,Jefferson,V-085,2026-04-30 00:00:00,2026-03-24 00:00:00,Closed,Adopted,closed before assigned,critical
+C-11029,CH-5080,Jefferson,V-093,2026-03-15 00:00:00,2026-03-01 00:00:00,Closed,Adopted,closed before assigned,critical
+C-10243,CH-5004,Chambers,V-134,2026-02-03 00:00:00,2025-12-26 00:00:00,Closed,Other,closed before assigned,critical
+C-10393,CH-5142,Jefferson,V-039,2026-02-24 00:00:00,2026-02-06 00:00:00,Closed,Permanent Kinship,closed before assigned,critical

@@ -1,0 +1,18 @@
+source,issue,severity,action,rows
+case_management,inconsistent status casing,warning,title cased,776
+case_management,inconsistent county spelling,warning,standardised,693
+case_management,blank volunteer_id,warning,set to Unassigned,46
+case_management,exact duplicate row,critical,removed,35
+case_management,date_closed before date_assigned,critical,"kept, valid_dates = False, excluded from days_to_close",12
+crm_donations,inconsistent campaign spelling,warning,mapped to valid campaign name,2048
+crm_donations,email case or spacing differs,warning,donor_key = trimmed lower-case email,891
+crm_donations,blank amount,critical,excluded from revenue,120
+crm_donations,negative amount (refund),info,"kept as negative, is_refund = True",78
+crm_donations,exact duplicate row,critical,removed,70
+marketing_daily,blank spend,warning,"left blank, not imputed",70
+marketing_daily,no data for date + channel,info,"noted, no row created",38
+quickbooks_gl,Ramp transaction synced into QuickBooks (double count),critical,"excluded, Ramp is the source of truth for card spend",1040
+quickbooks_gl,non-standard class name,warning,mapped to program,834
+quickbooks_gl,blank class,warning,set to Unallocated,54
+ramp_card_spend,non-standard department name,warning,mapped to program,1290
+ramp_card_spend,GBP transaction,warning,converted to USD at 1.27,155

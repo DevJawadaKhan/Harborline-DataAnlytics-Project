@@ -1,0 +1,863 @@
+donation_id,donor_name,donor_email,amount,donation_date,campaign,source_channel,donor_key,is_refund,flag_reason,severity
+D-203467,Linda Garcia,Donor259@outlook.com,96.31,01/24/2025,General Fund,Organic,donor259@outlook.com,False,email had different case or spaces,warning
+D-203475,Maria Miller,Donor644@gmail.com,161.45,07-Dec-2025,year_end_appeal_2025,Google Ads,donor644@gmail.com,False,email had different case or spaces,warning
+D-201257,John Brown,DONOR135@YAHOO.COM,216.96,2025-02-07,light_of_hope_2025,Meta,donor135@yahoo.com,False,email had different case or spaces,warning
+D-201158,Grace Clark,Donor534@gmail.com,41.54,03/10/2026,Superhero Run 2026,Email,donor534@gmail.com,False,email had different case or spaces,warning
+D-202683,Ali Smith,Donor860@gmail.com,38.13,01/19/2025,Spring Gala 2026,Organic,donor860@gmail.com,False,email had different case or spaces,warning
+D-200492,Grace Davis,Donor529@yahoo.com,285.6,2026-01-24,Year End Appeal 2025,Email,donor529@yahoo.com,False,email had different case or spaces,warning
+D-202942,Hassan Taylor,Donor97@outlook.com,415.49,2026-05-05,light_of_hope_2025,Event,donor97@outlook.com,False,email had different case or spaces,warning
+D-203837,Linda Clark,DONOR521@GMAIL.COM,78.9,28-Jun-2025,SUPERHERO RUN 2026,Email,donor521@gmail.com,False,email had different case or spaces,warning
+D-200594,Sarah Johnson,DONOR804@YAHOO.COM,71.01,05/06/2025,Year End Appeal 2025,Meta,donor804@yahoo.com,False,email had different case or spaces,warning
+D-202616,Maria Smith,Donor867@outlook.com,117.26,2025-12-03,SPRING GALA 2025,Meta,donor867@outlook.com,False,email had different case or spaces,warning
+D-200416,John Moore,Donor609@gmail.com,52.08,2025-05-19,GENERAL FUND,Organic,donor609@gmail.com,False,email had different case or spaces,warning
+D-200358,Sarah Ahmed,DONOR98@OUTLOOK.COM,168.79,2025-03-18,SUPERHERO RUN 2026,Organic,donor98@outlook.com,False,email had different case or spaces,warning
+D-200400,Sarah Brown,DONOR598@OUTLOOK.COM,90.83,10-Aug-2025,Spring Gala 2026,Event,donor598@outlook.com,False,email had different case or spaces,warning
+D-202898,Hassan Khan,DONOR599@GMAIL.COM,56.65,02/10/2026,SUPERHERO RUN 2026,Meta,donor599@gmail.com,False,email had different case or spaces,warning
+D-203494,Mark Khan,Donor669@yahoo.com,541.12,16-Sep-2025,General Fund,Google Ads,donor669@yahoo.com,False,email had different case or spaces,warning
+D-201533,John Clark,Donor425@outlook.com,22.87,2025-05-21,Spring Gala 2025,Meta,donor425@outlook.com,False,email had different case or spaces,warning
+D-203276,Fatima Garcia,DONOR503@OUTLOOK.COM,29.6,2026-05-19,Spring Gala 2025,Meta,donor503@outlook.com,False,email had different case or spaces,warning
+D-200356,Mark Garcia,DONOR15@OUTLOOK.COM,36.35,2026-05-04,Spring Gala 2025,Organic,donor15@outlook.com,False,email had different case or spaces,warning
+R-34,Maria Khan,Donor38@outlook.com,-435.87,2025-01-25,Year End Appeal 2025,Organic,donor38@outlook.com,True,email had different case or spaces,warning
+D-203881,Aisha Smith,Donor827@outlook.com,47.65,2025-08-26,Year End Appeal 2025,Email,donor827@outlook.com,False,email had different case or spaces,warning
+D-204037,Grace Moore,DONOR451@GMAIL.COM,229.87,2025-01-12,Spring Gala 2026,Organic,donor451@gmail.com,False,email had different case or spaces,warning
+D-200814,John Ahmed,Donor670@gmail.com,210.14,2025-09-28,light_of_hope_2025,Meta,donor670@gmail.com,False,email had different case or spaces,warning
+D-203511,Linda Clark,DONOR521@GMAIL.COM,75.73,2025-09-29,YEAR END APPEAL 2025,Google Ads,donor521@gmail.com,False,email had different case or spaces,warning
+D-200640,Mark Clark,DONOR412@YAHOO.COM,53.43,2025-06-20,spring_gala_2026,Organic,donor412@yahoo.com,False,email had different case or spaces,warning
+D-200868,Fatima Davis,Donor218@yahoo.com,22.55,2025-03-13,YEAR END APPEAL 2025,Meta,donor218@yahoo.com,False,email had different case or spaces,warning
+R-43,Hassan Smith,Donor22@outlook.com,-92.71,2025-02-13,spring_gala_2026,Meta,donor22@outlook.com,True,email had different case or spaces,warning
+D-201724,Grace Miller,Donor370@outlook.com,233.1,02-Dec-2025,Spring Gala 2025,Meta,donor370@outlook.com,False,email had different case or spaces,warning
+D-201960,John Miller,DONOR565@OUTLOOK.COM,15.96,09/03/2025,YEAR END APPEAL 2025,Organic,donor565@outlook.com,False,email had different case or spaces,warning
+D-203722,Mark Wilson,DONOR105@YAHOO.COM,54.59,01/31/2025,year_end_appeal_2025,Meta,donor105@yahoo.com,False,email had different case or spaces,warning
+D-204005,Grace Brown,Donor508@outlook.com,68.08,2025-03-22,Superhero Run 2026,Email,donor508@outlook.com,False,email had different case or spaces,warning
+D-200048,John Khan,Donor712@yahoo.com,477.59,02/24/2025,GENERAL FUND,Event,donor712@yahoo.com,False,email had different case or spaces,warning
+D-202502,Emma Khan,Donor626@yahoo.com,87.13,23-Nov-2025,LIGHT OF HOPE 2025,Meta,donor626@yahoo.com,False,email had different case or spaces,warning
+D-201662,David Moore,DONOR834@OUTLOOK.COM,10.88,2026-01-29,Spring Gala 2026,Email,donor834@outlook.com,False,email had different case or spaces,warning
+R-68,James Smith,DONOR118@GMAIL.COM,-61.45,2026-02-13,superhero_run_2026,Google Ads,donor118@gmail.com,True,email had different case or spaces,warning
+D-201790,Mark Clark,DONOR412@YAHOO.COM,32.46,04/13/2025,spring_gala_2025,Event,donor412@yahoo.com,False,email had different case or spaces,warning
+D-203110,Maria Brown,Donor133@yahoo.com,237.88,2025-09-12,Spring Gala 2025,Event,donor133@yahoo.com,False,email had different case or spaces,warning
+D-203237,James Ahmed,Donor730@yahoo.com,92.76,2025-02-12,Spring Gala 2025,Email,donor730@yahoo.com,False,email had different case or spaces,warning
+D-201939,John Davis,DONOR588@OUTLOOK.COM,100.37,2025-02-16,SPRING GALA 2025,Email,donor588@outlook.com,False,email had different case or spaces,warning
+D-202998,Sarah Khan,DONOR733@GMAIL.COM,35.16,31-Jan-2025,Spring Gala 2025,Google Ads,donor733@gmail.com,False,email had different case or spaces,warning
+D-200562,James Johnson,DONOR884@YAHOO.COM,30.6,2025-04-08,light_of_hope_2025,Organic,donor884@yahoo.com,False,email had different case or spaces,warning
+D-201873,Emma Garcia,DONOR539@OUTLOOK.COM,15.18,10/18/2025,Light of Hope 2025,Google Ads,donor539@outlook.com,False,email had different case or spaces,warning
+D-201776,John Johnson,Donor770@yahoo.com,54.99,15-Feb-2026,Spring Gala 2025,Meta,donor770@yahoo.com,False,email had different case or spaces,warning
+D-203843,Aisha Clark,DONOR775@YAHOO.COM,53.76,30-Dec-2025,Year End Appeal 2025,Email,donor775@yahoo.com,False,email had different case or spaces,warning
+D-203054,Emma Moore,DONOR729@OUTLOOK.COM,16.16,2026-03-04,Spring Gala 2026,Email,donor729@outlook.com,False,email had different case or spaces,warning
+D-202031,David Taylor,DONOR383@YAHOO.COM,28.22,24-Feb-2026,General Fund,Google Ads,donor383@yahoo.com,False,email had different case or spaces,warning
+D-202919,John Johnson,Donor252@gmail.com,15.99,06/19/2025,Superhero Run 2026,Organic,donor252@gmail.com,False,email had different case or spaces,warning
+D-203743,Ali Smith,Donor860@gmail.com,68.74,11-Jan-2025,Year End Appeal 2025,Google Ads,donor860@gmail.com,False,email had different case or spaces,warning
+D-203784,Omar Khan,DONOR869@GMAIL.COM,81.29,2025-08-25,Year End Appeal 2025,Google Ads,donor869@gmail.com,False,email had different case or spaces,warning
+D-201144,James Wilson,DONOR253@YAHOO.COM,43.13,2025-05-01,spring_gala_2026,Meta,donor253@yahoo.com,False,email had different case or spaces,warning
+D-200098,David Taylor,DONOR383@YAHOO.COM,40.24,2025-09-08,General Fund,Event,donor383@yahoo.com,False,email had different case or spaces,warning
+D-204050,James Clark,DONOR380@GMAIL.COM,107.26,2025-07-09,spring_gala_2026,Google Ads,donor380@gmail.com,False,email had different case or spaces,warning
+D-200378,Omar Johnson,Donor743@gmail.com,250.18,09/11/2025,GENERAL FUND,Organic,donor743@gmail.com,False,email had different case or spaces,warning
+D-203543,John Davis,Donor588@outlook.com,128.35,2026-04-19,General Fund,Organic,donor588@outlook.com,False,email had different case or spaces,warning
+D-201619,Hassan Moore,Donor851@yahoo.com,51.0,2026-06-20,Year End Appeal 2025,Meta,donor851@yahoo.com,False,email had different case or spaces,warning
+D-201042,Maria Clark,DONOR616@GMAIL.COM,24.41,2025-05-26,spring_gala_2026,Organic,donor616@gmail.com,False,email had different case or spaces,warning
+D-203173,Fatima Clark,Donor543@gmail.com,15.6,20-Feb-2025,General Fund,Email,donor543@gmail.com,False,email had different case or spaces,warning
+R-74,Linda Garcia,DONOR431@OUTLOOK.COM,-82.96,2026-03-01,superhero_run_2026,Google Ads,donor431@outlook.com,True,email had different case or spaces,warning
+D-203570,Maria Moore,Donor121@gmail.com,58.59,2025-07-28,spring_gala_2026,Organic,donor121@gmail.com,False,email had different case or spaces,warning
+D-201252,John Taylor,DONOR408@GMAIL.COM,22.5,11-Feb-2025,Superhero Run 2026,Email,donor408@gmail.com,False,email had different case or spaces,warning
+D-201376,Emma Moore,Donor456@gmail.com,84.47,14-Apr-2025,Spring Gala 2025,Google Ads,donor456@gmail.com,False,email had different case or spaces,warning
+D-201495,Hassan Taylor,Donor178@outlook.com,47.08,2025-04-21,General Fund,Meta,donor178@outlook.com,False,email had different case or spaces,warning
+D-201910,Maria Ahmed,Donor202@gmail.com,9.26,2026-01-21,Spring Gala 2026,Organic,donor202@gmail.com,False,email had different case or spaces,warning
+D-200212,Paul Moore,Donor525@gmail.com,142.31,26-Jan-2026,SPRING GALA 2026,Google Ads,donor525@gmail.com,False,email had different case or spaces,warning
+D-203411,Mark Johnson,Donor625@yahoo.com,480.44,2025-03-24,Light of Hope 2025,Event,donor625@yahoo.com,False,email had different case or spaces,warning
+D-201341,Fatima Brown,DONOR745@OUTLOOK.COM,120.0,08/14/2025,General Fund,Email,donor745@outlook.com,False,email had different case or spaces,warning
+D-201086,Aisha Miller,DONOR716@GMAIL.COM,546.32,2026-01-18,spring_gala_2026,Organic,donor716@gmail.com,False,email had different case or spaces,warning
+D-202883,Fatima Brown,DONOR745@OUTLOOK.COM,97.41,2025-02-16,spring_gala_2025,Google Ads,donor745@outlook.com,False,email had different case or spaces,warning
+D-202388,David Taylor,Donor383@yahoo.com,61.53,2026-02-10,general_fund,Google Ads,donor383@yahoo.com,False,email had different case or spaces,warning
+D-200590,David Taylor,DONOR383@YAHOO.COM,261.12,2025-05-03,year_end_appeal_2025,Event,donor383@yahoo.com,False,email had different case or spaces,warning
+D-201997,Omar Moore,Donor430@yahoo.com,64.66,10-Mar-2025,SPRING GALA 2026,Email,donor430@yahoo.com,False,email had different case or spaces,warning
+D-203788,Maria Garcia,Donor515@gmail.com,31.21,2025-09-23,Spring Gala 2025,Email,donor515@gmail.com,False,email had different case or spaces,warning
+D-203486,Paul Khan,Donor122@yahoo.com,19.76,2025-06-17,Year End Appeal 2025,Meta,donor122@yahoo.com,False,email had different case or spaces,warning
+D-203156,Sarah Johnson,Donor752@yahoo.com,31.18,2025-04-11,LIGHT OF HOPE 2025,Google Ads,donor752@yahoo.com,False,email had different case or spaces,warning
+D-202873,Linda Brown,DONOR43@GMAIL.COM,71.59,2026-05-06,Spring Gala 2025,Event,donor43@gmail.com,False,email had different case or spaces,warning
+D-203009,Mark Garcia,DONOR39@OUTLOOK.COM,77.8,2025-09-11,YEAR END APPEAL 2025,Organic,donor39@outlook.com,False,email had different case or spaces,warning
+D-204062,James Garcia,DONOR52@OUTLOOK.COM,74.15,2025-10-08,spring_gala_2025,Event,donor52@outlook.com,False,email had different case or spaces,warning
+D-201537,Omar Garcia,DONOR666@YAHOO.COM,39.85,2025-06-22,spring_gala_2025,Organic,donor666@yahoo.com,False,email had different case or spaces,warning
+D-202421,Ali Smith,Donor2@yahoo.com,225.65,01/28/2025,YEAR END APPEAL 2025,Meta,donor2@yahoo.com,False,email had different case or spaces,warning
+D-201423,James Moore,Donor859@outlook.com,110.52,2025-04-28,spring_gala_2025,Event,donor859@outlook.com,False,email had different case or spaces,warning
+D-200486,Linda Wilson,Donor620@gmail.com,16.13,2025-07-19,Spring Gala 2025,Meta,donor620@gmail.com,False,email had different case or spaces,warning
+D-201935,Ali Miller,Donor324@outlook.com,16.67,2025-01-07,SUPERHERO RUN 2026,Email,donor324@outlook.com,False,email had different case or spaces,warning
+D-203762,James Clark,DONOR51@GMAIL.COM,43.9,2025-05-04,Superhero Run 2026,Meta,donor51@gmail.com,False,email had different case or spaces,warning
+D-202111,Ali Khan,DONOR423@GMAIL.COM,91.77,2025-12-28,Light of Hope 2025,Organic,donor423@gmail.com,False,email had different case or spaces,warning
+D-201933,Omar Khan,DONOR869@GMAIL.COM,130.19,2026-02-20,YEAR END APPEAL 2025,Email,donor869@gmail.com,False,email had different case or spaces,warning
+D-202317,Fatima Miller,Donor487@yahoo.com,171.0,06/20/2025,Light of Hope 2025,Organic,donor487@yahoo.com,False,email had different case or spaces,warning
+D-202060,Fatima Davis,DONOR379@YAHOO.COM,179.05,01-Jan-2026,Year End Appeal 2025,Organic,donor379@yahoo.com,False,email had different case or spaces,warning
+D-201271,Aisha Smith,Donor41@yahoo.com,33.81,01/20/2026,Spring Gala 2025,Event,donor41@yahoo.com,False,email had different case or spaces,warning
+D-203231,Mark Clark,Donor424@yahoo.com,215.39,2026-02-01,spring_gala_2026,Email,donor424@yahoo.com,False,email had different case or spaces,warning
+D-201868,Aisha Clark,DONOR662@GMAIL.COM,201.32,2025-01-29,GENERAL FUND,Google Ads,donor662@gmail.com,False,email had different case or spaces,warning
+D-203223,Paul Ahmed,DONOR112@YAHOO.COM,174.31,28-Apr-2026,Light of Hope 2025,Google Ads,donor112@yahoo.com,False,email had different case or spaces,warning
+D-202106,James Smith,DONOR118@GMAIL.COM,237.62,2025-01-04,Spring Gala 2025,Meta,donor118@gmail.com,False,email had different case or spaces,warning
+D-202085,Maria Wilson,Donor260@outlook.com,301.97,03/11/2026,SPRING GALA 2026,Meta,donor260@outlook.com,False,email had different case or spaces,warning
+D-203187,David Moore,DONOR195@GMAIL.COM,83.27,2025-03-10,Light of Hope 2025,Meta,donor195@gmail.com,False,email had different case or spaces,warning
+D-200768,Emma Ahmed,DONOR463@OUTLOOK.COM,67.49,11/07/2025,Spring Gala 2025,Organic,donor463@outlook.com,False,email had different case or spaces,warning
+D-200420,John Khan,DONOR712@YAHOO.COM,390.48,02-Aug-2025,spring_gala_2025,Organic,donor712@yahoo.com,False,email had different case or spaces,warning
+D-203415,Linda Clark,Donor521@gmail.com,24.71,2026-04-16,General Fund,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-200664,Paul Garcia,DONOR462@YAHOO.COM,38.0,01/30/2026,spring_gala_2025,Google Ads,donor462@yahoo.com,False,email had different case or spaces,warning
+D-201032,Sarah Taylor,Donor103@gmail.com,18.76,2025-12-30,LIGHT OF HOPE 2025,Meta,donor103@gmail.com,False,email had different case or spaces,warning
+D-203552,Paul Taylor,Donor509@gmail.com,26.24,04/14/2026,general_fund,Organic,donor509@gmail.com,False,email had different case or spaces,warning
+D-201544,Linda Brown,DONOR162@OUTLOOK.COM,195.43,2026-03-04,spring_gala_2025,Event,donor162@outlook.com,False,email had different case or spaces,warning
+D-201167,Sarah Brown,Donor598@outlook.com,101.77,06/05/2025,SPRING GALA 2026,Event,donor598@outlook.com,False,email had different case or spaces,warning
+D-203113,David Taylor,DONOR383@YAHOO.COM,42.21,05/14/2025,General Fund,Organic,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203233,Fatima Davis,DONOR218@YAHOO.COM,77.51,2025-01-17,Year End Appeal 2025,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203803,Linda Brown,Donor327@outlook.com,692.71,2026-06-02,superhero_run_2026,Event,donor327@outlook.com,False,email had different case or spaces,warning
+D-203384,Hassan Wilson,Donor797@gmail.com,19.17,04/09/2026,General Fund,Organic,donor797@gmail.com,False,email had different case or spaces,warning
+D-203048,Ali Brown,Donor179@gmail.com,76.17,2026-02-01,Spring Gala 2025,Email,donor179@gmail.com,False,email had different case or spaces,warning
+D-200498,John Moore,DONOR761@GMAIL.COM,8.03,09/29/2025,superhero_run_2026,Organic,donor761@gmail.com,False,email had different case or spaces,warning
+D-202263,James Clark,DONOR399@YAHOO.COM,12.36,2026-05-17,LIGHT OF HOPE 2025,Email,donor399@yahoo.com,False,email had different case or spaces,warning
+D-202403,Linda Wilson,DONOR13@YAHOO.COM,76.0,2025-08-18,Spring Gala 2025,Organic,donor13@yahoo.com,False,email had different case or spaces,warning
+D-200156,Fatima Khan,DONOR680@YAHOO.COM,565.85,25-Jun-2025,Superhero Run 2026,Email,donor680@yahoo.com,False,email had different case or spaces,warning
+D-203832,John Moore,DONOR59@OUTLOOK.COM,294.82,10/16/2025,Year End Appeal 2025,Meta,donor59@outlook.com,False,email had different case or spaces,warning
+D-203091,Omar Johnson,Donor243@gmail.com,68.28,04/19/2025,spring_gala_2026,Email,donor243@gmail.com,False,email had different case or spaces,warning
+D-202531,Aisha Ahmed,DONOR641@YAHOO.COM,11.1,21-Oct-2025,general_fund,Meta,donor641@yahoo.com,False,email had different case or spaces,warning
+D-203281,David Clark,Donor435@gmail.com,171.28,2026-01-01,Year End Appeal 2025,Google Ads,donor435@gmail.com,False,email had different case or spaces,warning
+D-204101,Fatima Taylor,DONOR206@GMAIL.COM,10.36,2025-04-03,YEAR END APPEAL 2025,Email,donor206@gmail.com,False,email had different case or spaces,warning
+D-203814,John Smith,DONOR540@YAHOO.COM,83.1,2026-02-08,Light of Hope 2025,Email,donor540@yahoo.com,False,email had different case or spaces,warning
+D-201684,Maria Johnson,Donor863@yahoo.com,114.26,2026-01-27,spring_gala_2025,Meta,donor863@yahoo.com,False,email had different case or spaces,warning
+D-200648,Emma Khan,DONOR398@YAHOO.COM,41.0,03/18/2026,SPRING GALA 2026,Google Ads,donor398@yahoo.com,False,email had different case or spaces,warning
+D-203153,John Khan,DONOR71@GMAIL.COM,19.15,2025-11-26,SPRING GALA 2025,Meta,donor71@gmail.com,False,email had different case or spaces,warning
+D-203907,James Garcia,DONOR139@YAHOO.COM,28.59,2025-11-24,General Fund,Meta,donor139@yahoo.com,False,email had different case or spaces,warning
+D-202005,Omar Brown,DONOR47@OUTLOOK.COM,27.48,05/28/2026,YEAR END APPEAL 2025,Meta,donor47@outlook.com,False,email had different case or spaces,warning
+D-200034,Ali Taylor,DONOR681@GMAIL.COM,22.96,2026-01-01,Light of Hope 2025,Organic,donor681@gmail.com,False,email had different case or spaces,warning
+D-203244,Fatima Smith,DONOR226@YAHOO.COM,199.95,2025-10-22,SPRING GALA 2025,Google Ads,donor226@yahoo.com,False,email had different case or spaces,warning
+D-202376,Fatima Garcia,Donor313@yahoo.com,102.67,07/29/2025,Year End Appeal 2025,Event,donor313@yahoo.com,False,email had different case or spaces,warning
+D-201121,Grace Garcia,Donor77@gmail.com,16.5,2026-02-20,Spring Gala 2025,Google Ads,donor77@gmail.com,False,email had different case or spaces,warning
+R-64,John Davis,DONOR588@OUTLOOK.COM,-201.0,06/15/2026,Year End Appeal 2025,Email,donor588@outlook.com,True,email had different case or spaces,warning
+D-202779,Mark Smith,DONOR773@OUTLOOK.COM,47.0,2026-03-21,superhero_run_2026,Meta,donor773@outlook.com,False,email had different case or spaces,warning
+D-201096,Maria Brown,DONOR415@YAHOO.COM,122.86,09-Mar-2025,Light of Hope 2025,Email,donor415@yahoo.com,False,email had different case or spaces,warning
+D-200111,Linda Miller,DONOR236@YAHOO.COM,48.13,09/08/2025,SPRING GALA 2026,Email,donor236@yahoo.com,False,email had different case or spaces,warning
+D-202827,James Ahmed,DONOR730@YAHOO.COM,125.38,2025-03-10,SUPERHERO RUN 2026,Event,donor730@yahoo.com,False,email had different case or spaces,warning
+R-78,Mark Garcia,DONOR15@OUTLOOK.COM,-36.35,2026-05-04,Spring Gala 2025,Organic,donor15@outlook.com,True,email had different case or spaces,warning
+D-200596,Ali Miller,DONOR324@OUTLOOK.COM,158.0,02/20/2025,year_end_appeal_2025,Event,donor324@outlook.com,False,email had different case or spaces,warning
+D-202466,Fatima Brown,DONOR215@YAHOO.COM,58.67,2025-06-22,SPRING GALA 2025,Event,donor215@yahoo.com,False,email had different case or spaces,warning
+D-203399,John Khan,DONOR712@YAHOO.COM,78.62,04/25/2026,Year End Appeal 2025,Organic,donor712@yahoo.com,False,email had different case or spaces,warning
+D-203435,Ali Smith,DONOR766@GMAIL.COM,159.22,09-Jun-2025,Year End Appeal 2025,Google Ads,donor766@gmail.com,False,email had different case or spaces,warning
+D-203716,Linda Davis,DONOR613@OUTLOOK.COM,249.14,06/26/2025,GENERAL FUND,Email,donor613@outlook.com,False,email had different case or spaces,warning
+D-201218,Ali Clark,Donor661@outlook.com,41.25,2026-02-23,Year End Appeal 2025,Google Ads,donor661@outlook.com,False,email had different case or spaces,warning
+D-200962,Maria Davis,DONOR333@GMAIL.COM,78.96,2025-02-03,Light of Hope 2025,Meta,donor333@gmail.com,False,email had different case or spaces,warning
+D-200414,Sarah Clark,Donor293@gmail.com,78.79,2026-02-06,Light of Hope 2025,Event,donor293@gmail.com,False,email had different case or spaces,warning
+R-0,Ali Clark,DONOR699@OUTLOOK.COM,-40.58,2025-06-25,Spring Gala 2025,Organic,donor699@outlook.com,True,email had different case or spaces,warning
+D-202409,Hassan Moore,DONOR783@GMAIL.COM,431.7,2025-03-10,Superhero Run 2026,Meta,donor783@gmail.com,False,email had different case or spaces,warning
+D-204190,Fatima Garcia,DONOR437@GMAIL.COM,351.66,08/20/2025,Spring Gala 2025,Meta,donor437@gmail.com,False,email had different case or spaces,warning
+D-203643,Aisha Khan,DONOR694@YAHOO.COM,26.69,2025-03-08,general_fund,Meta,donor694@yahoo.com,False,email had different case or spaces,warning
+D-200636,David Brown,Donor421@outlook.com,170.64,2025-07-07,superhero_run_2026,Meta,donor421@outlook.com,False,email had different case or spaces,warning
+D-202136,Linda Clark,DONOR738@GMAIL.COM,53.28,09/16/2025,Year End Appeal 2025,Meta,donor738@gmail.com,False,email had different case or spaces,warning
+D-203372,David Garcia,Donor697@yahoo.com,34.0,17-Oct-2025,spring_gala_2026,Event,donor697@yahoo.com,False,email had different case or spaces,warning
+D-201441,Hassan Miller,Donor183@outlook.com,116.43,25-May-2025,general_fund,Organic,donor183@outlook.com,False,email had different case or spaces,warning
+D-200279,Emma Miller,Donor191@yahoo.com,84.69,19-Nov-2025,Light of Hope 2025,Event,donor191@yahoo.com,False,email had different case or spaces,warning
+D-202358,Grace Smith,DONOR606@GMAIL.COM,38.13,04/14/2025,spring_gala_2025,Event,donor606@gmail.com,False,email had different case or spaces,warning
+D-201078,James Ahmed,DONOR875@OUTLOOK.COM,8.62,03/07/2025,general_fund,Organic,donor875@outlook.com,False,email had different case or spaces,warning
+D-203560,Maria Khan,DONOR101@GMAIL.COM,19.71,2025-10-02,spring_gala_2026,Organic,donor101@gmail.com,False,email had different case or spaces,warning
+D-200060,Ali Khan,DONOR423@GMAIL.COM,10.67,2025-07-01,Light of Hope 2025,Organic,donor423@gmail.com,False,email had different case or spaces,warning
+D-203579,Aisha Khan,Donor196@yahoo.com,519.33,2025-03-07,year_end_appeal_2025,Event,donor196@yahoo.com,False,email had different case or spaces,warning
+D-201380,Maria Khan,DONOR38@OUTLOOK.COM,15.17,2025-05-24,Spring Gala 2025,Email,donor38@outlook.com,False,email had different case or spaces,warning
+D-200527,Grace Smith,DONOR480@OUTLOOK.COM,384.76,22-May-2025,Spring Gala 2025,Email,donor480@outlook.com,False,email had different case or spaces,warning
+D-202508,Mark Brown,DONOR297@OUTLOOK.COM,122.07,2026-01-16,SPRING GALA 2026,Organic,donor297@outlook.com,False,email had different case or spaces,warning
+D-202968,Paul Wilson,DONOR217@YAHOO.COM,67.39,2025-08-07,Light of Hope 2025,Event,donor217@yahoo.com,False,email had different case or spaces,warning
+D-202094,David Taylor,DONOR3@YAHOO.COM,926.35,2025-12-21,LIGHT OF HOPE 2025,Meta,donor3@yahoo.com,False,email had different case or spaces,warning
+D-203426,Fatima Moore,DONOR758@GMAIL.COM,292.96,2025-06-25,Spring Gala 2025,Google Ads,donor758@gmail.com,False,email had different case or spaces,warning
+D-200632,Ali Moore,DONOR657@OUTLOOK.COM,26.1,04/06/2026,Spring Gala 2026,Organic,donor657@outlook.com,False,email had different case or spaces,warning
+D-202428,Fatima Miller,DONOR802@YAHOO.COM,269.27,18-Jan-2026,GENERAL FUND,Email,donor802@yahoo.com,False,email had different case or spaces,warning
+D-201050,James Taylor,DONOR532@YAHOO.COM,32.52,2025-05-22,year_end_appeal_2025,Meta,donor532@yahoo.com,False,email had different case or spaces,warning
+D-200099,John Khan,DONOR712@YAHOO.COM,164.44,2025-01-07,General Fund,Organic,donor712@yahoo.com,False,email had different case or spaces,warning
+D-200454,Grace Davis,Donor373@gmail.com,510.11,2026-05-08,Light of Hope 2025,Google Ads,donor373@gmail.com,False,email had different case or spaces,warning
+D-202242,Paul Miller,DONOR741@GMAIL.COM,82.42,2025-11-27,YEAR END APPEAL 2025,Organic,donor741@gmail.com,False,email had different case or spaces,warning
+R-18,Linda Wilson,DONOR113@GMAIL.COM,-55.1,30-Jan-2026,Superhero Run 2026,Organic,donor113@gmail.com,True,email had different case or spaces,warning
+D-202635,Linda Clark,DONOR521@GMAIL.COM,338.77,2025-02-03,Light of Hope 2025,Event,donor521@gmail.com,False,email had different case or spaces,warning
+D-201125,Linda Clark,Donor350@gmail.com,70.11,2025-02-12,Superhero Run 2026,Event,donor350@gmail.com,False,email had different case or spaces,warning
+D-200592,David Moore,Donor195@gmail.com,71.58,2026-01-02,YEAR END APPEAL 2025,Email,donor195@gmail.com,False,email had different case or spaces,warning
+D-203394,Aisha Ahmed,DONOR330@GMAIL.COM,149.47,2026-01-08,superhero_run_2026,Email,donor330@gmail.com,False,email had different case or spaces,warning
+D-203963,Mark Clark,Donor412@yahoo.com,27.87,2025-01-19,Light of Hope 2025,Email,donor412@yahoo.com,False,email had different case or spaces,warning
+D-200314,Linda Brown,DONOR518@OUTLOOK.COM,60.82,25-Feb-2026,spring_gala_2026,Organic,donor518@outlook.com,False,email had different case or spaces,warning
+D-201812,Maria Khan,Donor246@yahoo.com,4.65,2025-08-12,Year End Appeal 2025,Organic,donor246@yahoo.com,False,email had different case or spaces,warning
+D-202687,Linda Clark,Donor521@gmail.com,303.94,14-Aug-2025,Light of Hope 2025,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-201589,Linda Garcia,DONOR807@GMAIL.COM,110.21,2026-02-13,SPRING GALA 2026,Meta,donor807@gmail.com,False,email had different case or spaces,warning
+D-203971,Maria Johnson,Donor277@yahoo.com,23.08,11/21/2025,YEAR END APPEAL 2025,Email,donor277@yahoo.com,False,email had different case or spaces,warning
+D-202518,Sarah Clark,Donor674@yahoo.com,316.62,01/27/2026,General Fund,Google Ads,donor674@yahoo.com,False,email had different case or spaces,warning
+D-202082,Grace Johnson,Donor691@outlook.com,38.0,23-Feb-2025,SPRING GALA 2025,Organic,donor691@outlook.com,False,email had different case or spaces,warning
+D-203502,James Smith,Donor601@outlook.com,67.72,16-Oct-2025,YEAR END APPEAL 2025,Email,donor601@outlook.com,False,email had different case or spaces,warning
+D-203403,John Davis,Donor588@outlook.com,286.56,2026-01-21,SUPERHERO RUN 2026,Organic,donor588@outlook.com,False,email had different case or spaces,warning
+D-203166,Fatima Wilson,Donor812@yahoo.com,70.04,11/29/2025,LIGHT OF HOPE 2025,Event,donor812@yahoo.com,False,email had different case or spaces,warning
+D-203604,Ali Wilson,Donor816@gmail.com,202.04,2026-04-07,Superhero Run 2026,Email,donor816@gmail.com,False,email had different case or spaces,warning
+D-204112,John Khan,Donor712@yahoo.com,29.83,2026-01-20,light_of_hope_2025,Meta,donor712@yahoo.com,False,email had different case or spaces,warning
+D-203067,Maria Wilson,DONOR460@GMAIL.COM,532.65,03-Apr-2025,Light of Hope 2025,Meta,donor460@gmail.com,False,email had different case or spaces,warning
+D-201166,Hassan Wilson,DONOR689@GMAIL.COM,83.0,06/02/2025,Year End Appeal 2025,Organic,donor689@gmail.com,False,email had different case or spaces,warning
+D-203351,Fatima Davis,Donor218@yahoo.com,82.64,29-Oct-2025,Light of Hope 2025,Organic,donor218@yahoo.com,False,email had different case or spaces,warning
+D-200699,Paul Moore,DONOR227@YAHOO.COM,41.08,2025-02-21,Year End Appeal 2025,Google Ads,donor227@yahoo.com,False,email had different case or spaces,warning
+D-201459,Fatima Brown,DONOR474@YAHOO.COM,53.89,02/15/2025,light_of_hope_2025,Meta,donor474@yahoo.com,False,email had different case or spaces,warning
+D-200507,Sarah Khan,Donor733@gmail.com,13.26,2026-06-16,SPRING GALA 2025,Organic,donor733@gmail.com,False,email had different case or spaces,warning
+D-201116,David Miller,Donor395@yahoo.com,560.44,2025-05-20,SUPERHERO RUN 2026,Organic,donor395@yahoo.com,False,email had different case or spaces,warning
+D-202166,David Smith,Donor522@outlook.com,11.35,2026-04-23,Spring Gala 2025,Email,donor522@outlook.com,False,email had different case or spaces,warning
+D-200300,Linda Wilson,Donor615@outlook.com,242.61,05/13/2025,spring_gala_2026,Event,donor615@outlook.com,False,email had different case or spaces,warning
+D-204132,Emma Davis,DONOR266@OUTLOOK.COM,70.39,2025-01-13,General Fund,Email,donor266@outlook.com,False,email had different case or spaces,warning
+D-203825,Grace Clark,Donor244@outlook.com,27.3,2025-06-24,Spring Gala 2026,Organic,donor244@outlook.com,False,email had different case or spaces,warning
+D-202369,Grace Garcia,Donor364@gmail.com,43.38,2025-12-23,Light of Hope 2025,Organic,donor364@gmail.com,False,email had different case or spaces,warning
+D-203070,Maria Johnson,Donor272@outlook.com,106.78,2026-04-13,Light of Hope 2025,Meta,donor272@outlook.com,False,email had different case or spaces,warning
+D-203031,Emma Moore,Donor496@outlook.com,202.0,2026-06-23,spring_gala_2026,Organic,donor496@outlook.com,False,email had different case or spaces,warning
+D-200571,David Taylor,DONOR383@YAHOO.COM,199.74,2025-06-29,year_end_appeal_2025,Google Ads,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203899,Mark Wilson,Donor105@yahoo.com,142.58,2025-06-12,general_fund,Organic,donor105@yahoo.com,False,email had different case or spaces,warning
+D-202881,Emma Smith,Donor760@outlook.com,9.7,2025-03-15,light_of_hope_2025,Meta,donor760@outlook.com,False,email had different case or spaces,warning
+D-201000,Grace Smith,DONOR870@GMAIL.COM,46.67,11/21/2025,Spring Gala 2026,Email,donor870@gmail.com,False,email had different case or spaces,warning
+D-203036,David Clark,Donor204@outlook.com,48.0,2026-03-07,Superhero Run 2026,Email,donor204@outlook.com,False,email had different case or spaces,warning
+D-203847,Hassan Miller,DONOR795@GMAIL.COM,142.71,2025-12-03,LIGHT OF HOPE 2025,Meta,donor795@gmail.com,False,email had different case or spaces,warning
+D-202981,Omar Moore,DONOR526@OUTLOOK.COM,153.96,2025-08-29,Year End Appeal 2025,Meta,donor526@outlook.com,False,email had different case or spaces,warning
+D-200754,Aisha Wilson,Donor250@gmail.com,178.22,2026-06-09,SPRING GALA 2025,Organic,donor250@gmail.com,False,email had different case or spaces,warning
+D-200836,Fatima Taylor,Donor107@yahoo.com,152.22,01/15/2026,GENERAL FUND,Meta,donor107@yahoo.com,False,email had different case or spaces,warning
+D-200971,James Johnson,DONOR659@YAHOO.COM,714.93,2026-02-06,Spring Gala 2025,Organic,donor659@yahoo.com,False,email had different case or spaces,warning
+D-200545,Linda Davis,Donor585@yahoo.com,33.46,2025-05-22,light_of_hope_2025,Google Ads,donor585@yahoo.com,False,email had different case or spaces,warning
+D-202880,Linda Khan,Donor854@yahoo.com,88.8,10/09/2025,year_end_appeal_2025,Google Ads,donor854@yahoo.com,False,email had different case or spaces,warning
+D-202817,Paul Khan,DONOR492@YAHOO.COM,112.65,05/26/2026,Light of Hope 2025,Meta,donor492@yahoo.com,False,email had different case or spaces,warning
+D-201010,Mark Clark,DONOR412@YAHOO.COM,25.21,09-May-2026,Spring Gala 2026,Google Ads,donor412@yahoo.com,False,email had different case or spaces,warning
+D-203501,Linda Ahmed,DONOR535@YAHOO.COM,88.31,2026-06-30,Spring Gala 2026,Google Ads,donor535@yahoo.com,False,email had different case or spaces,warning
+D-201276,Ali Smith,DONOR457@YAHOO.COM,36.64,05/10/2026,light_of_hope_2025,Google Ads,donor457@yahoo.com,False,email had different case or spaces,warning
+D-201364,John Davis,DONOR485@OUTLOOK.COM,16.75,2025-11-26,Spring Gala 2026,Google Ads,donor485@outlook.com,False,email had different case or spaces,warning
+D-201115,Mark Smith,Donor99@yahoo.com,187.99,06/20/2026,General Fund,Email,donor99@yahoo.com,False,email had different case or spaces,warning
+D-203639,Sarah Davis,Donor582@outlook.com,327.05,2025-10-10,Spring Gala 2026,Meta,donor582@outlook.com,False,email had different case or spaces,warning
+D-203704,Fatima Garcia,Donor551@yahoo.com,156.0,11/04/2025,Superhero Run 2026,Email,donor551@yahoo.com,False,email had different case or spaces,warning
+D-200180,Linda Miller,DONOR700@GMAIL.COM,439.62,2025-06-24,year_end_appeal_2025,Organic,donor700@gmail.com,False,email had different case or spaces,warning
+D-201932,James Clark,DONOR533@OUTLOOK.COM,9.89,2025-03-02,GENERAL FUND,Google Ads,donor533@outlook.com,False,email had different case or spaces,warning
+D-203629,Omar Clark,Donor791@yahoo.com,196.39,12-Apr-2025,Year End Appeal 2025,Google Ads,donor791@yahoo.com,False,email had different case or spaces,warning
+D-201008,Omar Moore,Donor831@outlook.com,15.0,07/22/2025,GENERAL FUND,Organic,donor831@outlook.com,False,email had different case or spaces,warning
+D-200263,Fatima Davis,DONOR218@YAHOO.COM,80.19,02/27/2026,YEAR END APPEAL 2025,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-200381,Linda Davis,DONOR613@OUTLOOK.COM,41.0,2026-04-29,superhero_run_2026,Organic,donor613@outlook.com,False,email had different case or spaces,warning
+D-203254,Linda Wilson,DONOR13@YAHOO.COM,98.76,2025-07-22,Spring Gala 2026,Organic,donor13@yahoo.com,False,email had different case or spaces,warning
+D-202460,Fatima Davis,Donor218@yahoo.com,9.48,27-Sep-2025,SUPERHERO RUN 2026,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203702,Grace Davis,DONOR529@YAHOO.COM,43.95,2026-02-20,Light of Hope 2025,Meta,donor529@yahoo.com,False,email had different case or spaces,warning
+D-200032,John Wilson,DONOR757@YAHOO.COM,76.85,2025-04-24,Spring Gala 2026,Organic,donor757@yahoo.com,False,email had different case or spaces,warning
+D-200240,Ali Smith,Donor457@yahoo.com,151.88,2026-05-15,spring_gala_2026,Google Ads,donor457@yahoo.com,False,email had different case or spaces,warning
+D-203666,David Khan,DONOR762@YAHOO.COM,109.0,04/07/2026,SPRING GALA 2025,Meta,donor762@yahoo.com,False,email had different case or spaces,warning
+R-5,James Ahmed,DONOR730@YAHOO.COM,-125.38,2025-03-10,SUPERHERO RUN 2026,Event,donor730@yahoo.com,True,email had different case or spaces,warning
+D-200217,Mark Clark,DONOR412@YAHOO.COM,105.0,2025-11-03,general_fund,Event,donor412@yahoo.com,False,email had different case or spaces,warning
+D-200189,Omar Clark,Donor731@outlook.com,62.32,23-Mar-2026,Spring Gala 2026,Event,donor731@outlook.com,False,email had different case or spaces,warning
+D-203390,John Moore,DONOR274@GMAIL.COM,7.63,08/05/2025,SUPERHERO RUN 2026,Meta,donor274@gmail.com,False,email had different case or spaces,warning
+D-202405,Paul Moore,Donor525@gmail.com,118.58,2025-05-10,SPRING GALA 2026,Meta,donor525@gmail.com,False,email had different case or spaces,warning
+D-201457,Omar Clark,Donor791@yahoo.com,20.86,06/17/2025,SPRING GALA 2026,Email,donor791@yahoo.com,False,email had different case or spaces,warning
+D-200631,Ali Smith,Donor457@yahoo.com,8.26,2026-05-29,Superhero Run 2026,Meta,donor457@yahoo.com,False,email had different case or spaces,warning
+D-200485,Maria Clark,Donor365@yahoo.com,59.88,2025-08-02,LIGHT OF HOPE 2025,Organic,donor365@yahoo.com,False,email had different case or spaces,warning
+D-201961,Ali Miller,DONOR324@OUTLOOK.COM,64.2,2025-09-14,light_of_hope_2025,Organic,donor324@outlook.com,False,email had different case or spaces,warning
+D-203576,Ali Miller,Donor324@outlook.com,43.56,01-Oct-2025,Superhero Run 2026,Meta,donor324@outlook.com,False,email had different case or spaces,warning
+D-201522,Sarah Khan,Donor581@gmail.com,108.59,2025-06-18,Spring Gala 2025,Email,donor581@gmail.com,False,email had different case or spaces,warning
+D-202098,Grace Johnson,Donor691@outlook.com,28.45,2026-01-27,Superhero Run 2026,Meta,donor691@outlook.com,False,email had different case or spaces,warning
+D-201871,Linda Johnson,DONOR656@YAHOO.COM,26.02,2026-02-13,Year End Appeal 2025,Meta,donor656@yahoo.com,False,email had different case or spaces,warning
+D-203921,James Taylor,DONOR532@YAHOO.COM,23.75,2025-08-04,light_of_hope_2025,Organic,donor532@yahoo.com,False,email had different case or spaces,warning
+D-202811,Mark Wilson,Donor105@yahoo.com,16.59,10/31/2025,Spring Gala 2025,Google Ads,donor105@yahoo.com,False,email had different case or spaces,warning
+D-201523,Emma Miller,Donor191@yahoo.com,75.17,2026-06-15,LIGHT OF HOPE 2025,Google Ads,donor191@yahoo.com,False,email had different case or spaces,warning
+D-201171,Mark Garcia,DONOR778@GMAIL.COM,195.07,2026-03-02,year_end_appeal_2025,Organic,donor778@gmail.com,False,email had different case or spaces,warning
+D-200326,John Ahmed,Donor715@yahoo.com,15.7,19-Jan-2025,SUPERHERO RUN 2026,Email,donor715@yahoo.com,False,email had different case or spaces,warning
+D-203935,Emma Clark,Donor747@gmail.com,470.0,16-Mar-2025,YEAR END APPEAL 2025,Google Ads,donor747@gmail.com,False,email had different case or spaces,warning
+D-202639,David Clark,Donor435@gmail.com,48.89,01/19/2026,superhero_run_2026,Organic,donor435@gmail.com,False,email had different case or spaces,warning
+D-203669,Hassan Smith,Donor22@outlook.com,92.71,2025-02-13,spring_gala_2026,Meta,donor22@outlook.com,False,email had different case or spaces,warning
+D-201391,Omar Brown,Donor308@yahoo.com,155.0,2026-04-21,General Fund,Google Ads,donor308@yahoo.com,False,email had different case or spaces,warning
+D-203001,David Garcia,Donor698@gmail.com,22.71,2025-09-23,light_of_hope_2025,Organic,donor698@gmail.com,False,email had different case or spaces,warning
+D-200978,Fatima Brown,DONOR745@OUTLOOK.COM,24.0,2025-12-13,General Fund,Organic,donor745@outlook.com,False,email had different case or spaces,warning
+D-201153,Mark Smith,Donor90@outlook.com,245.59,2025-06-23,General Fund,Meta,donor90@outlook.com,False,email had different case or spaces,warning
+D-203141,Linda Brown,Donor809@outlook.com,90.65,2025-01-19,Light of Hope 2025,Meta,donor809@outlook.com,False,email had different case or spaces,warning
+D-200184,Ali Miller,Donor324@outlook.com,87.36,2026-02-23,SUPERHERO RUN 2026,Email,donor324@outlook.com,False,email had different case or spaces,warning
+D-200008,Linda Clark,DONOR521@GMAIL.COM,49.0,2026-01-12,superhero_run_2026,Google Ads,donor521@gmail.com,False,email had different case or spaces,warning
+D-202190,Emma Davis,DONOR176@YAHOO.COM,12.68,2025-10-19,general_fund,Meta,donor176@yahoo.com,False,email had different case or spaces,warning
+D-202511,Linda Davis,DONOR613@OUTLOOK.COM,67.82,2025-09-18,Spring Gala 2026,Google Ads,donor613@outlook.com,False,email had different case or spaces,warning
+D-200054,Linda Garcia,DONOR431@OUTLOOK.COM,82.96,2026-03-01,superhero_run_2026,Google Ads,donor431@outlook.com,False,email had different case or spaces,warning
+D-202607,Fatima Khan,Donor680@yahoo.com,9.18,2025-02-23,General Fund,Event,donor680@yahoo.com,False,email had different case or spaces,warning
+D-203849,Emma Wilson,DONOR189@OUTLOOK.COM,35.44,2025-10-17,spring_gala_2026,Organic,donor189@outlook.com,False,email had different case or spaces,warning
+D-204195,Ali Khan,DONOR137@YAHOO.COM,51.25,2025-04-12,Spring Gala 2025,Email,donor137@yahoo.com,False,email had different case or spaces,warning
+D-201727,Sarah Johnson,Donor86@gmail.com,166.77,2025-09-15,General Fund,Email,donor86@gmail.com,False,email had different case or spaces,warning
+D-203726,Fatima Garcia,DONOR503@OUTLOOK.COM,160.01,07-Mar-2026,superhero_run_2026,Organic,donor503@outlook.com,False,email had different case or spaces,warning
+D-201324,Mark Garcia,Donor15@outlook.com,38.91,2025-01-21,year_end_appeal_2025,Email,donor15@outlook.com,False,email had different case or spaces,warning
+D-203484,Fatima Davis,Donor218@yahoo.com,53.57,2025-07-31,SUPERHERO RUN 2026,Organic,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203709,Sarah Taylor,DONOR69@GMAIL.COM,237.31,2025-12-02,YEAR END APPEAL 2025,Event,donor69@gmail.com,False,email had different case or spaces,warning
+D-201387,Sarah Davis,DONOR582@OUTLOOK.COM,30.24,03/14/2026,Light of Hope 2025,Event,donor582@outlook.com,False,email had different case or spaces,warning
+D-203311,Sarah Johnson,Donor554@yahoo.com,32.21,2026-06-03,Year End Appeal 2025,Meta,donor554@yahoo.com,False,email had different case or spaces,warning
+D-200862,Sarah Johnson,DONOR554@YAHOO.COM,229.41,17-Mar-2025,general_fund,Meta,donor554@yahoo.com,False,email had different case or spaces,warning
+D-203430,Ali Ahmed,Donor704@gmail.com,83.68,2025-06-18,spring_gala_2025,Meta,donor704@gmail.com,False,email had different case or spaces,warning
+D-202379,Mark Khan,Donor29@yahoo.com,147.33,10/29/2025,Superhero Run 2026,Google Ads,donor29@yahoo.com,False,email had different case or spaces,warning
+D-201197,Maria Miller,Donor237@gmail.com,16.23,2026-03-16,general_fund,Email,donor237@gmail.com,False,email had different case or spaces,warning
+D-203381,Omar Moore,Donor569@yahoo.com,57.34,10/17/2025,Year End Appeal 2025,Google Ads,donor569@yahoo.com,False,email had different case or spaces,warning
+D-200602,Omar Clark,DONOR646@YAHOO.COM,33.52,2025-11-22,light_of_hope_2025,Organic,donor646@yahoo.com,False,email had different case or spaces,warning
+D-204014,Linda Brown,Donor518@outlook.com,36.43,19-Feb-2025,Spring Gala 2025,Event,donor518@outlook.com,False,email had different case or spaces,warning
+D-202338,Fatima Moore,Donor758@gmail.com,231.33,2026-05-05,light_of_hope_2025,Meta,donor758@gmail.com,False,email had different case or spaces,warning
+D-203324,Paul Wilson,DONOR310@OUTLOOK.COM,23.13,11/07/2025,Spring Gala 2026,Meta,donor310@outlook.com,False,email had different case or spaces,warning
+D-200828,Grace Brown,Donor256@yahoo.com,36.46,01/21/2025,LIGHT OF HOPE 2025,Meta,donor256@yahoo.com,False,email had different case or spaces,warning
+D-200778,John Taylor,DONOR461@OUTLOOK.COM,467.7,12/01/2025,Spring Gala 2025,Email,donor461@outlook.com,False,email had different case or spaces,warning
+D-201591,John Brown,DONOR850@YAHOO.COM,193.37,03/21/2025,Spring Gala 2026,Email,donor850@yahoo.com,False,email had different case or spaces,warning
+D-203167,Fatima Davis,DONOR218@YAHOO.COM,129.42,2025-09-15,SPRING GALA 2025,Email,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203021,Mark Wilson,Donor105@yahoo.com,36.45,2026-01-05,Light of Hope 2025,Email,donor105@yahoo.com,False,email had different case or spaces,warning
+D-202220,Paul Ahmed,DONOR112@YAHOO.COM,115.92,2025-06-28,Year End Appeal 2025,Event,donor112@yahoo.com,False,email had different case or spaces,warning
+D-200803,Grace Clark,Donor244@outlook.com,197.0,2025-05-22,Spring Gala 2025,Google Ads,donor244@outlook.com,False,email had different case or spaces,warning
+D-201124,Paul Ahmed,DONOR112@YAHOO.COM,120.0,18-Oct-2025,general_fund,Google Ads,donor112@yahoo.com,False,email had different case or spaces,warning
+D-200037,Linda Clark,DONOR521@GMAIL.COM,164.3,12/24/2025,Year End Appeal 2025,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-201815,Ali Miller,DONOR324@OUTLOOK.COM,55.33,2026-06-10,Superhero Run 2026,Organic,donor324@outlook.com,False,email had different case or spaces,warning
+D-200669,Omar Smith,Donor64@outlook.com,94.32,28-Jan-2025,General Fund,Meta,donor64@outlook.com,False,email had different case or spaces,warning
+D-203360,Omar Brown,DONOR523@YAHOO.COM,23.95,2025-09-18,General Fund,Meta,donor523@yahoo.com,False,email had different case or spaces,warning
+D-201377,Aisha Taylor,Donor234@outlook.com,74.13,2025-09-04,SPRING GALA 2025,Organic,donor234@outlook.com,False,email had different case or spaces,warning
+D-200078,Linda Brown,DONOR518@OUTLOOK.COM,19.42,08/15/2025,SPRING GALA 2026,Meta,donor518@outlook.com,False,email had different case or spaces,warning
+D-200083,Ali Taylor,Donor232@gmail.com,198.53,02-Jan-2026,Light of Hope 2025,Meta,donor232@gmail.com,False,email had different case or spaces,warning
+D-200759,John Ahmed,DONOR120@GMAIL.COM,180.87,31-Jan-2026,Spring Gala 2025,Google Ads,donor120@gmail.com,False,email had different case or spaces,warning
+D-201478,Emma Clark,DONOR254@GMAIL.COM,53.31,2025-07-02,Spring Gala 2026,Email,donor254@gmail.com,False,email had different case or spaces,warning
+D-202399,Aisha Clark,DONOR721@GMAIL.COM,112.98,2025-07-07,General Fund,Email,donor721@gmail.com,False,email had different case or spaces,warning
+D-200320,Fatima Moore,Donor758@gmail.com,44.25,04/07/2025,GENERAL FUND,Event,donor758@gmail.com,False,email had different case or spaces,warning
+D-201745,James Garcia,Donor139@yahoo.com,90.96,2026-02-04,YEAR END APPEAL 2025,Email,donor139@yahoo.com,False,email had different case or spaces,warning
+D-202164,Ali Clark,DONOR699@OUTLOOK.COM,40.58,2025-06-25,Spring Gala 2025,Organic,donor699@outlook.com,False,email had different case or spaces,warning
+D-203449,Emma Johnson,Donor173@yahoo.com,36.45,2025-03-31,Light of Hope 2025,Email,donor173@yahoo.com,False,email had different case or spaces,warning
+D-201947,Mark Garcia,DONOR15@OUTLOOK.COM,68.05,06-Sep-2025,SPRING GALA 2025,Google Ads,donor15@outlook.com,False,email had different case or spaces,warning
+D-202644,Aisha Miller,Donor716@gmail.com,11.08,2025-07-23,Spring Gala 2026,Event,donor716@gmail.com,False,email had different case or spaces,warning
+D-203259,Fatima Clark,DONOR402@YAHOO.COM,60.93,2025-01-03,General Fund,Event,donor402@yahoo.com,False,email had different case or spaces,warning
+D-201748,Mark Clark,DONOR412@YAHOO.COM,97.01,2026-05-16,Spring Gala 2026,Organic,donor412@yahoo.com,False,email had different case or spaces,warning
+D-204122,David Davis,DONOR396@YAHOO.COM,339.0,2026-06-23,Spring Gala 2026,Organic,donor396@yahoo.com,False,email had different case or spaces,warning
+D-203305,John Davis,DONOR405@YAHOO.COM,148.9,04/04/2026,Spring Gala 2025,Email,donor405@yahoo.com,False,email had different case or spaces,warning
+D-202896,James Khan,DONOR690@YAHOO.COM,61.78,2026-03-07,SUPERHERO RUN 2026,Google Ads,donor690@yahoo.com,False,email had different case or spaces,warning
+D-201070,Hassan Wilson,Donor686@outlook.com,64.18,31-Oct-2025,Superhero Run 2026,Meta,donor686@outlook.com,False,email had different case or spaces,warning
+D-200053,Emma Davis,DONOR295@YAHOO.COM,61.38,2025-04-23,SPRING GALA 2026,Event,donor295@yahoo.com,False,email had different case or spaces,warning
+D-201674,Ali Smith,DONOR457@YAHOO.COM,92.44,06/11/2026,Light of Hope 2025,Email,donor457@yahoo.com,False,email had different case or spaces,warning
+D-200365,John Clark,Donor483@outlook.com,304.83,2025-10-31,superhero_run_2026,Email,donor483@outlook.com,False,email had different case or spaces,warning
+D-202739,James Taylor,Donor532@yahoo.com,32.35,2026-03-05,Superhero Run 2026,Meta,donor532@yahoo.com,False,email had different case or spaces,warning
+D-202444,Mark Clark,DONOR288@OUTLOOK.COM,15.82,06-Jun-2026,Light of Hope 2025,Organic,donor288@outlook.com,False,email had different case or spaces,warning
+D-201892,Ali Smith,DONOR860@GMAIL.COM,44.09,04/24/2025,year_end_appeal_2025,Email,donor860@gmail.com,False,email had different case or spaces,warning
+D-202215,John Moore,DONOR676@OUTLOOK.COM,102.2,2025-01-17,Year End Appeal 2025,Meta,donor676@outlook.com,False,email had different case or spaces,warning
+D-201487,Fatima Miller,DONOR802@YAHOO.COM,76.71,2025-07-14,Year End Appeal 2025,Meta,donor802@yahoo.com,False,email had different case or spaces,warning
+D-202119,Linda Wilson,DONOR13@YAHOO.COM,64.27,01/19/2026,GENERAL FUND,Organic,donor13@yahoo.com,False,email had different case or spaces,warning
+D-203317,Sarah Wilson,Donor302@outlook.com,144.21,18-Jan-2025,Spring Gala 2025,Email,donor302@outlook.com,False,email had different case or spaces,warning
+D-200821,David Moore,Donor1@gmail.com,47.28,2025-10-16,YEAR END APPEAL 2025,Google Ads,donor1@gmail.com,False,email had different case or spaces,warning
+D-203517,Ali Miller,DONOR324@OUTLOOK.COM,144.19,09/12/2025,Year End Appeal 2025,Email,donor324@outlook.com,False,email had different case or spaces,warning
+D-200410,Sarah Brown,DONOR722@YAHOO.COM,33.46,05/07/2025,spring_gala_2025,Email,donor722@yahoo.com,False,email had different case or spaces,warning
+D-203416,Maria Brown,Donor415@yahoo.com,41.07,05/13/2026,Year End Appeal 2025,Event,donor415@yahoo.com,False,email had different case or spaces,warning
+D-203271,Grace Davis,Donor373@gmail.com,40.33,2026-05-23,spring_gala_2025,Google Ads,donor373@gmail.com,False,email had different case or spaces,warning
+D-203895,David Smith,DONOR817@OUTLOOK.COM,30.65,2025-01-07,Spring Gala 2026,Email,donor817@outlook.com,False,email had different case or spaces,warning
+D-202856,Sarah Smith,Donor782@outlook.com,13.2,2026-06-15,Spring Gala 2025,Organic,donor782@outlook.com,False,email had different case or spaces,warning
+D-200819,Fatima Miller,DONOR683@OUTLOOK.COM,220.89,2026-01-09,SPRING GALA 2026,Meta,donor683@outlook.com,False,email had different case or spaces,warning
+D-202304,Fatima Taylor,Donor48@outlook.com,381.99,11/28/2025,General Fund,Google Ads,donor48@outlook.com,False,email had different case or spaces,warning
+D-202936,Linda Miller,DONOR655@YAHOO.COM,223.24,2026-02-22,spring_gala_2026,Event,donor655@yahoo.com,False,email had different case or spaces,warning
+D-201236,Sarah Johnson,Donor554@yahoo.com,33.0,2026-06-29,Year End Appeal 2025,Organic,donor554@yahoo.com,False,email had different case or spaces,warning
+D-202854,John Smith,DONOR528@OUTLOOK.COM,52.0,2025-06-04,SUPERHERO RUN 2026,Meta,donor528@outlook.com,False,email had different case or spaces,warning
+D-200207,Sarah Brown,DONOR722@YAHOO.COM,117.59,2025-02-18,spring_gala_2025,Meta,donor722@yahoo.com,False,email had different case or spaces,warning
+D-200951,Fatima Brown,Donor745@outlook.com,68.53,2026-06-29,Spring Gala 2026,Email,donor745@outlook.com,False,email had different case or spaces,warning
+D-203790,Emma Clark,Donor254@gmail.com,36.63,2025-04-02,Light of Hope 2025,Meta,donor254@gmail.com,False,email had different case or spaces,warning
+D-201568,Fatima Wilson,Donor11@yahoo.com,4.46,2025-01-23,Year End Appeal 2025,Event,donor11@yahoo.com,False,email had different case or spaces,warning
+D-201786,Emma Brown,Donor130@gmail.com,299.54,2025-03-19,SPRING GALA 2025,Organic,donor130@gmail.com,False,email had different case or spaces,warning
+D-202927,James Brown,DONOR447@GMAIL.COM,13.88,05/11/2025,Superhero Run 2026,Google Ads,donor447@gmail.com,False,email had different case or spaces,warning
+D-203391,Linda Davis,Donor613@outlook.com,75.62,2025-02-11,Spring Gala 2025,Email,donor613@outlook.com,False,email had different case or spaces,warning
+D-203591,Fatima Garcia,DONOR503@OUTLOOK.COM,787.2,2025-10-07,YEAR END APPEAL 2025,Email,donor503@outlook.com,False,email had different case or spaces,warning
+R-26,John Moore,DONOR274@GMAIL.COM,-43.59,04/19/2026,General Fund,Meta,donor274@gmail.com,True,email had different case or spaces,warning
+D-203274,John Ahmed,Donor85@outlook.com,111.4,2025-10-25,Superhero Run 2026,Google Ads,donor85@outlook.com,False,email had different case or spaces,warning
+D-203207,Mark Clark,DONOR344@YAHOO.COM,29.72,2026-06-03,superhero_run_2026,Organic,donor344@yahoo.com,False,email had different case or spaces,warning
+D-203763,Omar Moore,Donor430@yahoo.com,62.51,2026-01-11,General Fund,Email,donor430@yahoo.com,False,email had different case or spaces,warning
+D-203433,Maria Brown,Donor415@yahoo.com,154.91,03/15/2026,SPRING GALA 2026,Organic,donor415@yahoo.com,False,email had different case or spaces,warning
+D-203619,Maria Miller,Donor874@yahoo.com,186.03,2025-04-22,LIGHT OF HOPE 2025,Email,donor874@yahoo.com,False,email had different case or spaces,warning
+D-200309,Aisha Davis,Donor192@yahoo.com,58.7,06/11/2025,Spring Gala 2026,Google Ads,donor192@yahoo.com,False,email had different case or spaces,warning
+D-202406,Linda Davis,Donor613@outlook.com,189.0,02/24/2025,General Fund,Email,donor613@outlook.com,False,email had different case or spaces,warning
+D-200649,Mark Wilson,Donor105@yahoo.com,129.0,2025-03-28,superhero_run_2026,Email,donor105@yahoo.com,False,email had different case or spaces,warning
+D-202766,Omar Ahmed,DONOR284@YAHOO.COM,50.13,23-Nov-2025,YEAR END APPEAL 2025,Email,donor284@yahoo.com,False,email had different case or spaces,warning
+D-203136,Hassan Davis,Donor890@outlook.com,393.86,2026-02-15,Year End Appeal 2025,Google Ads,donor890@outlook.com,False,email had different case or spaces,warning
+D-203292,David Taylor,Donor383@yahoo.com,92.97,2025-12-06,spring_gala_2026,Meta,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203286,Linda Davis,DONOR613@OUTLOOK.COM,67.14,2026-01-29,general_fund,Organic,donor613@outlook.com,False,email had different case or spaces,warning
+D-200804,James Brown,DONOR108@GMAIL.COM,13.99,2025-11-18,Spring Gala 2026,Meta,donor108@gmail.com,False,email had different case or spaces,warning
+D-200910,Emma Moore,Donor538@gmail.com,161.21,2025-01-10,Superhero Run 2026,Email,donor538@gmail.com,False,email had different case or spaces,warning
+D-201286,Maria Johnson,DONOR72@YAHOO.COM,139.0,2025-08-21,Superhero Run 2026,Event,donor72@yahoo.com,False,email had different case or spaces,warning
+D-203714,Ali Miller,DONOR324@OUTLOOK.COM,77.0,2025-08-19,Year End Appeal 2025,Google Ads,donor324@outlook.com,False,email had different case or spaces,warning
+D-202530,Sarah Ahmed,DONOR882@GMAIL.COM,80.99,20-Feb-2026,YEAR END APPEAL 2025,Google Ads,donor882@gmail.com,False,email had different case or spaces,warning
+D-203973,Grace Moore,Donor149@gmail.com,50.03,20-Feb-2026,light_of_hope_2025,Organic,donor149@gmail.com,False,email had different case or spaces,warning
+D-201061,John Davis,DONOR588@OUTLOOK.COM,244.76,2025-11-20,Light of Hope 2025,Email,donor588@outlook.com,False,email had different case or spaces,warning
+D-203206,Maria Brown,DONOR415@YAHOO.COM,84.77,2025-07-28,spring_gala_2025,Meta,donor415@yahoo.com,False,email had different case or spaces,warning
+D-202638,Sarah Garcia,Donor45@outlook.com,13.25,05/31/2025,SPRING GALA 2026,Email,donor45@outlook.com,False,email had different case or spaces,warning
+D-200504,John Ahmed,Donor464@yahoo.com,96.76,2025-06-21,year_end_appeal_2025,Organic,donor464@yahoo.com,False,email had different case or spaces,warning
+D-202416,Linda Davis,Donor613@outlook.com,72.83,2026-06-26,Superhero Run 2026,Google Ads,donor613@outlook.com,False,email had different case or spaces,warning
+D-200317,Sarah Wilson,Donor302@outlook.com,15.45,02/06/2025,SPRING GALA 2025,Event,donor302@outlook.com,False,email had different case or spaces,warning
+D-201321,David Taylor,DONOR383@YAHOO.COM,78.6,2025-09-03,light_of_hope_2025,Organic,donor383@yahoo.com,False,email had different case or spaces,warning
+D-200770,Ali Miller,Donor324@outlook.com,67.98,2025-07-11,Year End Appeal 2025,Email,donor324@outlook.com,False,email had different case or spaces,warning
+D-200630,Grace Johnson,Donor691@outlook.com,23.24,02/04/2025,superhero_run_2026,Organic,donor691@outlook.com,False,email had different case or spaces,warning
+D-201706,David Johnson,DONOR305@YAHOO.COM,95.76,2025-01-24,light_of_hope_2025,Google Ads,donor305@yahoo.com,False,email had different case or spaces,warning
+D-201429,Mark Khan,DONOR669@YAHOO.COM,28.67,2025-04-23,Spring Gala 2025,Email,donor669@yahoo.com,False,email had different case or spaces,warning
+D-201332,Grace Miller,DONOR30@OUTLOOK.COM,157.44,12-Jan-2026,SPRING GALA 2025,Event,donor30@outlook.com,False,email had different case or spaces,warning
+D-203097,Grace Johnson,DONOR691@OUTLOOK.COM,247.7,2026-03-11,Light of Hope 2025,Meta,donor691@outlook.com,False,email had different case or spaces,warning
+D-202661,Mark Clark,Donor412@yahoo.com,26.44,04/17/2025,spring_gala_2025,Email,donor412@yahoo.com,False,email had different case or spaces,warning
+R-7,Aisha Miller,Donor716@gmail.com,-11.08,2025-07-23,Spring Gala 2026,Event,donor716@gmail.com,True,email had different case or spaces,warning
+D-200525,Fatima Johnson,Donor789@gmail.com,13.81,03/16/2025,light_of_hope_2025,Organic,donor789@gmail.com,False,email had different case or spaces,warning
+D-202270,Sarah Khan,DONOR439@OUTLOOK.COM,101.87,04/04/2025,Spring Gala 2025,Google Ads,donor439@outlook.com,False,email had different case or spaces,warning
+D-201460,Maria Brown,Donor497@gmail.com,930.18,2026-06-24,Light of Hope 2025,Organic,donor497@gmail.com,False,email had different case or spaces,warning
+D-202385,Grace Smith,Donor606@gmail.com,112.86,2025-07-24,spring_gala_2026,Meta,donor606@gmail.com,False,email had different case or spaces,warning
+D-203597,John Moore,Donor676@outlook.com,119.01,2025-10-07,Light of Hope 2025,Event,donor676@outlook.com,False,email had different case or spaces,warning
+D-203781,Mark Clark,DONOR424@YAHOO.COM,364.04,02/10/2026,Year End Appeal 2025,Google Ads,donor424@yahoo.com,False,email had different case or spaces,warning
+D-202721,John Khan,Donor89@gmail.com,15.97,02/21/2025,SPRING GALA 2025,Organic,donor89@gmail.com,False,email had different case or spaces,warning
+D-203277,David Miller,Donor449@yahoo.com,106.7,2025-01-30,LIGHT OF HOPE 2025,Google Ads,donor449@yahoo.com,False,email had different case or spaces,warning
+D-202253,Fatima Davis,Donor218@yahoo.com,73.8,2025-08-14,LIGHT OF HOPE 2025,Organic,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203759,Aisha Davis,Donor866@gmail.com,60.68,27-Dec-2025,Superhero Run 2026,Event,donor866@gmail.com,False,email had different case or spaces,warning
+D-202720,Fatima Davis,DONOR218@YAHOO.COM,23.5,2025-05-13,spring_gala_2026,Email,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203487,Fatima Smith,DONOR307@OUTLOOK.COM,171.75,11/27/2025,general_fund,Email,donor307@outlook.com,False,email had different case or spaces,warning
+D-201529,Linda Davis,DONOR613@OUTLOOK.COM,104.13,09/07/2025,LIGHT OF HOPE 2025,Meta,donor613@outlook.com,False,email had different case or spaces,warning
+D-202424,Paul Taylor,Donor235@outlook.com,38.62,19-Aug-2025,Superhero Run 2026,Email,donor235@outlook.com,False,email had different case or spaces,warning
+D-203316,Mark Smith,Donor304@outlook.com,19.74,2025-12-09,General Fund,Organic,donor304@outlook.com,False,email had different case or spaces,warning
+D-203873,Aisha Johnson,DONOR443@OUTLOOK.COM,128.11,2025-01-10,SPRING GALA 2025,Email,donor443@outlook.com,False,email had different case or spaces,warning
+D-202979,Fatima Brown,DONOR215@YAHOO.COM,28.49,2025-12-24,Spring Gala 2026,Email,donor215@yahoo.com,False,email had different case or spaces,warning
+D-204123,Ali Brown,DONOR142@GMAIL.COM,18.75,2025-11-15,SUPERHERO RUN 2026,Email,donor142@gmail.com,False,email had different case or spaces,warning
+D-202561,Emma Clark,DONOR254@GMAIL.COM,181.07,2026-03-17,YEAR END APPEAL 2025,Event,donor254@gmail.com,False,email had different case or spaces,warning
+D-204096,Sarah Johnson,DONOR554@YAHOO.COM,309.09,2025-02-24,Spring Gala 2025,Organic,donor554@yahoo.com,False,email had different case or spaces,warning
+D-202852,John Davis,DONOR895@OUTLOOK.COM,128.99,12/13/2025,SUPERHERO RUN 2026,Email,donor895@outlook.com,False,email had different case or spaces,warning
+D-202259,John Johnson,Donor303@gmail.com,7.86,2025-10-27,Spring Gala 2025,Google Ads,donor303@gmail.com,False,email had different case or spaces,warning
+D-203740,Fatima Moore,Donor758@gmail.com,31.0,03/08/2025,Spring Gala 2026,Meta,donor758@gmail.com,False,email had different case or spaces,warning
+D-203016,Aisha Smith,DONOR332@YAHOO.COM,36.16,15-Apr-2026,Year End Appeal 2025,Google Ads,donor332@yahoo.com,False,email had different case or spaces,warning
+D-202516,Linda Brown,DONOR518@OUTLOOK.COM,235.88,05/13/2025,year_end_appeal_2025,Google Ads,donor518@outlook.com,False,email had different case or spaces,warning
+D-200129,Fatima Davis,Donor218@yahoo.com,287.64,2025-02-19,YEAR END APPEAL 2025,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-203650,James Smith,DONOR118@GMAIL.COM,61.45,2026-02-13,superhero_run_2026,Google Ads,donor118@gmail.com,False,email had different case or spaces,warning
+D-201922,Fatima Brown,Donor745@outlook.com,20.04,2026-06-12,general_fund,Email,donor745@outlook.com,False,email had different case or spaces,warning
+D-202102,Ali Miller,Donor324@outlook.com,23.77,2025-06-11,General Fund,Google Ads,donor324@outlook.com,False,email had different case or spaces,warning
+D-202585,Omar Garcia,DONOR666@YAHOO.COM,21.11,06/03/2025,Spring Gala 2026,Email,donor666@yahoo.com,False,email had different case or spaces,warning
+D-203995,John Khan,Donor712@yahoo.com,239.23,2026-02-14,SUPERHERO RUN 2026,Organic,donor712@yahoo.com,False,email had different case or spaces,warning
+R-1,John Wilson,DONOR667@OUTLOOK.COM,-241.26,2026-03-04,Spring Gala 2026,Email,donor667@outlook.com,True,email had different case or spaces,warning
+D-203503,Paul Ahmed,Donor112@yahoo.com,46.53,2025-09-16,Superhero Run 2026,Email,donor112@yahoo.com,False,email had different case or spaces,warning
+D-200029,Grace Taylor,Donor600@outlook.com,75.46,2026-05-26,Light of Hope 2025,Meta,donor600@outlook.com,False,email had different case or spaces,warning
+D-200463,James Clark,DONOR533@OUTLOOK.COM,35.79,17-Mar-2025,SPRING GALA 2026,Email,donor533@outlook.com,False,email had different case or spaces,warning
+D-201299,Emma Johnson,Donor173@yahoo.com,25.95,2025-07-21,Light of Hope 2025,Google Ads,donor173@yahoo.com,False,email had different case or spaces,warning
+D-200518,Hassan Miller,DONOR155@OUTLOOK.COM,199.15,09-Apr-2026,LIGHT OF HOPE 2025,Google Ads,donor155@outlook.com,False,email had different case or spaces,warning
+D-202885,Maria Wilson,DONOR158@YAHOO.COM,90.94,01/31/2025,YEAR END APPEAL 2025,Organic,donor158@yahoo.com,False,email had different case or spaces,warning
+D-202076,John Ahmed,DONOR464@YAHOO.COM,61.38,2025-02-26,General Fund,Event,donor464@yahoo.com,False,email had different case or spaces,warning
+D-203335,Maria Ahmed,Donor202@gmail.com,51.04,2025-05-24,light_of_hope_2025,Event,donor202@gmail.com,False,email had different case or spaces,warning
+D-204052,Sarah Khan,Donor439@outlook.com,47.16,2026-05-25,Spring Gala 2026,Meta,donor439@outlook.com,False,email had different case or spaces,warning
+D-200428,Linda Davis,Donor613@outlook.com,189.05,12/31/2025,LIGHT OF HOPE 2025,Google Ads,donor613@outlook.com,False,email had different case or spaces,warning
+D-201467,Maria Ahmed,DONOR202@GMAIL.COM,165.97,2025-07-05,year_end_appeal_2025,Event,donor202@gmail.com,False,email had different case or spaces,warning
+D-203754,James Ahmed,DONOR343@GMAIL.COM,313.05,2026-03-04,Light of Hope 2025,Organic,donor343@gmail.com,False,email had different case or spaces,warning
+D-200350,David Clark,DONOR435@GMAIL.COM,52.0,11/19/2025,SUPERHERO RUN 2026,Google Ads,donor435@gmail.com,False,email had different case or spaces,warning
+D-203993,Grace Moore,DONOR451@GMAIL.COM,27.57,27-Apr-2025,GENERAL FUND,Google Ads,donor451@gmail.com,False,email had different case or spaces,warning
+D-203478,John Moore,DONOR477@GMAIL.COM,32.26,2026-03-21,General Fund,Meta,donor477@gmail.com,False,email had different case or spaces,warning
+D-201132,John Clark,Donor404@yahoo.com,8.92,11/29/2025,Light of Hope 2025,Meta,donor404@yahoo.com,False,email had different case or spaces,warning
+D-200299,David Khan,Donor516@gmail.com,262.23,2025-07-29,light_of_hope_2025,Meta,donor516@gmail.com,False,email had different case or spaces,warning
+D-203839,Hassan Smith,DONOR883@OUTLOOK.COM,214.72,2026-03-09,Spring Gala 2026,Email,donor883@outlook.com,False,email had different case or spaces,warning
+D-203164,David Khan,Donor744@yahoo.com,144.53,06-Jan-2025,Spring Gala 2026,Google Ads,donor744@yahoo.com,False,email had different case or spaces,warning
+D-201552,David Miller,DONOR449@YAHOO.COM,73.67,2026-05-16,LIGHT OF HOPE 2025,Email,donor449@yahoo.com,False,email had different case or spaces,warning
+D-203640,Mark Khan,DONOR29@YAHOO.COM,43.53,2025-08-29,Spring Gala 2026,Event,donor29@yahoo.com,False,email had different case or spaces,warning
+D-200330,Emma Johnson,DONOR285@YAHOO.COM,2580.19,07-Feb-2026,superhero_run_2026,Event,donor285@yahoo.com,False,email had different case or spaces,warning
+D-200327,Hassan Brown,Donor180@yahoo.com,33.23,01/28/2026,GENERAL FUND,Email,donor180@yahoo.com,False,email had different case or spaces,warning
+D-201485,David Garcia,Donor624@yahoo.com,81.0,08/08/2025,LIGHT OF HOPE 2025,Email,donor624@yahoo.com,False,email had different case or spaces,warning
+D-200264,Emma Khan,Donor398@yahoo.com,114.06,02/27/2026,Light of Hope 2025,Organic,donor398@yahoo.com,False,email had different case or spaces,warning
+D-201471,David Khan,Donor73@outlook.com,394.0,2026-04-26,year_end_appeal_2025,Event,donor73@outlook.com,False,email had different case or spaces,warning
+D-201401,Grace Clark,DONOR244@OUTLOOK.COM,33.55,30-Apr-2025,Spring Gala 2025,Google Ads,donor244@outlook.com,False,email had different case or spaces,warning
+D-200467,Ali Miller,DONOR324@OUTLOOK.COM,177.4,05/04/2026,SUPERHERO RUN 2026,Meta,donor324@outlook.com,False,email had different case or spaces,warning
+R-70,Hassan Ahmed,Donor793@yahoo.com,-40.33,2026-05-30,superhero_run_2026,Google Ads,donor793@yahoo.com,True,email had different case or spaces,warning
+D-203263,John Moore,Donor676@outlook.com,100.9,2025-04-26,SUPERHERO RUN 2026,Google Ads,donor676@outlook.com,False,email had different case or spaces,warning
+D-201888,John Johnson,DONOR770@YAHOO.COM,128.0,2025-10-04,LIGHT OF HOPE 2025,Google Ads,donor770@yahoo.com,False,email had different case or spaces,warning
+D-202646,Emma Moore,DONOR538@GMAIL.COM,293.56,2026-06-28,Superhero Run 2026,Google Ads,donor538@gmail.com,False,email had different case or spaces,warning
+D-201079,Fatima Brown,DONOR215@YAHOO.COM,20.0,02/27/2026,Year End Appeal 2025,Meta,donor215@yahoo.com,False,email had different case or spaces,warning
+D-202658,Fatima Brown,Donor70@outlook.com,73.9,2025-05-05,General Fund,Organic,donor70@outlook.com,False,email had different case or spaces,warning
+D-202334,John Davis,Donor485@outlook.com,183.83,03/07/2025,General Fund,Meta,donor485@outlook.com,False,email had different case or spaces,warning
+D-200810,Hassan Clark,Donor37@yahoo.com,31.48,2026-02-04,Light of Hope 2025,Google Ads,donor37@yahoo.com,False,email had different case or spaces,warning
+R-65,Emma Brown,Donor130@gmail.com,-141.18,2026-02-17,GENERAL FUND,Organic,donor130@gmail.com,True,email had different case or spaces,warning
+D-201520,Mark Wilson,DONOR105@YAHOO.COM,123.61,2026-05-10,Spring Gala 2026,Email,donor105@yahoo.com,False,email had different case or spaces,warning
+D-204047,Mark Clark,Donor412@yahoo.com,120.43,04-Mar-2025,SPRING GALA 2026,Meta,donor412@yahoo.com,False,email had different case or spaces,warning
+D-202175,Linda Clark,DONOR521@GMAIL.COM,364.93,07/30/2025,Superhero Run 2026,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-202332,Grace Brown,Donor291@yahoo.com,43.46,05-Apr-2025,Year End Appeal 2025,Meta,donor291@yahoo.com,False,email had different case or spaces,warning
+D-200688,Hassan Taylor,Donor178@outlook.com,42.22,06/03/2026,Light of Hope 2025,Meta,donor178@outlook.com,False,email had different case or spaces,warning
+D-203087,Linda Wilson,Donor113@gmail.com,8.73,2025-02-09,Spring Gala 2026,Organic,donor113@gmail.com,False,email had different case or spaces,warning
+D-202544,Fatima Davis,DONOR218@YAHOO.COM,24.0,03/30/2026,year_end_appeal_2025,Meta,donor218@yahoo.com,False,email had different case or spaces,warning
+D-201573,Ali Smith,DONOR457@YAHOO.COM,132.96,2025-01-18,GENERAL FUND,Email,donor457@yahoo.com,False,email had different case or spaces,warning
+D-200579,Ali Ahmed,DONOR707@OUTLOOK.COM,60.88,2026-03-26,spring_gala_2026,Organic,donor707@outlook.com,False,email had different case or spaces,warning
+D-200105,Ali Brown,DONOR35@OUTLOOK.COM,15.79,05/30/2025,Spring Gala 2025,Event,donor35@outlook.com,False,email had different case or spaces,warning
+D-202037,Sarah Garcia,DONOR452@GMAIL.COM,14.23,2025-07-10,Spring Gala 2025,Organic,donor452@gmail.com,False,email had different case or spaces,warning
+D-202906,John Moore,DONOR676@OUTLOOK.COM,54.03,2025-06-09,Spring Gala 2025,Google Ads,donor676@outlook.com,False,email had different case or spaces,warning
+D-202792,Emma Smith,DONOR287@GMAIL.COM,104.62,12-Nov-2025,Spring Gala 2025,Google Ads,donor287@gmail.com,False,email had different case or spaces,warning
+D-202095,Fatima Davis,Donor218@yahoo.com,21.04,2026-02-05,Spring Gala 2026,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-202908,Ali Miller,Donor324@outlook.com,191.0,2026-03-19,year_end_appeal_2025,Email,donor324@outlook.com,False,email had different case or spaces,warning
+D-201818,Mark Wilson,DONOR633@OUTLOOK.COM,309.47,2025-05-20,SPRING GALA 2026,Meta,donor633@outlook.com,False,email had different case or spaces,warning
+D-201173,Sarah Garcia,DONOR880@YAHOO.COM,45.17,2026-04-28,SPRING GALA 2026,Google Ads,donor880@yahoo.com,False,email had different case or spaces,warning
+D-201445,Mark Davis,DONOR476@OUTLOOK.COM,160.93,2025-10-02,Superhero Run 2026,Meta,donor476@outlook.com,False,email had different case or spaces,warning
+D-200702,Hassan Clark,DONOR682@GMAIL.COM,74.04,05/13/2025,Superhero Run 2026,Event,donor682@gmail.com,False,email had different case or spaces,warning
+D-200160,Grace Clark,Donor244@outlook.com,14.99,2026-01-18,Spring Gala 2026,Email,donor244@outlook.com,False,email had different case or spaces,warning
+D-202529,Emma Wilson,Donor189@outlook.com,132.43,2025-03-02,YEAR END APPEAL 2025,Email,donor189@outlook.com,False,email had different case or spaces,warning
+D-201890,Fatima Ahmed,Donor134@outlook.com,14.81,2026-04-28,spring_gala_2025,Organic,donor134@outlook.com,False,email had different case or spaces,warning
+D-201287,Grace Ahmed,Donor210@yahoo.com,51.39,10/11/2025,Spring Gala 2026,Email,donor210@yahoo.com,False,email had different case or spaces,warning
+D-201221,Sarah Ahmed,Donor517@outlook.com,327.12,2025-05-12,Spring Gala 2026,Google Ads,donor517@outlook.com,False,email had different case or spaces,warning
+D-200477,David Ahmed,Donor231@outlook.com,40.75,2026-01-01,Superhero Run 2026,Email,donor231@outlook.com,False,email had different case or spaces,warning
+R-27,Sarah Taylor,Donor69@gmail.com,-28.91,2026-05-29,spring_gala_2025,Meta,donor69@gmail.com,True,email had different case or spaces,warning
+D-202359,Maria Clark,Donor784@yahoo.com,22.97,2025-10-30,Spring Gala 2026,Google Ads,donor784@yahoo.com,False,email had different case or spaces,warning
+D-202255,James Miller,Donor708@yahoo.com,333.32,2025-06-28,year_end_appeal_2025,Organic,donor708@yahoo.com,False,email had different case or spaces,warning
+D-200199,Fatima Ahmed,DONOR159@YAHOO.COM,164.36,2025-04-06,year_end_appeal_2025,Google Ads,donor159@yahoo.com,False,email had different case or spaces,warning
+D-200143,Maria Miller,DONOR644@GMAIL.COM,39.84,01/18/2025,superhero_run_2026,Meta,donor644@gmail.com,False,email had different case or spaces,warning
+D-203980,Grace Johnson,DONOR691@OUTLOOK.COM,35.23,09/14/2025,Spring Gala 2026,Google Ads,donor691@outlook.com,False,email had different case or spaces,warning
+D-202610,John Khan,Donor92@outlook.com,18.82,2025-11-06,Superhero Run 2026,Meta,donor92@outlook.com,False,email had different case or spaces,warning
+D-200394,Grace Davis,Donor494@gmail.com,57.17,2025-09-19,Year End Appeal 2025,Meta,donor494@gmail.com,False,email had different case or spaces,warning
+D-202071,Sarah Davis,DONOR33@YAHOO.COM,41.06,2025-11-14,Superhero Run 2026,Google Ads,donor33@yahoo.com,False,email had different case or spaces,warning
+D-202364,Maria Garcia,DONOR515@GMAIL.COM,168.16,2025-10-08,Superhero Run 2026,Google Ads,donor515@gmail.com,False,email had different case or spaces,warning
+D-200930,Ali Davis,DONOR470@OUTLOOK.COM,72.09,2026-03-03,GENERAL FUND,Meta,donor470@outlook.com,False,email had different case or spaces,warning
+D-203006,Hassan Brown,Donor427@yahoo.com,199.18,2026-05-30,SPRING GALA 2026,Google Ads,donor427@yahoo.com,False,email had different case or spaces,warning
+D-203556,Omar Moore,Donor831@outlook.com,23.41,05/11/2026,spring_gala_2025,Google Ads,donor831@outlook.com,False,email had different case or spaces,warning
+D-200986,Hassan Wilson,Donor797@gmail.com,48.2,2025-01-26,light_of_hope_2025,Event,donor797@gmail.com,False,email had different case or spaces,warning
+D-201502,Linda Brown,DONOR518@OUTLOOK.COM,44.9,03/25/2026,Spring Gala 2025,Organic,donor518@outlook.com,False,email had different case or spaces,warning
+D-201665,Maria Brown,Donor415@yahoo.com,26.97,2025-09-21,Superhero Run 2026,Google Ads,donor415@yahoo.com,False,email had different case or spaces,warning
+D-203003,Fatima Clark,DONOR280@OUTLOOK.COM,119.14,04/04/2026,Superhero Run 2026,Email,donor280@outlook.com,False,email had different case or spaces,warning
+D-200530,Fatima Wilson,DONOR11@YAHOO.COM,222.02,02/10/2026,Superhero Run 2026,Google Ads,donor11@yahoo.com,False,email had different case or spaces,warning
+D-201394,Fatima Clark,Donor748@outlook.com,56.94,01-Mar-2026,Spring Gala 2026,Google Ads,donor748@outlook.com,False,email had different case or spaces,warning
+R-49,Ali Smith,DONOR457@YAHOO.COM,-377.91,2025-11-24,GENERAL FUND,Google Ads,donor457@yahoo.com,True,email had different case or spaces,warning
+D-203018,Maria Moore,DONOR358@GMAIL.COM,14.13,2026-05-08,year_end_appeal_2025,Email,donor358@gmail.com,False,email had different case or spaces,warning
+D-203524,Paul Garcia,Donor502@gmail.com,359.12,2026-02-27,YEAR END APPEAL 2025,Email,donor502@gmail.com,False,email had different case or spaces,warning
+D-203831,Ali Taylor,DONOR584@OUTLOOK.COM,952.88,21-Jul-2025,Year End Appeal 2025,Meta,donor584@outlook.com,False,email had different case or spaces,warning
+D-202483,David Clark,Donor435@gmail.com,25.83,09/07/2025,general_fund,Meta,donor435@gmail.com,False,email had different case or spaces,warning
+R-50,Paul Miller,DONOR391@YAHOO.COM,-197.65,2025-05-26,Year End Appeal 2025,Meta,donor391@yahoo.com,True,email had different case or spaces,warning
+D-203040,Fatima Garcia,DONOR437@GMAIL.COM,36.73,2025-09-05,SPRING GALA 2026,Email,donor437@gmail.com,False,email had different case or spaces,warning
+D-203504,Fatima Miller,DONOR683@OUTLOOK.COM,43.94,2025-09-15,spring_gala_2026,Meta,donor683@outlook.com,False,email had different case or spaces,warning
+D-200357,Grace Garcia,Donor364@gmail.com,262.94,2025-06-30,light_of_hope_2025,Organic,donor364@gmail.com,False,email had different case or spaces,warning
+D-202676,Fatima Brown,DONOR474@YAHOO.COM,23.93,2026-06-21,LIGHT OF HOPE 2025,Google Ads,donor474@yahoo.com,False,email had different case or spaces,warning
+D-201813,Aisha Smith,Donor765@gmail.com,372.06,09/19/2025,spring_gala_2025,Event,donor765@gmail.com,False,email had different case or spaces,warning
+D-203936,Linda Clark,DONOR521@GMAIL.COM,33.67,03-May-2025,General Fund,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-203969,Ali Miller,Donor315@gmail.com,188.0,2026-01-11,Light of Hope 2025,Event,donor315@gmail.com,False,email had different case or spaces,warning
+D-202176,John Johnson,DONOR252@GMAIL.COM,37.63,2025-01-26,Superhero Run 2026,Email,donor252@gmail.com,False,email had different case or spaces,warning
+D-200875,Sarah Taylor,DONOR881@YAHOO.COM,49.23,09/02/2025,Spring Gala 2026,Organic,donor881@yahoo.com,False,email had different case or spaces,warning
+D-200103,Grace Taylor,DONOR126@OUTLOOK.COM,97.19,05/01/2025,SPRING GALA 2025,Google Ads,donor126@outlook.com,False,email had different case or spaces,warning
+D-202126,James Ahmed,Donor145@outlook.com,190.23,01/06/2025,Light of Hope 2025,Email,donor145@outlook.com,False,email had different case or spaces,warning
+D-202588,Hassan Garcia,DONOR241@GMAIL.COM,446.19,2026-05-18,General Fund,Google Ads,donor241@gmail.com,False,email had different case or spaces,warning
+D-200355,Sarah Khan,Donor439@outlook.com,41.53,15-Apr-2026,Year End Appeal 2025,Google Ads,donor439@outlook.com,False,email had different case or spaces,warning
+D-200307,Emma Smith,DONOR287@GMAIL.COM,22.01,2025-08-22,Spring Gala 2025,Organic,donor287@gmail.com,False,email had different case or spaces,warning
+D-200041,Fatima Garcia,DONOR551@YAHOO.COM,55.99,25-Jan-2025,spring_gala_2025,Google Ads,donor551@yahoo.com,False,email had different case or spaces,warning
+D-201681,Mark Khan,Donor74@gmail.com,145.0,2025-08-04,SUPERHERO RUN 2026,Event,donor74@gmail.com,False,email had different case or spaces,warning
+D-201037,James Ahmed,Donor894@gmail.com,25.47,01/27/2026,light_of_hope_2025,Meta,donor894@gmail.com,False,email had different case or spaces,warning
+D-201510,Sarah Wilson,Donor27@gmail.com,57.31,2025-03-30,year_end_appeal_2025,Meta,donor27@gmail.com,False,email had different case or spaces,warning
+D-202367,John Moore,DONOR274@GMAIL.COM,43.59,04/19/2026,General Fund,Meta,donor274@gmail.com,False,email had different case or spaces,warning
+D-200073,Sarah Wilson,DONOR607@YAHOO.COM,46.15,2025-07-15,Year End Appeal 2025,Meta,donor607@yahoo.com,False,email had different case or spaces,warning
+D-200025,Grace Wilson,Donor166@outlook.com,139.83,2025-10-28,Spring Gala 2025,Google Ads,donor166@outlook.com,False,email had different case or spaces,warning
+D-203178,David Taylor,Donor383@yahoo.com,20.0,2025-08-08,superhero_run_2026,Meta,donor383@yahoo.com,False,email had different case or spaces,warning
+D-202752,Fatima Davis,Donor218@yahoo.com,127.42,2025-01-19,Superhero Run 2026,Organic,donor218@yahoo.com,False,email had different case or spaces,warning
+D-201120,John Davis,DONOR485@OUTLOOK.COM,17.0,06/25/2026,General Fund,Meta,donor485@outlook.com,False,email had different case or spaces,warning
+D-202696,Linda Davis,Donor585@yahoo.com,42.69,2025-07-15,SPRING GALA 2025,Event,donor585@yahoo.com,False,email had different case or spaces,warning
+D-201408,Mark Johnson,DONOR751@GMAIL.COM,49.98,2025-09-21,Spring Gala 2026,Email,donor751@gmail.com,False,email had different case or spaces,warning
+D-203033,Omar Miller,DONOR872@GMAIL.COM,177.64,2026-04-04,LIGHT OF HOPE 2025,Organic,donor872@gmail.com,False,email had different case or spaces,warning
+D-200629,Omar Wilson,Donor119@gmail.com,230.1,2025-01-24,Year End Appeal 2025,Google Ads,donor119@gmail.com,False,email had different case or spaces,warning
+D-200164,Sarah Johnson,Donor849@gmail.com,80.37,2025-04-26,year_end_appeal_2025,Meta,donor849@gmail.com,False,email had different case or spaces,warning
+D-201649,Mark Wilson,DONOR803@OUTLOOK.COM,30.22,01/06/2026,Spring Gala 2025,Email,donor803@outlook.com,False,email had different case or spaces,warning
+D-202954,James Clark,Donor541@gmail.com,33.69,2026-01-23,YEAR END APPEAL 2025,Meta,donor541@gmail.com,False,email had different case or spaces,warning
+D-202803,John Smith,Donor407@gmail.com,88.01,02/23/2026,year_end_appeal_2025,Email,donor407@gmail.com,False,email had different case or spaces,warning
+D-201968,David Brown,Donor714@yahoo.com,32.65,2026-05-26,light_of_hope_2025,Event,donor714@yahoo.com,False,email had different case or spaces,warning
+D-201553,Fatima Wilson,Donor812@yahoo.com,77.68,22-Apr-2025,Superhero Run 2026,Meta,donor812@yahoo.com,False,email had different case or spaces,warning
+D-200816,Hassan Clark,Donor677@gmail.com,409.09,2025-04-22,superhero_run_2026,Organic,donor677@gmail.com,False,email had different case or spaces,warning
+D-201243,Grace Smith,Donor856@outlook.com,14.21,2025-12-15,light_of_hope_2025,Meta,donor856@outlook.com,False,email had different case or spaces,warning
+D-203506,Hassan Clark,DONOR436@YAHOO.COM,27.42,2026-06-29,superhero_run_2026,Email,donor436@yahoo.com,False,email had different case or spaces,warning
+D-204029,Sarah Davis,DONOR842@GMAIL.COM,17.9,2025-04-26,GENERAL FUND,Organic,donor842@gmail.com,False,email had different case or spaces,warning
+D-203050,James Clark,Donor622@outlook.com,36.69,2025-08-22,SUPERHERO RUN 2026,Google Ads,donor622@outlook.com,False,email had different case or spaces,warning
+D-203939,Emma Miller,DONOR693@GMAIL.COM,88.42,26-Sep-2025,Spring Gala 2026,Google Ads,donor693@gmail.com,False,email had different case or spaces,warning
+D-200015,Hassan Miller,DONOR795@GMAIL.COM,19.67,2026-02-24,Superhero Run 2026,Organic,donor795@gmail.com,False,email had different case or spaces,warning
+D-203732,Grace Miller,Donor514@gmail.com,209.29,2025-03-30,spring_gala_2025,Meta,donor514@gmail.com,False,email had different case or spaces,warning
+D-201269,Emma Garcia,DONOR16@GMAIL.COM,28.87,2025-09-09,Spring Gala 2026,Google Ads,donor16@gmail.com,False,email had different case or spaces,warning
+D-201838,Fatima Garcia,DONOR898@GMAIL.COM,60.43,11/15/2025,Light of Hope 2025,Organic,donor898@gmail.com,False,email had different case or spaces,warning
+D-203038,Fatima Brown,Donor552@outlook.com,195.15,2026-05-28,Year End Appeal 2025,Meta,donor552@outlook.com,False,email had different case or spaces,warning
+D-202396,Grace Smith,DONOR606@GMAIL.COM,37.69,04/30/2025,superhero_run_2026,Email,donor606@gmail.com,False,email had different case or spaces,warning
+D-200403,Omar Clark,Donor646@yahoo.com,71.0,05/04/2026,YEAR END APPEAL 2025,Google Ads,donor646@yahoo.com,False,email had different case or spaces,warning
+D-200797,Grace Smith,Donor606@gmail.com,74.71,10/04/2025,spring_gala_2025,Google Ads,donor606@gmail.com,False,email had different case or spaces,warning
+D-201200,Grace Davis,DONOR390@GMAIL.COM,36.02,03/14/2026,SPRING GALA 2025,Google Ads,donor390@gmail.com,False,email had different case or spaces,warning
+D-202606,David Davis,Donor740@gmail.com,92.36,2025-08-15,Spring Gala 2025,Email,donor740@gmail.com,False,email had different case or spaces,warning
+D-202241,David Taylor,DONOR383@YAHOO.COM,119.71,2026-04-27,Light of Hope 2025,Email,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203497,Hassan Ahmed,Donor793@yahoo.com,40.33,2026-05-30,superhero_run_2026,Google Ads,donor793@yahoo.com,False,email had different case or spaces,warning
+D-202774,John Moore,DONOR676@OUTLOOK.COM,73.32,06/12/2025,Year End Appeal 2025,Meta,donor676@outlook.com,False,email had different case or spaces,warning
+D-202018,Linda Brown,DONOR264@OUTLOOK.COM,40.16,2025-03-02,General Fund,Meta,donor264@outlook.com,False,email had different case or spaces,warning
+D-201744,Fatima Wilson,DONOR11@YAHOO.COM,42.8,2025-07-10,Light of Hope 2025,Google Ads,donor11@yahoo.com,False,email had different case or spaces,warning
+D-203915,Maria Smith,Donor572@gmail.com,141.65,30-Jan-2026,spring_gala_2025,Meta,donor572@gmail.com,False,email had different case or spaces,warning
+D-203213,Sarah Johnson,Donor849@gmail.com,59.95,2025-12-22,Superhero Run 2026,Google Ads,donor849@gmail.com,False,email had different case or spaces,warning
+D-200948,Ali Smith,DONOR457@YAHOO.COM,322.36,2025-10-01,SPRING GALA 2025,Meta,donor457@yahoo.com,False,email had different case or spaces,warning
+D-201508,David Miller,DONOR449@YAHOO.COM,41.14,2025-08-07,superhero_run_2026,Email,donor449@yahoo.com,False,email had different case or spaces,warning
+D-201309,Paul Miller,DONOR741@GMAIL.COM,172.45,2025-07-02,SPRING GALA 2025,Organic,donor741@gmail.com,False,email had different case or spaces,warning
+D-202991,Aisha Ahmed,Donor641@yahoo.com,283.02,2025-05-23,General Fund,Meta,donor641@yahoo.com,False,email had different case or spaces,warning
+D-203133,Linda Johnson,DONOR590@GMAIL.COM,17.85,08/20/2025,general_fund,Meta,donor590@gmail.com,False,email had different case or spaces,warning
+D-202911,Ali Taylor,Donor681@gmail.com,58.95,2025-03-16,Superhero Run 2026,Meta,donor681@gmail.com,False,email had different case or spaces,warning
+D-203209,Grace Clark,Donor534@gmail.com,37.87,2026-05-18,superhero_run_2026,Email,donor534@gmail.com,False,email had different case or spaces,warning
+D-203706,Fatima Clark,Donor840@yahoo.com,125.06,10-Sep-2025,GENERAL FUND,Meta,donor840@yahoo.com,False,email had different case or spaces,warning
+D-202931,Aisha Miller,Donor716@gmail.com,71.93,2025-10-19,Superhero Run 2026,Google Ads,donor716@gmail.com,False,email had different case or spaces,warning
+D-203652,Maria Ahmed,Donor202@gmail.com,199.43,2025-04-04,general_fund,Email,donor202@gmail.com,False,email had different case or spaces,warning
+D-203063,Maria Smith,DONOR164@OUTLOOK.COM,43.08,2025-11-06,GENERAL FUND,Organic,donor164@outlook.com,False,email had different case or spaces,warning
+D-200258,Ali Wilson,Donor816@gmail.com,41.86,12/09/2025,Spring Gala 2026,Organic,donor816@gmail.com,False,email had different case or spaces,warning
+D-201636,Sarah Ahmed,DONOR454@GMAIL.COM,144.58,10/11/2025,Light of Hope 2025,Email,donor454@gmail.com,False,email had different case or spaces,warning
+D-201152,Hassan Clark,Donor511@outlook.com,113.17,30-Jun-2025,Year End Appeal 2025,Organic,donor511@outlook.com,False,email had different case or spaces,warning
+D-203773,Fatima Smith,Donor309@outlook.com,143.0,2026-05-03,GENERAL FUND,Email,donor309@outlook.com,False,email had different case or spaces,warning
+D-201361,Grace Clark,DONOR207@OUTLOOK.COM,22.84,2026-01-09,SPRING GALA 2025,Meta,donor207@outlook.com,False,email had different case or spaces,warning
+D-204138,James Garcia,DONOR530@GMAIL.COM,13.09,04/24/2026,SPRING GALA 2025,Organic,donor530@gmail.com,False,email had different case or spaces,warning
+D-202207,Ali Smith,DONOR457@YAHOO.COM,149.21,06/19/2025,Superhero Run 2026,Email,donor457@yahoo.com,False,email had different case or spaces,warning
+D-200123,Sarah Garcia,Donor637@gmail.com,125.56,06/16/2025,Spring Gala 2025,Organic,donor637@gmail.com,False,email had different case or spaces,warning
+D-200334,Grace Johnson,DONOR691@OUTLOOK.COM,33.96,2025-07-03,Spring Gala 2025,Meta,donor691@outlook.com,False,email had different case or spaces,warning
+D-200581,Maria Johnson,Donor400@gmail.com,41.5,04/06/2025,General Fund,Google Ads,donor400@gmail.com,False,email had different case or spaces,warning
+D-201616,Grace Garcia,DONOR364@GMAIL.COM,12.57,2026-04-17,spring_gala_2025,Organic,donor364@gmail.com,False,email had different case or spaces,warning
+D-201194,Grace Garcia,DONOR205@GMAIL.COM,117.34,2026-03-24,Superhero Run 2026,Email,donor205@gmail.com,False,email had different case or spaces,warning
+D-201861,Aisha Johnson,DONOR841@YAHOO.COM,284.93,19-Jun-2026,SPRING GALA 2026,Email,donor841@yahoo.com,False,email had different case or spaces,warning
+D-201350,Grace Clark,DONOR534@GMAIL.COM,80.55,2025-11-29,superhero_run_2026,Meta,donor534@gmail.com,False,email had different case or spaces,warning
+D-200409,Paul Wilson,DONOR654@OUTLOOK.COM,73.65,2025-05-30,SPRING GALA 2026,Event,donor654@outlook.com,False,email had different case or spaces,warning
+D-200925,Fatima Garcia,DONOR898@GMAIL.COM,16.2,2025-11-13,Year End Appeal 2025,Organic,donor898@gmail.com,False,email had different case or spaces,warning
+D-203056,David Johnson,DONOR305@YAHOO.COM,43.58,2026-03-04,Light of Hope 2025,Google Ads,donor305@yahoo.com,False,email had different case or spaces,warning
+D-200728,Omar Brown,Donor377@gmail.com,57.38,19-Jan-2025,light_of_hope_2025,Email,donor377@gmail.com,False,email had different case or spaces,warning
+D-202249,Aisha Ahmed,Donor641@yahoo.com,196.41,2025-07-28,Superhero Run 2026,Organic,donor641@yahoo.com,False,email had different case or spaces,warning
+D-203171,Paul Clark,DONOR410@YAHOO.COM,318.09,2026-01-12,Spring Gala 2025,Organic,donor410@yahoo.com,False,email had different case or spaces,warning
+D-200817,Linda Smith,DONOR468@YAHOO.COM,90.04,08/27/2025,Year End Appeal 2025,Organic,donor468@yahoo.com,False,email had different case or spaces,warning
+D-200152,Linda Miller,DONOR700@GMAIL.COM,89.33,04/26/2025,Superhero Run 2026,Google Ads,donor700@gmail.com,False,email had different case or spaces,warning
+D-200478,David Brown,DONOR714@YAHOO.COM,95.03,2025-12-14,Year End Appeal 2025,Email,donor714@yahoo.com,False,email had different case or spaces,warning
+D-200967,Emma Ahmed,Donor463@outlook.com,105.88,2025-01-08,LIGHT OF HOPE 2025,Organic,donor463@outlook.com,False,email had different case or spaces,warning
+D-203514,Sarah Wilson,DONOR596@OUTLOOK.COM,225.6,2026-05-25,Superhero Run 2026,Google Ads,donor596@outlook.com,False,email had different case or spaces,warning
+D-201645,Ali Taylor,Donor314@gmail.com,19.24,26-Oct-2025,General Fund,Google Ads,donor314@gmail.com,False,email had different case or spaces,warning
+D-204002,Paul Brown,DONOR354@OUTLOOK.COM,21.9,2026-04-14,Light of Hope 2025,Email,donor354@outlook.com,False,email had different case or spaces,warning
+D-200332,Grace Garcia,DONOR299@GMAIL.COM,14.41,31-Oct-2025,Year End Appeal 2025,Email,donor299@gmail.com,False,email had different case or spaces,warning
+D-201575,Hassan Taylor,DONOR104@GMAIL.COM,165.81,2025-02-08,year_end_appeal_2025,Organic,donor104@gmail.com,False,email had different case or spaces,warning
+D-203299,John Moore,Donor274@gmail.com,127.19,2025-10-25,year_end_appeal_2025,Event,donor274@gmail.com,False,email had different case or spaces,warning
+D-200472,Ali Taylor,Donor681@gmail.com,22.0,2025-08-03,YEAR END APPEAL 2025,Event,donor681@gmail.com,False,email had different case or spaces,warning
+D-200741,Grace Smith,DONOR606@GMAIL.COM,22.72,2025-04-30,superhero_run_2026,Meta,donor606@gmail.com,False,email had different case or spaces,warning
+D-204187,Fatima Smith,DONOR309@OUTLOOK.COM,252.95,24-Nov-2025,Spring Gala 2026,Event,donor309@outlook.com,False,email had different case or spaces,warning
+D-204189,Sarah Ahmed,DONOR454@GMAIL.COM,245.47,12/30/2025,general_fund,Meta,donor454@gmail.com,False,email had different case or spaces,warning
+D-202598,James Wilson,Donor445@gmail.com,253.13,2026-02-24,Year End Appeal 2025,Organic,donor445@gmail.com,False,email had different case or spaces,warning
+D-202946,Ali Moore,DONOR478@YAHOO.COM,54.91,2025-09-07,Spring Gala 2025,Google Ads,donor478@yahoo.com,False,email had different case or spaces,warning
+D-200777,Emma Johnson,Donor173@yahoo.com,80.66,12/06/2025,superhero_run_2026,Organic,donor173@yahoo.com,False,email had different case or spaces,warning
+D-201889,David Taylor,DONOR383@YAHOO.COM,145.14,2025-11-29,YEAR END APPEAL 2025,Organic,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203120,Linda Davis,DONOR613@OUTLOOK.COM,223.59,2026-06-07,Superhero Run 2026,Google Ads,donor613@outlook.com,False,email had different case or spaces,warning
+D-203724,Maria Johnson,Donor400@gmail.com,17.74,2025-09-16,general_fund,Meta,donor400@gmail.com,False,email had different case or spaces,warning
+D-200208,Emma Moore,Donor456@gmail.com,89.3,09/20/2025,Spring Gala 2025,Meta,donor456@gmail.com,False,email had different case or spaces,warning
+D-203325,James Ahmed,Donor875@outlook.com,31.0,05/14/2025,LIGHT OF HOPE 2025,Organic,donor875@outlook.com,False,email had different case or spaces,warning
+D-202096,David Taylor,Donor383@yahoo.com,88.08,2026-02-09,general_fund,Google Ads,donor383@yahoo.com,False,email had different case or spaces,warning
+D-201590,John Ahmed,Donor85@outlook.com,193.18,25-Mar-2025,spring_gala_2025,Meta,donor85@outlook.com,False,email had different case or spaces,warning
+D-201147,John Khan,Donor712@yahoo.com,24.98,17-Apr-2025,Superhero Run 2026,Google Ads,donor712@yahoo.com,False,email had different case or spaces,warning
+D-202316,Fatima Moore,DONOR758@GMAIL.COM,50.26,02/15/2025,spring_gala_2026,Meta,donor758@gmail.com,False,email had different case or spaces,warning
+D-202089,Omar Taylor,Donor339@gmail.com,12.36,2025-12-17,Year End Appeal 2025,Meta,donor339@gmail.com,False,email had different case or spaces,warning
+D-200597,David Taylor,Donor383@yahoo.com,50.0,2025-05-17,General Fund,Organic,donor383@yahoo.com,False,email had different case or spaces,warning
+D-201931,Linda Wilson,Donor615@outlook.com,237.38,2025-06-26,Spring Gala 2025,Google Ads,donor615@outlook.com,False,email had different case or spaces,warning
+D-201656,Maria Brown,Donor415@yahoo.com,69.92,2025-07-28,light_of_hope_2025,Organic,donor415@yahoo.com,False,email had different case or spaces,warning
+D-200225,James Moore,DONOR575@OUTLOOK.COM,286.35,02/21/2025,general_fund,Email,donor575@outlook.com,False,email had different case or spaces,warning
+D-200205,David Clark,DONOR204@OUTLOOK.COM,76.41,19-Mar-2026,spring_gala_2026,Meta,donor204@outlook.com,False,email had different case or spaces,warning
+D-201046,Maria Wilson,Donor260@outlook.com,84.88,2025-12-12,general_fund,Organic,donor260@outlook.com,False,email had different case or spaces,warning
+D-203349,Fatima Moore,Donor758@gmail.com,33.3,2026-01-09,year_end_appeal_2025,Meta,donor758@gmail.com,False,email had different case or spaces,warning
+D-201676,Aisha Brown,DONOR366@GMAIL.COM,118.68,06/23/2026,Superhero Run 2026,Email,donor366@gmail.com,False,email had different case or spaces,warning
+D-201184,Paul Wilson,DONOR595@YAHOO.COM,13.68,06-Jun-2026,Superhero Run 2026,Google Ads,donor595@yahoo.com,False,email had different case or spaces,warning
+D-200656,John Khan,Donor712@yahoo.com,220.01,26-Apr-2026,GENERAL FUND,Google Ads,donor712@yahoo.com,False,email had different case or spaces,warning
+D-201737,David Brown,Donor714@yahoo.com,54.03,2025-05-28,Spring Gala 2025,Email,donor714@yahoo.com,False,email had different case or spaces,warning
+D-201419,Mark Clark,DONOR412@YAHOO.COM,101.1,2025-08-20,Spring Gala 2026,Meta,donor412@yahoo.com,False,email had different case or spaces,warning
+D-200399,Mark Taylor,DONOR335@YAHOO.COM,426.5,16-Nov-2025,Spring Gala 2025,Meta,donor335@yahoo.com,False,email had different case or spaces,warning
+D-203819,Maria Garcia,Donor610@gmail.com,28.74,2025-05-27,SPRING GALA 2026,Google Ads,donor610@gmail.com,False,email had different case or spaces,warning
+D-202847,John Ahmed,DONOR85@OUTLOOK.COM,302.69,2026-02-19,light_of_hope_2025,Email,donor85@outlook.com,False,email had different case or spaces,warning
+D-202322,Fatima Clark,Donor748@outlook.com,33.94,21-Mar-2025,YEAR END APPEAL 2025,Email,donor748@outlook.com,False,email had different case or spaces,warning
+D-204042,Linda Johnson,DONOR558@YAHOO.COM,354.55,2026-01-27,Spring Gala 2026,Google Ads,donor558@yahoo.com,False,email had different case or spaces,warning
+R-17,Omar Taylor,Donor339@gmail.com,-12.36,2025-12-17,Year End Appeal 2025,Meta,donor339@gmail.com,True,email had different case or spaces,warning
+D-200379,Sarah Clark,Donor832@outlook.com,367.45,09/12/2025,SPRING GALA 2025,Organic,donor832@outlook.com,False,email had different case or spaces,warning
+D-200171,Linda Clark,DONOR125@YAHOO.COM,15.47,2025-01-10,General Fund,Email,donor125@yahoo.com,False,email had different case or spaces,warning
+D-201944,Fatima Garcia,DONOR437@GMAIL.COM,128.31,2026-03-02,Year End Appeal 2025,Email,donor437@gmail.com,False,email had different case or spaces,warning
+D-202430,David Johnson,DONOR143@GMAIL.COM,215.43,03-Jun-2026,general_fund,Google Ads,donor143@gmail.com,False,email had different case or spaces,warning
+D-202528,Mark Wilson,Donor803@outlook.com,204.84,05/30/2026,Spring Gala 2026,Email,donor803@outlook.com,False,email had different case or spaces,warning
+D-203770,Sarah Ahmed,Donor454@gmail.com,32.7,03/14/2026,GENERAL FUND,Email,donor454@gmail.com,False,email had different case or spaces,warning
+D-203808,Ali Smith,Donor766@gmail.com,49.31,2025-05-03,Light of Hope 2025,Email,donor766@gmail.com,False,email had different case or spaces,warning
+D-204109,Aisha Smith,Donor19@outlook.com,193.48,03/26/2025,SPRING GALA 2026,Google Ads,donor19@outlook.com,False,email had different case or spaces,warning
+D-201066,John Davis,Donor405@yahoo.com,210.29,06/13/2025,General Fund,Organic,donor405@yahoo.com,False,email had different case or spaces,warning
+D-200038,David Khan,Donor73@outlook.com,31.0,2025-08-26,Spring Gala 2025,Event,donor73@outlook.com,False,email had different case or spaces,warning
+D-202830,Aisha Moore,Donor5@gmail.com,18.51,12/01/2025,Spring Gala 2025,Google Ads,donor5@gmail.com,False,email had different case or spaces,warning
+D-202861,Omar Garcia,Donor611@outlook.com,58.43,2025-02-16,Spring Gala 2026,Google Ads,donor611@outlook.com,False,email had different case or spaces,warning
+D-202414,Sarah Khan,Donor296@outlook.com,105.91,2025-11-26,GENERAL FUND,Organic,donor296@outlook.com,False,email had different case or spaces,warning
+D-204161,John Davis,Donor485@outlook.com,375.0,2025-09-19,Spring Gala 2026,Organic,donor485@outlook.com,False,email had different case or spaces,warning
+D-203396,John Khan,DONOR92@OUTLOOK.COM,50.98,2025-06-12,Light of Hope 2025,Email,donor92@outlook.com,False,email had different case or spaces,warning
+D-201775,Sarah Johnson,DONOR554@YAHOO.COM,18.92,2026-04-06,General Fund,Email,donor554@yahoo.com,False,email had different case or spaces,warning
+D-200570,Ali Smith,DONOR457@YAHOO.COM,377.91,2025-11-24,GENERAL FUND,Google Ads,donor457@yahoo.com,False,email had different case or spaces,warning
+D-201049,John Wilson,Donor667@outlook.com,67.98,2025-10-24,Superhero Run 2026,Email,donor667@outlook.com,False,email had different case or spaces,warning
+D-203742,Maria Miller,Donor409@yahoo.com,287.2,2026-04-24,LIGHT OF HOPE 2025,Meta,donor409@yahoo.com,False,email had different case or spaces,warning
+D-204157,Linda Clark,DONOR521@GMAIL.COM,13.99,2025-06-03,Light of Hope 2025,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-202153,Linda Clark,Donor521@gmail.com,33.25,31-Mar-2025,year_end_appeal_2025,Meta,donor521@gmail.com,False,email had different case or spaces,warning
+D-200673,Maria Brown,DONOR415@YAHOO.COM,287.97,12/14/2025,Spring Gala 2026,Event,donor415@yahoo.com,False,email had different case or spaces,warning
+D-204071,David Taylor,Donor383@yahoo.com,54.61,2025-05-22,Year End Appeal 2025,Google Ads,donor383@yahoo.com,False,email had different case or spaces,warning
+D-201532,Grace Smith,Donor480@outlook.com,71.8,2026-04-09,Light of Hope 2025,Meta,donor480@outlook.com,False,email had different case or spaces,warning
+D-200211,Sarah Taylor,DONOR881@YAHOO.COM,173.0,2025-06-25,Superhero Run 2026,Event,donor881@yahoo.com,False,email had different case or spaces,warning
+D-203147,Fatima Garcia,Donor503@outlook.com,31.54,2025-07-18,light_of_hope_2025,Meta,donor503@outlook.com,False,email had different case or spaces,warning
+D-202899,John Moore,Donor229@yahoo.com,63.04,28-Oct-2025,Light of Hope 2025,Meta,donor229@yahoo.com,False,email had different case or spaces,warning
+D-201973,Maria Miller,DONOR573@YAHOO.COM,65.34,2025-11-08,Superhero Run 2026,Event,donor573@yahoo.com,False,email had different case or spaces,warning
+D-203679,Maria Clark,DONOR784@YAHOO.COM,57.2,2026-02-26,SUPERHERO RUN 2026,Email,donor784@yahoo.com,False,email had different case or spaces,warning
+D-200646,Linda Johnson,DONOR749@GMAIL.COM,261.04,2025-09-29,Spring Gala 2026,Google Ads,donor749@gmail.com,False,email had different case or spaces,warning
+D-200708,John Davis,Donor485@outlook.com,28.0,30-Oct-2025,Spring Gala 2026,Email,donor485@outlook.com,False,email had different case or spaces,warning
+D-203157,Sarah Taylor,DONOR881@YAHOO.COM,47.21,23-Nov-2025,Year End Appeal 2025,Organic,donor881@yahoo.com,False,email had different case or spaces,warning
+D-204084,Emma Johnson,Donor688@outlook.com,745.11,2025-01-19,year_end_appeal_2025,Email,donor688@outlook.com,False,email had different case or spaces,warning
+D-201860,Omar Miller,DONOR238@GMAIL.COM,567.54,2025-09-19,Light of Hope 2025,Organic,donor238@gmail.com,False,email had different case or spaces,warning
+D-202128,Linda Davis,DONOR613@OUTLOOK.COM,51.0,2025-01-17,Spring Gala 2026,Meta,donor613@outlook.com,False,email had different case or spaces,warning
+D-201461,John Moore,Donor877@outlook.com,67.83,2025-03-28,superhero_run_2026,Event,donor877@outlook.com,False,email had different case or spaces,warning
+D-201484,Linda Brown,Donor264@outlook.com,134.58,2026-03-17,YEAR END APPEAL 2025,Organic,donor264@outlook.com,False,email had different case or spaces,warning
+D-202545,Grace Brown,Donor256@yahoo.com,153.73,03/25/2026,Year End Appeal 2025,Organic,donor256@yahoo.com,False,email had different case or spaces,warning
+D-203121,Ali Ahmed,Donor416@outlook.com,218.94,2025-11-15,YEAR END APPEAL 2025,Organic,donor416@outlook.com,False,email had different case or spaces,warning
+D-201004,Aisha Ahmed,Donor641@yahoo.com,19.37,08/01/2025,General Fund,Organic,donor641@yahoo.com,False,email had different case or spaces,warning
+D-200436,Mark Garcia,Donor441@outlook.com,209.99,2025-11-17,Spring Gala 2026,Meta,donor441@outlook.com,False,email had different case or spaces,warning
+D-201003,Ali Taylor,Donor755@gmail.com,64.0,2026-01-17,General Fund,Email,donor755@gmail.com,False,email had different case or spaces,warning
+D-201823,Aisha Moore,Donor640@gmail.com,187.27,08-Jun-2026,Superhero Run 2026,Event,donor640@gmail.com,False,email had different case or spaces,warning
+R-60,Omar Wilson,Donor119@gmail.com,-230.1,2025-01-24,Year End Appeal 2025,Google Ads,donor119@gmail.com,True,email had different case or spaces,warning
+D-201836,Aisha Miller,Donor190@yahoo.com,91.01,04/27/2026,Spring Gala 2025,Organic,donor190@yahoo.com,False,email had different case or spaces,warning
+D-202282,Omar Moore,Donor569@yahoo.com,20.88,2025-11-25,Spring Gala 2026,Organic,donor569@yahoo.com,False,email had different case or spaces,warning
+D-203043,Linda Wilson,Donor13@yahoo.com,212.61,29-Oct-2025,LIGHT OF HOPE 2025,Organic,donor13@yahoo.com,False,email had different case or spaces,warning
+D-200088,Linda Davis,Donor21@gmail.com,61.1,2026-02-13,LIGHT OF HOPE 2025,Organic,donor21@gmail.com,False,email had different case or spaces,warning
+D-200543,Grace Miller,DONOR732@GMAIL.COM,109.31,2025-03-15,Spring Gala 2025,Organic,donor732@gmail.com,False,email had different case or spaces,warning
+D-201241,James Taylor,DONOR532@YAHOO.COM,12.34,2026-04-18,Light of Hope 2025,Organic,donor532@yahoo.com,False,email had different case or spaces,warning
+D-202760,Emma Ahmed,Donor463@outlook.com,31.95,2025-09-08,year_end_appeal_2025,Organic,donor463@outlook.com,False,email had different case or spaces,warning
+D-200878,Aisha Smith,Donor41@yahoo.com,466.68,2026-04-03,year_end_appeal_2025,Google Ads,donor41@yahoo.com,False,email had different case or spaces,warning
+D-200825,Omar Taylor,DONOR8@GMAIL.COM,147.28,2025-06-13,Spring Gala 2026,Organic,donor8@gmail.com,False,email had different case or spaces,warning
+D-203718,John Davis,Donor588@outlook.com,62.33,2025-01-12,Superhero Run 2026,Google Ads,donor588@outlook.com,False,email had different case or spaces,warning
+D-203550,Linda Wilson,DONOR113@GMAIL.COM,55.1,30-Jan-2026,Superhero Run 2026,Organic,donor113@gmail.com,False,email had different case or spaces,warning
+D-200137,Fatima Davis,Donor218@yahoo.com,293.16,2025-03-21,LIGHT OF HOPE 2025,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-201581,Hassan Johnson,Donor233@gmail.com,206.76,09/21/2025,Spring Gala 2026,Google Ads,donor233@gmail.com,False,email had different case or spaces,warning
+D-204030,Ali Smith,Donor457@yahoo.com,7.7,04/16/2026,Spring Gala 2025,Email,donor457@yahoo.com,False,email had different case or spaces,warning
+D-202083,Aisha Khan,DONOR694@YAHOO.COM,393.6,2025-09-14,GENERAL FUND,Google Ads,donor694@yahoo.com,False,email had different case or spaces,warning
+D-200148,John Davis,DONOR588@OUTLOOK.COM,201.0,06/15/2026,Year End Appeal 2025,Email,donor588@outlook.com,False,email had different case or spaces,warning
+D-203262,Linda Clark,DONOR521@GMAIL.COM,20.08,2026-06-18,LIGHT OF HOPE 2025,Organic,donor521@gmail.com,False,email had different case or spaces,warning
+D-200404,Hassan Wilson,Donor686@outlook.com,63.0,2026-04-09,General Fund,Google Ads,donor686@outlook.com,False,email had different case or spaces,warning
+D-200902,Paul Khan,Donor492@yahoo.com,131.92,19-Jun-2026,Year End Appeal 2025,Event,donor492@yahoo.com,False,email had different case or spaces,warning
+D-200685,Sarah Taylor,Donor69@gmail.com,28.91,2026-05-29,spring_gala_2025,Meta,donor69@gmail.com,False,email had different case or spaces,warning
+D-203432,Aisha Smith,DONOR41@YAHOO.COM,507.18,2026-03-13,Spring Gala 2026,Organic,donor41@yahoo.com,False,email had different case or spaces,warning
+D-203500,Emma Wilson,DONOR189@OUTLOOK.COM,71.86,08/02/2025,Spring Gala 2026,Meta,donor189@outlook.com,False,email had different case or spaces,warning
+D-203193,Aisha Smith,DONOR692@YAHOO.COM,124.89,2026-04-24,Superhero Run 2026,Meta,donor692@yahoo.com,False,email had different case or spaces,warning
+D-201446,Sarah Taylor,DONOR519@YAHOO.COM,55.12,05/04/2025,Year End Appeal 2025,Organic,donor519@yahoo.com,False,email had different case or spaces,warning
+D-203028,Fatima Smith,DONOR810@OUTLOOK.COM,120.44,03-Mar-2026,General Fund,Meta,donor810@outlook.com,False,email had different case or spaces,warning
+D-201319,Grace Smith,Donor870@gmail.com,218.65,2025-10-09,General Fund,Organic,donor870@gmail.com,False,email had different case or spaces,warning
+D-200679,Linda Davis,DONOR613@OUTLOOK.COM,12.59,2025-11-08,LIGHT OF HOPE 2025,Email,donor613@outlook.com,False,email had different case or spaces,warning
+D-201093,Fatima Johnson,Donor789@gmail.com,354.81,07-Jun-2025,superhero_run_2026,Organic,donor789@gmail.com,False,email had different case or spaces,warning
+D-200080,Hassan Miller,DONOR795@GMAIL.COM,327.88,04/22/2026,light_of_hope_2025,Organic,donor795@gmail.com,False,email had different case or spaces,warning
+D-201950,Ali Davis,DONOR0@OUTLOOK.COM,141.48,2026-06-27,Light of Hope 2025,Email,donor0@outlook.com,False,email had different case or spaces,warning
+D-202800,Mark Khan,DONOR321@GMAIL.COM,18.1,2026-06-13,Year End Appeal 2025,Email,donor321@gmail.com,False,email had different case or spaces,warning
+D-200696,Mark Clark,DONOR506@YAHOO.COM,58.1,11-May-2026,Spring Gala 2025,Google Ads,donor506@yahoo.com,False,email had different case or spaces,warning
+D-201934,Sarah Khan,Donor499@yahoo.com,129.0,01/18/2026,LIGHT OF HOPE 2025,Meta,donor499@yahoo.com,False,email had different case or spaces,warning
+D-203563,Emma Moore,DONOR557@GMAIL.COM,113.47,2025-07-27,Spring Gala 2026,Meta,donor557@gmail.com,False,email had different case or spaces,warning
+D-201964,Maria Brown,Donor415@yahoo.com,177.64,2025-12-03,Spring Gala 2026,Event,donor415@yahoo.com,False,email had different case or spaces,warning
+D-201295,Maria Brown,Donor415@yahoo.com,6.92,2026-02-09,Spring Gala 2025,Event,donor415@yahoo.com,False,email had different case or spaces,warning
+D-200277,John Ahmed,DONOR464@YAHOO.COM,34.01,2026-05-25,spring_gala_2026,Organic,donor464@yahoo.com,False,email had different case or spaces,warning
+D-201548,James Davis,DONOR194@GMAIL.COM,31.57,2026-03-31,SUPERHERO RUN 2026,Event,donor194@gmail.com,False,email had different case or spaces,warning
+D-203065,Omar Miller,Donor872@gmail.com,31.38,12/06/2025,SPRING GALA 2025,Email,donor872@gmail.com,False,email had different case or spaces,warning
+D-200388,Fatima Khan,DONOR168@YAHOO.COM,30.97,05-Apr-2026,spring_gala_2026,Event,donor168@yahoo.com,False,email had different case or spaces,warning
+D-203887,Emma Davis,Donor266@outlook.com,32.36,2026-06-15,spring_gala_2025,Email,donor266@outlook.com,False,email had different case or spaces,warning
+D-202251,Emma Garcia,DONOR539@OUTLOOK.COM,18.26,04/17/2025,Light of Hope 2025,Google Ads,donor539@outlook.com,False,email had different case or spaces,warning
+D-202849,Sarah Taylor,DONOR881@YAHOO.COM,58.2,2025-12-24,YEAR END APPEAL 2025,Google Ads,donor881@yahoo.com,False,email had different case or spaces,warning
+D-203103,Ali Taylor,Donor314@gmail.com,11.67,07/29/2025,year_end_appeal_2025,Google Ads,donor314@gmail.com,False,email had different case or spaces,warning
+D-204126,James Ahmed,Donor875@outlook.com,29.46,12/17/2025,LIGHT OF HOPE 2025,Organic,donor875@outlook.com,False,email had different case or spaces,warning
+D-203477,Mark Clark,DONOR412@YAHOO.COM,13.94,2025-04-06,year_end_appeal_2025,Email,donor412@yahoo.com,False,email had different case or spaces,warning
+D-202344,Omar Clark,Donor791@yahoo.com,36.03,07/21/2025,Spring Gala 2025,Event,donor791@yahoo.com,False,email had different case or spaces,warning
+D-200591,Fatima Davis,Donor218@yahoo.com,194.74,05/16/2025,Spring Gala 2026,Google Ads,donor218@yahoo.com,False,email had different case or spaces,warning
+D-202815,Maria Clark,DONOR561@GMAIL.COM,224.58,26-May-2026,general_fund,Google Ads,donor561@gmail.com,False,email had different case or spaces,warning
+D-203868,John Clark,Donor593@gmail.com,232.0,01/04/2026,Light of Hope 2025,Email,donor593@gmail.com,False,email had different case or spaces,warning
+D-202299,John Johnson,DONOR252@GMAIL.COM,45.97,03/23/2026,LIGHT OF HOPE 2025,Google Ads,donor252@gmail.com,False,email had different case or spaces,warning
+D-203124,Grace Smith,DONOR856@OUTLOOK.COM,113.27,03/29/2026,Light of Hope 2025,Organic,donor856@outlook.com,False,email had different case or spaces,warning
+D-200273,Omar Khan,DONOR185@GMAIL.COM,207.03,2026-03-11,Light of Hope 2025,Google Ads,donor185@gmail.com,False,email had different case or spaces,warning
+D-204004,David Miller,Donor395@yahoo.com,75.57,2025-07-26,Light of Hope 2025,Email,donor395@yahoo.com,False,email had different case or spaces,warning
+D-203858,John Khan,Donor92@outlook.com,169.76,02/26/2025,spring_gala_2026,Organic,donor92@outlook.com,False,email had different case or spaces,warning
+D-200239,Linda Davis,Donor613@outlook.com,270.65,04-Mar-2025,Superhero Run 2026,Google Ads,donor613@outlook.com,False,email had different case or spaces,warning
+D-202840,Sarah Khan,Donor156@gmail.com,67.1,11/01/2025,Spring Gala 2026,Meta,donor156@gmail.com,False,email had different case or spaces,warning
+D-201053,Omar Moore,DONOR326@GMAIL.COM,33.16,2025-12-31,SPRING GALA 2025,Meta,donor326@gmail.com,False,email had different case or spaces,warning
+R-33,Omar Johnson,Donor743@gmail.com,-250.18,09/11/2025,GENERAL FUND,Organic,donor743@gmail.com,True,email had different case or spaces,warning
+D-200775,Fatima Ahmed,DONOR134@OUTLOOK.COM,64.0,2026-05-15,Spring Gala 2026,Event,donor134@outlook.com,False,email had different case or spaces,warning
+D-200839,Ali Davis,Donor212@outlook.com,98.48,2026-02-28,superhero_run_2026,Meta,donor212@outlook.com,False,email had different case or spaces,warning
+D-200627,Hassan Johnson,Donor233@gmail.com,46.76,2026-01-06,Spring Gala 2026,Event,donor233@gmail.com,False,email had different case or spaces,warning
+D-201839,James Taylor,DONOR532@YAHOO.COM,59.99,2025-08-26,YEAR END APPEAL 2025,Email,donor532@yahoo.com,False,email had different case or spaces,warning
+D-201026,Ali Brown,Donor179@gmail.com,240.49,12-Aug-2025,spring_gala_2025,Organic,donor179@gmail.com,False,email had different case or spaces,warning
+D-200406,Emma Brown,Donor130@gmail.com,141.18,2026-02-17,GENERAL FUND,Organic,donor130@gmail.com,False,email had different case or spaces,warning
+D-203631,Maria Khan,Donor38@outlook.com,435.87,2025-01-25,Year End Appeal 2025,Organic,donor38@outlook.com,False,email had different case or spaces,warning
+D-203824,Ali Brown,Donor35@outlook.com,25.17,04/27/2026,Spring Gala 2025,Google Ads,donor35@outlook.com,False,email had different case or spaces,warning
+D-200968,John Davis,DONOR485@OUTLOOK.COM,92.46,04/17/2026,superhero_run_2026,Email,donor485@outlook.com,False,email had different case or spaces,warning
+D-203383,Maria Moore,DONOR604@GMAIL.COM,62.85,2025-10-05,LIGHT OF HOPE 2025,Email,donor604@gmail.com,False,email had different case or spaces,warning
+D-200689,Grace Davis,DONOR385@GMAIL.COM,53.45,2026-04-23,General Fund,Email,donor385@gmail.com,False,email had different case or spaces,warning
+D-203109,Sarah Wilson,DONOR607@YAHOO.COM,251.0,2025-06-03,light_of_hope_2025,Google Ads,donor607@yahoo.com,False,email had different case or spaces,warning
+D-201983,Grace Wilson,DONOR166@OUTLOOK.COM,251.0,2025-04-22,year_end_appeal_2025,Event,donor166@outlook.com,False,email had different case or spaces,warning
+D-200390,Emma Moore,DONOR729@OUTLOOK.COM,32.61,2025-05-18,YEAR END APPEAL 2025,Organic,donor729@outlook.com,False,email had different case or spaces,warning
+D-202400,John Khan,DONOR92@OUTLOOK.COM,61.0,02/21/2025,spring_gala_2025,Organic,donor92@outlook.com,False,email had different case or spaces,warning
+D-200235,Aisha Moore,Donor640@gmail.com,150.85,03/30/2025,Spring Gala 2026,Email,donor640@gmail.com,False,email had different case or spaces,warning
+D-202042,John Clark,DONOR404@YAHOO.COM,578.16,09-Jun-2025,LIGHT OF HOPE 2025,Google Ads,donor404@yahoo.com,False,email had different case or spaces,warning
+D-203188,Ali Khan,DONOR137@YAHOO.COM,37.47,2025-03-04,Spring Gala 2025,Event,donor137@yahoo.com,False,email had different case or spaces,warning
+D-201677,Mark Clark,Donor412@yahoo.com,71.14,2025-01-09,Superhero Run 2026,Organic,donor412@yahoo.com,False,email had different case or spaces,warning
+D-200044,Grace Smith,Donor856@outlook.com,128.36,2025-03-02,LIGHT OF HOPE 2025,Google Ads,donor856@outlook.com,False,email had different case or spaces,warning
+D-203992,Ali Davis,DONOR0@OUTLOOK.COM,78.42,2026-01-15,Superhero Run 2026,Google Ads,donor0@outlook.com,False,email had different case or spaces,warning
+D-204086,Fatima Taylor,DONOR275@GMAIL.COM,4.82,09-Jul-2025,SPRING GALA 2025,Google Ads,donor275@gmail.com,False,email had different case or spaces,warning
+D-203815,Omar Clark,DONOR791@YAHOO.COM,59.75,2025-09-20,spring_gala_2026,Email,donor791@yahoo.com,False,email had different case or spaces,warning
+D-201272,Linda Davis,DONOR613@OUTLOOK.COM,50.85,2026-04-01,superhero_run_2026,Event,donor613@outlook.com,False,email had different case or spaces,warning
+D-203525,Omar Moore,DONOR430@YAHOO.COM,112.0,2026-03-18,Light of Hope 2025,Organic,donor430@yahoo.com,False,email had different case or spaces,warning
+D-200926,Omar Johnson,DONOR213@YAHOO.COM,22.54,2025-03-27,spring_gala_2025,Organic,donor213@yahoo.com,False,email had different case or spaces,warning
+D-202563,John Khan,Donor712@yahoo.com,45.29,21-Feb-2026,Year End Appeal 2025,Google Ads,donor712@yahoo.com,False,email had different case or spaces,warning
+D-200223,Fatima Moore,DONOR562@GMAIL.COM,66.5,2025-04-18,Spring Gala 2025,Google Ads,donor562@gmail.com,False,email had different case or spaces,warning
+D-200613,David Moore,DONOR268@YAHOO.COM,56.83,21-May-2025,LIGHT OF HOPE 2025,Event,donor268@yahoo.com,False,email had different case or spaces,warning
+D-202891,Sarah Johnson,Donor849@gmail.com,226.01,2025-12-20,SPRING GALA 2026,Google Ads,donor849@gmail.com,False,email had different case or spaces,warning
+D-201540,David Taylor,Donor383@yahoo.com,179.77,2026-03-15,spring_gala_2025,Google Ads,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203458,Fatima Wilson,Donor11@yahoo.com,208.81,2025-10-07,Year End Appeal 2025,Meta,donor11@yahoo.com,False,email had different case or spaces,warning
+D-200155,Grace Brown,DONOR256@YAHOO.COM,161.72,05/06/2025,Light of Hope 2025,Organic,donor256@yahoo.com,False,email had different case or spaces,warning
+D-203414,Ali Miller,Donor324@outlook.com,322.94,2026-06-16,spring_gala_2025,Meta,donor324@outlook.com,False,email had different case or spaces,warning
+R-63,Sarah Garcia,Donor45@outlook.com,-13.25,05/31/2025,SPRING GALA 2026,Email,donor45@outlook.com,True,email had different case or spaces,warning
+D-201894,Sarah Taylor,DONOR881@YAHOO.COM,151.16,03/30/2026,spring_gala_2026,Google Ads,donor881@yahoo.com,False,email had different case or spaces,warning
+D-202029,Linda Brown,DONOR527@GMAIL.COM,110.14,11-Jan-2026,spring_gala_2025,Email,donor527@gmail.com,False,email had different case or spaces,warning
+D-203189,Linda Johnson,DONOR742@OUTLOOK.COM,65.69,16-Jan-2025,Spring Gala 2026,Google Ads,donor742@outlook.com,False,email had different case or spaces,warning
+D-202198,John Khan,Donor712@yahoo.com,34.34,12/26/2025,light_of_hope_2025,Organic,donor712@yahoo.com,False,email had different case or spaces,warning
+D-203611,Mark Brown,DONOR631@OUTLOOK.COM,92.43,01-Aug-2025,general_fund,Event,donor631@outlook.com,False,email had different case or spaces,warning
+D-202429,Paul Davis,Donor896@gmail.com,94.39,2025-01-28,Superhero Run 2026,Organic,donor896@gmail.com,False,email had different case or spaces,warning
+D-201451,Maria Moore,Donor44@yahoo.com,94.73,2025-05-10,spring_gala_2025,Email,donor44@yahoo.com,False,email had different case or spaces,warning
+D-202952,John Khan,Donor712@yahoo.com,21.11,07/02/2025,General Fund,Google Ads,donor712@yahoo.com,False,email had different case or spaces,warning
+D-201798,Linda Smith,Donor468@yahoo.com,94.0,2025-10-27,general_fund,Google Ads,donor468@yahoo.com,False,email had different case or spaces,warning
+R-24,Fatima Brown,DONOR745@OUTLOOK.COM,-120.0,08/14/2025,General Fund,Email,donor745@outlook.com,True,email had different case or spaces,warning
+D-200082,Sarah Garcia,DONOR45@OUTLOOK.COM,115.23,2025-08-31,Spring Gala 2026,Google Ads,donor45@outlook.com,False,email had different case or spaces,warning
+D-203536,James Wilson,Donor489@outlook.com,497.0,2026-06-26,LIGHT OF HOPE 2025,Email,donor489@outlook.com,False,email had different case or spaces,warning
+D-202977,Aisha Johnson,Donor443@outlook.com,257.1,2025-10-01,general_fund,Meta,donor443@outlook.com,False,email had different case or spaces,warning
+D-202723,Paul Khan,DONOR492@YAHOO.COM,184.84,10/25/2025,Superhero Run 2026,Organic,donor492@yahoo.com,False,email had different case or spaces,warning
+D-203405,David Taylor,DONOR383@YAHOO.COM,147.29,11/12/2025,GENERAL FUND,Meta,donor383@yahoo.com,False,email had different case or spaces,warning
+D-200614,Paul Brown,Donor354@outlook.com,37.79,2025-04-20,Light of Hope 2025,Email,donor354@outlook.com,False,email had different case or spaces,warning
+D-203093,Ali Garcia,DONOR91@YAHOO.COM,120.81,04/02/2025,spring_gala_2026,Google Ads,donor91@yahoo.com,False,email had different case or spaces,warning
+D-202137,Aisha Ahmed,DONOR641@YAHOO.COM,172.63,04/27/2026,SPRING GALA 2025,Organic,donor641@yahoo.com,False,email had different case or spaces,warning
+D-203057,Paul Taylor,Donor587@gmail.com,100.77,2025-07-21,spring_gala_2026,Meta,donor587@gmail.com,False,email had different case or spaces,warning
+D-203404,James Ahmed,Donor730@yahoo.com,40.74,2025-03-26,Spring Gala 2025,Meta,donor730@yahoo.com,False,email had different case or spaces,warning
+D-202600,John Wilson,DONOR667@OUTLOOK.COM,241.26,2026-03-04,Spring Gala 2026,Email,donor667@outlook.com,False,email had different case or spaces,warning
+D-203376,Sarah Khan,Donor296@outlook.com,125.43,09/14/2025,Year End Appeal 2025,Google Ads,donor296@outlook.com,False,email had different case or spaces,warning
+D-201055,Linda Clark,DONOR521@GMAIL.COM,19.17,02/18/2026,SPRING GALA 2026,Organic,donor521@gmail.com,False,email had different case or spaces,warning
+D-200796,Emma Ahmed,DONOR463@OUTLOOK.COM,12.36,06/04/2026,GENERAL FUND,Meta,donor463@outlook.com,False,email had different case or spaces,warning
+D-204183,Maria Johnson,DONOR863@YAHOO.COM,220.4,04-Feb-2025,superhero_run_2026,Organic,donor863@yahoo.com,False,email had different case or spaces,warning
+D-200245,John Clark,Donor432@gmail.com,61.07,28-Oct-2025,spring_gala_2026,Event,donor432@gmail.com,False,email had different case or spaces,warning
+D-200090,James Davis,Donor387@yahoo.com,42.95,12/09/2025,General Fund,Google Ads,donor387@yahoo.com,False,email had different case or spaces,warning
+D-203464,Linda Wilson,Donor615@outlook.com,16.6,04/15/2026,SPRING GALA 2026,Email,donor615@outlook.com,False,email had different case or spaces,warning
+D-203431,Aisha Moore,Donor481@yahoo.com,39.06,05/27/2025,year_end_appeal_2025,Organic,donor481@yahoo.com,False,email had different case or spaces,warning
+D-201956,Hassan Wilson,Donor592@gmail.com,83.72,05/15/2026,Spring Gala 2026,Email,donor592@gmail.com,False,email had different case or spaces,warning
+D-201909,Paul Wilson,Donor654@outlook.com,78.16,18-Apr-2026,Year End Appeal 2025,Email,donor654@outlook.com,False,email had different case or spaces,warning
+D-203979,John Moore,Donor676@outlook.com,45.54,2025-01-13,YEAR END APPEAL 2025,Email,donor676@outlook.com,False,email had different case or spaces,warning
+D-202291,Mark Davis,Donor476@outlook.com,35.59,2026-01-24,Year End Appeal 2025,Meta,donor476@outlook.com,False,email had different case or spaces,warning
+D-201500,John Wilson,DONOR111@OUTLOOK.COM,61.64,2025-06-11,SUPERHERO RUN 2026,Event,donor111@outlook.com,False,email had different case or spaces,warning
+D-202262,James Khan,DONOR242@OUTLOOK.COM,17.25,2026-02-11,Light of Hope 2025,Meta,donor242@outlook.com,False,email had different case or spaces,warning
+D-201468,Grace Smith,DONOR606@GMAIL.COM,81.06,2025-11-22,Spring Gala 2026,Meta,donor606@gmail.com,False,email had different case or spaces,warning
+D-203928,Grace Wilson,Donor166@outlook.com,124.09,02/11/2025,general_fund,Organic,donor166@outlook.com,False,email had different case or spaces,warning
+D-203245,Sarah Brown,Donor722@yahoo.com,87.36,30-Mar-2025,Spring Gala 2026,Meta,donor722@yahoo.com,False,email had different case or spaces,warning
+D-202204,Linda Brown,Donor43@gmail.com,58.6,2025-02-14,Year End Appeal 2025,Event,donor43@gmail.com,False,email had different case or spaces,warning
+D-201142,John Ahmed,Donor120@gmail.com,107.45,2025-09-18,YEAR END APPEAL 2025,Event,donor120@gmail.com,False,email had different case or spaces,warning
+D-201585,Sarah Ahmed,DONOR899@GMAIL.COM,218.2,05/31/2026,Light of Hope 2025,Organic,donor899@gmail.com,False,email had different case or spaces,warning
+D-202007,John Moore,Donor477@gmail.com,226.45,01/01/2025,Superhero Run 2026,Event,donor477@gmail.com,False,email had different case or spaces,warning
+D-203764,Grace Smith,DONOR606@GMAIL.COM,194.0,2026-01-27,Spring Gala 2025,Event,donor606@gmail.com,False,email had different case or spaces,warning
+D-201866,John Davis,Donor485@outlook.com,25.98,2025-10-20,general_fund,Meta,donor485@outlook.com,False,email had different case or spaces,warning
+D-202874,Sarah Moore,DONOR629@OUTLOOK.COM,47.62,18-Feb-2025,LIGHT OF HOPE 2025,Organic,donor629@outlook.com,False,email had different case or spaces,warning
+D-202183,Mark Khan,Donor321@gmail.com,13.17,12-May-2026,GENERAL FUND,Meta,donor321@gmail.com,False,email had different case or spaces,warning
+D-203267,John Wilson,DONOR757@YAHOO.COM,35.78,2025-11-04,spring_gala_2026,Organic,donor757@yahoo.com,False,email had different case or spaces,warning
+D-203007,Mark Khan,Donor29@yahoo.com,27.14,03/17/2026,superhero_run_2026,Google Ads,donor29@yahoo.com,False,email had different case or spaces,warning
+D-201525,Emma Wilson,Donor187@yahoo.com,77.25,2026-05-28,Superhero Run 2026,Google Ads,donor187@yahoo.com,False,email had different case or spaces,warning
+D-202341,Omar Garcia,DONOR871@GMAIL.COM,176.94,04/04/2026,Year End Appeal 2025,Google Ads,donor871@gmail.com,False,email had different case or spaces,warning
+D-203758,Emma Moore,DONOR557@GMAIL.COM,169.45,2026-04-19,SPRING GALA 2026,Meta,donor557@gmail.com,False,email had different case or spaces,warning
+D-200424,David Clark,DONOR435@GMAIL.COM,68.45,2025-09-27,Spring Gala 2026,Email,donor435@gmail.com,False,email had different case or spaces,warning
+D-201065,Linda Wilson,DONOR13@YAHOO.COM,397.48,2026-04-24,SPRING GALA 2026,Google Ads,donor13@yahoo.com,False,email had different case or spaces,warning
+D-203266,John Smith,Donor528@outlook.com,51.59,16-Sep-2025,Spring Gala 2026,Email,donor528@outlook.com,False,email had different case or spaces,warning
+D-200969,David Ahmed,DONOR231@OUTLOOK.COM,74.35,2026-04-13,Spring Gala 2026,Meta,donor231@outlook.com,False,email had different case or spaces,warning
+D-201148,Fatima Smith,Donor413@outlook.com,463.34,29-Jun-2025,spring_gala_2025,Email,donor413@outlook.com,False,email had different case or spaces,warning
+D-203755,Fatima Wilson,Donor11@yahoo.com,49.0,20-Jan-2026,spring_gala_2026,Email,donor11@yahoo.com,False,email had different case or spaces,warning
+D-203540,Fatima Khan,Donor680@yahoo.com,33.89,2025-12-11,spring_gala_2025,Google Ads,donor680@yahoo.com,False,email had different case or spaces,warning
+D-203270,Fatima Davis,Donor218@yahoo.com,105.47,2025-01-27,Spring Gala 2026,Meta,donor218@yahoo.com,False,email had different case or spaces,warning
+D-201941,David Taylor,DONOR650@GMAIL.COM,90.28,2026-05-13,Year End Appeal 2025,Google Ads,donor650@gmail.com,False,email had different case or spaces,warning
+D-201891,Ali Davis,Donor470@outlook.com,48.86,2025-10-15,GENERAL FUND,Google Ads,donor470@outlook.com,False,email had different case or spaces,warning
+D-201230,Linda Wilson,Donor615@outlook.com,94.86,2025-05-14,spring_gala_2026,Meta,donor615@outlook.com,False,email had different case or spaces,warning
+D-203088,Maria Brown,Donor415@yahoo.com,29.54,2025-11-25,year_end_appeal_2025,Organic,donor415@yahoo.com,False,email had different case or spaces,warning
+D-202150,James Taylor,DONOR798@YAHOO.COM,30.62,05/23/2025,SUPERHERO RUN 2026,Event,donor798@yahoo.com,False,email had different case or spaces,warning
+D-201270,John Davis,Donor485@outlook.com,257.07,2025-09-11,SPRING GALA 2026,Organic,donor485@outlook.com,False,email had different case or spaces,warning
+D-203229,Paul Brown,Donor788@outlook.com,163.18,2025-04-06,spring_gala_2026,Event,donor788@outlook.com,False,email had different case or spaces,warning
+D-203551,John Wilson,DONOR594@OUTLOOK.COM,60.49,2025-04-01,Spring Gala 2026,Meta,donor594@outlook.com,False,email had different case or spaces,warning
+D-201970,James Garcia,DONOR361@YAHOO.COM,19.31,2025-02-01,SPRING GALA 2025,Meta,donor361@yahoo.com,False,email had different case or spaces,warning
+D-201570,Grace Brown,Donor508@outlook.com,320.06,03/24/2026,superhero_run_2026,Meta,donor508@outlook.com,False,email had different case or spaces,warning
+D-202454,Maria Wilson,DONOR260@OUTLOOK.COM,97.53,01/25/2025,light_of_hope_2025,Organic,donor260@outlook.com,False,email had different case or spaces,warning
+D-201630,Paul Miller,DONOR391@YAHOO.COM,197.65,2025-05-26,Year End Appeal 2025,Meta,donor391@yahoo.com,False,email had different case or spaces,warning
+D-203937,Ali Miller,Donor324@outlook.com,150.55,2025-07-01,Spring Gala 2026,Google Ads,donor324@outlook.com,False,email had different case or spaces,warning
+D-203232,David Taylor,DONOR383@YAHOO.COM,147.4,2025-04-17,Year End Appeal 2025,Meta,donor383@yahoo.com,False,email had different case or spaces,warning
+D-203760,Fatima Clark,Donor748@outlook.com,186.31,2025-09-27,Light of Hope 2025,Google Ads,donor748@outlook.com,False,email had different case or spaces,warning
+D-202660,Mark Clark,DONOR412@YAHOO.COM,121.66,11/13/2025,Spring Gala 2026,Email,donor412@yahoo.com,False,email had different case or spaces,warning
+D-203578,Grace Ahmed,Donor469@gmail.com,39.68,2025-05-14,general_fund,Email,donor469@gmail.com,False,email had different case or spaces,warning
+D-201185,Fatima Davis,Donor218@yahoo.com,37.07,2025-05-29,Light of Hope 2025,Meta,donor218@yahoo.com,False,email had different case or spaces,warning
+D-202912,Paul Wilson,DONOR310@OUTLOOK.COM,23.98,2025-12-25,year_end_appeal_2025,Event,donor310@outlook.com,False,email had different case or spaces,warning
+D-202093,Mark Garcia,Donor15@outlook.com,38.88,10-Jun-2026,YEAR END APPEAL 2025,Event,donor15@outlook.com,False,email had different case or spaces,warning
+D-203039,James Brown,Donor108@gmail.com,63.45,07/01/2025,SPRING GALA 2025,Event,donor108@gmail.com,False,email had different case or spaces,warning
+D-203107,Maria Moore,DONOR44@YAHOO.COM,45.0,06-Dec-2025,General Fund,Email,donor44@yahoo.com,False,email had different case or spaces,warning
+D-203947,Grace Johnson,Donor893@outlook.com,29.67,2026-01-30,Spring Gala 2026,Event,donor893@outlook.com,False,email had different case or spaces,warning
+D-204181,Mark Wilson,DONOR105@YAHOO.COM,56.31,2026-06-29,YEAR END APPEAL 2025,Meta,donor105@yahoo.com,False,email had different case or spaces,warning
+D-200182,John Davis,DONOR485@OUTLOOK.COM,1627.55,2025-09-05,spring_gala_2025,Google Ads,donor485@outlook.com,False,email had different case or spaces,warning
+D-203195,Fatima Clark,DONOR586@GMAIL.COM,82.73,2026-01-15,General Fund,Organic,donor586@gmail.com,False,email had different case or spaces,warning
+D-202238,Ali Johnson,Donor723@yahoo.com,114.09,2026-03-04,Year End Appeal 2025,Google Ads,donor723@yahoo.com,False,email had different case or spaces,warning
+D-200169,Grace Johnson,DONOR893@OUTLOOK.COM,53.62,2026-04-12,superhero_run_2026,Organic,donor893@outlook.com,False,email had different case or spaces,warning
+D-202758,Hassan Garcia,Donor144@outlook.com,70.05,2025-02-03,General Fund,Meta,donor144@outlook.com,False,email had different case or spaces,warning
+D-200973,David Clark,DONOR204@OUTLOOK.COM,31.03,2026-01-02,LIGHT OF HOPE 2025,Google Ads,donor204@outlook.com,False,email had different case or spaces,warning
+D-203638,David Khan,Donor340@outlook.com,32.94,12-Jun-2025,LIGHT OF HOPE 2025,Organic,donor340@outlook.com,False,email had different case or spaces,warning
+D-200844,Aisha Wilson,Donor250@gmail.com,18.02,03-Mar-2026,SUPERHERO RUN 2026,Email,donor250@gmail.com,False,email had different case or spaces,warning
+D-204018,Grace Johnson,DONOR691@OUTLOOK.COM,261.31,2025-08-18,Light of Hope 2025,Meta,donor691@outlook.com,False,email had different case or spaces,warning
+D-200033,Aisha Clark,DONOR269@OUTLOOK.COM,35.97,2026-05-22,spring_gala_2026,Google Ads,donor269@outlook.com,False,email had different case or spaces,warning
+D-200787,Linda Miller,Donor570@gmail.com,12.62,2025-07-31,spring_gala_2026,Meta,donor570@gmail.com,False,email had different case or spaces,warning
+D-202851,Fatima Smith,Donor307@outlook.com,108.62,2025-01-18,Light of Hope 2025,Meta,donor307@outlook.com,False,email had different case or spaces,warning
+D-202793,Grace Clark,DONOR534@GMAIL.COM,42.11,2026-01-28,Spring Gala 2026,Event,donor534@gmail.com,False,email had different case or spaces,warning
+D-202583,Mark Wilson,DONOR105@YAHOO.COM,111.41,21-Aug-2025,Spring Gala 2026,Google Ads,donor105@yahoo.com,False,email had different case or spaces,warning
+D-201372,James Ahmed,Donor251@yahoo.com,320.69,2026-02-27,YEAR END APPEAL 2025,Google Ads,donor251@yahoo.com,False,email had different case or spaces,warning
+R-71,John Khan,DONOR71@GMAIL.COM,-19.15,2025-11-26,SPRING GALA 2025,Meta,donor71@gmail.com,True,email had different case or spaces,warning

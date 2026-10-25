@@ -1,0 +1,6 @@
+source,raw_rows,clean_rows,rows_removed
+case_management,1185,1150,35
+crm_donations,4350,4160,190
+ramp_card_spend,2600,2600,0
+quickbooks_gl,2840,1800,1040
+marketing_daily,1054,1054,0

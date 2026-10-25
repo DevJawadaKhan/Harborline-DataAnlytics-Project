@@ -1,0 +1,1041 @@
+qb_txn_id,txn_date,account,class,amount,memo,reject_reason,severity
+QB-S353,26-Jul-2025,Credit Card Expense,FUNDRAISING,32.79,Ramp sync RMP-700703,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S368,02/12/2025,Credit Card Expense,Prog - Fundraising,41.58,Ramp sync RMP-701987,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S661,07/16/2025,Credit Card Expense,Volunteer Training,105.8,Ramp sync RMP-700040,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S110,2025-04-15,Credit Card Expense,VOLUNTEER TRAINING,48.29,Ramp sync RMP-700385,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S121,05/18/2026,Credit Card Expense,Prog - Advocacy,119.63,Ramp sync RMP-700292,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S794,15-Aug-2025,Credit Card Expense,VOLUNTEER TRAINING,29.27,Ramp sync RMP-702558,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S780,2025-03-01,Credit Card Expense,Admin,21.07,Ramp sync RMP-701496,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S117,11/04/2025,Credit Card Expense,FUNDRAISING,136.08,Ramp sync RMP-701432,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S665,2026-04-02,Credit Card Expense,Advocacy,25.97,Ramp sync RMP-700979,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1005,04/16/2025,Credit Card Expense,Advocacy,156.24,Ramp sync RMP-700315,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S460,20-Jun-2025,Credit Card Expense,Admin,26.06,Ramp sync RMP-702089,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S90,2025-08-24,Credit Card Expense,ADVOCACY,241.53,Ramp sync RMP-701262,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S697,2026-04-20,Credit Card Expense,Prog - Fundraising,66.85,Ramp sync RMP-700175,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S802,02/07/2025,Credit Card Expense,Prog - Advocacy,16.43,Ramp sync RMP-700844,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S600,2025-02-04,Credit Card Expense,Prog - Advocacy,110.52,Ramp sync RMP-701919,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S552,13-Feb-2026,Credit Card Expense,ADMIN,23.86,Ramp sync RMP-701791,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S154,2026-05-22,Credit Card Expense,ADVOCACY,31.29,Ramp sync RMP-700408,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S148,11/18/2025,Credit Card Expense,Prog - Volunteer Training,38.88,Ramp sync RMP-702276,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1035,01/27/2025,Credit Card Expense,FUNDRAISING,28.98,Ramp sync RMP-701597,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S655,2025-10-11,Credit Card Expense,Admin,22.98,Ramp sync RMP-701277,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S87,2025-11-23,Credit Card Expense,ADVOCACY,15.07,Ramp sync RMP-700905,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S293,08/25/2025,Credit Card Expense,ADMIN,64.63,Ramp sync RMP-700460,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S521,2025-05-07,Credit Card Expense,Fundraising,148.55,Ramp sync RMP-700393,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S239,2026-03-25,Credit Card Expense,ADMIN,15.02,Ramp sync RMP-701598,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S814,2025-04-21,Credit Card Expense,Prog - Fundraising,6.72,Ramp sync RMP-700846,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S298,11-May-2026,Credit Card Expense,Volunteer Training,272.54,Ramp sync RMP-700414,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S931,16-Sep-2025,Credit Card Expense,VOLUNTEER TRAINING,96.57,Ramp sync RMP-702208,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S351,2025-01-25,Credit Card Expense,FUNDRAISING,15.79,Ramp sync RMP-701173,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S723,2025-08-03,Credit Card Expense,Admin,22.56,Ramp sync RMP-702509,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S516,2025-07-13,Credit Card Expense,Advocacy,36.09,Ramp sync RMP-700920,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S650,2025-02-07,Credit Card Expense,Prog - Advocacy,222.73,Ramp sync RMP-700284,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1016,2025-09-21,Credit Card Expense,Advocacy,158.13,Ramp sync RMP-701900,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S937,04-Jul-2025,Credit Card Expense,Advocacy,27.16,Ramp sync RMP-700103,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S773,01-Feb-2026,Credit Card Expense,FUNDRAISING,35.39,Ramp sync RMP-700318,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S718,2026-05-11,Credit Card Expense,ADVOCACY,25.21,Ramp sync RMP-701564,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S408,2025-05-16,Credit Card Expense,Fundraising,12.87,Ramp sync RMP-701386,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S277,2025-03-13,Credit Card Expense,Prog - Volunteer Training,21.34,Ramp sync RMP-702035,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S327,2025-08-09,Credit Card Expense,Fundraising,18.54,Ramp sync RMP-702297,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S452,04/25/2025,Credit Card Expense,Advocacy,11.44,Ramp sync RMP-700546,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S342,03/23/2025,Credit Card Expense,Prog - Advocacy,32.67,Ramp sync RMP-700166,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S411,19-Feb-2026,Credit Card Expense,VOLUNTEER TRAINING,216.71,Ramp sync RMP-701077,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S379,03/16/2026,Credit Card Expense,Volunteer Training,70.6,Ramp sync RMP-700636,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S82,2025-03-15,Credit Card Expense,ADVOCACY,8.92,Ramp sync RMP-700308,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S304,06-Apr-2026,Credit Card Expense,Advocacy,70.3,Ramp sync RMP-700671,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S128,2025-07-19,Credit Card Expense,Prog - Advocacy,52.21,Ramp sync RMP-701213,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S812,03-Feb-2026,Credit Card Expense,Volunteer Training,27.11,Ramp sync RMP-700340,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S147,06/19/2025,Credit Card Expense,Volunteer Training,23.33,Ramp sync RMP-701343,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S668,2025-01-12,Credit Card Expense,Advocacy,83.32,Ramp sync RMP-701247,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S356,2026-01-16,Credit Card Expense,Advocacy,15.63,Ramp sync RMP-701694,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S393,2026-03-23,Credit Card Expense,Admin,348.04,Ramp sync RMP-700547,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1026,2025-09-15,Credit Card Expense,Volunteer Training,57.68,Ramp sync RMP-702095,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S456,2025-05-31,Credit Card Expense,Volunteer Training,15.95,Ramp sync RMP-701003,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S478,07/19/2025,Credit Card Expense,ADMIN,38.31,Ramp sync RMP-702138,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S109,2025-07-21,Credit Card Expense,Prog - Admin,25.63,Ramp sync RMP-700144,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S776,2025-10-09,Credit Card Expense,VOLUNTEER TRAINING,76.48,Ramp sync RMP-701712,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S389,2025-08-02,Credit Card Expense,Fundraising,45.52,Ramp sync RMP-701209,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S435,2026-05-05,Credit Card Expense,Prog - Advocacy,112.39,Ramp sync RMP-702493,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S203,28-Jul-2025,Credit Card Expense,Admin,148.94,Ramp sync RMP-701073,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S688,13-Apr-2026,Credit Card Expense,Volunteer Training,20.9,Ramp sync RMP-702530,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S640,2026-04-04,Credit Card Expense,ADVOCACY,26.25,Ramp sync RMP-702193,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S422,2025-01-02,Credit Card Expense,Fundraising,41.73,Ramp sync RMP-701751,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S970,2025-07-19,Credit Card Expense,Fundraising,174.44,Ramp sync RMP-702219,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S161,2025-12-01,Credit Card Expense,Prog - Advocacy,74.85,Ramp sync RMP-700695,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S91,2026-06-09,Credit Card Expense,Fundraising,31.21,Ramp sync RMP-701391,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S222,2026-01-11,Credit Card Expense,Prog - Fundraising,43.71,Ramp sync RMP-700384,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S3,02/18/2025,Credit Card Expense,Advocacy,19.87,Ramp sync RMP-701724,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S710,2025-03-25,Credit Card Expense,Fundraising,13.38,Ramp sync RMP-702291,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S474,10/27/2025,Credit Card Expense,Admin,22.05,Ramp sync RMP-700405,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S392,2026-06-27,Credit Card Expense,Fundraising,37.4,Ramp sync RMP-702456,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S492,2025-03-01,Credit Card Expense,Advocacy,36.61,Ramp sync RMP-700073,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S990,23-May-2026,Credit Card Expense,ADVOCACY,29.78,Ramp sync RMP-700099,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S546,2026-01-07,Credit Card Expense,Advocacy,45.61,Ramp sync RMP-700101,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S515,2026-03-06,Credit Card Expense,Prog - Advocacy,36.31,Ramp sync RMP-701445,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S53,2025-04-10,Credit Card Expense,Fundraising,26.81,Ramp sync RMP-701515,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S111,2026-04-19,Credit Card Expense,Advocacy,98.83,Ramp sync RMP-702445,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S420,2025-12-23,Credit Card Expense,Advocacy,76.89,Ramp sync RMP-701997,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S564,14-Mar-2025,Credit Card Expense,ADVOCACY,37.68,Ramp sync RMP-700909,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S37,2025-09-29,Credit Card Expense,Volunteer Training,92.35,Ramp sync RMP-701707,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S503,28-Sep-2025,Credit Card Expense,Prog - Fundraising,172.49,Ramp sync RMP-701075,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S369,05/21/2025,Credit Card Expense,Advocacy,46.98,Ramp sync RMP-702288,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S316,03/01/2025,Credit Card Expense,Fundraising,129.78,Ramp sync RMP-700886,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S891,2025-02-01,Credit Card Expense,Prog - Advocacy,56.24,Ramp sync RMP-701830,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S901,2025-02-11,Credit Card Expense,Fundraising,145.19,Ramp sync RMP-700078,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S438,2026-04-21,Credit Card Expense,Advocacy,41.86,Ramp sync RMP-701489,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S127,2025-08-25,Credit Card Expense,Prog - Advocacy,256.76,Ramp sync RMP-702306,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S959,2026-01-06,Credit Card Expense,Fundraising,112.18,Ramp sync RMP-701333,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S911,05-Feb-2026,Credit Card Expense,Fundraising,216.03,Ramp sync RMP-702017,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S328,01/09/2026,Credit Card Expense,Prog - Advocacy,105.29,Ramp sync RMP-701032,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S83,2025-06-04,Credit Card Expense,VOLUNTEER TRAINING,13.48,Ramp sync RMP-701542,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S616,2025-03-31,Credit Card Expense,Volunteer Training,47.73,Ramp sync RMP-700361,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S482,2025-11-23,Credit Card Expense,Admin,53.51,Ramp sync RMP-700651,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S592,2025-04-23,Credit Card Expense,Advocacy,22.27,Ramp sync RMP-700570,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1011,01/05/2026,Credit Card Expense,FUNDRAISING,26.22,Ramp sync RMP-701701,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S500,2025-09-25,Credit Card Expense,Fundraising,5.87,Ramp sync RMP-700083,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S615,2025-05-11,Credit Card Expense,Volunteer Training,31.62,Ramp sync RMP-702415,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S61,05/05/2026,Credit Card Expense,Volunteer Training,97.05,Ramp sync RMP-702513,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S362,21-Mar-2026,Credit Card Expense,ADVOCACY,40.24,Ramp sync RMP-702411,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S687,04-Oct-2025,Credit Card Expense,Volunteer Training,55.87,Ramp sync RMP-701636,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S196,25-Jun-2026,Credit Card Expense,Volunteer Training,4.06,Ramp sync RMP-702238,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S156,2025-08-04,Credit Card Expense,Advocacy,51.48,Ramp sync RMP-701983,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S387,2025-04-27,Credit Card Expense,ADVOCACY,156.01,Ramp sync RMP-701528,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S59,01/26/2025,Credit Card Expense,Fundraising,23.16,Ramp sync RMP-701367,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1039,2026-04-19,Credit Card Expense,Prog - Volunteer Training,58.06,Ramp sync RMP-701480,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S634,24-Feb-2026,Credit Card Expense,Advocacy,91.13,Ramp sync RMP-701289,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S582,2025-02-02,Credit Card Expense,Advocacy,112.57,Ramp sync RMP-702243,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S106,2025-11-21,Credit Card Expense,Admin,103.13,Ramp sync RMP-701235,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S606,2025-08-15,Credit Card Expense,Advocacy,23.13,Ramp sync RMP-700182,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S105,2025-01-12,Credit Card Expense,Fundraising,8.1,Ramp sync RMP-700360,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S96,2025-10-29,Credit Card Expense,Prog - Advocacy,43.18,Ramp sync RMP-700801,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S419,26-Sep-2025,Credit Card Expense,Prog - Admin,58.55,Ramp sync RMP-700376,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S201,05-May-2025,Credit Card Expense,Volunteer Training,67.72,Ramp sync RMP-700312,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S249,2025-01-04,Credit Card Expense,Prog - Fundraising,207.01,Ramp sync RMP-700663,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S159,2025-05-27,Credit Card Expense,Advocacy,160.43,Ramp sync RMP-702492,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S537,2025-10-11,Credit Card Expense,Advocacy,60.91,Ramp sync RMP-701999,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S218,04/13/2025,Credit Card Expense,Admin,8.56,Ramp sync RMP-700597,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S912,01/22/2026,Credit Card Expense,Fundraising,17.86,Ramp sync RMP-701533,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S929,2025-09-08,Credit Card Expense,Prog - Admin,15.2,Ramp sync RMP-700007,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S183,2026-02-11,Credit Card Expense,ADVOCACY,16.21,Ramp sync RMP-700789,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S722,08/09/2025,Credit Card Expense,ADVOCACY,203.82,Ramp sync RMP-700689,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S350,2026-03-26,Credit Card Expense,Prog - Fundraising,17.71,Ramp sync RMP-702126,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S881,22-Jan-2025,Credit Card Expense,Advocacy,47.86,Ramp sync RMP-700477,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S940,08-Dec-2025,Credit Card Expense,VOLUNTEER TRAINING,31.27,Ramp sync RMP-701770,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S227,2025-12-27,Credit Card Expense,Advocacy,54.88,Ramp sync RMP-702155,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S24,2025-01-19,Credit Card Expense,Admin,23.63,Ramp sync RMP-701548,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S85,04-Aug-2025,Credit Card Expense,ADMIN,83.03,Ramp sync RMP-700822,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S915,2025-11-09,Credit Card Expense,Prog - Volunteer Training,18.03,Ramp sync RMP-701509,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S274,2025-08-12,Credit Card Expense,Prog - Fundraising,29.74,Ramp sync RMP-702549,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S951,2025-06-17,Credit Card Expense,Advocacy,63.02,Ramp sync RMP-700848,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S131,01/22/2026,Credit Card Expense,ADVOCACY,18.11,Ramp sync RMP-701035,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S136,2025-05-06,Credit Card Expense,Prog - Fundraising,12.87,Ramp sync RMP-701460,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S869,09-Jan-2026,Credit Card Expense,Prog - Advocacy,40.16,Ramp sync RMP-701829,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S483,2026-03-12,Credit Card Expense,Prog - Advocacy,45.64,Ramp sync RMP-700475,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S335,2025-06-23,Credit Card Expense,Prog - Fundraising,18.27,Ramp sync RMP-700030,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S15,06/07/2026,Credit Card Expense,VOLUNTEER TRAINING,22.23,Ramp sync RMP-700579,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S657,2025-04-16,Credit Card Expense,Advocacy,105.99,Ramp sync RMP-701982,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S27,2026-01-22,Credit Card Expense,Prog - Volunteer Training,28.82,Ramp sync RMP-700969,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S886,2026-05-31,Credit Card Expense,Volunteer Training,114.94,Ramp sync RMP-702214,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S401,2025-09-06,Credit Card Expense,ADMIN,25.03,Ramp sync RMP-701818,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S761,06-May-2025,Credit Card Expense,Prog - Volunteer Training,72.12,Ramp sync RMP-700012,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S321,2025-12-18,Credit Card Expense,Prog - Fundraising,37.76,Ramp sync RMP-701590,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S957,06/07/2025,Credit Card Expense,Advocacy,32.03,Ramp sync RMP-702305,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S19,06/24/2025,Credit Card Expense,VOLUNTEER TRAINING,68.09,Ramp sync RMP-700820,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S706,04/06/2025,Credit Card Expense,FUNDRAISING,86.77,Ramp sync RMP-702028,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S508,2025-08-22,Credit Card Expense,Advocacy,342.72,Ramp sync RMP-701928,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S5,2026-02-12,Credit Card Expense,Prog - Fundraising,199.32,Ramp sync RMP-700732,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S924,03/07/2025,Credit Card Expense,Admin,204.72,Ramp sync RMP-702004,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S444,13-Jun-2025,Credit Card Expense,Fundraising,21.44,Ramp sync RMP-701668,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S186,08-Jan-2025,Credit Card Expense,Prog - Fundraising,99.56,Ramp sync RMP-701358,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S972,05/03/2026,Credit Card Expense,Admin,12.31,Ramp sync RMP-702389,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S932,2025-06-24,Credit Card Expense,Advocacy,25.41,Ramp sync RMP-702538,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S648,2026-01-18,Credit Card Expense,Advocacy,113.02,Ramp sync RMP-701529,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S956,07/04/2025,Credit Card Expense,Prog - Advocacy,54.77,Ramp sync RMP-700953,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S374,2025-08-03,Credit Card Expense,Advocacy,51.47,Ramp sync RMP-701473,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S38,2026-06-18,Credit Card Expense,Fundraising,36.67,Ramp sync RMP-700925,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S251,12/09/2025,Credit Card Expense,Volunteer Training,43.08,Ramp sync RMP-702084,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S102,02/27/2026,Credit Card Expense,Fundraising,27.71,Ramp sync RMP-701306,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S364,2025-07-31,Credit Card Expense,Advocacy,19.13,Ramp sync RMP-701563,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S536,2025-09-24,Credit Card Expense,Volunteer Training,45.67,Ramp sync RMP-700207,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S559,2025-09-07,Credit Card Expense,Admin,262.12,Ramp sync RMP-702277,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S785,02/27/2025,Credit Card Expense,Prog - Volunteer Training,40.68,Ramp sync RMP-700784,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S449,2025-01-16,Credit Card Expense,Prog - Volunteer Training,96.71,Ramp sync RMP-701092,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S660,03-Apr-2025,Credit Card Expense,Advocacy,32.21,Ramp sync RMP-702439,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S334,2025-10-21,Credit Card Expense,Volunteer Training,112.93,Ramp sync RMP-702003,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S685,03/23/2025,Credit Card Expense,VOLUNTEER TRAINING,52.71,Ramp sync RMP-701813,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S424,2026-03-16,Credit Card Expense,ADVOCACY,5.98,Ramp sync RMP-700674,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S596,02-Nov-2025,Credit Card Expense,VOLUNTEER TRAINING,100.57,Ramp sync RMP-700462,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S312,11/06/2025,Credit Card Expense,Prog - Volunteer Training,63.74,Ramp sync RMP-702080,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S664,03/04/2026,Credit Card Expense,Advocacy,45.22,Ramp sync RMP-700377,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S662,28-Jun-2026,Credit Card Expense,Advocacy,183.4,Ramp sync RMP-701377,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S999,2025-04-08,Credit Card Expense,Fundraising,14.0,Ramp sync RMP-700222,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S958,2025-11-27,Credit Card Expense,Prog - Fundraising,104.83,Ramp sync RMP-701015,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S906,2025-04-28,Credit Card Expense,Prog - Advocacy,125.41,Ramp sync RMP-700351,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S32,2026-03-31,Credit Card Expense,Prog - Fundraising,25.76,Ramp sync RMP-700887,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S663,2025-11-05,Credit Card Expense,Prog - Volunteer Training,52.52,Ramp sync RMP-700965,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S151,2026-01-31,Credit Card Expense,Fundraising,42.7,Ramp sync RMP-702388,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S863,2025-09-09,Credit Card Expense,FUNDRAISING,21.05,Ramp sync RMP-700593,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S399,01/30/2025,Credit Card Expense,Advocacy,15.14,Ramp sync RMP-700875,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S255,16-Jun-2025,Credit Card Expense,VOLUNTEER TRAINING,303.62,Ramp sync RMP-701215,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S272,06/19/2025,Credit Card Expense,Advocacy,25.46,Ramp sync RMP-702426,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S76,2025-08-14,Credit Card Expense,Advocacy,38.78,Ramp sync RMP-700054,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S477,27-May-2026,Credit Card Expense,Volunteer Training,73.66,Ramp sync RMP-700195,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S953,2026-02-10,Credit Card Expense,Volunteer Training,118.6,Ramp sync RMP-701618,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S400,2026-03-27,Credit Card Expense,Prog - Advocacy,26.36,Ramp sync RMP-701756,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S341,2025-05-08,Credit Card Expense,Advocacy,111.87,Ramp sync RMP-701493,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S871,2026-03-28,Credit Card Expense,VOLUNTEER TRAINING,120.12,Ramp sync RMP-700995,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S525,2025-12-09,Credit Card Expense,VOLUNTEER TRAINING,98.63,Ramp sync RMP-700659,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S324,2025-09-02,Credit Card Expense,Advocacy,26.5,Ramp sync RMP-702319,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S4,2025-05-22,Credit Card Expense,VOLUNTEER TRAINING,198.23,Ramp sync RMP-702571,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S429,2025-12-07,Credit Card Expense,VOLUNTEER TRAINING,30.59,Ramp sync RMP-702379,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S843,2026-03-15,Credit Card Expense,FUNDRAISING,48.26,Ramp sync RMP-701102,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S512,12/05/2025,Credit Card Expense,Prog - Advocacy,8.67,Ramp sync RMP-702044,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S754,2026-06-12,Credit Card Expense,ADMIN,59.41,Ramp sync RMP-701129,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S360,06/24/2026,Credit Card Expense,Prog - Fundraising,56.18,Ramp sync RMP-700459,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S726,29-Jan-2026,Credit Card Expense,Volunteer Training,13.78,Ramp sync RMP-701161,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S769,11-Mar-2026,Credit Card Expense,Fundraising,58.75,Ramp sync RMP-701755,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S898,26-Feb-2026,Credit Card Expense,Admin,101.81,Ramp sync RMP-702064,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S693,2026-04-05,Credit Card Expense,Prog - Admin,20.7,Ramp sync RMP-701275,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S982,2025-06-15,Credit Card Expense,ADVOCACY,54.42,Ramp sync RMP-700427,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S775,2025-06-04,Credit Card Expense,Prog - Admin,409.84,Ramp sync RMP-702377,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S150,2025-04-05,Credit Card Expense,Prog - Advocacy,111.87,Ramp sync RMP-701690,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S289,13-Oct-2025,Credit Card Expense,Admin,23.3,Ramp sync RMP-700605,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S647,05/24/2026,Credit Card Expense,ADMIN,28.65,Ramp sync RMP-701187,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S405,06/03/2025,Credit Card Expense,Fundraising,36.79,Ramp sync RMP-701305,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S673,2025-06-04,Credit Card Expense,Prog - Fundraising,769.83,Ramp sync RMP-700923,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S167,06/10/2025,Credit Card Expense,VOLUNTEER TRAINING,66.32,Ramp sync RMP-702257,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S928,03-Jan-2026,Credit Card Expense,ADVOCACY,18.96,Ramp sync RMP-702396,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S968,2026-04-06,Credit Card Expense,Advocacy,6.45,Ramp sync RMP-702544,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S486,2026-05-22,Credit Card Expense,Prog - Advocacy,49.36,Ramp sync RMP-700336,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S261,2025-01-14,Credit Card Expense,FUNDRAISING,41.56,Ramp sync RMP-701876,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S849,03-Oct-2025,Credit Card Expense,Prog - Fundraising,7.56,Ramp sync RMP-701852,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S991,2025-03-30,Credit Card Expense,Advocacy,10.03,Ramp sync RMP-700170,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S517,2025-12-19,Credit Card Expense,Fundraising,69.39,Ramp sync RMP-702489,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S519,2025-07-08,Credit Card Expense,FUNDRAISING,87.55,Ramp sync RMP-700966,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S853,05/01/2026,Credit Card Expense,Advocacy,35.7,Ramp sync RMP-702487,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S705,2025-08-21,Credit Card Expense,Admin,19.26,Ramp sync RMP-701627,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S133,12/09/2025,Credit Card Expense,VOLUNTEER TRAINING,14.1,Ramp sync RMP-701395,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S797,2026-04-30,Credit Card Expense,Fundraising,120.37,Ramp sync RMP-700332,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S107,07/28/2025,Credit Card Expense,Prog - Volunteer Training,53.05,Ramp sync RMP-701356,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S123,15-Jan-2026,Credit Card Expense,Fundraising,8.81,Ramp sync RMP-702516,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S836,03/15/2026,Credit Card Expense,Volunteer Training,26.21,Ramp sync RMP-701243,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S604,29-Dec-2025,Credit Card Expense,Advocacy,70.25,Ramp sync RMP-701820,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S377,2025-04-09,Credit Card Expense,ADVOCACY,14.14,Ramp sync RMP-700916,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S520,2025-07-22,Credit Card Expense,Fundraising,183.44,Ramp sync RMP-702589,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S268,2026-06-13,Credit Card Expense,ADMIN,39.62,Ramp sync RMP-700595,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S938,27-Jun-2026,Credit Card Expense,ADVOCACY,46.9,Ramp sync RMP-702581,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S235,01/22/2025,Credit Card Expense,Advocacy,132.47,Ramp sync RMP-702131,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S296,29-Nov-2025,Credit Card Expense,Volunteer Training,58.51,Ramp sync RMP-700212,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S311,2026-04-05,Credit Card Expense,FUNDRAISING,221.71,Ramp sync RMP-701144,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S588,22-Feb-2025,Credit Card Expense,Prog - Admin,91.11,Ramp sync RMP-702331,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S833,02/21/2026,Credit Card Expense,ADVOCACY,54.33,Ramp sync RMP-700824,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S463,2025-09-14,Credit Card Expense,Prog - Advocacy,36.03,Ramp sync RMP-700677,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S30,14-Mar-2026,Credit Card Expense,FUNDRAISING,460.51,Ramp sync RMP-702108,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S204,2025-11-11,Credit Card Expense,Volunteer Training,21.5,Ramp sync RMP-700022,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S365,2026-02-13,Credit Card Expense,ADVOCACY,43.76,Ramp sync RMP-701893,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S608,07/20/2025,Credit Card Expense,VOLUNTEER TRAINING,122.88,Ramp sync RMP-700773,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S347,2025-12-19,Credit Card Expense,ADMIN,101.67,Ramp sync RMP-701181,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S695,2025-07-06,Credit Card Expense,Volunteer Training,19.03,Ramp sync RMP-702527,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S739,2025-12-02,Credit Card Expense,Fundraising,144.13,Ramp sync RMP-701036,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1006,2025-12-27,Credit Card Expense,Volunteer Training,42.7,Ramp sync RMP-700553,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S135,2025-12-18,Credit Card Expense,Prog - Fundraising,23.83,Ramp sync RMP-702269,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S933,07/06/2025,Credit Card Expense,FUNDRAISING,36.06,Ramp sync RMP-700622,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S895,09-Jun-2026,Credit Card Expense,Prog - Volunteer Training,20.3,Ramp sync RMP-700950,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S445,01-Jan-2025,Credit Card Expense,Prog - Fundraising,190.42,Ramp sync RMP-702514,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S212,2026-04-13,Credit Card Expense,Prog - Fundraising,28.04,Ramp sync RMP-702000,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S7,2025-12-27,Credit Card Expense,Fundraising,15.21,Ramp sync RMP-700903,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1000,2025-03-24,Credit Card Expense,Fundraising,26.42,Ramp sync RMP-701703,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S549,2025-06-29,Credit Card Expense,Prog - Volunteer Training,49.05,Ramp sync RMP-701591,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S450,2025-06-17,Credit Card Expense,Prog - Fundraising,8.03,Ramp sync RMP-702144,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S359,10/26/2025,Credit Card Expense,Advocacy,124.8,Ramp sync RMP-702022,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S284,13-Nov-2025,Credit Card Expense,ADVOCACY,10.8,Ramp sync RMP-701699,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1023,28-Jan-2026,Credit Card Expense,Fundraising,79.41,Ramp sync RMP-702597,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S295,2025-02-07,Credit Card Expense,Fundraising,76.3,Ramp sync RMP-700184,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S971,2026-03-19,Credit Card Expense,ADMIN,118.95,Ramp sync RMP-701225,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S9,2025-02-16,Credit Card Expense,Prog - Advocacy,18.16,Ramp sync RMP-701743,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S496,10/29/2025,Credit Card Expense,Admin,196.84,Ramp sync RMP-700215,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S667,2026-06-07,Credit Card Expense,Advocacy,18.83,Ramp sync RMP-702532,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S994,04/27/2025,Credit Card Expense,Advocacy,34.87,Ramp sync RMP-701483,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S765,2025-07-31,Credit Card Expense,ADVOCACY,6.14,Ramp sync RMP-701020,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S283,09/15/2025,Credit Card Expense,Advocacy,19.75,Ramp sync RMP-701674,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S395,2026-02-05,Credit Card Expense,Prog - Advocacy,81.61,Ramp sync RMP-700932,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S962,2025-06-09,Credit Card Expense,Advocacy,32.3,Ramp sync RMP-701866,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S571,04/16/2026,Credit Card Expense,ADMIN,21.15,Ramp sync RMP-700447,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S813,2025-11-01,Credit Card Expense,VOLUNTEER TRAINING,9.45,Ramp sync RMP-702374,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S904,19-Mar-2025,Credit Card Expense,Fundraising,90.09,Ramp sync RMP-701581,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S542,2025-07-05,Credit Card Expense,Admin,62.08,Ramp sync RMP-702212,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S976,2025-12-07,Credit Card Expense,Advocacy,34.14,Ramp sync RMP-701638,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S118,2025-07-05,Credit Card Expense,ADVOCACY,65.49,Ramp sync RMP-701328,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S919,07/19/2025,Credit Card Expense,Fundraising,17.72,Ramp sync RMP-701405,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S784,2026-06-24,Credit Card Expense,ADVOCACY,106.87,Ramp sync RMP-701846,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S626,01/31/2025,Credit Card Expense,FUNDRAISING,132.73,Ramp sync RMP-702275,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S756,04-Jun-2025,Credit Card Expense,Volunteer Training,38.82,Ramp sync RMP-701150,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S443,2026-05-05,Credit Card Expense,Prog - Volunteer Training,4.67,Ramp sync RMP-702192,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S103,2025-06-02,Credit Card Expense,Advocacy,13.55,Ramp sync RMP-701940,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S943,2026-03-21,Credit Card Expense,Volunteer Training,109.42,Ramp sync RMP-702362,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S998,2025-04-08,Credit Card Expense,Prog - Advocacy,35.45,Ramp sync RMP-701131,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S140,2026-03-03,Credit Card Expense,ADMIN,82.19,Ramp sync RMP-700720,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S983,2025-04-16,Credit Card Expense,Advocacy,88.47,Ramp sync RMP-700279,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S414,2025-11-23,Credit Card Expense,Advocacy,28.61,Ramp sync RMP-700945,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S300,2025-10-29,Credit Card Expense,Advocacy,93.15,Ramp sync RMP-702518,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S977,2025-05-21,Credit Card Expense,Volunteer Training,41.88,Ramp sync RMP-700562,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S826,2026-02-28,Credit Card Expense,Prog - Fundraising,24.6,Ramp sync RMP-701296,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S731,2026-04-22,Credit Card Expense,Volunteer Training,36.01,Ramp sync RMP-700478,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S195,23-Jun-2026,Credit Card Expense,Fundraising,206.77,Ramp sync RMP-701224,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S425,2025-08-23,Credit Card Expense,Fundraising,9.01,Ramp sync RMP-700489,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1012,2025-08-23,Credit Card Expense,Prog - Advocacy,23.18,Ramp sync RMP-702118,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S822,12/12/2025,Credit Card Expense,VOLUNTEER TRAINING,331.39,Ramp sync RMP-702447,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S733,2025-02-11,Credit Card Expense,Prog - Fundraising,86.1,Ramp sync RMP-700503,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S320,2025-02-13,Credit Card Expense,FUNDRAISING,10.67,Ramp sync RMP-700946,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S531,2025-02-08,Credit Card Expense,Advocacy,40.06,Ramp sync RMP-702455,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S973,2026-01-12,Credit Card Expense,Volunteer Training,208.18,Ramp sync RMP-700501,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S78,09/02/2025,Credit Card Expense,Prog - Volunteer Training,321.09,Ramp sync RMP-702263,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S194,2026-04-18,Credit Card Expense,Volunteer Training,22.42,Ramp sync RMP-702380,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S417,05/02/2026,Credit Card Expense,Prog - Fundraising,11.4,Ramp sync RMP-701298,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S774,09/02/2025,Credit Card Expense,Advocacy,25.52,Ramp sync RMP-702573,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S792,12/07/2025,Credit Card Expense,Prog - Admin,23.19,Ramp sync RMP-700704,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S847,2025-05-02,Credit Card Expense,Fundraising,36.91,Ramp sync RMP-702499,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S238,05/27/2025,Credit Card Expense,Advocacy,44.4,Ramp sync RMP-700644,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S856,03/26/2026,Credit Card Expense,Prog - Admin,6.48,Ramp sync RMP-701691,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S205,02/14/2026,Credit Card Expense,Prog - Advocacy,17.77,Ramp sync RMP-700055,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S423,2025-05-25,Credit Card Expense,ADMIN,14.48,Ramp sync RMP-701315,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S507,29-Apr-2025,Credit Card Expense,Advocacy,44.9,Ramp sync RMP-700379,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S370,2025-11-25,Credit Card Expense,ADVOCACY,16.12,Ramp sync RMP-700223,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S740,2025-06-13,Credit Card Expense,ADVOCACY,32.5,Ramp sync RMP-700204,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S412,2025-11-25,Credit Card Expense,Admin,123.98,Ramp sync RMP-700982,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S189,06/25/2026,Credit Card Expense,Admin,95.99,Ramp sync RMP-700549,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S837,2025-10-17,Credit Card Expense,FUNDRAISING,81.94,Ramp sync RMP-702120,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S653,2025-05-22,Credit Card Expense,Fundraising,50.83,Ramp sync RMP-701014,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S349,21-Feb-2025,Credit Card Expense,ADVOCACY,98.4,Ramp sync RMP-700868,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S894,17-Dec-2025,Credit Card Expense,Volunteer Training,60.27,Ramp sync RMP-701278,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S948,2025-02-26,Credit Card Expense,Admin,14.38,Ramp sync RMP-700639,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S66,2026-01-25,Credit Card Expense,Fundraising,140.84,Ramp sync RMP-702344,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S922,07/08/2025,Credit Card Expense,VOLUNTEER TRAINING,37.37,Ramp sync RMP-702359,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S858,2026-06-30,Credit Card Expense,Prog - Advocacy,116.79,Ramp sync RMP-702235,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S182,2025-11-29,Credit Card Expense,Advocacy,90.08,Ramp sync RMP-700426,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S861,2026-02-08,Credit Card Expense,Advocacy,72.55,Ramp sync RMP-701082,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S226,2025-02-07,Credit Card Expense,Fundraising,9.39,Ramp sync RMP-701776,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S202,2025-07-04,Credit Card Expense,Prog - Admin,124.93,Ramp sync RMP-700876,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S325,05-Jul-2025,Credit Card Expense,Prog - Fundraising,16.22,Ramp sync RMP-701626,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S58,2026-03-31,Credit Card Expense,Advocacy,55.1,Ramp sync RMP-701164,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S245,2025-03-28,Credit Card Expense,ADVOCACY,40.48,Ramp sync RMP-700229,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S810,06/02/2026,Credit Card Expense,Prog - Advocacy,69.42,Ramp sync RMP-702075,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S361,2026-06-02,Credit Card Expense,FUNDRAISING,49.03,Ramp sync RMP-701330,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S35,03-Feb-2026,Credit Card Expense,Fundraising,80.32,Ramp sync RMP-701282,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S214,09/13/2025,Credit Card Expense,ADMIN,35.57,Ramp sync RMP-700910,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S259,08-Jun-2026,Credit Card Expense,ADMIN,14.25,Ramp sync RMP-702113,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S842,2026-01-09,Credit Card Expense,Fundraising,298.91,Ramp sync RMP-702363,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S372,2026-06-22,Credit Card Expense,Fundraising,21.7,Ramp sync RMP-700968,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1001,2025-12-20,Credit Card Expense,Advocacy,19.17,Ramp sync RMP-700938,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S631,2026-02-28,Credit Card Expense,Fundraising,75.18,Ramp sync RMP-700225,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S759,2026-05-10,Credit Card Expense,FUNDRAISING,30.93,Ramp sync RMP-700981,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S143,2026-05-04,Credit Card Expense,Volunteer Training,134.76,Ramp sync RMP-702239,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S337,2026-05-24,Credit Card Expense,Volunteer Training,176.44,Ramp sync RMP-702338,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S801,2026-03-12,Credit Card Expense,Fundraising,112.54,Ramp sync RMP-701738,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S892,2025-03-25,Credit Card Expense,Volunteer Training,18.2,Ramp sync RMP-701953,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S13,06/14/2026,Credit Card Expense,Admin,19.21,Ramp sync RMP-701916,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S198,16-Dec-2025,Credit Card Expense,Prog - Fundraising,39.41,Ramp sync RMP-700885,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S864,2025-05-16,Credit Card Expense,VOLUNTEER TRAINING,108.53,Ramp sync RMP-701192,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S532,11-Jan-2025,Credit Card Expense,ADVOCACY,34.62,Ramp sync RMP-700075,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S921,2026-02-18,Credit Card Expense,Volunteer Training,16.85,Ramp sync RMP-701283,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S14,2026-02-09,Credit Card Expense,Fundraising,46.87,Ramp sync RMP-700942,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S555,2025-11-22,Credit Card Expense,FUNDRAISING,45.48,Ramp sync RMP-701678,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S806,2025-04-08,Credit Card Expense,Advocacy,46.94,Ramp sync RMP-701547,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S381,02-Jan-2025,Credit Card Expense,Prog - Fundraising,18.14,Ramp sync RMP-700989,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S569,2025-10-20,Credit Card Expense,Fundraising,71.37,Ramp sync RMP-701466,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S418,2025-03-11,Credit Card Expense,ADVOCACY,41.12,Ramp sync RMP-701532,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S629,06-Oct-2025,Credit Card Expense,Prog - Advocacy,9.62,Ramp sync RMP-700023,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S447,2025-09-12,Credit Card Expense,Advocacy,367.57,Ramp sync RMP-700294,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S471,2026-02-15,Credit Card Expense,Prog - Volunteer Training,122.46,Ramp sync RMP-700774,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S69,2025-03-25,Credit Card Expense,Prog - Volunteer Training,23.43,Ramp sync RMP-702557,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S468,2026-06-28,Credit Card Expense,FUNDRAISING,139.92,Ramp sync RMP-702281,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S573,08/28/2025,Credit Card Expense,ADVOCACY,55.91,Ramp sync RMP-701576,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S526,2025-04-27,Credit Card Expense,Prog - Admin,53.08,Ramp sync RMP-701037,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S120,07-Aug-2025,Credit Card Expense,Advocacy,69.95,Ramp sync RMP-701433,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S21,09/18/2025,Credit Card Expense,Advocacy,65.17,Ramp sync RMP-702252,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S880,2026-03-11,Credit Card Expense,Prog - Admin,40.56,Ramp sync RMP-700120,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S627,2026-05-10,Credit Card Expense,VOLUNTEER TRAINING,8.02,Ramp sync RMP-701849,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S781,2025-02-25,Credit Card Expense,Advocacy,247.14,Ramp sync RMP-700399,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S800,23-Jun-2025,Credit Card Expense,Prog - Admin,26.55,Ramp sync RMP-701392,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S795,2025-06-02,Credit Card Expense,FUNDRAISING,16.29,Ramp sync RMP-700319,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S624,2026-01-07,Credit Card Expense,Admin,3.74,Ramp sync RMP-701195,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S926,2025-05-12,Credit Card Expense,Advocacy,18.49,Ramp sync RMP-700461,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S609,2026-06-09,Credit Card Expense,ADVOCACY,55.97,Ramp sync RMP-701957,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S683,23-Mar-2026,Credit Card Expense,Prog - Fundraising,85.89,Ramp sync RMP-701888,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S180,2025-07-30,Credit Card Expense,Prog - Advocacy,29.68,Ramp sync RMP-701302,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S745,01/31/2025,Credit Card Expense,Prog - Advocacy,18.73,Ramp sync RMP-700627,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S787,2025-08-27,Credit Card Expense,ADVOCACY,792.85,Ramp sync RMP-701630,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S543,2025-10-13,Credit Card Expense,ADMIN,42.82,Ramp sync RMP-700899,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S762,2025-08-18,Credit Card Expense,Advocacy,40.71,Ramp sync RMP-700444,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S748,06/25/2026,Credit Card Expense,Volunteer Training,45.14,Ramp sync RMP-700302,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S254,11/26/2025,Credit Card Expense,ADVOCACY,31.42,Ramp sync RMP-700372,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S680,2026-04-14,Credit Card Expense,Prog - Fundraising,81.99,Ramp sync RMP-700071,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S638,02/25/2026,Credit Card Expense,Fundraising,27.47,Ramp sync RMP-701084,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S689,05/29/2026,Credit Card Expense,Volunteer Training,10.63,Ramp sync RMP-702459,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S292,2025-02-24,Credit Card Expense,VOLUNTEER TRAINING,31.03,Ramp sync RMP-701631,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S54,2026-01-06,Credit Card Expense,Advocacy,90.85,Ramp sync RMP-700161,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S702,02/22/2025,Credit Card Expense,Advocacy,80.14,Ramp sync RMP-700972,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S540,2025-12-09,Credit Card Expense,Prog - Advocacy,9.41,Ramp sync RMP-700307,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S966,2025-03-20,Credit Card Expense,Prog - Advocacy,28.1,Ramp sync RMP-700051,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S981,2025-11-07,Credit Card Expense,Prog - Volunteer Training,56.7,Ramp sync RMP-701252,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S841,2025-03-25,Credit Card Expense,VOLUNTEER TRAINING,64.11,Ramp sync RMP-701804,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S623,06/07/2025,Credit Card Expense,Fundraising,62.53,Ramp sync RMP-701479,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S510,06/07/2026,Credit Card Expense,Prog - Admin,182.0,Ramp sync RMP-702325,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S547,2025-06-01,Credit Card Expense,FUNDRAISING,29.0,Ramp sync RMP-700624,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1028,11/08/2025,Credit Card Expense,Prog - Advocacy,20.66,Ramp sync RMP-702056,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S403,2025-04-27,Credit Card Expense,Prog - Advocacy,58.1,Ramp sync RMP-701408,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S116,2025-08-28,Credit Card Expense,Prog - Volunteer Training,12.61,Ramp sync RMP-701462,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S955,2025-03-21,Credit Card Expense,Advocacy,4.33,Ramp sync RMP-700536,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S755,16-Jan-2025,Credit Card Expense,Prog - Advocacy,27.92,Ramp sync RMP-701715,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S637,05-Nov-2025,Credit Card Expense,Prog - Fundraising,14.53,Ramp sync RMP-700382,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S987,2025-03-27,Credit Card Expense,Advocacy,72.9,Ramp sync RMP-700532,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S357,28-Dec-2025,Credit Card Expense,Prog - Fundraising,17.1,Ramp sync RMP-700244,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S916,10/08/2025,Credit Card Expense,Fundraising,44.51,Ramp sync RMP-700232,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S65,2025-12-11,Credit Card Expense,Prog - Volunteer Training,34.4,Ramp sync RMP-701063,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S727,2025-07-11,Credit Card Expense,Prog - Advocacy,64.65,Ramp sync RMP-701994,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S708,05/25/2025,Credit Card Expense,Advocacy,53.96,Ramp sync RMP-702074,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S330,04/28/2026,Credit Card Expense,Advocacy,27.91,Ramp sync RMP-702460,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S644,2025-09-04,Credit Card Expense,Prog - Fundraising,25.23,Ramp sync RMP-702483,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S497,2025-02-26,Credit Card Expense,Volunteer Training,31.07,Ramp sync RMP-701923,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S481,2025-09-07,Credit Card Expense,Fundraising,42.63,Ramp sync RMP-702506,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S199,09-Mar-2025,Credit Card Expense,Prog - Advocacy,32.79,Ramp sync RMP-700243,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S974,03-Dec-2025,Credit Card Expense,Fundraising,54.29,Ramp sync RMP-702146,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S747,2026-03-14,Credit Card Expense,VOLUNTEER TRAINING,44.32,Ramp sync RMP-702233,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S716,05/24/2026,Credit Card Expense,Advocacy,89.61,Ramp sync RMP-702215,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1008,2025-12-31,Credit Card Expense,Fundraising,51.96,Ramp sync RMP-702187,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S230,2025-09-22,Credit Card Expense,Advocacy,65.18,Ramp sync RMP-700258,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1021,2025-01-05,Credit Card Expense,Advocacy,34.58,Ramp sync RMP-702574,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S502,29-Mar-2025,Credit Card Expense,Prog - Fundraising,60.89,Ramp sync RMP-701671,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S308,12-Mar-2026,Credit Card Expense,Fundraising,42.74,Ramp sync RMP-701040,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S206,2026-06-26,Credit Card Expense,Prog - Advocacy,9.36,Ramp sync RMP-702171,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S114,2025-09-20,Credit Card Expense,Volunteer Training,126.67,Ramp sync RMP-702366,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S457,2026-06-11,Credit Card Expense,Fundraising,39.82,Ramp sync RMP-702416,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S421,14-Apr-2025,Credit Card Expense,Prog - Volunteer Training,24.8,Ramp sync RMP-701396,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S20,08/14/2025,Credit Card Expense,Volunteer Training,8.35,Ramp sync RMP-701216,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S323,05/10/2025,Credit Card Expense,Prog - Advocacy,191.01,Ramp sync RMP-700506,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S275,2025-10-30,Credit Card Expense,Advocacy,155.39,Ramp sync RMP-700392,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S698,2025-06-07,Credit Card Expense,Prog - Fundraising,129.06,Ramp sync RMP-702485,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S796,2025-12-21,Credit Card Expense,Volunteer Training,9.32,Ramp sync RMP-702294,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S344,02/03/2025,Credit Card Expense,Advocacy,32.89,Ramp sync RMP-702309,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S603,2025-12-14,Credit Card Expense,Volunteer Training,68.77,Ramp sync RMP-701939,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S285,2025-06-09,Credit Card Expense,Advocacy,29.33,Ramp sync RMP-700497,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S545,2026-05-25,Credit Card Expense,ADMIN,185.08,Ramp sync RMP-701697,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S533,2025-07-31,Credit Card Expense,Prog - Fundraising,41.73,Ramp sync RMP-700556,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S36,05/22/2026,Credit Card Expense,Prog - Volunteer Training,155.16,Ramp sync RMP-700428,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S375,2026-05-29,Credit Card Expense,Prog - Admin,106.87,Ramp sync RMP-701879,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S986,2026-01-02,Credit Card Expense,Volunteer Training,18.33,Ramp sync RMP-701115,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S134,2026-06-05,Credit Card Expense,ADVOCACY,39.18,Ramp sync RMP-702583,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S473,06/16/2026,Credit Card Expense,FUNDRAISING,5.38,Ramp sync RMP-702036,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S322,2025-02-14,Credit Card Expense,Admin,30.26,Ramp sync RMP-700126,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1034,25-Jan-2025,Credit Card Expense,ADVOCACY,16.58,Ramp sync RMP-700653,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S138,07/01/2025,Credit Card Expense,Fundraising,34.35,Ramp sync RMP-700070,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S744,2025-09-19,Credit Card Expense,Prog - Fundraising,41.13,Ramp sync RMP-700038,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S294,05/22/2025,Credit Card Expense,ADVOCACY,25.86,Ramp sync RMP-702368,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S622,2025-05-08,Credit Card Expense,Volunteer Training,43.35,Ramp sync RMP-701621,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S352,04/27/2026,Credit Card Expense,Prog - Advocacy,28.69,Ramp sync RMP-700845,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S704,2025-10-13,Credit Card Expense,Advocacy,25.65,Ramp sync RMP-701461,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S6,16-May-2025,Credit Card Expense,Fundraising,32.66,Ramp sync RMP-702244,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1017,2025-03-07,Credit Card Expense,Advocacy,15.59,Ramp sync RMP-701670,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S291,2025-04-12,Credit Card Expense,FUNDRAISING,61.09,Ramp sync RMP-702545,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S476,2025-10-29,Credit Card Expense,Advocacy,27.1,Ramp sync RMP-700518,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S436,10/12/2025,Credit Card Expense,Prog - Advocacy,20.41,Ramp sync RMP-700675,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S846,2025-05-28,Credit Card Expense,Advocacy,57.1,Ramp sync RMP-701266,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S464,2026-04-23,Credit Card Expense,Advocacy,21.22,Ramp sync RMP-702403,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S752,2026-05-02,Credit Card Expense,Volunteer Training,46.09,Ramp sync RMP-702010,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S84,2025-11-29,Credit Card Expense,Advocacy,44.09,Ramp sync RMP-701068,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S141,03/17/2025,Credit Card Expense,ADVOCACY,20.75,Ramp sync RMP-701456,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S965,2025-10-08,Credit Card Expense,Fundraising,12.58,Ramp sync RMP-700957,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S857,21-Nov-2025,Credit Card Expense,ADVOCACY,118.51,Ramp sync RMP-701017,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S595,01/02/2025,Credit Card Expense,Admin,160.9,Ramp sync RMP-700702,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S518,2026-05-03,Credit Card Expense,Advocacy,133.04,Ramp sync RMP-700296,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S246,17-May-2026,Credit Card Expense,Advocacy,31.73,Ramp sync RMP-702335,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1022,2025-04-25,Credit Card Expense,Prog - Volunteer Training,23.17,Ramp sync RMP-701544,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S333,21-Mar-2025,Credit Card Expense,Fundraising,41.9,Ramp sync RMP-702164,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S934,05/18/2025,Credit Card Expense,Prog - Admin,154.19,Ramp sync RMP-701451,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S969,15-May-2025,Credit Card Expense,Prog - Advocacy,114.81,Ramp sync RMP-700085,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S679,05/03/2026,Credit Card Expense,Volunteer Training,14.06,Ramp sync RMP-701726,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S46,2025-12-12,Credit Card Expense,Fundraising,57.05,Ramp sync RMP-702427,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S39,04-Aug-2025,Credit Card Expense,Advocacy,27.42,Ramp sync RMP-700434,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S52,2025-04-23,Credit Card Expense,Admin,90.81,Ramp sync RMP-700435,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S461,2026-05-28,Credit Card Expense,VOLUNTEER TRAINING,96.91,Ramp sync RMP-700357,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S908,05/29/2025,Credit Card Expense,Advocacy,55.2,Ramp sync RMP-702547,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S913,05/12/2025,Credit Card Expense,Fundraising,83.54,Ramp sync RMP-701303,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S598,2025-01-22,Credit Card Expense,ADMIN,61.2,Ramp sync RMP-701898,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S271,2026-02-23,Credit Card Expense,Advocacy,78.22,Ramp sync RMP-700766,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S558,06/20/2025,Credit Card Expense,Prog - Fundraising,25.32,Ramp sync RMP-702030,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S877,2025-04-29,Credit Card Expense,ADVOCACY,92.33,Ramp sync RMP-701943,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S172,2026-06-06,Credit Card Expense,VOLUNTEER TRAINING,120.37,Ramp sync RMP-701132,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1032,10/19/2025,Credit Card Expense,Admin,165.75,Ramp sync RMP-702169,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S646,2026-02-20,Credit Card Expense,Prog - Admin,159.78,Ramp sync RMP-700128,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S988,2025-01-13,Credit Card Expense,Prog - Fundraising,119.57,Ramp sync RMP-700799,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S763,2026-06-27,Credit Card Expense,Prog - Advocacy,61.01,Ramp sync RMP-700181,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S434,2026-06-15,Credit Card Expense,Advocacy,39.79,Ramp sync RMP-700618,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S380,11-Mar-2025,Credit Card Expense,Fundraising,91.9,Ramp sync RMP-700739,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S941,01/23/2026,Credit Card Expense,Advocacy,20.14,Ramp sync RMP-700939,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S79,2025-01-20,Credit Card Expense,Prog - Fundraising,243.48,Ramp sync RMP-701495,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S583,08-Nov-2025,Credit Card Expense,ADVOCACY,18.33,Ramp sync RMP-700472,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S633,04/15/2025,Credit Card Expense,FUNDRAISING,124.65,Ramp sync RMP-702078,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S29,03/01/2025,Credit Card Expense,Advocacy,64.45,Ramp sync RMP-701485,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S343,03/08/2025,Credit Card Expense,Advocacy,24.89,Ramp sync RMP-701376,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S779,15-Mar-2026,Credit Card Expense,Fundraising,58.89,Ramp sync RMP-701945,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S860,28-Apr-2026,Credit Card Expense,Prog - Fundraising,46.6,Ramp sync RMP-700140,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S176,2026-04-21,Credit Card Expense,Prog - Fundraising,196.37,Ramp sync RMP-701219,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S73,2025-10-21,Credit Card Expense,Prog - Admin,180.33,Ramp sync RMP-702434,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S883,10/07/2025,Credit Card Expense,Prog - Volunteer Training,153.69,Ramp sync RMP-700893,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S465,03-Dec-2025,Credit Card Expense,Prog - Fundraising,51.55,Ramp sync RMP-702105,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S584,2025-10-09,Credit Card Expense,Fundraising,81.44,Ramp sync RMP-701921,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S179,11/26/2025,Credit Card Expense,Prog - Volunteer Training,34.04,Ramp sync RMP-700757,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S927,10-Jul-2025,Credit Card Expense,Prog - Advocacy,47.92,Ramp sync RMP-700804,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S146,04/19/2026,Credit Card Expense,FUNDRAISING,17.34,Ramp sync RMP-700879,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S487,2025-07-14,Credit Card Expense,Prog - Admin,18.77,Ramp sync RMP-702450,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S724,2025-02-08,Credit Card Expense,Advocacy,90.25,Ramp sync RMP-700105,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S851,09/02/2025,Credit Card Expense,Prog - Advocacy,71.83,Ramp sync RMP-700541,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S490,2025-08-19,Credit Card Expense,Prog - Volunteer Training,28.04,Ramp sync RMP-701312,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S694,05/20/2026,Credit Card Expense,Fundraising,176.17,Ramp sync RMP-701970,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S824,06/25/2026,Credit Card Expense,Prog - Fundraising,18.18,Ramp sync RMP-701428,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S799,02/17/2025,Credit Card Expense,Advocacy,2.64,Ramp sync RMP-700776,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S835,2025-07-03,Credit Card Expense,Prog - Admin,109.76,Ramp sync RMP-700586,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S725,09/22/2025,Credit Card Expense,Admin,21.43,Ramp sync RMP-700645,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1004,2026-04-06,Credit Card Expense,ADVOCACY,16.69,Ramp sync RMP-700537,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1027,2026-05-05,Credit Card Expense,Fundraising,12.51,Ramp sync RMP-701851,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S470,11/13/2025,Credit Card Expense,Prog - Fundraising,36.5,Ramp sync RMP-700359,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S113,2025-10-12,Credit Card Expense,Fundraising,16.38,Ramp sync RMP-701600,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S666,11/14/2025,Credit Card Expense,FUNDRAISING,25.39,Ramp sync RMP-700090,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S495,05/24/2026,Credit Card Expense,Advocacy,184.26,Ramp sync RMP-700509,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S309,26-Jun-2025,Credit Card Expense,Fundraising,27.15,Ramp sync RMP-701682,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S371,05-Apr-2025,Credit Card Expense,Volunteer Training,57.53,Ramp sync RMP-700779,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S690,2025-11-02,Credit Card Expense,Advocacy,22.9,Ramp sync RMP-700706,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S691,02/18/2025,Credit Card Expense,VOLUNTEER TRAINING,46.33,Ramp sync RMP-701316,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S590,09/03/2025,Credit Card Expense,Prog - Admin,35.24,Ramp sync RMP-702011,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S832,2025-12-16,Credit Card Expense,ADVOCACY,25.29,Ramp sync RMP-701568,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S173,2025-09-17,Credit Card Expense,Fundraising,125.58,Ramp sync RMP-700274,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S282,2026-04-29,Credit Card Expense,Fundraising,29.36,Ramp sync RMP-700081,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S815,2025-03-28,Credit Card Expense,Advocacy,32.38,Ramp sync RMP-701798,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S258,2026-06-21,Credit Card Expense,Volunteer Training,78.5,Ramp sync RMP-700058,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S899,2025-09-24,Credit Card Expense,Fundraising,50.48,Ramp sync RMP-700390,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S163,2025-05-20,Credit Card Expense,ADMIN,62.8,Ramp sync RMP-701165,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S398,2025-05-26,Credit Card Expense,Advocacy,39.13,Ramp sync RMP-700623,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1025,2025-04-16,Credit Card Expense,Admin,22.98,Ramp sync RMP-701403,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S299,03/01/2026,Credit Card Expense,FUNDRAISING,83.87,Ramp sync RMP-700224,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S954,2025-07-31,Credit Card Expense,Prog - Admin,45.58,Ramp sync RMP-701415,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S307,2025-10-10,Credit Card Expense,Prog - Volunteer Training,20.38,Ramp sync RMP-700588,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S878,2025-04-24,Credit Card Expense,Admin,22.13,Ramp sync RMP-700188,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S628,31-Aug-2025,Credit Card Expense,Prog - Volunteer Training,43.62,Ramp sync RMP-700352,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S17,2026-03-02,Credit Card Expense,Prog - Advocacy,88.6,Ramp sync RMP-700603,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S288,13-Sep-2025,Credit Card Expense,Volunteer Training,17.12,Ramp sync RMP-700540,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S945,01/28/2025,Credit Card Expense,Prog - Fundraising,20.13,Ramp sync RMP-701733,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S651,2025-03-29,Credit Card Expense,Fundraising,84.6,Ramp sync RMP-702109,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S825,09/27/2025,Credit Card Expense,Prog - Admin,54.32,Ramp sync RMP-702563,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1013,04/16/2025,Credit Card Expense,FUNDRAISING,25.67,Ramp sync RMP-702002,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S997,2025-10-28,Credit Card Expense,FUNDRAISING,11.82,Ramp sync RMP-702284,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S86,01/01/2026,Credit Card Expense,Admin,97.33,Ramp sync RMP-701307,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S656,2025-06-29,Credit Card Expense,Advocacy,42.73,Ramp sync RMP-700034,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S56,02/19/2025,Credit Card Expense,Prog - Advocacy,21.06,Ramp sync RMP-700858,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1018,04/19/2025,Credit Card Expense,FUNDRAISING,11.41,Ramp sync RMP-702394,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S611,09/02/2025,Credit Card Expense,Volunteer Training,28.42,Ramp sync RMP-700473,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S415,29-Jun-2026,Credit Card Expense,Admin,5.47,Ramp sync RMP-701095,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S944,2025-09-12,Credit Card Expense,Prog - Fundraising,9.52,Ramp sync RMP-702310,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S635,03/18/2026,Credit Card Expense,Prog - Advocacy,71.68,Ramp sync RMP-702406,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S599,2025-12-09,Credit Card Expense,Prog - Volunteer Training,69.66,Ramp sync RMP-702392,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S92,27-Oct-2025,Credit Card Expense,Advocacy,28.88,Ramp sync RMP-701877,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S925,28-Apr-2025,Credit Card Expense,Advocacy,43.36,Ramp sync RMP-700198,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1,05/17/2025,Credit Card Expense,Prog - Volunteer Training,15.13,Ramp sync RMP-700333,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S645,2025-07-17,Credit Card Expense,Advocacy,71.2,Ramp sync RMP-701992,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S453,18-Mar-2025,Credit Card Expense,Prog - Advocacy,125.86,Ramp sync RMP-700153,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S373,2026-06-25,Credit Card Expense,Advocacy,70.69,Ramp sync RMP-702206,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S12,2026-04-10,Credit Card Expense,ADMIN,109.6,Ramp sync RMP-701959,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S917,03/28/2026,Credit Card Expense,Volunteer Training,74.71,Ramp sync RMP-701259,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S132,05/29/2026,Credit Card Expense,Volunteer Training,42.88,Ramp sync RMP-701675,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S577,08/26/2025,Credit Card Expense,Admin,33.57,Ramp sync RMP-701454,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S439,04/30/2026,Credit Card Expense,Volunteer Training,185.04,Ramp sync RMP-700074,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S440,2025-01-25,Credit Card Expense,Advocacy,31.82,Ramp sync RMP-700179,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S550,2025-06-25,Credit Card Expense,ADMIN,22.91,Ramp sync RMP-702190,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S625,2025-08-16,Credit Card Expense,Fundraising,47.83,Ramp sync RMP-700693,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S882,2026-05-11,Credit Card Expense,ADVOCACY,24.33,Ramp sync RMP-702511,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S93,2026-06-07,Credit Card Expense,Admin,35.17,Ramp sync RMP-700535,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S94,2025-05-28,Credit Card Expense,Prog - Volunteer Training,78.59,Ramp sync RMP-701341,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S62,17-Nov-2025,Credit Card Expense,Advocacy,182.3,Ramp sync RMP-702083,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S278,2025-07-03,Credit Card Expense,Fundraising,26.86,Ramp sync RMP-701136,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S240,20-Feb-2026,Credit Card Expense,Volunteer Training,56.29,Ramp sync RMP-702461,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S613,02-Oct-2025,Credit Card Expense,VOLUNTEER TRAINING,101.27,Ramp sync RMP-702330,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S264,26-May-2025,Credit Card Expense,Admin,124.45,Ramp sync RMP-700322,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S315,05/18/2026,Credit Card Expense,Volunteer Training,96.44,Ramp sync RMP-701786,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S391,2026-06-22,Credit Card Expense,Fundraising,45.69,Ramp sync RMP-700056,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S597,2025-05-22,Credit Card Expense,Prog - Fundraising,8.91,Ramp sync RMP-702182,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S701,08/13/2025,Credit Card Expense,Fundraising,73.97,Ramp sync RMP-700145,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S618,05/18/2026,Credit Card Expense,Advocacy,19.4,Ramp sync RMP-702593,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1029,2025-08-09,Credit Card Expense,Fundraising,111.72,Ramp sync RMP-702121,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S45,13-Jun-2025,Credit Card Expense,Prog - Advocacy,32.67,Ramp sync RMP-701842,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S672,2025-08-19,Credit Card Expense,Volunteer Training,44.8,Ramp sync RMP-700778,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S237,02/14/2025,Credit Card Expense,Prog - Fundraising,53.58,Ramp sync RMP-700687,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S992,2025-04-01,Credit Card Expense,Admin,19.64,Ramp sync RMP-700890,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S513,2026-03-15,Credit Card Expense,Prog - Volunteer Training,24.93,Ramp sync RMP-702029,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S829,29-Oct-2025,Credit Card Expense,Admin,128.07,Ramp sync RMP-700810,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S40,2026-01-23,Credit Card Expense,Prog - Volunteer Training,14.12,Ramp sync RMP-700898,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S593,01/30/2026,Credit Card Expense,Fundraising,63.67,Ramp sync RMP-701205,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S459,24-Oct-2025,Credit Card Expense,Prog - Fundraising,17.91,Ramp sync RMP-701589,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S862,03/23/2025,Credit Card Expense,Fundraising,70.82,Ramp sync RMP-701297,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S25,2026-02-14,Credit Card Expense,Fundraising,93.75,Ramp sync RMP-702245,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S41,2025-10-20,Credit Card Expense,Admin,35.59,Ramp sync RMP-700231,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S137,2025-11-24,Credit Card Expense,Prog - Advocacy,10.68,Ramp sync RMP-700368,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S782,2026-01-08,Credit Card Expense,Fundraising,173.54,Ramp sync RMP-701178,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S699,2025-05-21,Credit Card Expense,Prog - Advocacy,26.98,Ramp sync RMP-701575,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S789,2025-06-09,Credit Card Expense,ADMIN,14.08,Ramp sync RMP-701797,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S905,2025-03-18,Credit Card Expense,ADMIN,81.94,Ramp sync RMP-700149,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S318,2025-05-04,Credit Card Expense,Prog - Admin,22.48,Ramp sync RMP-701730,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S67,05-Sep-2025,Credit Card Expense,Prog - Fundraising,126.27,Ramp sync RMP-700117,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S757,2025-03-28,Credit Card Expense,Fundraising,23.28,Ramp sync RMP-700137,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S270,16-Feb-2026,Credit Card Expense,Volunteer Training,90.65,Ramp sync RMP-702127,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S191,2025-02-04,Credit Card Expense,ADMIN,16.75,Ramp sync RMP-701737,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S348,2026-06-28,Credit Card Expense,Advocacy,78.91,Ramp sync RMP-701780,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S366,2025-08-26,Credit Card Expense,Fundraising,51.09,Ramp sync RMP-701516,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S885,2025-08-08,Credit Card Expense,Admin,60.61,Ramp sync RMP-700160,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S570,2025-08-16,Credit Card Expense,Prog - Volunteer Training,42.43,Ramp sync RMP-701757,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S187,2025-05-17,Credit Card Expense,Fundraising,29.31,Ramp sync RMP-701439,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S551,2026-06-09,Credit Card Expense,Prog - Advocacy,7.25,Ramp sync RMP-700041,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S923,2025-02-13,Credit Card Expense,Advocacy,23.54,Ramp sync RMP-701556,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S8,29-Nov-2025,Credit Card Expense,Volunteer Training,110.0,Ramp sync RMP-701882,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S485,04/12/2025,Credit Card Expense,Fundraising,19.68,Ramp sync RMP-700301,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S394,07-May-2026,Credit Card Expense,Prog - Admin,152.67,Ramp sync RMP-702091,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S225,2025-12-26,Credit Card Expense,Prog - Advocacy,91.8,Ramp sync RMP-700453,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S659,2025-12-14,Credit Card Expense,Prog - Fundraising,74.1,Ramp sync RMP-701706,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S889,2025-03-08,Credit Card Expense,FUNDRAISING,12.79,Ramp sync RMP-700830,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S217,2025-02-07,Credit Card Expense,Advocacy,84.09,Ramp sync RMP-700313,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S498,25-Apr-2026,Credit Card Expense,Fundraising,16.66,Ramp sync RMP-702174,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S130,2025-12-09,Credit Card Expense,Volunteer Training,43.65,Ramp sync RMP-700271,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S104,2025-03-04,Credit Card Expense,Volunteer Training,80.66,Ramp sync RMP-700813,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S287,05-Jun-2026,Credit Card Expense,Fundraising,132.61,Ramp sync RMP-701835,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S575,03/10/2026,Credit Card Expense,ADVOCACY,4.78,Ramp sync RMP-701346,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S828,01/14/2026,Credit Card Expense,Prog - Fundraising,44.41,Ramp sync RMP-700807,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S890,2025-04-11,Credit Card Expense,Prog - Volunteer Training,35.73,Ramp sync RMP-700815,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S181,09/08/2025,Credit Card Expense,FUNDRAISING,71.65,Ramp sync RMP-701217,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S378,2025-09-20,Credit Card Expense,Prog - Fundraising,41.71,Ramp sync RMP-700521,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S778,2025-07-05,Credit Card Expense,Admin,25.71,Ramp sync RMP-700962,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S276,2026-04-26,Credit Card Expense,VOLUNTEER TRAINING,26.08,Ramp sync RMP-702112,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S989,2026-03-03,Credit Card Expense,Volunteer Training,10.21,Ramp sync RMP-701777,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S493,02/14/2026,Credit Card Expense,Prog - Fundraising,74.55,Ramp sync RMP-701435,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S980,15-Oct-2025,Credit Card Expense,Advocacy,29.94,Ramp sync RMP-700259,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S224,2026-04-03,Credit Card Expense,Admin,400.69,Ramp sync RMP-700926,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S947,04-Oct-2025,Credit Card Expense,Prog - Advocacy,65.22,Ramp sync RMP-700415,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S165,2026-05-07,Credit Card Expense,Fundraising,85.02,Ramp sync RMP-701752,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S817,2026-03-12,Credit Card Expense,Fundraising,71.76,Ramp sync RMP-701665,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S50,03/08/2025,Credit Card Expense,Prog - Fundraising,27.92,Ramp sync RMP-700151,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S72,2025-06-17,Credit Card Expense,Prog - Volunteer Training,162.81,Ramp sync RMP-701125,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S827,03/10/2026,Credit Card Expense,Prog - Advocacy,10.86,Ramp sync RMP-701676,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S875,04/07/2025,Credit Card Expense,FUNDRAISING,27.06,Ramp sync RMP-700907,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S211,2025-06-25,Credit Card Expense,VOLUNTEER TRAINING,14.22,Ramp sync RMP-700169,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S363,2026-05-01,Credit Card Expense,Fundraising,35.35,Ramp sync RMP-702423,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S185,10/21/2025,Credit Card Expense,FUNDRAISING,21.26,Ramp sync RMP-702596,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S850,2026-01-12,Credit Card Expense,Admin,45.83,Ramp sync RMP-701301,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S125,11/04/2025,Credit Card Expense,Prog - Advocacy,90.43,Ramp sync RMP-701310,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S142,12/12/2025,Credit Card Expense,Advocacy,76.73,Ramp sync RMP-701078,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S232,2025-06-10,Credit Card Expense,ADMIN,32.93,Ramp sync RMP-700337,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S617,11/11/2025,Credit Card Expense,FUNDRAISING,41.67,Ramp sync RMP-701090,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S557,2026-01-24,Credit Card Expense,Fundraising,41.56,Ramp sync RMP-700265,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S566,02-Apr-2026,Credit Card Expense,Admin,106.0,Ramp sync RMP-701646,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S428,2026-06-03,Credit Card Expense,ADVOCACY,25.16,Ramp sync RMP-700680,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S70,03/27/2026,Credit Card Expense,Fundraising,35.35,Ramp sync RMP-701313,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S790,2025-01-06,Credit Card Expense,Prog - Fundraising,51.68,Ramp sync RMP-701855,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S358,10/14/2025,Credit Card Expense,Prog - Fundraising,42.33,Ramp sync RMP-702020,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S852,03/15/2026,Credit Card Expense,Fundraising,70.5,Ramp sync RMP-700157,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S942,2025-08-18,Credit Card Expense,Fundraising,55.71,Ramp sync RMP-702027,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S77,01/01/2025,Credit Card Expense,VOLUNTEER TRAINING,118.3,Ramp sync RMP-701001,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S766,2025-09-06,Credit Card Expense,Prog - Fundraising,40.03,Ramp sync RMP-701431,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1024,07/01/2025,Credit Card Expense,Prog - Advocacy,181.54,Ramp sync RMP-701870,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1037,06/07/2025,Credit Card Expense,Prog - Fundraising,72.04,Ramp sync RMP-702210,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S177,2026-04-13,Credit Card Expense,Fundraising,42.76,Ramp sync RMP-700615,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S491,2025-11-10,Credit Card Expense,Fundraising,18.96,Ramp sync RMP-701320,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S669,20-Jun-2026,Credit Card Expense,Fundraising,31.21,Ramp sync RMP-700176,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S995,01/02/2026,Credit Card Expense,ADVOCACY,44.74,Ramp sync RMP-701135,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S170,31-Mar-2026,Credit Card Expense,Prog - Admin,20.38,Ramp sync RMP-701795,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S383,2026-04-14,Credit Card Expense,VOLUNTEER TRAINING,13.51,Ramp sync RMP-700839,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S336,02/20/2026,Credit Card Expense,VOLUNTEER TRAINING,109.19,Ramp sync RMP-701578,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S386,03/16/2026,Credit Card Expense,FUNDRAISING,25.22,Ramp sync RMP-700094,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S866,2025-05-15,Credit Card Expense,Advocacy,12.89,Ramp sync RMP-701363,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S247,24-Mar-2025,Credit Card Expense,Advocacy,16.79,Ramp sync RMP-701698,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S772,2025-12-18,Credit Card Expense,Advocacy,34.21,Ramp sync RMP-702302,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S63,2026-02-14,Credit Card Expense,ADVOCACY,99.4,Ramp sync RMP-701723,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S530,11-Apr-2026,Credit Card Expense,ADVOCACY,150.27,Ramp sync RMP-702449,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S178,2025-05-13,Credit Card Expense,Fundraising,611.39,Ramp sync RMP-701140,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S388,2025-08-29,Credit Card Expense,Prog - Admin,15.44,Ramp sync RMP-701858,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S22,02/19/2026,Credit Card Expense,Prog - Advocacy,80.13,Ramp sync RMP-701769,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S175,2026-01-28,Credit Card Expense,Advocacy,83.91,Ramp sync RMP-701264,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S548,2025-11-02,Credit Card Expense,Volunteer Training,83.92,Ramp sync RMP-702152,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S996,09/03/2025,Credit Card Expense,Fundraising,9.83,Ramp sync RMP-702159,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S451,25-Jun-2026,Credit Card Expense,Volunteer Training,89.18,Ramp sync RMP-700713,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S589,03/16/2026,Credit Card Expense,ADVOCACY,74.61,Ramp sync RMP-700566,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S488,05/20/2026,Credit Card Expense,Prog - Fundraising,32.19,Ramp sync RMP-701153,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S535,2025-01-14,Credit Card Expense,FUNDRAISING,89.52,Ramp sync RMP-702065,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S920,05-Jun-2025,Credit Card Expense,Prog - Advocacy,227.75,Ramp sync RMP-700654,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S139,2026-04-12,Credit Card Expense,ADVOCACY,46.69,Ramp sync RMP-700696,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S632,2025-02-10,Credit Card Expense,ADVOCACY,49.73,Ramp sync RMP-700852,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S43,18-Apr-2026,Credit Card Expense,Advocacy,18.36,Ramp sync RMP-700155,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S721,2025-04-11,Credit Card Expense,Fundraising,40.78,Ramp sync RMP-702502,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S124,2025-07-02,Credit Card Expense,Fundraising,17.67,Ramp sync RMP-702148,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S229,2025-12-30,Credit Card Expense,Prog - Admin,83.32,Ramp sync RMP-700904,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S281,08-Jul-2025,Credit Card Expense,FUNDRAISING,52.41,Ramp sync RMP-700734,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S10,2026-02-14,Credit Card Expense,VOLUNTEER TRAINING,33.72,Ramp sync RMP-701531,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S427,2026-01-31,Credit Card Expense,ADMIN,22.96,Ramp sync RMP-701881,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S602,02/22/2025,Credit Card Expense,Prog - Advocacy,20.29,Ramp sync RMP-700900,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S317,2025-08-01,Credit Card Expense,Prog - Admin,27.41,Ramp sync RMP-700601,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S48,2025-08-13,Credit Card Expense,Advocacy,107.11,Ramp sync RMP-701007,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S985,2026-04-11,Credit Card Expense,Advocacy,86.09,Ramp sync RMP-700806,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S749,2025-03-09,Credit Card Expense,Prog - Admin,85.85,Ramp sync RMP-701717,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S621,2025-08-17,Credit Card Expense,Prog - Admin,28.6,Ramp sync RMP-701273,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1019,2026-01-07,Credit Card Expense,ADVOCACY,44.18,Ramp sync RMP-701011,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S793,05/11/2026,Credit Card Expense,Admin,37.93,Ramp sync RMP-701041,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S455,2025-12-25,Credit Card Expense,Admin,13.4,Ramp sync RMP-701553,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S553,18-Feb-2026,Credit Card Expense,Prog - Admin,136.44,Ramp sync RMP-702025,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S682,05/16/2025,Credit Card Expense,Fundraising,11.86,Ramp sync RMP-702453,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S524,2026-04-16,Credit Card Expense,VOLUNTEER TRAINING,25.5,Ramp sync RMP-702425,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S753,2025-11-30,Credit Card Expense,Prog - Advocacy,84.62,Ramp sync RMP-700049,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S605,2025-02-12,Credit Card Expense,FUNDRAISING,459.2,Ramp sync RMP-700440,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S339,2026-02-09,Credit Card Expense,Advocacy,19.19,Ramp sync RMP-702173,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S960,2025-08-01,Credit Card Expense,Fundraising,232.05,Ramp sync RMP-702197,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S528,2025-09-01,Credit Card Expense,Volunteer Training,77.7,Ramp sync RMP-700917,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S580,2025-07-06,Credit Card Expense,Admin,86.33,Ramp sync RMP-701368,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S279,08/03/2025,Credit Card Expense,Fundraising,16.77,Ramp sync RMP-700700,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S707,2026-03-18,Credit Card Expense,ADVOCACY,61.51,Ramp sync RMP-702413,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S952,09/09/2025,Credit Card Expense,ADVOCACY,306.27,Ramp sync RMP-701905,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S101,09/05/2025,Credit Card Expense,Admin,30.66,Ramp sync RMP-702201,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S74,2025-04-06,Credit Card Expense,Prog - Advocacy,45.44,Ramp sync RMP-700370,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S345,10/20/2025,Credit Card Expense,Admin,7.06,Ramp sync RMP-700067,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S250,04-Mar-2026,Credit Card Expense,Fundraising,24.47,Ramp sync RMP-702441,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S641,2026-01-01,Credit Card Expense,ADVOCACY,60.2,Ramp sync RMP-701649,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S587,2025-11-09,Credit Card Expense,Admin,37.62,Ramp sync RMP-701549,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S437,2025-11-27,Credit Card Expense,FUNDRAISING,160.9,Ramp sync RMP-700980,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S472,2026-04-27,Credit Card Expense,Fundraising,15.97,Ramp sync RMP-700867,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S44,06/11/2026,Credit Card Expense,ADVOCACY,134.03,Ramp sync RMP-701000,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S758,2026-06-01,Credit Card Expense,VOLUNTEER TRAINING,24.17,Ramp sync RMP-701663,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S441,2025-04-17,Credit Card Expense,Prog - Admin,20.13,Ramp sync RMP-701317,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S326,17-Apr-2026,Credit Card Expense,Prog - Admin,55.57,Ramp sync RMP-701912,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1007,2025-04-25,Credit Card Expense,Fundraising,58.43,Ramp sync RMP-701300,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S31,12-Jan-2026,Credit Card Expense,ADVOCACY,33.2,Ramp sync RMP-702353,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S696,19-Nov-2025,Credit Card Expense,Fundraising,10.29,Ramp sync RMP-700419,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S0,2026-04-18,Credit Card Expense,FUNDRAISING,205.24,Ramp sync RMP-700840,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S354,2025-09-03,Credit Card Expense,Admin,16.67,Ramp sync RMP-700394,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S442,2026-02-15,Credit Card Expense,ADVOCACY,136.12,Ramp sync RMP-701357,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S848,01/06/2025,Credit Card Expense,Advocacy,144.79,Ramp sync RMP-702296,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S671,2025-03-16,Credit Card Expense,Prog - Fundraising,59.48,Ramp sync RMP-701814,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S81,2025-06-15,Credit Card Expense,Admin,119.44,Ramp sync RMP-702308,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S930,2026-02-20,Credit Card Expense,Advocacy,25.46,Ramp sync RMP-702371,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S607,2026-01-05,Credit Card Expense,Volunteer Training,98.5,Ramp sync RMP-700837,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S839,2025-04-05,Credit Card Expense,Fundraising,77.2,Ramp sync RMP-701285,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S410,2025-12-04,Credit Card Expense,Fundraising,41.54,Ramp sync RMP-702347,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S807,2025-05-17,Credit Card Expense,Advocacy,36.66,Ramp sync RMP-701710,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S728,2025-02-17,Credit Card Expense,Prog - Volunteer Training,95.94,Ramp sync RMP-701056,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S190,12/24/2025,Credit Card Expense,Prog - Advocacy,13.26,Ramp sync RMP-700463,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S967,01/01/2025,Credit Card Expense,Prog - Fundraising,159.79,Ramp sync RMP-701183,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S816,06/12/2025,Credit Card Expense,Fundraising,11.6,Ramp sync RMP-700389,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S884,05/30/2026,Credit Card Expense,Fundraising,64.23,Ramp sync RMP-700741,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S171,2025-10-22,Credit Card Expense,ADMIN,24.29,Ramp sync RMP-702412,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S614,03-Mar-2026,Credit Card Expense,Admin,43.97,Ramp sync RMP-700210,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S560,2025-06-27,Credit Card Expense,Advocacy,19.28,Ramp sync RMP-701537,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S145,04/04/2025,Credit Card Expense,ADMIN,8.64,Ramp sync RMP-702504,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S897,17-Sep-2025,Credit Card Expense,Fundraising,64.94,Ramp sync RMP-701502,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S99,08-Mar-2025,Credit Card Expense,ADVOCACY,37.54,Ramp sync RMP-702274,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S522,04/10/2026,Credit Card Expense,Volunteer Training,5.53,Ramp sync RMP-701910,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S902,2025-05-30,Credit Card Expense,Fundraising,11.33,Ramp sync RMP-700032,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S219,2025-11-10,Credit Card Expense,Fundraising,33.0,Ramp sync RMP-700158,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S879,2025-10-30,Credit Card Expense,Prog - Volunteer Training,70.75,Ramp sync RMP-700109,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S823,2025-07-12,Credit Card Expense,Admin,92.66,Ramp sync RMP-700568,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S562,04/08/2026,Credit Card Expense,Admin,9.67,Ramp sync RMP-702110,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S568,2026-06-16,Credit Card Expense,Fundraising,18.5,Ramp sync RMP-701824,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S162,2025-01-22,Credit Card Expense,Advocacy,34.18,Ramp sync RMP-700486,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S868,2026-04-22,Credit Card Expense,VOLUNTEER TRAINING,44.05,Ramp sync RMP-700918,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S169,2026-02-15,Credit Card Expense,Advocacy,47.46,Ramp sync RMP-701541,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S719,06/25/2026,Credit Card Expense,ADVOCACY,2.7,Ramp sync RMP-701204,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S979,2025-03-30,Credit Card Expense,Fundraising,91.1,Ramp sync RMP-702070,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S975,2025-12-23,Credit Card Expense,Prog - Advocacy,11.0,Ramp sync RMP-700018,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S16,2025-04-23,Credit Card Expense,VOLUNTEER TRAINING,10.71,Ramp sync RMP-701388,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S767,2026-01-07,Credit Card Expense,Advocacy,20.63,Ramp sync RMP-701128,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S210,2025-03-03,Credit Card Expense,VOLUNTEER TRAINING,186.57,Ramp sync RMP-700130,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S501,11/07/2025,Credit Card Expense,Prog - Advocacy,99.13,Ramp sync RMP-701673,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S620,01/27/2025,Credit Card Expense,Prog - Advocacy,64.94,Ramp sync RMP-700239,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S676,2025-07-29,Credit Card Expense,Advocacy,32.96,Ramp sync RMP-701226,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S115,2026-02-23,Credit Card Expense,Advocacy,96.39,Ramp sync RMP-701960,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S301,2025-04-20,Credit Card Expense,Fundraising,41.65,Ramp sync RMP-702151,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S786,2025-08-30,Credit Card Expense,Prog - Advocacy,49.26,Ramp sync RMP-701908,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S674,11/09/2025,Credit Card Expense,Admin,24.76,Ramp sync RMP-702357,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S585,2025-10-17,Credit Card Expense,FUNDRAISING,175.49,Ramp sync RMP-701942,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S601,19-Aug-2025,Credit Card Expense,Fundraising,4.28,Ramp sync RMP-701552,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S33,11/11/2025,Credit Card Expense,ADVOCACY,41.3,Ramp sync RMP-700374,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S730,06-Nov-2025,Credit Card Expense,VOLUNTEER TRAINING,102.4,Ramp sync RMP-700832,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S887,06/09/2026,Credit Card Expense,Volunteer Training,94.73,Ramp sync RMP-700299,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S243,2025-04-27,Credit Card Expense,Fundraising,4.77,Ramp sync RMP-700833,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S760,2025-01-23,Credit Card Expense,Advocacy,98.76,Ramp sync RMP-701142,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S811,2026-06-14,Credit Card Expense,ADMIN,50.13,Ramp sync RMP-701455,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S939,2026-02-14,Credit Card Expense,Admin,32.72,Ramp sync RMP-700077,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S714,08-Jun-2026,Credit Card Expense,Fundraising,19.61,Ramp sync RMP-702207,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1031,2026-06-11,Credit Card Expense,Fundraising,202.88,Ramp sync RMP-701018,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S734,2026-06-19,Credit Card Expense,Advocacy,74.17,Ramp sync RMP-702367,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S803,23-Mar-2025,Credit Card Expense,FUNDRAISING,84.15,Ramp sync RMP-700346,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S215,06/12/2026,Credit Card Expense,Volunteer Training,36.51,Ramp sync RMP-700261,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S574,04-Jun-2025,Credit Card Expense,Prog - Fundraising,28.28,Ramp sync RMP-701411,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S735,2025-05-19,Credit Card Expense,Advocacy,13.79,Ramp sync RMP-701237,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S736,16-Oct-2025,Credit Card Expense,Advocacy,53.64,Ramp sync RMP-700877,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S11,2025-06-24,Credit Card Expense,Prog - Advocacy,197.79,Ramp sync RMP-700640,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S390,08-Jun-2026,Credit Card Expense,VOLUNTEER TRAINING,21.93,Ramp sync RMP-702199,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S770,05/09/2026,Credit Card Expense,Prog - Volunteer Training,48.55,Ramp sync RMP-700152,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S60,2026-03-09,Credit Card Expense,Prog - Advocacy,8.71,Ramp sync RMP-701526,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S715,2026-02-16,Credit Card Expense,Admin,47.34,Ramp sync RMP-700961,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S448,2025-09-23,Credit Card Expense,ADVOCACY,41.17,Ramp sync RMP-701427,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S746,2025-08-07,Credit Card Expense,Fundraising,6.82,Ramp sync RMP-700655,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S305,2025-03-28,Credit Card Expense,Admin,20.91,Ramp sync RMP-702298,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S639,09-Sep-2025,Credit Card Expense,Fundraising,11.18,Ramp sync RMP-700080,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S340,2026-06-03,Credit Card Expense,Advocacy,110.55,Ramp sync RMP-700733,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S499,2025-01-14,Credit Card Expense,Fundraising,35.34,Ramp sync RMP-702541,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S818,2025-07-31,Credit Card Expense,Volunteer Training,171.93,Ramp sync RMP-701918,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S155,2025-06-03,Credit Card Expense,ADVOCACY,19.31,Ramp sync RMP-702040,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S534,2026-06-14,Credit Card Expense,Advocacy,55.86,Ramp sync RMP-701103,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S509,2026-03-24,Credit Card Expense,Fundraising,77.54,Ramp sync RMP-701322,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S838,04/17/2026,Credit Card Expense,Prog - Advocacy,118.31,Ramp sync RMP-701592,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S313,11/10/2025,Credit Card Expense,ADVOCACY,18.05,Ramp sync RMP-701850,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S297,24-Aug-2025,Credit Card Expense,VOLUNTEER TRAINING,33.91,Ramp sync RMP-700186,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S193,04/02/2025,Credit Card Expense,Fundraising,43.88,Ramp sync RMP-700114,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S260,07-May-2025,Credit Card Expense,ADVOCACY,67.57,Ramp sync RMP-700850,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S484,2025-04-03,Credit Card Expense,Fundraising,10.29,Ramp sync RMP-700560,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S257,2025-08-01,Credit Card Expense,Advocacy,35.6,Ramp sync RMP-701207,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S262,2025-12-23,Credit Card Expense,VOLUNTEER TRAINING,67.37,Ramp sync RMP-701683,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S290,2026-01-17,Credit Card Expense,Fundraising,62.63,Ramp sync RMP-700686,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S732,01/30/2026,Credit Card Expense,Prog - Advocacy,13.68,Ramp sync RMP-701593,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S711,2025-05-26,Credit Card Expense,Fundraising,32.63,Ramp sync RMP-701048,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S961,2026-02-26,Credit Card Expense,Prog - Volunteer Training,96.47,Ramp sync RMP-702341,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S256,2025-04-17,Credit Card Expense,Prog - Admin,6.97,Ramp sync RMP-701995,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S692,06/01/2026,Credit Card Expense,VOLUNTEER TRAINING,26.48,Ramp sync RMP-700664,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S819,2025-02-01,Credit Card Expense,Advocacy,20.97,Ramp sync RMP-700064,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S993,2025-06-25,Credit Card Expense,Prog - Volunteer Training,154.54,Ramp sync RMP-700014,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S223,19-Nov-2025,Credit Card Expense,Advocacy,13.59,Ramp sync RMP-700798,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S743,04/05/2026,Credit Card Expense,Prog - Volunteer Training,44.87,Ramp sync RMP-700719,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S88,03/02/2026,Credit Card Expense,ADVOCACY,76.59,Ramp sync RMP-702019,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1033,2025-02-21,Credit Card Expense,Prog - Volunteer Training,13.45,Ramp sync RMP-701027,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S47,10-Mar-2025,Credit Card Expense,Volunteer Training,81.29,Ramp sync RMP-701179,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S700,06/27/2025,Credit Card Expense,Fundraising,31.44,Ramp sync RMP-700940,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S686,2026-01-06,Credit Card Expense,Admin,84.47,Ramp sync RMP-702098,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S742,2025-10-30,Credit Card Expense,Fundraising,48.55,Ramp sync RMP-700780,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S55,2025-02-04,Credit Card Expense,Admin,41.45,Ramp sync RMP-702097,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S71,07-Apr-2026,Credit Card Expense,Prog - Fundraising,24.11,Ramp sync RMP-702141,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S798,2025-04-11,Credit Card Expense,Admin,43.79,Ramp sync RMP-701182,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S331,2025-09-01,Credit Card Expense,Admin,46.87,Ramp sync RMP-701857,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S713,2025-01-27,Credit Card Expense,Fundraising,26.04,Ramp sync RMP-702063,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S409,2025-12-09,Credit Card Expense,Prog - Advocacy,17.7,Ramp sync RMP-700282,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S703,2025-06-25,Credit Card Expense,Prog - Fundraising,33.29,Ramp sync RMP-700387,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S144,13-Mar-2025,Credit Card Expense,Prog - Fundraising,24.18,Ramp sync RMP-701807,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S221,28-Jun-2025,Credit Card Expense,ADMIN,43.07,Ramp sync RMP-702165,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S267,2025-05-27,Credit Card Expense,Prog - Fundraising,141.88,Ramp sync RMP-701920,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S75,2025-12-27,Credit Card Expense,ADVOCACY,18.28,Ramp sync RMP-702085,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S234,13-May-2026,Credit Card Expense,Advocacy,30.27,Ramp sync RMP-702072,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S466,2026-06-24,Credit Card Expense,VOLUNTEER TRAINING,88.09,Ramp sync RMP-700084,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S216,2026-03-25,Credit Card Expense,ADVOCACY,111.1,Ramp sync RMP-702575,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S332,2026-04-22,Credit Card Expense,Admin,20.92,Ramp sync RMP-700092,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S563,03/11/2025,Credit Card Expense,Fundraising,60.55,Ramp sync RMP-700652,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S751,24-Jun-2025,Credit Card Expense,Advocacy,27.75,Ramp sync RMP-701332,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S164,14-Sep-2025,Credit Card Expense,Prog - Fundraising,38.26,Ramp sync RMP-702479,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S57,01/20/2026,Credit Card Expense,Fundraising,16.87,Ramp sync RMP-701438,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S675,2026-03-20,Credit Card Expense,VOLUNTEER TRAINING,27.94,Ramp sync RMP-700580,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S511,2025-11-10,Credit Card Expense,Fundraising,91.07,Ramp sync RMP-700102,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S174,2025-08-04,Credit Card Expense,Fundraising,51.72,Ramp sync RMP-701465,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S112,02/18/2026,Credit Card Expense,Advocacy,60.11,Ramp sync RMP-701984,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S565,2026-06-13,Credit Card Expense,Advocacy,22.42,Ramp sync RMP-700264,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S18,2025-12-08,Credit Card Expense,ADVOCACY,12.01,Ramp sync RMP-700481,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S541,2025-02-18,Credit Card Expense,Prog - Advocacy,19.05,Ramp sync RMP-700629,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S197,2026-04-10,Credit Card Expense,Advocacy,51.79,Ramp sync RMP-701902,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S431,2025-04-01,Credit Card Expense,Advocacy,60.65,Ramp sync RMP-700783,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S964,03/06/2025,Credit Card Expense,Prog - Advocacy,17.18,Ramp sync RMP-701536,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S834,2025-11-28,Credit Card Expense,Admin,36.61,Ramp sync RMP-700722,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S936,2025-03-01,Credit Card Expense,Prog - Fundraising,36.88,Ramp sync RMP-700443,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S2,03/08/2026,Credit Card Expense,VOLUNTEER TRAINING,20.01,Ramp sync RMP-702387,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S432,03-Mar-2025,Credit Card Expense,Advocacy,121.7,Ramp sync RMP-700809,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S446,2026-04-25,Credit Card Expense,FUNDRAISING,176.25,Ramp sync RMP-700341,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S677,2026-02-04,Credit Card Expense,Prog - Advocacy,248.14,Ramp sync RMP-700880,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S830,2025-04-18,Credit Card Expense,VOLUNTEER TRAINING,99.97,Ramp sync RMP-701832,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S68,10/28/2025,Credit Card Expense,Advocacy,46.33,Ramp sync RMP-702395,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S346,2025-04-30,Credit Card Expense,Prog - Advocacy,184.13,Ramp sync RMP-701146,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S407,2025-02-13,Credit Card Expense,Volunteer Training,10.64,Ramp sync RMP-702142,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S950,2025-06-29,Credit Card Expense,Admin,9.93,Ramp sync RMP-701702,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S636,2025-06-29,Credit Card Expense,FUNDRAISING,13.17,Ramp sync RMP-701487,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S737,09/16/2025,Credit Card Expense,Advocacy,38.08,Ramp sync RMP-701962,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S649,2025-05-13,Credit Card Expense,Fundraising,20.13,Ramp sync RMP-701442,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S873,13-Mar-2025,Credit Card Expense,VOLUNTEER TRAINING,21.39,Ramp sync RMP-701796,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S200,06/05/2026,Credit Card Expense,FUNDRAISING,169.28,Ramp sync RMP-700329,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S859,12/27/2025,Credit Card Expense,ADVOCACY,28.9,Ramp sync RMP-702431,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S820,2025-02-11,Credit Card Expense,Fundraising,54.19,Ramp sync RMP-701947,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S119,2025-06-09,Credit Card Expense,Prog - Admin,28.85,Ramp sync RMP-700048,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S98,03/28/2026,Credit Card Expense,Prog - Admin,42.5,Ramp sync RMP-700345,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1038,09/15/2025,Credit Card Expense,Prog - Fundraising,23.17,Ramp sync RMP-700110,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S658,2026-03-19,Credit Card Expense,Volunteer Training,50.07,Ramp sync RMP-702272,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S26,2025-09-23,Credit Card Expense,Fundraising,236.0,Ramp sync RMP-700933,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S684,11/01/2025,Credit Card Expense,ADMIN,91.22,Ramp sync RMP-701924,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S475,2026-02-20,Credit Card Expense,Prog - Fundraising,50.09,Ramp sync RMP-701806,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S909,15-Apr-2025,Credit Card Expense,Advocacy,32.52,Ramp sync RMP-701477,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S768,2025-07-04,Credit Card Expense,ADVOCACY,24.82,Ramp sync RMP-702375,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S269,2025-08-06,Credit Card Expense,ADVOCACY,133.88,Ramp sync RMP-702049,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S867,09-Oct-2025,Credit Card Expense,FUNDRAISING,162.54,Ramp sync RMP-701336,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S64,2025-09-05,Credit Card Expense,Advocacy,60.55,Ramp sync RMP-701951,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S404,04/19/2025,Credit Card Expense,ADMIN,30.43,Ramp sync RMP-702539,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S771,2025-01-18,Credit Card Expense,Admin,47.93,Ramp sync RMP-700539,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S505,2025-09-04,Credit Card Expense,FUNDRAISING,251.71,Ramp sync RMP-702531,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S870,2026-06-17,Credit Card Expense,FUNDRAISING,13.02,Ramp sync RMP-701091,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S479,2025-09-30,Credit Card Expense,ADVOCACY,78.88,Ramp sync RMP-701810,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S108,2026-06-02,Credit Card Expense,Admin,83.37,Ramp sync RMP-700257,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S306,2025-03-14,Credit Card Expense,Advocacy,241.4,Ramp sync RMP-701878,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S544,2025-07-21,Credit Card Expense,Admin,28.51,Ramp sync RMP-700063,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1010,2026-04-23,Credit Card Expense,Volunteer Training,8.03,Ramp sync RMP-701872,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S946,06/26/2026,Credit Card Expense,Advocacy,216.44,Ramp sync RMP-700111,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S241,2025-08-21,Credit Card Expense,Prog - Advocacy,22.22,Ramp sync RMP-700557,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S355,2025-07-31,Credit Card Expense,Volunteer Training,44.12,Ramp sync RMP-701781,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S157,2025-11-14,Credit Card Expense,Prog - Advocacy,46.73,Ramp sync RMP-701186,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S678,03/26/2026,Credit Card Expense,Prog - Fundraising,4.04,Ramp sync RMP-702584,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S95,04/27/2025,Credit Card Expense,Fundraising,43.0,Ramp sync RMP-700358,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S581,2025-09-05,Credit Card Expense,FUNDRAISING,26.06,Ramp sync RMP-701760,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S122,2025-06-21,Credit Card Expense,VOLUNTEER TRAINING,45.14,Ramp sync RMP-701389,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S402,2025-09-03,Credit Card Expense,Volunteer Training,71.94,Ramp sync RMP-700248,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S844,2026-05-04,Credit Card Expense,Prog - Fundraising,77.43,Ramp sync RMP-701933,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S840,03/02/2025,Credit Card Expense,Prog - Volunteer Training,37.84,Ramp sync RMP-700135,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S384,2025-06-01,Credit Card Expense,ADVOCACY,31.98,Ramp sync RMP-701774,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S236,04-Aug-2025,Credit Card Expense,Admin,44.76,Ramp sync RMP-700162,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S831,15-May-2025,Credit Card Expense,VOLUNTEER TRAINING,26.62,Ramp sync RMP-700439,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S489,06/06/2026,Credit Card Expense,Advocacy,132.11,Ramp sync RMP-701787,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S207,2026-03-08,Credit Card Expense,Prog - Fundraising,228.59,Ramp sync RMP-700589,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S554,04/16/2025,Credit Card Expense,Prog - Admin,30.69,Ramp sync RMP-701350,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S777,2025-11-04,Credit Card Expense,Fundraising,706.29,Ramp sync RMP-701452,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S367,2025-09-14,Credit Card Expense,ADVOCACY,7.48,Ramp sync RMP-700401,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S458,2026-06-02,Credit Card Expense,ADVOCACY,28.28,Ramp sync RMP-700790,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S808,06/27/2026,Credit Card Expense,Prog - Advocacy,32.34,Ramp sync RMP-701891,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S514,2026-05-02,Credit Card Expense,FUNDRAISING,65.27,Ramp sync RMP-701005,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S527,2026-06-10,Credit Card Expense,Volunteer Training,10.3,Ramp sync RMP-701647,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S329,2026-05-31,Credit Card Expense,Fundraising,46.02,Ramp sync RMP-700512,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S426,25-Dec-2025,Credit Card Expense,Prog - Fundraising,45.92,Ramp sync RMP-702242,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S49,03/08/2026,Credit Card Expense,Admin,65.22,Ramp sync RMP-701736,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S462,2026-06-06,Credit Card Expense,Prog - Fundraising,77.88,Ramp sync RMP-700786,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S188,2025-05-29,Credit Card Expense,ADVOCACY,124.03,Ramp sync RMP-700398,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S709,2025-12-08,Credit Card Expense,Advocacy,74.27,Ramp sync RMP-701055,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1030,02/03/2025,Credit Card Expense,Advocacy,49.19,Ramp sync RMP-702092,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S907,2026-06-12,Credit Card Expense,VOLUNTEER TRAINING,14.41,Ramp sync RMP-700298,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S430,2025-08-08,Credit Card Expense,Prog - Fundraising,25.66,Ramp sync RMP-702312,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S273,01/30/2026,Credit Card Expense,Volunteer Training,53.19,Ramp sync RMP-701323,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S523,01/08/2025,Credit Card Expense,Prog - Volunteer Training,58.45,Ramp sync RMP-701191,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S192,2025-06-08,Credit Card Expense,ADVOCACY,110.89,Ramp sync RMP-700987,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S286,2025-08-13,Credit Card Expense,VOLUNTEER TRAINING,175.13,Ramp sync RMP-700421,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S729,04/29/2025,Credit Card Expense,Advocacy,224.65,Ramp sync RMP-700643,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S717,07/27/2025,Credit Card Expense,Prog - Advocacy,102.56,Ramp sync RMP-700581,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S303,2025-01-30,Credit Card Expense,Advocacy,77.44,Ramp sync RMP-701265,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S630,08/28/2025,Credit Card Expense,Advocacy,288.67,Ramp sync RMP-700901,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S591,13-Feb-2025,Credit Card Expense,ADVOCACY,6.05,Ramp sync RMP-700692,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S935,2025-11-21,Credit Card Expense,Fundraising,24.23,Ramp sync RMP-701725,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S314,2025-03-04,Credit Card Expense,Prog - Advocacy,9.96,Ramp sync RMP-700402,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S586,04/20/2026,Credit Card Expense,ADVOCACY,59.43,Ramp sync RMP-700263,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S228,26-Jan-2026,Credit Card Expense,Advocacy,147.06,Ramp sync RMP-702569,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S89,2025-08-07,Credit Card Expense,Prog - Volunteer Training,19.86,Ramp sync RMP-702270,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S681,2026-05-12,Credit Card Expense,Prog - Advocacy,35.64,Ramp sync RMP-702122,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S396,2025-06-24,Credit Card Expense,Prog - Admin,33.39,Ramp sync RMP-701360,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S166,22-Jun-2026,Credit Card Expense,Fundraising,8.06,Ramp sync RMP-700267,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S397,2026-01-21,Credit Card Expense,ADVOCACY,11.92,Ramp sync RMP-702452,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1036,20-Oct-2025,Credit Card Expense,Prog - Advocacy,143.24,Ramp sync RMP-700060,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S23,2026-01-13,Credit Card Expense,Advocacy,19.03,Ramp sync RMP-701426,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S168,2026-01-14,Credit Card Expense,ADVOCACY,19.25,Ramp sync RMP-700762,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S594,2026-04-13,Credit Card Expense,Prog - Fundraising,122.02,Ramp sync RMP-700468,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S556,06/24/2025,Credit Card Expense,ADMIN,25.83,Ramp sync RMP-700670,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1002,2026-05-14,Credit Card Expense,Prog - Volunteer Training,216.49,Ramp sync RMP-700409,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1015,2026-06-12,Credit Card Expense,ADVOCACY,104.69,Ramp sync RMP-701550,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S874,2026-01-24,Credit Card Expense,ADVOCACY,41.06,Ramp sync RMP-701709,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S97,2025-10-19,Credit Card Expense,Volunteer Training,262.54,Ramp sync RMP-700015,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S208,11-Oct-2025,Credit Card Expense,Volunteer Training,18.22,Ramp sync RMP-700441,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S467,2025-04-28,Credit Card Expense,Fundraising,16.61,Ramp sync RMP-701311,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S949,06/21/2026,Credit Card Expense,Advocacy,90.36,Ramp sync RMP-702048,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S865,02/25/2025,Credit Card Expense,Prog - Advocacy,42.7,Ramp sync RMP-702180,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S265,06-Jan-2025,Credit Card Expense,ADVOCACY,116.79,Ramp sync RMP-701803,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S876,08/01/2025,Credit Card Expense,Advocacy,90.79,Ramp sync RMP-701491,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S51,2025-02-24,Credit Card Expense,ADVOCACY,109.19,Ramp sync RMP-701656,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S529,11/27/2025,Credit Card Expense,ADVOCACY,11.96,Ramp sync RMP-702382,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S413,2026-01-05,Credit Card Expense,Fundraising,43.55,Ramp sync RMP-700300,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S158,17-Aug-2025,Credit Card Expense,Prog - Advocacy,68.42,Ramp sync RMP-701013,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S494,09/10/2025,Credit Card Expense,Volunteer Training,23.8,Ramp sync RMP-700108,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S244,2025-12-16,Credit Card Expense,Fundraising,23.05,Ramp sync RMP-702231,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S642,09/28/2025,Credit Card Expense,Volunteer Training,62.41,Ramp sync RMP-700433,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S539,07-Jan-2025,Credit Card Expense,Fundraising,28.93,Ramp sync RMP-700755,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S480,04/25/2026,Credit Card Expense,ADMIN,140.28,Ramp sync RMP-700197,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S100,20-Mar-2025,Credit Card Expense,Prog - Advocacy,42.95,Ramp sync RMP-700488,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S253,27-Oct-2025,Credit Card Expense,Prog - Fundraising,144.75,Ramp sync RMP-701331,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S821,2026-06-15,Credit Card Expense,Fundraising,46.0,Ramp sync RMP-701714,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S610,22-Jan-2026,Credit Card Expense,Admin,74.84,Ramp sync RMP-700782,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1020,28-Jan-2025,Credit Card Expense,VOLUNTEER TRAINING,73.02,Ramp sync RMP-701200,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S809,27-May-2025,Credit Card Expense,Prog - Fundraising,38.75,Ramp sync RMP-701308,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S579,2026-05-09,Credit Card Expense,Advocacy,9.58,Ramp sync RMP-700753,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S129,2026-01-15,Credit Card Expense,Prog - Fundraising,48.44,Ramp sync RMP-701083,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S652,2025-04-27,Credit Card Expense,ADMIN,63.89,Ramp sync RMP-700037,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S220,2025-12-22,Credit Card Expense,Volunteer Training,7.26,Ramp sync RMP-701088,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S741,18-Apr-2026,Credit Card Expense,Volunteer Training,65.87,Ramp sync RMP-702535,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S572,02/20/2026,Credit Card Expense,FUNDRAISING,80.0,Ramp sync RMP-702570,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S804,02/05/2026,Credit Card Expense,FUNDRAISING,17.17,Ramp sync RMP-702060,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S248,03/23/2025,Credit Card Expense,Advocacy,183.01,Ramp sync RMP-701868,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S978,2025-06-02,Credit Card Expense,Fundraising,50.68,Ramp sync RMP-700208,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S126,2025-08-19,Credit Card Expense,ADVOCACY,65.73,Ramp sync RMP-700606,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S984,26-Apr-2025,Credit Card Expense,Admin,26.22,Ramp sync RMP-701369,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S567,05/20/2026,Credit Card Expense,Fundraising,116.53,Ramp sync RMP-701617,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S266,04/13/2025,Credit Card Expense,ADMIN,9.74,Ramp sync RMP-702477,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S152,2026-05-17,Credit Card Expense,Prog - Volunteer Training,26.42,Ramp sync RMP-700882,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S416,2026-02-15,Credit Card Expense,Prog - Admin,24.26,Ramp sync RMP-700793,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S34,2025-09-27,Credit Card Expense,FUNDRAISING,12.3,Ramp sync RMP-702352,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S231,01/12/2025,Credit Card Expense,Prog - Fundraising,22.39,Ramp sync RMP-700325,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S469,2025-08-04,Credit Card Expense,VOLUNTEER TRAINING,129.52,Ramp sync RMP-700437,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1009,2026-02-16,Credit Card Expense,Prog - Admin,102.12,Ramp sync RMP-701745,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S914,06/12/2025,Credit Card Expense,ADVOCACY,13.86,Ramp sync RMP-700466,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S506,2025-04-21,Credit Card Expense,Advocacy,36.67,Ramp sync RMP-702533,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S385,03/18/2025,Credit Card Expense,FUNDRAISING,23.4,Ramp sync RMP-701735,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S578,2026-05-18,Credit Card Expense,Fundraising,47.09,Ramp sync RMP-701052,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S406,04-Apr-2026,Credit Card Expense,Advocacy,11.08,Ramp sync RMP-700551,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S280,2025-09-16,Credit Card Expense,Volunteer Training,15.57,Ramp sync RMP-701155,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S788,2026-04-29,Credit Card Expense,Fundraising,52.47,Ramp sync RMP-701468,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S764,2026-06-13,Credit Card Expense,ADMIN,30.97,Ramp sync RMP-702282,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S454,2025-11-23,Credit Card Expense,Fundraising,68.55,Ramp sync RMP-701930,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S576,2025-10-23,Credit Card Expense,Volunteer Training,75.23,Ramp sync RMP-701615,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S896,2026-04-20,Credit Card Expense,Fundraising,37.32,Ramp sync RMP-702179,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S855,2025-09-16,Credit Card Expense,Advocacy,161.88,Ramp sync RMP-701734,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S153,02/06/2026,Credit Card Expense,ADVOCACY,89.02,Ramp sync RMP-701838,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S233,03/28/2025,Credit Card Expense,VOLUNTEER TRAINING,43.7,Ramp sync RMP-701126,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S213,2025-12-30,Credit Card Expense,FUNDRAISING,130.78,Ramp sync RMP-701518,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S310,2025-06-30,Credit Card Expense,Prog - Admin,82.29,Ramp sync RMP-701963,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S670,2025-12-03,Credit Card Expense,Advocacy,89.84,Ramp sync RMP-701270,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S184,01/02/2026,Credit Card Expense,Advocacy,12.41,Ramp sync RMP-701349,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S376,2026-05-04,Credit Card Expense,ADVOCACY,45.42,Ramp sync RMP-702510,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S338,2025-12-09,Credit Card Expense,Advocacy,48.46,Ramp sync RMP-702463,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S712,07/28/2025,Credit Card Expense,Advocacy,28.72,Ramp sync RMP-700496,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S783,29-Oct-2025,Credit Card Expense,Advocacy,415.08,Ramp sync RMP-702311,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S888,2025-12-05,Credit Card Expense,Advocacy,252.05,Ramp sync RMP-701390,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S160,2026-04-08,Credit Card Expense,Fundraising,11.3,Ramp sync RMP-701229,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S805,2026-01-27,Credit Card Expense,ADMIN,52.9,Ramp sync RMP-702241,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S561,2026-03-04,Credit Card Expense,Fundraising,21.28,Ramp sync RMP-701514,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S612,2025-10-31,Credit Card Expense,Prog - Fundraising,128.15,Ramp sync RMP-700431,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S433,01/19/2026,Credit Card Expense,Volunteer Training,78.37,Ramp sync RMP-700725,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S872,2025-07-22,Credit Card Expense,Advocacy,54.47,Ramp sync RMP-700517,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S910,2026-03-22,Credit Card Expense,Admin,35.13,Ramp sync RMP-701030,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S845,2025-08-11,Credit Card Expense,Advocacy,81.97,Ramp sync RMP-701958,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S382,02/12/2026,Credit Card Expense,ADVOCACY,145.33,Ramp sync RMP-701761,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S903,03/06/2025,Credit Card Expense,Fundraising,54.83,Ramp sync RMP-702135,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S538,07/23/2025,Credit Card Expense,Prog - Fundraising,46.18,Ramp sync RMP-700061,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S42,2025-10-12,Credit Card Expense,Fundraising,73.0,Ramp sync RMP-701199,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S80,2025-11-29,Credit Card Expense,Prog - Advocacy,36.5,Ramp sync RMP-702495,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S319,2026-05-06,Credit Card Expense,Volunteer Training,40.45,Ramp sync RMP-701227,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S252,2026-04-06,Credit Card Expense,Fundraising,34.69,Ramp sync RMP-701121,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S893,2025-11-24,Credit Card Expense,VOLUNTEER TRAINING,162.07,Ramp sync RMP-700993,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S720,05/02/2025,Credit Card Expense,Fundraising,54.65,Ramp sync RMP-701729,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S963,2025-07-26,Credit Card Expense,Advocacy,7.17,Ramp sync RMP-701012,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S263,02/26/2026,Credit Card Expense,FUNDRAISING,15.04,Ramp sync RMP-700935,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S854,2026-05-18,Credit Card Expense,Prog - Fundraising,150.89,Ramp sync RMP-700089,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S654,2026-06-02,Credit Card Expense,VOLUNTEER TRAINING,17.79,Ramp sync RMP-702355,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1014,09-Jun-2026,Credit Card Expense,Advocacy,18.02,Ramp sync RMP-701117,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S28,03/16/2025,Credit Card Expense,ADMIN,3.76,Ramp sync RMP-701860,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S791,07-Jun-2025,Credit Card Expense,Prog - Advocacy,74.94,Ramp sync RMP-702224,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S900,05/31/2025,Credit Card Expense,Prog - Volunteer Training,7.76,Ramp sync RMP-701457,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S918,2025-10-10,Credit Card Expense,Prog - Admin,118.11,Ramp sync RMP-701861,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S1003,11/17/2025,Credit Card Expense,Admin,40.47,Ramp sync RMP-701197,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S302,09-Mar-2025,Credit Card Expense,Fundraising,27.0,Ramp sync RMP-701822,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S643,26-Apr-2025,Credit Card Expense,Volunteer Training,59.49,Ramp sync RMP-701742,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S619,2025-03-19,Credit Card Expense,FUNDRAISING,71.3,Ramp sync RMP-702428,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S750,2025-07-25,Credit Card Expense,Prog - Volunteer Training,117.11,Ramp sync RMP-700238,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S738,01/31/2026,Credit Card Expense,Fundraising,48.12,Ramp sync RMP-701327,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S504,2026-02-15,Credit Card Expense,Advocacy,138.39,Ramp sync RMP-700723,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S242,11/16/2025,Credit Card Expense,Fundraising,46.39,Ramp sync RMP-702361,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S149,05/07/2025,Credit Card Expense,Prog - Volunteer Training,37.95,Ramp sync RMP-701619,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical
+QB-S209,2025-06-21,Credit Card Expense,Advocacy,56.93,Ramp sync RMP-700811,"Ramp sync: excluded, Ramp is the source of truth for card spend",critical

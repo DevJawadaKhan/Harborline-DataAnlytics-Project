@@ -1,0 +1,55 @@
+qb_txn_id,txn_date,account,class,amount,memo,program,flag_reason,severity
+QB-1443,2025-04-20,Insurance,,835.65,,,blank class: set to Unallocated,warning
+QB-1717,2025-05-04,Program Supplies,,775.93,,,blank class: set to Unallocated,warning
+QB-762,2025-07-14,Salaries & Wages,,592.74,,,blank class: set to Unallocated,warning
+QB-1002,2026-04-04,Professional Fees,,1459.39,,,blank class: set to Unallocated,warning
+QB-1199,2026-01-21,Software,,729.4,,,blank class: set to Unallocated,warning
+QB-1198,2025-03-28,Program Supplies,,2403.2,,,blank class: set to Unallocated,warning
+QB-1493,2025-03-30,Salaries & Wages,,1428.0,,,blank class: set to Unallocated,warning
+QB-1699,2025-01-11,Salaries & Wages,,679.76,,,blank class: set to Unallocated,warning
+QB-1506,09-Jul-2025,Software,,622.75,,,blank class: set to Unallocated,warning
+QB-1556,2025-08-31,Salaries & Wages,,195.74,,,blank class: set to Unallocated,warning
+QB-222,05/18/2026,Salaries & Wages,,599.38,,,blank class: set to Unallocated,warning
+QB-442,03/05/2025,Program Supplies,,813.17,,,blank class: set to Unallocated,warning
+QB-1143,06/19/2026,Software,,87.44,,,blank class: set to Unallocated,warning
+QB-258,2025-12-18,Salaries & Wages,,123.55,,,blank class: set to Unallocated,warning
+QB-1789,06/17/2026,Program Supplies,,2028.27,,,blank class: set to Unallocated,warning
+QB-979,2025-04-30,Rent,,1671.77,,,blank class: set to Unallocated,warning
+QB-1315,2026-04-17,Software,,770.92,,,blank class: set to Unallocated,warning
+QB-616,2025-10-21,Salaries & Wages,,463.15,,,blank class: set to Unallocated,warning
+QB-981,2025-04-14,Professional Fees,,135.88,,,blank class: set to Unallocated,warning
+QB-612,2025-11-06,Rent,,3093.29,,,blank class: set to Unallocated,warning
+QB-880,31-Oct-2025,Salaries & Wages,,112.65,,,blank class: set to Unallocated,warning
+QB-476,02/08/2025,Professional Fees,,177.03,,,blank class: set to Unallocated,warning
+QB-449,04/28/2026,Professional Fees,,533.48,,,blank class: set to Unallocated,warning
+QB-1581,2025-01-14,Software,,106.47,,,blank class: set to Unallocated,warning
+QB-947,23-Feb-2026,Software,,164.18,,,blank class: set to Unallocated,warning
+QB-1638,2025-07-26,Program Supplies,,340.76,,,blank class: set to Unallocated,warning
+QB-930,2025-04-21,Program Supplies,,1613.11,,,blank class: set to Unallocated,warning
+QB-255,05/08/2025,Program Supplies,,379.47,,,blank class: set to Unallocated,warning
+QB-741,2025-08-22,Rent,,178.43,,,blank class: set to Unallocated,warning
+QB-1525,2025-11-20,Software,,1858.28,,,blank class: set to Unallocated,warning
+QB-301,2025-01-19,Program Supplies,,175.82,,,blank class: set to Unallocated,warning
+QB-1600,2026-06-01,Professional Fees,,483.5,,,blank class: set to Unallocated,warning
+QB-997,2025-11-13,Salaries & Wages,,448.94,,,blank class: set to Unallocated,warning
+QB-617,2026-04-24,Salaries & Wages,,1456.38,,,blank class: set to Unallocated,warning
+QB-1333,01/23/2026,Program Supplies,,92.79,,,blank class: set to Unallocated,warning
+QB-303,2026-06-22,Professional Fees,,393.04,,,blank class: set to Unallocated,warning
+QB-1679,04/11/2025,Salaries & Wages,,146.54,,,blank class: set to Unallocated,warning
+QB-1640,2026-05-19,Professional Fees,,1828.26,,,blank class: set to Unallocated,warning
+QB-229,07/05/2025,Salaries & Wages,,132.07,,,blank class: set to Unallocated,warning
+QB-1380,14-Mar-2025,Salaries & Wages,,238.5,,,blank class: set to Unallocated,warning
+QB-1086,04/24/2025,Software,,479.98,,,blank class: set to Unallocated,warning
+QB-141,2026-04-30,Program Supplies,,613.76,,,blank class: set to Unallocated,warning
+QB-757,2025-04-09,Salaries & Wages,,104.36,,,blank class: set to Unallocated,warning
+QB-200,2025-08-13,Salaries & Wages,,208.53,,,blank class: set to Unallocated,warning
+QB-1721,2026-03-26,Software,,81.17,,,blank class: set to Unallocated,warning
+QB-1490,09-May-2026,Rent,,1459.81,,,blank class: set to Unallocated,warning
+QB-98,2025-04-20,Software,,98.18,,,blank class: set to Unallocated,warning
+QB-59,11-Jul-2025,Salaries & Wages,,515.71,,,blank class: set to Unallocated,warning
+QB-1135,2026-06-25,Software,,245.32,,,blank class: set to Unallocated,warning
+QB-852,08/19/2025,Salaries & Wages,,1205.34,,,blank class: set to Unallocated,warning
+QB-2,2026-05-07,Program Supplies,,640.57,,,blank class: set to Unallocated,warning
+QB-207,2025-03-25,Program Supplies,,699.61,,,blank class: set to Unallocated,warning
+QB-1615,12/21/2025,Software,,3602.81,,,blank class: set to Unallocated,warning
+QB-1681,2026-04-15,Insurance,,3086.62,,,blank class: set to Unallocated,warning

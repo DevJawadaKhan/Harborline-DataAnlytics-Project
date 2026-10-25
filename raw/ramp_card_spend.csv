@@ -1,0 +1,2601 @@
+ramp_txn_id,txn_date,employee,merchant,department,amount,currency
+RMP-700000,2025-05-04,M. Ortiz,Uber,Prog - Advocacy,71.89,GBP
+RMP-700001,05/15/2026,R. Hall,Adobe,ADMIN,18.5,USD
+RMP-700002,17-Feb-2025,R. Hall,Uber,Advocacy,120.61,USD
+RMP-700003,2025-04-05,J. Brown,Shell,Advocacy,28.56,USD
+RMP-700004,22-Apr-2026,J. Brown,Hilton,FUNDRAISING,7.12,USD
+RMP-700005,02/02/2025,J. Brown,Adobe,Admin,49.47,USD
+RMP-700006,04/28/2025,R. Hall,Uber,Advocacy,15.49,USD
+RMP-700007,2025-09-08,R. Hall,Adobe,Prog - Admin,15.2,USD
+RMP-700008,2025-10-30,J. Brown,Office Depot,ADVOCACY,82.72,USD
+RMP-700009,05/02/2025,S. Patel,VistaPrint,FUNDRAISING,103.67,USD
+RMP-700010,2025-08-06,K. Lee,Zoom,Advocacy,40.52,USD
+RMP-700011,2025-02-22,K. Lee,Eventbrite,Prog - Volunteer Training,7.3,USD
+RMP-700012,06-May-2025,S. Patel,Udemy,Prog - Volunteer Training,72.12,USD
+RMP-700013,2025-06-08,M. Ortiz,Hilton,Fundraising,33.53,USD
+RMP-700014,2025-06-25,K. Lee,Udemy,Prog - Volunteer Training,154.54,USD
+RMP-700015,2025-10-19,R. Hall,Udemy,Volunteer Training,262.54,USD
+RMP-700016,06/08/2025,A. Noor,Adobe,Admin,11.54,USD
+RMP-700017,2026-05-06,R. Hall,Office Depot,Advocacy,413.78,USD
+RMP-700018,2025-12-23,K. Lee,Shell,Prog - Advocacy,11.0,USD
+RMP-700019,2025-08-25,S. Patel,Meta Ads,FUNDRAISING,27.54,USD
+RMP-700020,2026-03-04,M. Ortiz,Shell,Advocacy,112.58,USD
+RMP-700021,2025-05-05,K. Lee,Canva,Volunteer Training,23.35,USD
+RMP-700022,2025-11-11,S. Patel,Eventbrite,Volunteer Training,21.5,GBP
+RMP-700023,06-Oct-2025,A. Noor,Shell,Prog - Advocacy,9.62,USD
+RMP-700024,2025-04-15,J. Brown,Staples,Prog - Admin,13.44,USD
+RMP-700025,02/11/2025,A. Noor,Shell,Advocacy,21.48,USD
+RMP-700026,01-Feb-2026,A. Noor,Zoom,Advocacy,89.74,USD
+RMP-700027,2026-04-05,M. Ortiz,Zoom,Prog - Advocacy,202.48,USD
+RMP-700028,2026-05-06,K. Lee,Office Depot,Advocacy,22.58,USD
+RMP-700029,17-Jun-2025,J. Brown,Udemy,Volunteer Training,31.17,USD
+RMP-700030,2025-06-23,S. Patel,VistaPrint,Prog - Fundraising,18.27,USD
+RMP-700031,07-Jan-2026,J. Brown,Google Ads,Prog - Fundraising,11.3,USD
+RMP-700032,2025-05-30,K. Lee,Hilton,Fundraising,11.33,USD
+RMP-700033,2025-09-06,M. Ortiz,Office Depot,Advocacy,14.18,USD
+RMP-700034,2025-06-29,K. Lee,Office Depot,Advocacy,42.73,USD
+RMP-700035,2025-04-30,S. Patel,Microsoft,Prog - Admin,25.39,USD
+RMP-700036,01/28/2025,J. Brown,Office Depot,Advocacy,31.83,USD
+RMP-700037,2025-04-27,A. Noor,Dropbox,ADMIN,63.89,USD
+RMP-700038,2025-09-19,K. Lee,Google Ads,Prog - Fundraising,41.13,USD
+RMP-700039,2025-02-07,R. Hall,Adobe,Admin,15.67,USD
+RMP-700040,07/16/2025,M. Ortiz,Udemy,Volunteer Training,105.8,USD
+RMP-700041,2026-06-09,M. Ortiz,Zoom,Prog - Advocacy,7.25,USD
+RMP-700042,2026-03-13,J. Brown,Hilton,Prog - Fundraising,22.27,USD
+RMP-700043,2026-02-14,A. Noor,Google Ads,Fundraising,210.6,USD
+RMP-700044,2025-11-29,S. Patel,Zoom,ADVOCACY,60.73,USD
+RMP-700045,2026-06-15,A. Noor,VistaPrint,Prog - Fundraising,8.86,USD
+RMP-700046,04/10/2026,J. Brown,Uber,Prog - Advocacy,10.75,USD
+RMP-700047,06/07/2025,A. Noor,Udemy,Volunteer Training,32.92,USD
+RMP-700048,2025-06-09,J. Brown,Dropbox,Prog - Admin,28.85,USD
+RMP-700049,2025-11-30,A. Noor,Office Depot,Prog - Advocacy,84.62,USD
+RMP-700050,11-Jan-2026,K. Lee,Office Depot,Advocacy,123.68,USD
+RMP-700051,2025-03-20,M. Ortiz,Shell,Prog - Advocacy,28.1,USD
+RMP-700052,16-Jul-2025,J. Brown,Office Depot,Advocacy,40.66,USD
+RMP-700053,2025-04-30,J. Brown,Zoom,ADVOCACY,17.65,USD
+RMP-700054,2025-08-14,M. Ortiz,Zoom,Advocacy,38.78,USD
+RMP-700055,02/14/2026,R. Hall,Uber,Prog - Advocacy,17.77,USD
+RMP-700056,2026-06-22,R. Hall,VistaPrint,Fundraising,45.69,USD
+RMP-700057,2025-12-05,S. Patel,Staples,Prog - Admin,25.44,USD
+RMP-700058,2026-06-21,J. Brown,Udemy,Volunteer Training,78.5,USD
+RMP-700059,08-Aug-2025,K. Lee,Shell,Advocacy,114.95,GBP
+RMP-700060,20-Oct-2025,A. Noor,Office Depot,Prog - Advocacy,143.24,USD
+RMP-700061,07/23/2025,K. Lee,Google Ads,Prog - Fundraising,46.18,USD
+RMP-700062,29-May-2026,J. Brown,Meta Ads,Fundraising,77.2,USD
+RMP-700063,2025-07-21,S. Patel,Staples,Admin,28.51,USD
+RMP-700064,2025-02-01,J. Brown,Office Depot,Advocacy,20.97,USD
+RMP-700065,2025-03-30,S. Patel,Hilton,Prog - Fundraising,13.06,USD
+RMP-700066,2025-07-21,M. Ortiz,Udemy,Volunteer Training,61.73,USD
+RMP-700067,10/20/2025,A. Noor,Staples,Admin,7.06,GBP
+RMP-700068,04/25/2025,K. Lee,Google Ads,Prog - Fundraising,98.07,USD
+RMP-700069,2025-08-10,S. Patel,Panera,VOLUNTEER TRAINING,32.36,USD
+RMP-700070,07/01/2025,K. Lee,VistaPrint,Fundraising,34.35,USD
+RMP-700071,2026-04-14,M. Ortiz,Meta Ads,Prog - Fundraising,81.99,USD
+RMP-700072,02-Mar-2026,J. Brown,Shell,Advocacy,8.58,USD
+RMP-700073,2025-03-01,S. Patel,Zoom,Advocacy,36.61,USD
+RMP-700074,04/30/2026,A. Noor,Eventbrite,Volunteer Training,185.04,USD
+RMP-700075,11-Jan-2025,S. Patel,Zoom,ADVOCACY,34.62,USD
+RMP-700076,2026-01-20,R. Hall,Canva,Volunteer Training,13.59,USD
+RMP-700077,2026-02-14,J. Brown,Dropbox,Admin,32.72,USD
+RMP-700078,2025-02-11,J. Brown,Hilton,Fundraising,145.19,USD
+RMP-700079,03-May-2025,A. Noor,Hilton,Fundraising,22.45,USD
+RMP-700080,09-Sep-2025,A. Noor,Meta Ads,Fundraising,11.18,USD
+RMP-700081,2026-04-29,M. Ortiz,Meta Ads,Fundraising,29.36,USD
+RMP-700082,01-Aug-2025,K. Lee,Adobe,Admin,12.63,USD
+RMP-700083,2025-09-25,S. Patel,Google Ads,Fundraising,5.87,USD
+RMP-700084,2026-06-24,M. Ortiz,Panera,VOLUNTEER TRAINING,88.09,USD
+RMP-700085,15-May-2025,K. Lee,Shell,Prog - Advocacy,114.81,USD
+RMP-700086,2026-05-13,M. Ortiz,Panera,Prog - Volunteer Training,65.18,GBP
+RMP-700087,2025-05-06,R. Hall,Office Depot,ADVOCACY,99.9,USD
+RMP-700088,2025-12-25,A. Noor,Zoom,ADVOCACY,31.01,USD
+RMP-700089,2026-05-18,A. Noor,Hilton,Prog - Fundraising,150.89,USD
+RMP-700090,11/14/2025,J. Brown,Google Ads,FUNDRAISING,25.39,USD
+RMP-700091,2025-01-12,S. Patel,Shell,Prog - Advocacy,44.72,USD
+RMP-700092,2026-04-22,S. Patel,Microsoft,Admin,20.92,USD
+RMP-700093,2025-10-21,S. Patel,Panera,Volunteer Training,12.66,USD
+RMP-700094,03/16/2026,M. Ortiz,Hilton,FUNDRAISING,25.22,USD
+RMP-700095,31-May-2026,M. Ortiz,Google Ads,Fundraising,332.39,USD
+RMP-700096,01/26/2026,S. Patel,Google Ads,FUNDRAISING,177.69,GBP
+RMP-700097,2025-11-12,J. Brown,Zoom,ADVOCACY,89.8,USD
+RMP-700098,2025-01-08,K. Lee,VistaPrint,Fundraising,30.4,USD
+RMP-700099,23-May-2026,R. Hall,Uber,ADVOCACY,29.78,USD
+RMP-700100,2025-05-04,M. Ortiz,Hilton,Fundraising,208.92,USD
+RMP-700101,2026-01-07,S. Patel,Uber,Advocacy,45.61,USD
+RMP-700102,2025-11-10,A. Noor,Google Ads,Fundraising,91.07,USD
+RMP-700103,04-Jul-2025,M. Ortiz,Zoom,Advocacy,27.16,USD
+RMP-700104,09-Jun-2026,K. Lee,Hilton,Fundraising,34.21,USD
+RMP-700105,2025-02-08,M. Ortiz,Office Depot,Advocacy,90.25,USD
+RMP-700106,2025-03-25,K. Lee,Staples,Admin,23.06,USD
+RMP-700107,2025-01-21,K. Lee,Dropbox,Prog - Admin,61.16,USD
+RMP-700108,09/10/2025,M. Ortiz,Panera,Volunteer Training,23.8,USD
+RMP-700109,2025-10-30,K. Lee,Eventbrite,Prog - Volunteer Training,70.75,USD
+RMP-700110,09/15/2025,M. Ortiz,VistaPrint,Prog - Fundraising,23.17,USD
+RMP-700111,06/26/2026,M. Ortiz,Office Depot,Advocacy,216.44,USD
+RMP-700112,04/06/2026,J. Brown,Office Depot,ADVOCACY,42.19,USD
+RMP-700113,12-Aug-2025,A. Noor,Zoom,Advocacy,89.75,USD
+RMP-700114,04/02/2025,R. Hall,VistaPrint,Fundraising,43.88,USD
+RMP-700115,2025-10-07,K. Lee,Zoom,Prog - Advocacy,28.47,USD
+RMP-700116,2025-06-19,M. Ortiz,Zoom,Advocacy,74.95,USD
+RMP-700117,05-Sep-2025,K. Lee,VistaPrint,Prog - Fundraising,126.27,USD
+RMP-700118,2025-12-27,M. Ortiz,Zoom,ADVOCACY,12.14,USD
+RMP-700119,15-Dec-2025,R. Hall,Zoom,Advocacy,50.3,USD
+RMP-700120,2026-03-11,M. Ortiz,Microsoft,Prog - Admin,40.56,USD
+RMP-700121,02/10/2026,M. Ortiz,Meta Ads,Prog - Fundraising,53.99,USD
+RMP-700122,03/19/2025,A. Noor,Office Depot,Prog - Advocacy,151.18,USD
+RMP-700123,2026-04-03,K. Lee,Office Depot,Advocacy,93.19,USD
+RMP-700124,01/27/2026,A. Noor,Meta Ads,Fundraising,126.59,USD
+RMP-700125,2025-01-14,A. Noor,Shell,Advocacy,56.64,USD
+RMP-700126,2025-02-14,A. Noor,Dropbox,Admin,30.26,USD
+RMP-700127,2025-02-07,A. Noor,Hilton,FUNDRAISING,5.04,USD
+RMP-700128,2026-02-20,J. Brown,Dropbox,Prog - Admin,159.78,USD
+RMP-700129,09/02/2025,K. Lee,VistaPrint,Prog - Fundraising,4.71,USD
+RMP-700130,2025-03-03,K. Lee,Canva,VOLUNTEER TRAINING,186.57,USD
+RMP-700131,2026-05-08,M. Ortiz,VistaPrint,Fundraising,87.08,USD
+RMP-700132,2025-11-19,K. Lee,Google Ads,Prog - Fundraising,262.88,USD
+RMP-700133,2025-09-09,R. Hall,Hilton,Prog - Fundraising,56.78,USD
+RMP-700134,04/13/2026,A. Noor,Shell,ADVOCACY,70.12,USD
+RMP-700135,03/02/2025,S. Patel,Panera,Prog - Volunteer Training,37.84,USD
+RMP-700136,2025-04-29,K. Lee,Zoom,Advocacy,47.86,USD
+RMP-700137,2025-03-28,S. Patel,Meta Ads,Fundraising,23.28,USD
+RMP-700138,03/21/2025,R. Hall,VistaPrint,Prog - Fundraising,40.22,USD
+RMP-700139,08/16/2025,J. Brown,Dropbox,ADMIN,20.87,USD
+RMP-700140,28-Apr-2026,M. Ortiz,Meta Ads,Prog - Fundraising,46.6,USD
+RMP-700141,2025-11-06,M. Ortiz,VistaPrint,Fundraising,43.68,USD
+RMP-700142,04/30/2026,M. Ortiz,Zoom,Prog - Advocacy,43.9,USD
+RMP-700143,01/25/2025,J. Brown,Office Depot,Advocacy,41.21,USD
+RMP-700144,2025-07-21,A. Noor,Adobe,Prog - Admin,25.63,USD
+RMP-700145,08/13/2025,S. Patel,VistaPrint,Fundraising,73.97,USD
+RMP-700146,2026-05-25,K. Lee,VistaPrint,Fundraising,59.35,USD
+RMP-700147,2026-06-04,A. Noor,Shell,Advocacy,57.32,USD
+RMP-700148,2025-07-02,M. Ortiz,Meta Ads,Fundraising,19.15,USD
+RMP-700149,2025-03-18,M. Ortiz,Microsoft,ADMIN,81.94,USD
+RMP-700150,03/02/2026,A. Noor,Office Depot,ADVOCACY,22.48,USD
+RMP-700151,03/08/2025,S. Patel,Google Ads,Prog - Fundraising,27.92,USD
+RMP-700152,05/09/2026,A. Noor,Eventbrite,Prog - Volunteer Training,48.55,USD
+RMP-700153,18-Mar-2025,J. Brown,Zoom,Prog - Advocacy,125.86,USD
+RMP-700154,02/24/2025,M. Ortiz,Hilton,Fundraising,15.07,USD
+RMP-700155,18-Apr-2026,S. Patel,Office Depot,Advocacy,18.36,USD
+RMP-700156,04-Sep-2025,K. Lee,Zoom,Advocacy,7.64,USD
+RMP-700157,03/15/2026,M. Ortiz,Meta Ads,Fundraising,70.5,USD
+RMP-700158,2025-11-10,A. Noor,VistaPrint,Fundraising,33.0,USD
+RMP-700159,2025-11-16,S. Patel,Shell,Advocacy,65.49,USD
+RMP-700160,2025-08-08,M. Ortiz,Microsoft,Admin,60.61,USD
+RMP-700161,2026-01-06,K. Lee,Shell,Advocacy,90.85,USD
+RMP-700162,04-Aug-2025,K. Lee,Staples,Admin,44.76,USD
+RMP-700163,2025-02-18,R. Hall,Meta Ads,Fundraising,23.61,GBP
+RMP-700164,04/08/2026,A. Noor,Eventbrite,Volunteer Training,55.08,GBP
+RMP-700165,2025-04-28,J. Brown,Office Depot,Advocacy,64.92,USD
+RMP-700166,03/23/2025,A. Noor,Uber,Prog - Advocacy,32.67,USD
+RMP-700167,2025-09-20,S. Patel,Office Depot,Advocacy,48.51,USD
+RMP-700168,11-May-2026,A. Noor,Hilton,Prog - Fundraising,13.32,USD
+RMP-700169,2025-06-25,S. Patel,Canva,VOLUNTEER TRAINING,14.22,USD
+RMP-700170,2025-03-30,R. Hall,Uber,Advocacy,10.03,USD
+RMP-700171,12/25/2025,R. Hall,Google Ads,FUNDRAISING,57.96,USD
+RMP-700172,13-Oct-2025,R. Hall,Shell,Prog - Advocacy,87.01,USD
+RMP-700173,2025-10-24,J. Brown,VistaPrint,Fundraising,12.39,USD
+RMP-700174,09/17/2025,R. Hall,Office Depot,ADVOCACY,51.68,USD
+RMP-700175,2026-04-20,A. Noor,Meta Ads,Prog - Fundraising,66.85,USD
+RMP-700176,20-Jun-2026,K. Lee,Meta Ads,Fundraising,31.21,USD
+RMP-700177,2025-02-06,S. Patel,VistaPrint,Fundraising,188.93,USD
+RMP-700178,30-Jun-2025,S. Patel,Shell,Prog - Advocacy,12.04,USD
+RMP-700179,2025-01-25,K. Lee,Shell,Advocacy,31.82,USD
+RMP-700180,12/15/2025,A. Noor,Shell,Prog - Advocacy,3.25,USD
+RMP-700181,2026-06-27,J. Brown,Zoom,Prog - Advocacy,61.01,USD
+RMP-700182,2025-08-15,M. Ortiz,Zoom,Advocacy,23.13,USD
+RMP-700183,2025-12-14,A. Noor,Hilton,FUNDRAISING,7.55,USD
+RMP-700184,2025-02-07,R. Hall,Google Ads,Fundraising,76.3,USD
+RMP-700185,01/18/2026,A. Noor,Google Ads,Fundraising,38.82,USD
+RMP-700186,24-Aug-2025,S. Patel,Udemy,VOLUNTEER TRAINING,33.91,USD
+RMP-700187,2025-06-30,S. Patel,Eventbrite,Prog - Volunteer Training,123.31,USD
+RMP-700188,2025-04-24,J. Brown,Staples,Admin,22.13,USD
+RMP-700189,2025-11-02,R. Hall,Panera,VOLUNTEER TRAINING,79.8,USD
+RMP-700190,2025-05-12,J. Brown,Google Ads,Fundraising,90.96,USD
+RMP-700191,14-Dec-2025,J. Brown,Adobe,ADMIN,26.94,USD
+RMP-700192,2025-06-29,K. Lee,Microsoft,Prog - Admin,45.04,USD
+RMP-700193,2026-02-19,M. Ortiz,Eventbrite,Volunteer Training,202.53,USD
+RMP-700194,01/20/2026,M. Ortiz,Hilton,FUNDRAISING,18.01,USD
+RMP-700195,27-May-2026,R. Hall,Eventbrite,Volunteer Training,73.66,USD
+RMP-700196,2025-02-12,J. Brown,Meta Ads,Fundraising,47.27,USD
+RMP-700197,04/25/2026,S. Patel,Dropbox,ADMIN,140.28,USD
+RMP-700198,28-Apr-2025,M. Ortiz,Uber,Advocacy,43.36,USD
+RMP-700199,2025-03-02,A. Noor,Meta Ads,Fundraising,82.86,USD
+RMP-700200,2025-07-07,K. Lee,VistaPrint,FUNDRAISING,10.59,USD
+RMP-700201,03/29/2026,S. Patel,Shell,ADVOCACY,6.49,USD
+RMP-700202,06-Jul-2025,K. Lee,Google Ads,Fundraising,17.39,USD
+RMP-700203,2026-04-09,A. Noor,Eventbrite,VOLUNTEER TRAINING,30.04,GBP
+RMP-700204,2025-06-13,M. Ortiz,Office Depot,ADVOCACY,32.5,USD
+RMP-700205,2026-02-28,K. Lee,Staples,Prog - Admin,119.47,USD
+RMP-700206,04/12/2025,R. Hall,Udemy,VOLUNTEER TRAINING,31.38,USD
+RMP-700207,2025-09-24,K. Lee,Canva,Volunteer Training,45.67,USD
+RMP-700208,2025-06-02,K. Lee,Hilton,Fundraising,50.68,USD
+RMP-700209,2026-03-05,A. Noor,Staples,Admin,25.32,USD
+RMP-700210,03-Mar-2026,S. Patel,Microsoft,Admin,43.97,USD
+RMP-700211,2026-06-20,S. Patel,Canva,Prog - Volunteer Training,115.13,USD
+RMP-700212,29-Nov-2025,A. Noor,Panera,Volunteer Training,58.51,USD
+RMP-700213,2026-03-16,K. Lee,Zoom,ADVOCACY,76.24,USD
+RMP-700214,2025-05-04,K. Lee,Eventbrite,Volunteer Training,60.33,USD
+RMP-700215,10/29/2025,J. Brown,Adobe,Admin,196.84,USD
+RMP-700216,2025-12-15,R. Hall,VistaPrint,Fundraising,17.34,USD
+RMP-700217,06-Sep-2025,M. Ortiz,Zoom,Advocacy,424.35,USD
+RMP-700218,2025-09-28,M. Ortiz,Uber,Advocacy,109.59,USD
+RMP-700219,05-Mar-2026,S. Patel,Microsoft,Prog - Admin,129.07,USD
+RMP-700220,2025-09-04,A. Noor,VistaPrint,Fundraising,145.32,USD
+RMP-700221,2026-04-26,K. Lee,Panera,Volunteer Training,113.6,GBP
+RMP-700222,2025-04-08,R. Hall,VistaPrint,Fundraising,14.0,USD
+RMP-700223,2025-11-25,M. Ortiz,Shell,ADVOCACY,16.12,USD
+RMP-700224,03/01/2026,A. Noor,Meta Ads,FUNDRAISING,83.87,USD
+RMP-700225,2026-02-28,A. Noor,VistaPrint,Fundraising,75.18,USD
+RMP-700226,05-Jan-2025,K. Lee,Meta Ads,FUNDRAISING,99.21,USD
+RMP-700227,04/04/2026,R. Hall,Udemy,Prog - Volunteer Training,46.62,USD
+RMP-700228,2026-05-13,A. Noor,Udemy,VOLUNTEER TRAINING,13.66,USD
+RMP-700229,2025-03-28,M. Ortiz,Office Depot,ADVOCACY,40.48,USD
+RMP-700230,2026-02-06,J. Brown,Microsoft,Admin,87.11,USD
+RMP-700231,2025-10-20,M. Ortiz,Adobe,Admin,35.59,USD
+RMP-700232,10/08/2025,R. Hall,Meta Ads,Fundraising,44.51,USD
+RMP-700233,2025-07-16,J. Brown,Dropbox,Prog - Admin,45.93,USD
+RMP-700234,2025-03-24,A. Noor,Meta Ads,Fundraising,27.94,USD
+RMP-700235,01/27/2025,M. Ortiz,Uber,Prog - Advocacy,21.49,USD
+RMP-700236,2025-05-15,K. Lee,Google Ads,Fundraising,298.13,USD
+RMP-700237,2025-03-31,R. Hall,Shell,Advocacy,181.77,USD
+RMP-700238,2025-07-25,A. Noor,Eventbrite,Prog - Volunteer Training,117.11,USD
+RMP-700239,01/27/2025,K. Lee,Zoom,Prog - Advocacy,64.94,USD
+RMP-700240,2026-01-13,J. Brown,Udemy,Prog - Volunteer Training,18.1,USD
+RMP-700241,2026-02-19,S. Patel,VistaPrint,Fundraising,99.34,USD
+RMP-700242,2025-08-15,S. Patel,Office Depot,Advocacy,121.97,USD
+RMP-700243,09-Mar-2025,J. Brown,Shell,Prog - Advocacy,32.79,USD
+RMP-700244,28-Dec-2025,S. Patel,Hilton,Prog - Fundraising,17.1,USD
+RMP-700245,2025-09-17,R. Hall,Meta Ads,Fundraising,65.64,USD
+RMP-700246,2025-03-04,A. Noor,VistaPrint,FUNDRAISING,116.88,USD
+RMP-700247,01/27/2026,A. Noor,Zoom,Advocacy,25.13,USD
+RMP-700248,2025-09-03,R. Hall,Panera,Volunteer Training,71.94,USD
+RMP-700249,05-Oct-2025,M. Ortiz,Google Ads,Prog - Fundraising,19.75,USD
+RMP-700250,12/13/2025,A. Noor,Meta Ads,Fundraising,16.07,USD
+RMP-700251,2026-01-07,S. Patel,Office Depot,Prog - Advocacy,53.75,USD
+RMP-700252,03-May-2025,R. Hall,Adobe,ADMIN,21.48,USD
+RMP-700253,2025-02-26,K. Lee,Uber,Advocacy,65.83,USD
+RMP-700254,2025-06-09,M. Ortiz,Shell,Advocacy,10.44,USD
+RMP-700255,2025-05-07,K. Lee,Udemy,Prog - Volunteer Training,20.67,USD
+RMP-700256,07-Nov-2025,S. Patel,Office Depot,Advocacy,112.87,USD
+RMP-700257,2026-06-02,K. Lee,Adobe,Admin,83.37,USD
+RMP-700258,2025-09-22,S. Patel,Uber,Advocacy,65.18,USD
+RMP-700259,15-Oct-2025,A. Noor,Shell,Advocacy,29.94,USD
+RMP-700260,2026-02-24,M. Ortiz,Udemy,VOLUNTEER TRAINING,45.26,USD
+RMP-700261,06/12/2026,J. Brown,Udemy,Volunteer Training,36.51,USD
+RMP-700262,2025-05-20,S. Patel,Zoom,Prog - Advocacy,365.18,USD
+RMP-700263,04/20/2026,R. Hall,Office Depot,ADVOCACY,59.43,USD
+RMP-700264,2026-06-13,R. Hall,Zoom,Advocacy,22.42,USD
+RMP-700265,2026-01-24,A. Noor,Meta Ads,Fundraising,41.56,USD
+RMP-700266,2026-05-26,R. Hall,Google Ads,FUNDRAISING,9.85,USD
+RMP-700267,22-Jun-2026,K. Lee,Google Ads,Fundraising,8.06,GBP
+RMP-700268,01-Aug-2025,A. Noor,Google Ads,Fundraising,166.74,USD
+RMP-700269,2026-05-28,R. Hall,Udemy,Volunteer Training,57.19,USD
+RMP-700270,2025-09-22,K. Lee,Microsoft,ADMIN,29.77,USD
+RMP-700271,2025-12-09,K. Lee,Udemy,Volunteer Training,43.65,USD
+RMP-700272,2025-02-07,K. Lee,Office Depot,Advocacy,40.7,USD
+RMP-700273,2025-08-21,R. Hall,VistaPrint,Fundraising,47.5,USD
+RMP-700274,2025-09-17,K. Lee,Meta Ads,Fundraising,125.58,USD
+RMP-700275,11/04/2025,M. Ortiz,Udemy,Volunteer Training,72.38,USD
+RMP-700276,02/07/2026,R. Hall,Shell,Advocacy,30.92,USD
+RMP-700277,2025-09-18,K. Lee,Office Depot,ADVOCACY,9.26,USD
+RMP-700278,04/21/2026,M. Ortiz,Hilton,FUNDRAISING,18.14,USD
+RMP-700279,2025-04-16,J. Brown,Office Depot,Advocacy,88.47,USD
+RMP-700280,2025-09-04,M. Ortiz,VistaPrint,Fundraising,182.34,USD
+RMP-700281,10/31/2025,R. Hall,Office Depot,Advocacy,20.28,USD
+RMP-700282,2025-12-09,R. Hall,Shell,Prog - Advocacy,17.7,GBP
+RMP-700283,23-Mar-2026,K. Lee,Zoom,Advocacy,30.29,GBP
+RMP-700284,2025-02-07,R. Hall,Zoom,Prog - Advocacy,222.73,USD
+RMP-700285,02/15/2025,J. Brown,Shell,ADVOCACY,51.06,USD
+RMP-700286,2025-08-08,A. Noor,Meta Ads,Fundraising,22.51,USD
+RMP-700287,2025-09-13,M. Ortiz,Panera,Volunteer Training,32.3,USD
+RMP-700288,17-May-2025,A. Noor,Hilton,Fundraising,27.79,GBP
+RMP-700289,08/19/2025,J. Brown,Zoom,ADVOCACY,84.24,USD
+RMP-700290,02/07/2025,M. Ortiz,Microsoft,ADMIN,259.34,USD
+RMP-700291,2025-06-04,K. Lee,Adobe,Admin,50.29,USD
+RMP-700292,05/18/2026,M. Ortiz,Zoom,Prog - Advocacy,119.63,USD
+RMP-700293,2025-04-15,K. Lee,Staples,Admin,13.31,USD
+RMP-700294,2025-09-12,S. Patel,Uber,Advocacy,367.57,USD
+RMP-700295,2026-02-08,M. Ortiz,Meta Ads,Fundraising,13.39,USD
+RMP-700296,2026-05-03,M. Ortiz,Uber,Advocacy,133.04,USD
+RMP-700297,04/03/2026,A. Noor,Canva,VOLUNTEER TRAINING,60.63,USD
+RMP-700298,2026-06-12,A. Noor,Udemy,VOLUNTEER TRAINING,14.41,USD
+RMP-700299,06/09/2026,J. Brown,Udemy,Volunteer Training,94.73,USD
+RMP-700300,2026-01-05,K. Lee,Meta Ads,Fundraising,43.55,GBP
+RMP-700301,04/12/2025,R. Hall,Hilton,Fundraising,19.68,USD
+RMP-700302,06/25/2026,A. Noor,Eventbrite,Volunteer Training,45.14,USD
+RMP-700303,27-May-2026,J. Brown,Staples,Admin,10.13,USD
+RMP-700304,2026-01-24,K. Lee,Dropbox,Admin,28.96,USD
+RMP-700305,2025-12-29,K. Lee,Microsoft,Admin,18.77,USD
+RMP-700306,04/25/2025,K. Lee,Microsoft,ADMIN,37.93,USD
+RMP-700307,2025-12-09,S. Patel,Shell,Prog - Advocacy,9.41,USD
+RMP-700308,2025-03-15,K. Lee,Uber,ADVOCACY,8.92,USD
+RMP-700309,2025-05-15,J. Brown,Uber,Advocacy,20.82,USD
+RMP-700310,01/15/2026,K. Lee,Dropbox,Admin,43.19,USD
+RMP-700311,2026-05-05,R. Hall,Zoom,Advocacy,18.62,USD
+RMP-700312,05-May-2025,R. Hall,Panera,Volunteer Training,67.72,USD
+RMP-700313,2025-02-07,K. Lee,Shell,Advocacy,84.09,USD
+RMP-700314,06-Nov-2025,J. Brown,Shell,Prog - Advocacy,20.91,USD
+RMP-700315,04/16/2025,M. Ortiz,Office Depot,Advocacy,156.24,GBP
+RMP-700316,08/13/2025,K. Lee,Google Ads,Fundraising,34.04,USD
+RMP-700317,2025-08-30,J. Brown,Shell,Advocacy,232.38,USD
+RMP-700318,01-Feb-2026,A. Noor,Google Ads,FUNDRAISING,35.39,USD
+RMP-700319,2025-06-02,J. Brown,Meta Ads,FUNDRAISING,16.29,USD
+RMP-700320,06/20/2026,S. Patel,VistaPrint,Fundraising,135.0,USD
+RMP-700321,2026-02-06,A. Noor,Office Depot,Advocacy,17.51,USD
+RMP-700322,26-May-2025,R. Hall,Staples,Admin,124.45,USD
+RMP-700323,2025-07-10,R. Hall,VistaPrint,Fundraising,49.83,USD
+RMP-700324,2025-07-20,M. Ortiz,Uber,Prog - Advocacy,27.1,GBP
+RMP-700325,01/12/2025,M. Ortiz,Hilton,Prog - Fundraising,22.39,USD
+RMP-700326,02/21/2025,J. Brown,VistaPrint,Prog - Fundraising,41.36,USD
+RMP-700327,2025-10-29,J. Brown,Udemy,Volunteer Training,82.42,USD
+RMP-700328,2025-10-27,K. Lee,Uber,ADVOCACY,43.12,USD
+RMP-700329,06/05/2026,K. Lee,Hilton,FUNDRAISING,169.28,USD
+RMP-700330,2025-05-20,R. Hall,VistaPrint,Prog - Fundraising,15.51,USD
+RMP-700331,2025-04-10,S. Patel,Shell,ADVOCACY,40.98,USD
+RMP-700332,2026-04-30,K. Lee,Google Ads,Fundraising,120.37,USD
+RMP-700333,05/17/2025,R. Hall,Eventbrite,Prog - Volunteer Training,15.13,USD
+RMP-700334,01/01/2026,J. Brown,Google Ads,Fundraising,114.0,USD
+RMP-700335,2026-06-18,J. Brown,Eventbrite,Volunteer Training,45.5,USD
+RMP-700336,2026-05-22,K. Lee,Shell,Prog - Advocacy,49.36,USD
+RMP-700337,2025-06-10,S. Patel,Staples,ADMIN,32.93,USD
+RMP-700338,2025-06-24,R. Hall,Google Ads,Prog - Fundraising,15.06,GBP
+RMP-700339,2025-03-29,J. Brown,Zoom,Prog - Advocacy,41.64,USD
+RMP-700340,03-Feb-2026,R. Hall,Canva,Volunteer Training,27.11,USD
+RMP-700341,2026-04-25,S. Patel,Hilton,FUNDRAISING,176.25,USD
+RMP-700342,29-Jun-2026,J. Brown,VistaPrint,Prog - Fundraising,70.77,USD
+RMP-700343,2026-04-22,R. Hall,VistaPrint,FUNDRAISING,46.11,GBP
+RMP-700344,10/10/2025,S. Patel,Eventbrite,Volunteer Training,146.34,USD
+RMP-700345,03/28/2026,S. Patel,Microsoft,Prog - Admin,42.5,USD
+RMP-700346,23-Mar-2025,S. Patel,Google Ads,FUNDRAISING,84.15,USD
+RMP-700347,2025-08-01,K. Lee,Uber,Advocacy,127.46,USD
+RMP-700348,2026-06-04,M. Ortiz,VistaPrint,Prog - Fundraising,34.99,USD
+RMP-700349,2025-05-14,R. Hall,Eventbrite,Volunteer Training,66.12,USD
+RMP-700350,23-Mar-2026,S. Patel,Meta Ads,Prog - Fundraising,30.17,USD
+RMP-700351,2025-04-28,R. Hall,Office Depot,Prog - Advocacy,125.41,USD
+RMP-700352,31-Aug-2025,S. Patel,Canva,Prog - Volunteer Training,43.62,USD
+RMP-700353,2025-05-30,R. Hall,Uber,ADVOCACY,153.48,USD
+RMP-700354,06/17/2026,J. Brown,Office Depot,Advocacy,53.46,USD
+RMP-700355,01/14/2026,R. Hall,Eventbrite,Volunteer Training,441.99,USD
+RMP-700356,06/09/2026,M. Ortiz,Meta Ads,Prog - Fundraising,23.65,GBP
+RMP-700357,2026-05-28,J. Brown,Panera,VOLUNTEER TRAINING,96.91,USD
+RMP-700358,04/27/2025,J. Brown,Google Ads,Fundraising,43.0,USD
+RMP-700359,11/13/2025,S. Patel,VistaPrint,Prog - Fundraising,36.5,USD
+RMP-700360,2025-01-12,A. Noor,Hilton,Fundraising,8.1,USD
+RMP-700361,2025-03-31,M. Ortiz,Canva,Volunteer Training,47.73,USD
+RMP-700362,01/23/2026,J. Brown,Shell,Prog - Advocacy,18.6,USD
+RMP-700363,03/24/2025,A. Noor,Shell,ADVOCACY,33.83,USD
+RMP-700364,2026-01-31,A. Noor,Hilton,Fundraising,19.27,USD
+RMP-700365,2026-06-29,J. Brown,Panera,VOLUNTEER TRAINING,21.74,USD
+RMP-700366,2025-04-10,S. Patel,Google Ads,FUNDRAISING,17.02,USD
+RMP-700367,2026-04-02,K. Lee,Meta Ads,FUNDRAISING,17.18,USD
+RMP-700368,2025-11-24,J. Brown,Office Depot,Prog - Advocacy,10.68,USD
+RMP-700369,2025-03-15,S. Patel,Hilton,Fundraising,62.71,USD
+RMP-700370,2025-04-06,M. Ortiz,Office Depot,Prog - Advocacy,45.44,USD
+RMP-700371,2025-04-02,S. Patel,Staples,Prog - Admin,84.52,USD
+RMP-700372,11/26/2025,A. Noor,Shell,ADVOCACY,31.42,USD
+RMP-700373,2025-06-24,M. Ortiz,Udemy,Volunteer Training,24.69,USD
+RMP-700374,11/11/2025,M. Ortiz,Uber,ADVOCACY,41.3,USD
+RMP-700375,05/12/2026,K. Lee,Microsoft,Prog - Admin,84.06,USD
+RMP-700376,26-Sep-2025,K. Lee,Staples,Prog - Admin,58.55,USD
+RMP-700377,03/04/2026,J. Brown,Uber,Advocacy,45.22,USD
+RMP-700378,2025-02-04,S. Patel,Zoom,Advocacy,81.28,USD
+RMP-700379,29-Apr-2025,J. Brown,Office Depot,Advocacy,44.9,USD
+RMP-700380,2026-01-06,K. Lee,Google Ads,Fundraising,26.25,USD
+RMP-700381,2026-03-27,A. Noor,Zoom,Prog - Advocacy,101.17,USD
+RMP-700382,05-Nov-2025,K. Lee,Hilton,Prog - Fundraising,14.53,USD
+RMP-700383,2025-12-23,S. Patel,Uber,Advocacy,12.45,USD
+RMP-700384,2026-01-11,A. Noor,Google Ads,Prog - Fundraising,43.71,USD
+RMP-700385,2025-04-15,J. Brown,Eventbrite,VOLUNTEER TRAINING,48.29,GBP
+RMP-700386,01/25/2026,J. Brown,Hilton,Prog - Fundraising,55.13,USD
+RMP-700387,2025-06-25,K. Lee,Meta Ads,Prog - Fundraising,33.29,USD
+RMP-700388,04/16/2025,K. Lee,Office Depot,ADVOCACY,151.08,USD
+RMP-700389,06/12/2025,R. Hall,Hilton,Fundraising,11.6,USD
+RMP-700390,2025-09-24,J. Brown,Meta Ads,Fundraising,50.48,USD
+RMP-700391,10/06/2025,J. Brown,Eventbrite,Prog - Volunteer Training,88.48,USD
+RMP-700392,2025-10-30,M. Ortiz,Shell,Advocacy,155.39,USD
+RMP-700393,2025-05-07,S. Patel,VistaPrint,Fundraising,148.55,USD
+RMP-700394,2025-09-03,M. Ortiz,Adobe,Admin,16.67,USD
+RMP-700395,08/22/2025,M. Ortiz,Adobe,Admin,61.93,USD
+RMP-700396,2026-03-15,J. Brown,Google Ads,Prog - Fundraising,36.87,USD
+RMP-700397,2025-05-17,R. Hall,Udemy,Prog - Volunteer Training,43.95,USD
+RMP-700398,2025-05-29,S. Patel,Uber,ADVOCACY,124.03,USD
+RMP-700399,2025-02-25,J. Brown,Zoom,Advocacy,247.14,USD
+RMP-700400,2025-12-22,M. Ortiz,Canva,Volunteer Training,56.53,USD
+RMP-700401,2025-09-14,M. Ortiz,Zoom,ADVOCACY,7.48,USD
+RMP-700402,2025-03-04,J. Brown,Uber,Prog - Advocacy,9.96,USD
+RMP-700403,04-Mar-2025,K. Lee,Dropbox,Admin,42.87,USD
+RMP-700404,01/29/2025,K. Lee,Dropbox,ADMIN,109.71,USD
+RMP-700405,10/27/2025,J. Brown,Dropbox,Admin,22.05,USD
+RMP-700406,2025-08-03,A. Noor,Office Depot,Prog - Advocacy,37.64,USD
+RMP-700407,21-May-2025,A. Noor,Microsoft,ADMIN,191.74,USD
+RMP-700408,2026-05-22,K. Lee,Office Depot,ADVOCACY,31.29,USD
+RMP-700409,2026-05-14,S. Patel,Eventbrite,Prog - Volunteer Training,216.49,USD
+RMP-700410,17-May-2026,R. Hall,Hilton,Fundraising,30.35,USD
+RMP-700411,2025-07-10,M. Ortiz,Panera,Prog - Volunteer Training,100.87,USD
+RMP-700412,2025-02-18,S. Patel,Adobe,Admin,47.9,USD
+RMP-700413,2025-12-29,K. Lee,Uber,Prog - Advocacy,89.92,USD
+RMP-700414,11-May-2026,J. Brown,Eventbrite,Volunteer Training,272.54,USD
+RMP-700415,04-Oct-2025,A. Noor,Uber,Prog - Advocacy,65.22,USD
+RMP-700416,16-Feb-2025,K. Lee,Staples,Prog - Admin,139.07,USD
+RMP-700417,04-Aug-2025,S. Patel,Canva,Prog - Volunteer Training,19.98,USD
+RMP-700418,2025-08-18,S. Patel,Meta Ads,FUNDRAISING,19.33,USD
+RMP-700419,19-Nov-2025,R. Hall,Hilton,Fundraising,10.29,USD
+RMP-700420,2026-02-25,K. Lee,Google Ads,Fundraising,17.29,USD
+RMP-700421,2025-08-13,M. Ortiz,Panera,VOLUNTEER TRAINING,175.13,USD
+RMP-700422,2025-10-14,S. Patel,Uber,ADVOCACY,60.24,USD
+RMP-700423,02/15/2025,M. Ortiz,Hilton,FUNDRAISING,35.14,USD
+RMP-700424,14-Jan-2025,M. Ortiz,Adobe,ADMIN,53.72,USD
+RMP-700425,01/10/2026,J. Brown,Hilton,FUNDRAISING,82.45,USD
+RMP-700426,2025-11-29,K. Lee,Office Depot,Advocacy,90.08,USD
+RMP-700427,2025-06-15,K. Lee,Zoom,ADVOCACY,54.42,GBP
+RMP-700428,05/22/2026,M. Ortiz,Eventbrite,Prog - Volunteer Training,155.16,USD
+RMP-700429,2025-04-27,J. Brown,VistaPrint,FUNDRAISING,18.66,USD
+RMP-700430,2026-03-15,S. Patel,Office Depot,ADVOCACY,32.6,USD
+RMP-700431,2025-10-31,S. Patel,Meta Ads,Prog - Fundraising,128.15,USD
+RMP-700432,2026-04-02,K. Lee,Dropbox,Admin,105.71,USD
+RMP-700433,09/28/2025,M. Ortiz,Canva,Volunteer Training,62.41,USD
+RMP-700434,04-Aug-2025,J. Brown,Office Depot,Advocacy,27.42,USD
+RMP-700435,2025-04-23,J. Brown,Staples,Admin,90.81,USD
+RMP-700436,01/16/2025,S. Patel,Panera,VOLUNTEER TRAINING,19.72,USD
+RMP-700437,2025-08-04,S. Patel,Canva,VOLUNTEER TRAINING,129.52,GBP
+RMP-700438,2026-03-03,A. Noor,Panera,VOLUNTEER TRAINING,175.84,USD
+RMP-700439,15-May-2025,A. Noor,Canva,VOLUNTEER TRAINING,26.62,USD
+RMP-700440,2025-02-12,M. Ortiz,Hilton,FUNDRAISING,459.2,USD
+RMP-700441,11-Oct-2025,A. Noor,Eventbrite,Volunteer Training,18.22,USD
+RMP-700442,2025-04-08,J. Brown,Zoom,ADVOCACY,37.71,USD
+RMP-700443,2025-03-01,A. Noor,Hilton,Prog - Fundraising,36.88,USD
+RMP-700444,2025-08-18,K. Lee,Office Depot,Advocacy,40.71,USD
+RMP-700445,01/20/2026,K. Lee,Uber,ADVOCACY,161.15,USD
+RMP-700446,2025-06-08,R. Hall,VistaPrint,Prog - Fundraising,66.28,USD
+RMP-700447,04/16/2026,S. Patel,Dropbox,ADMIN,21.15,USD
+RMP-700448,2025-07-27,S. Patel,Shell,Advocacy,49.31,GBP
+RMP-700449,06/23/2025,M. Ortiz,Uber,Prog - Advocacy,81.2,USD
+RMP-700450,03/22/2025,K. Lee,Hilton,Fundraising,71.43,USD
+RMP-700451,2025-01-18,R. Hall,VistaPrint,FUNDRAISING,134.28,USD
+RMP-700452,2025-10-18,M. Ortiz,Udemy,Volunteer Training,48.45,USD
+RMP-700453,2025-12-26,M. Ortiz,Shell,Prog - Advocacy,91.8,USD
+RMP-700454,10/06/2025,A. Noor,Shell,Advocacy,39.33,USD
+RMP-700455,2026-02-01,S. Patel,Hilton,Fundraising,24.98,USD
+RMP-700456,2025-05-22,M. Ortiz,Eventbrite,Volunteer Training,16.0,USD
+RMP-700457,2026-06-01,M. Ortiz,Adobe,ADMIN,183.06,USD
+RMP-700458,2025-09-08,S. Patel,Hilton,Fundraising,11.5,USD
+RMP-700459,06/24/2026,S. Patel,Meta Ads,Prog - Fundraising,56.18,USD
+RMP-700460,08/25/2025,K. Lee,Adobe,ADMIN,64.63,USD
+RMP-700461,2025-05-12,S. Patel,Zoom,Advocacy,18.49,USD
+RMP-700462,02-Nov-2025,A. Noor,Eventbrite,VOLUNTEER TRAINING,100.57,USD
+RMP-700463,12/24/2025,K. Lee,Uber,Prog - Advocacy,13.26,USD
+RMP-700464,12-Oct-2025,R. Hall,Udemy,Volunteer Training,26.53,USD
+RMP-700465,2025-10-20,M. Ortiz,Uber,Prog - Advocacy,106.51,USD
+RMP-700466,06/12/2025,A. Noor,Uber,ADVOCACY,13.86,USD
+RMP-700467,02/23/2026,A. Noor,Microsoft,Admin,93.25,USD
+RMP-700468,2026-04-13,K. Lee,Google Ads,Prog - Fundraising,122.02,USD
+RMP-700469,05/22/2026,M. Ortiz,Dropbox,ADMIN,117.43,USD
+RMP-700470,2026-04-23,K. Lee,Eventbrite,Prog - Volunteer Training,62.61,USD
+RMP-700471,2025-12-28,J. Brown,Meta Ads,Fundraising,21.02,USD
+RMP-700472,08-Nov-2025,J. Brown,Office Depot,ADVOCACY,18.33,USD
+RMP-700473,09/02/2025,K. Lee,Eventbrite,Volunteer Training,28.42,USD
+RMP-700474,22-Apr-2026,M. Ortiz,Meta Ads,FUNDRAISING,2.83,USD
+RMP-700475,2026-03-12,M. Ortiz,Zoom,Prog - Advocacy,45.64,USD
+RMP-700476,2025-09-07,S. Patel,Meta Ads,Fundraising,40.3,USD
+RMP-700477,22-Jan-2025,A. Noor,Uber,Advocacy,47.86,USD
+RMP-700478,2026-04-22,K. Lee,Panera,Volunteer Training,36.01,USD
+RMP-700479,2026-05-26,A. Noor,Panera,VOLUNTEER TRAINING,52.41,USD
+RMP-700480,12/02/2025,A. Noor,Dropbox,Admin,48.01,USD
+RMP-700481,2025-12-08,J. Brown,Zoom,ADVOCACY,12.01,USD
+RMP-700482,2025-12-04,J. Brown,Google Ads,FUNDRAISING,57.51,USD
+RMP-700483,04/25/2026,R. Hall,Eventbrite,Volunteer Training,43.86,USD
+RMP-700484,2025-02-11,K. Lee,Office Depot,Prog - Advocacy,9.46,USD
+RMP-700485,03/15/2025,R. Hall,Hilton,FUNDRAISING,100.02,USD
+RMP-700486,2025-01-22,K. Lee,Zoom,Advocacy,34.18,USD
+RMP-700487,08/08/2025,M. Ortiz,Zoom,Prog - Advocacy,79.21,USD
+RMP-700488,20-Mar-2025,K. Lee,Zoom,Prog - Advocacy,42.95,USD
+RMP-700489,2025-08-23,M. Ortiz,Meta Ads,Fundraising,9.01,USD
+RMP-700490,06/06/2025,M. Ortiz,Uber,ADVOCACY,56.01,USD
+RMP-700491,2025-11-23,K. Lee,Canva,Volunteer Training,69.88,USD
+RMP-700492,2025-04-24,M. Ortiz,Zoom,Prog - Advocacy,128.19,USD
+RMP-700493,10/02/2025,A. Noor,Shell,ADVOCACY,102.21,USD
+RMP-700494,2026-01-16,M. Ortiz,Zoom,ADVOCACY,131.43,USD
+RMP-700495,01/20/2025,A. Noor,Panera,Prog - Volunteer Training,86.72,USD
+RMP-700496,07/28/2025,A. Noor,Uber,Advocacy,28.72,USD
+RMP-700497,2025-06-09,A. Noor,Uber,Advocacy,29.33,USD
+RMP-700498,07-Feb-2025,S. Patel,VistaPrint,Fundraising,108.86,USD
+RMP-700499,2025-04-28,R. Hall,Udemy,Prog - Volunteer Training,31.51,GBP
+RMP-700500,01/25/2026,S. Patel,Zoom,ADVOCACY,72.01,USD
+RMP-700501,2026-01-12,M. Ortiz,Canva,Volunteer Training,208.18,USD
+RMP-700502,2026-01-11,R. Hall,Zoom,ADVOCACY,25.63,USD
+RMP-700503,2025-02-11,R. Hall,Meta Ads,Prog - Fundraising,86.1,USD
+RMP-700504,2026-04-15,R. Hall,Zoom,Advocacy,21.7,USD
+RMP-700505,04/03/2026,K. Lee,Zoom,Advocacy,75.77,USD
+RMP-700506,05/10/2025,M. Ortiz,Shell,Prog - Advocacy,191.01,USD
+RMP-700507,2025-01-28,S. Patel,Office Depot,ADVOCACY,149.14,USD
+RMP-700508,22-Nov-2025,R. Hall,VistaPrint,Prog - Fundraising,31.61,USD
+RMP-700509,05/24/2026,R. Hall,Zoom,Advocacy,184.26,USD
+RMP-700510,2025-11-21,J. Brown,Uber,Advocacy,36.51,USD
+RMP-700511,09-Jun-2025,R. Hall,Panera,VOLUNTEER TRAINING,350.59,USD
+RMP-700512,2026-05-31,R. Hall,Google Ads,Fundraising,46.02,USD
+RMP-700513,2025-09-11,J. Brown,Uber,Advocacy,81.17,USD
+RMP-700514,2025-09-05,M. Ortiz,Office Depot,Advocacy,78.98,USD
+RMP-700515,19-Dec-2025,S. Patel,Uber,Advocacy,16.7,USD
+RMP-700516,2026-02-02,A. Noor,Shell,Advocacy,154.26,USD
+RMP-700517,2025-07-22,S. Patel,Office Depot,Advocacy,54.47,USD
+RMP-700518,2025-10-29,M. Ortiz,Zoom,Advocacy,27.1,USD
+RMP-700519,2025-05-28,S. Patel,Google Ads,Fundraising,22.73,USD
+RMP-700520,2025-08-09,J. Brown,Dropbox,Admin,25.99,USD
+RMP-700521,2025-09-20,R. Hall,VistaPrint,Prog - Fundraising,41.71,USD
+RMP-700522,2025-10-23,R. Hall,Panera,Volunteer Training,17.11,USD
+RMP-700523,11-Nov-2025,A. Noor,VistaPrint,FUNDRAISING,21.44,USD
+RMP-700524,19-Oct-2025,M. Ortiz,Meta Ads,Fundraising,9.44,USD
+RMP-700525,01/31/2025,R. Hall,Meta Ads,Prog - Fundraising,21.58,USD
+RMP-700526,2025-02-13,M. Ortiz,Hilton,Fundraising,152.62,USD
+RMP-700527,2025-05-14,K. Lee,VistaPrint,Fundraising,131.78,USD
+RMP-700528,15-Dec-2025,A. Noor,Uber,Advocacy,57.0,USD
+RMP-700529,08/07/2025,M. Ortiz,Udemy,Volunteer Training,297.58,USD
+RMP-700530,2026-03-26,S. Patel,Zoom,ADVOCACY,133.4,USD
+RMP-700531,19-May-2026,S. Patel,Office Depot,Advocacy,66.1,USD
+RMP-700532,2025-03-27,S. Patel,Zoom,Advocacy,72.9,USD
+RMP-700533,09/08/2025,S. Patel,Udemy,Volunteer Training,48.42,USD
+RMP-700534,2025-09-22,M. Ortiz,Google Ads,FUNDRAISING,14.39,USD
+RMP-700535,2026-06-07,J. Brown,Staples,Admin,35.17,USD
+RMP-700536,2025-03-21,A. Noor,Uber,Advocacy,4.33,USD
+RMP-700537,2026-04-06,S. Patel,Shell,ADVOCACY,16.69,USD
+RMP-700538,2025-09-09,M. Ortiz,Microsoft,Admin,155.9,USD
+RMP-700539,2025-01-18,R. Hall,Dropbox,Admin,47.93,USD
+RMP-700540,13-Sep-2025,R. Hall,Udemy,Volunteer Training,17.12,USD
+RMP-700541,09/02/2025,M. Ortiz,Office Depot,Prog - Advocacy,71.83,USD
+RMP-700542,2025-06-02,S. Patel,Udemy,VOLUNTEER TRAINING,77.01,USD
+RMP-700543,2026-05-15,K. Lee,Office Depot,Advocacy,179.08,USD
+RMP-700544,2026-04-03,M. Ortiz,Dropbox,Prog - Admin,221.51,USD
+RMP-700545,2026-06-26,A. Noor,Hilton,Prog - Fundraising,90.3,USD
+RMP-700546,04/25/2025,A. Noor,Shell,Advocacy,11.44,USD
+RMP-700547,2026-03-23,K. Lee,Staples,Admin,348.04,USD
+RMP-700548,19-Dec-2025,R. Hall,VistaPrint,Fundraising,151.12,USD
+RMP-700549,06/25/2026,R. Hall,Staples,Admin,95.99,USD
+RMP-700550,2025-11-18,M. Ortiz,Adobe,ADMIN,44.04,USD
+RMP-700551,04-Apr-2026,K. Lee,Shell,Advocacy,11.08,GBP
+RMP-700552,2025-08-14,M. Ortiz,Office Depot,Prog - Advocacy,27.0,USD
+RMP-700553,2025-12-27,M. Ortiz,Udemy,Volunteer Training,42.7,GBP
+RMP-700554,06/15/2026,K. Lee,Dropbox,Prog - Admin,31.16,USD
+RMP-700555,2025-04-22,R. Hall,Microsoft,Admin,119.59,USD
+RMP-700556,2025-07-31,J. Brown,Google Ads,Prog - Fundraising,41.73,GBP
+RMP-700557,2025-08-21,S. Patel,Office Depot,Prog - Advocacy,22.22,USD
+RMP-700558,2025-06-08,S. Patel,Shell,Advocacy,70.15,USD
+RMP-700559,20-Nov-2025,S. Patel,Meta Ads,Prog - Fundraising,21.19,USD
+RMP-700560,2025-04-03,K. Lee,Meta Ads,Fundraising,10.29,USD
+RMP-700561,2025-09-05,M. Ortiz,Panera,Volunteer Training,70.7,USD
+RMP-700562,2025-05-21,M. Ortiz,Eventbrite,Volunteer Training,41.88,GBP
+RMP-700563,02/08/2026,A. Noor,Hilton,FUNDRAISING,51.48,GBP
+RMP-700564,2026-02-08,M. Ortiz,Staples,ADMIN,154.26,USD
+RMP-700565,2026-02-18,R. Hall,Zoom,Prog - Advocacy,56.03,USD
+RMP-700566,03/16/2026,J. Brown,Uber,ADVOCACY,74.61,USD
+RMP-700567,2025-08-21,S. Patel,Google Ads,Fundraising,45.4,USD
+RMP-700568,2025-07-12,R. Hall,Dropbox,Admin,92.66,USD
+RMP-700569,2025-04-09,R. Hall,Zoom,Advocacy,6.56,GBP
+RMP-700570,2025-04-23,J. Brown,Uber,Advocacy,22.27,USD
+RMP-700571,20-Jun-2026,S. Patel,Uber,Advocacy,31.58,USD
+RMP-700572,2025-10-08,K. Lee,Zoom,ADVOCACY,29.04,USD
+RMP-700573,2026-06-07,J. Brown,Shell,Prog - Advocacy,21.92,USD
+RMP-700574,2025-12-16,R. Hall,Google Ads,Fundraising,41.52,USD
+RMP-700575,2025-11-12,M. Ortiz,Office Depot,Advocacy,39.56,USD
+RMP-700576,2026-05-15,S. Patel,Google Ads,Fundraising,41.5,USD
+RMP-700577,2026-06-21,A. Noor,Uber,ADVOCACY,53.54,USD
+RMP-700578,2026-03-12,J. Brown,Shell,Advocacy,69.97,USD
+RMP-700579,06/07/2026,R. Hall,Eventbrite,VOLUNTEER TRAINING,22.23,USD
+RMP-700580,2026-03-20,K. Lee,Panera,VOLUNTEER TRAINING,27.94,USD
+RMP-700581,07/27/2025,R. Hall,Zoom,Prog - Advocacy,102.56,USD
+RMP-700582,2025-10-03,A. Noor,Google Ads,FUNDRAISING,19.15,USD
+RMP-700583,2026-05-12,K. Lee,Uber,Advocacy,21.6,USD
+RMP-700584,2025-10-24,S. Patel,Canva,Volunteer Training,22.29,USD
+RMP-700585,2026-01-09,J. Brown,Hilton,Fundraising,37.34,USD
+RMP-700586,2025-07-03,K. Lee,Adobe,Prog - Admin,109.76,USD
+RMP-700587,2025-02-01,A. Noor,Udemy,Volunteer Training,71.63,USD
+RMP-700588,2025-10-10,R. Hall,Canva,Prog - Volunteer Training,20.38,USD
+RMP-700589,2026-03-08,A. Noor,Google Ads,Prog - Fundraising,228.59,USD
+RMP-700590,2026-06-03,M. Ortiz,Shell,Advocacy,23.9,USD
+RMP-700591,2026-04-07,K. Lee,VistaPrint,Fundraising,10.39,USD
+RMP-700592,2026-01-03,J. Brown,Office Depot,ADVOCACY,230.85,USD
+RMP-700593,2025-09-09,J. Brown,Google Ads,FUNDRAISING,21.05,USD
+RMP-700594,2025-06-15,R. Hall,Zoom,Prog - Advocacy,40.45,USD
+RMP-700595,2026-06-13,R. Hall,Adobe,ADMIN,39.62,USD
+RMP-700596,2026-01-06,R. Hall,Uber,ADVOCACY,75.46,USD
+RMP-700597,04/13/2025,M. Ortiz,Adobe,Admin,8.56,USD
+RMP-700598,2025-05-06,A. Noor,Canva,VOLUNTEER TRAINING,34.1,USD
+RMP-700599,02/07/2025,R. Hall,Zoom,Advocacy,32.13,GBP
+RMP-700600,12/14/2025,K. Lee,Office Depot,Advocacy,159.55,USD
+RMP-700601,2025-08-01,R. Hall,Dropbox,Prog - Admin,27.41,USD
+RMP-700602,11/15/2025,A. Noor,Uber,Advocacy,33.49,USD
+RMP-700603,2026-03-02,K. Lee,Uber,Prog - Advocacy,88.6,USD
+RMP-700604,04-Sep-2025,K. Lee,Shell,Prog - Advocacy,70.83,USD
+RMP-700605,13-Oct-2025,K. Lee,Adobe,Admin,23.3,USD
+RMP-700606,2025-08-19,A. Noor,Zoom,ADVOCACY,65.73,USD
+RMP-700607,2025-11-16,R. Hall,Shell,ADVOCACY,23.02,USD
+RMP-700608,27-May-2026,A. Noor,Staples,Admin,92.1,USD
+RMP-700609,2026-06-05,A. Noor,Staples,Admin,38.7,USD
+RMP-700610,08/13/2025,S. Patel,Uber,Advocacy,14.43,USD
+RMP-700611,21-May-2026,A. Noor,Dropbox,Prog - Admin,6.49,USD
+RMP-700612,17-Apr-2025,M. Ortiz,Shell,Advocacy,31.87,USD
+RMP-700613,27-Nov-2025,S. Patel,Shell,Advocacy,22.08,USD
+RMP-700614,05-Jan-2025,K. Lee,Google Ads,Fundraising,36.03,USD
+RMP-700615,2026-04-13,R. Hall,Google Ads,Fundraising,42.76,USD
+RMP-700616,2026-05-31,J. Brown,Shell,Advocacy,7.99,USD
+RMP-700617,2025-06-12,R. Hall,Uber,ADVOCACY,23.18,USD
+RMP-700618,2026-06-15,S. Patel,Zoom,Advocacy,39.79,USD
+RMP-700619,2025-03-23,S. Patel,Hilton,Fundraising,48.91,USD
+RMP-700620,04/26/2026,K. Lee,Dropbox,ADMIN,91.69,USD
+RMP-700621,2026-05-31,A. Noor,Office Depot,Prog - Advocacy,107.07,USD
+RMP-700622,07/06/2025,A. Noor,Meta Ads,FUNDRAISING,36.06,USD
+RMP-700623,2025-05-26,S. Patel,Shell,Advocacy,39.13,USD
+RMP-700624,2025-06-01,A. Noor,VistaPrint,FUNDRAISING,29.0,USD
+RMP-700625,2025-12-29,S. Patel,Zoom,Advocacy,80.65,USD
+RMP-700626,04/03/2025,R. Hall,VistaPrint,FUNDRAISING,31.62,USD
+RMP-700627,01/31/2025,J. Brown,Uber,Prog - Advocacy,18.73,USD
+RMP-700628,2026-06-24,R. Hall,Staples,Admin,10.01,GBP
+RMP-700629,2025-02-18,J. Brown,Office Depot,Prog - Advocacy,19.05,USD
+RMP-700630,2025-09-15,K. Lee,Udemy,VOLUNTEER TRAINING,35.19,USD
+RMP-700631,2026-06-02,M. Ortiz,Hilton,Fundraising,107.94,USD
+RMP-700632,06/25/2026,M. Ortiz,Udemy,Volunteer Training,46.57,USD
+RMP-700633,2026-02-14,R. Hall,Uber,Prog - Advocacy,49.55,USD
+RMP-700634,05-Jun-2025,A. Noor,Udemy,VOLUNTEER TRAINING,44.84,USD
+RMP-700635,2026-06-30,M. Ortiz,VistaPrint,Fundraising,141.43,USD
+RMP-700636,03/16/2026,J. Brown,Panera,Volunteer Training,70.6,USD
+RMP-700637,25-Aug-2025,K. Lee,Uber,Advocacy,44.11,GBP
+RMP-700638,03-Jan-2026,J. Brown,Panera,Volunteer Training,26.08,USD
+RMP-700639,2025-02-26,S. Patel,Staples,Admin,14.38,USD
+RMP-700640,2025-06-24,A. Noor,Shell,Prog - Advocacy,197.79,USD
+RMP-700641,02-Aug-2025,A. Noor,Canva,VOLUNTEER TRAINING,92.14,GBP
+RMP-700642,01/27/2025,M. Ortiz,VistaPrint,FUNDRAISING,37.56,USD
+RMP-700643,04/29/2025,S. Patel,Shell,Advocacy,224.65,USD
+RMP-700644,05/27/2025,M. Ortiz,Office Depot,Advocacy,44.4,USD
+RMP-700645,09/22/2025,M. Ortiz,Adobe,Admin,21.43,USD
+RMP-700646,02/07/2026,M. Ortiz,Uber,Advocacy,134.22,USD
+RMP-700647,09/15/2025,S. Patel,Meta Ads,FUNDRAISING,14.11,USD
+RMP-700648,07/08/2025,M. Ortiz,VistaPrint,Fundraising,31.16,USD
+RMP-700649,2026-05-14,A. Noor,Zoom,Prog - Advocacy,15.17,USD
+RMP-700650,2025-08-27,M. Ortiz,Office Depot,Advocacy,21.77,USD
+RMP-700651,2025-11-23,S. Patel,Microsoft,Admin,53.51,USD
+RMP-700652,03/11/2025,S. Patel,Google Ads,Fundraising,60.55,USD
+RMP-700653,25-Jan-2025,J. Brown,Zoom,ADVOCACY,16.58,USD
+RMP-700654,05-Jun-2025,M. Ortiz,Shell,Prog - Advocacy,227.75,USD
+RMP-700655,2025-08-07,S. Patel,Meta Ads,Fundraising,6.82,USD
+RMP-700656,01/14/2026,R. Hall,Canva,Prog - Volunteer Training,50.23,USD
+RMP-700657,2025-07-13,M. Ortiz,Eventbrite,Prog - Volunteer Training,51.4,GBP
+RMP-700658,09-Feb-2025,K. Lee,Adobe,Admin,56.66,USD
+RMP-700659,2025-12-09,A. Noor,Udemy,VOLUNTEER TRAINING,98.63,USD
+RMP-700660,2026-05-18,A. Noor,Staples,ADMIN,2.87,USD
+RMP-700661,03/26/2026,R. Hall,Hilton,Fundraising,22.27,USD
+RMP-700662,12/02/2025,M. Ortiz,Office Depot,Advocacy,51.22,USD
+RMP-700663,2025-01-04,A. Noor,Hilton,Prog - Fundraising,207.01,USD
+RMP-700664,06/01/2026,A. Noor,Panera,VOLUNTEER TRAINING,26.48,USD
+RMP-700665,12-May-2026,K. Lee,Office Depot,ADVOCACY,37.59,USD
+RMP-700666,2025-08-14,A. Noor,Shell,ADVOCACY,85.88,USD
+RMP-700667,2025-05-30,A. Noor,Google Ads,Fundraising,15.05,USD
+RMP-700668,2025-08-26,S. Patel,Meta Ads,FUNDRAISING,45.61,USD
+RMP-700669,04/13/2025,A. Noor,Dropbox,Prog - Admin,40.67,USD
+RMP-700670,06/24/2025,M. Ortiz,Dropbox,ADMIN,25.83,USD
+RMP-700671,06-Apr-2026,A. Noor,Zoom,Advocacy,70.3,USD
+RMP-700672,02/03/2025,M. Ortiz,Meta Ads,FUNDRAISING,311.45,GBP
+RMP-700673,02-Jun-2026,A. Noor,Office Depot,Prog - Advocacy,52.27,USD
+RMP-700674,2026-03-16,M. Ortiz,Office Depot,ADVOCACY,5.98,USD
+RMP-700675,10/12/2025,A. Noor,Uber,Prog - Advocacy,20.41,USD
+RMP-700676,08/13/2025,R. Hall,Hilton,FUNDRAISING,169.25,USD
+RMP-700677,2025-09-14,M. Ortiz,Office Depot,Prog - Advocacy,36.03,USD
+RMP-700678,2025-02-28,A. Noor,Panera,Volunteer Training,15.55,USD
+RMP-700679,09/03/2025,K. Lee,Office Depot,Advocacy,88.15,USD
+RMP-700680,2026-06-03,S. Patel,Office Depot,ADVOCACY,25.16,USD
+RMP-700681,2025-08-02,S. Patel,Microsoft,Admin,46.13,USD
+RMP-700682,2025-08-04,S. Patel,Microsoft,Admin,16.14,USD
+RMP-700683,2026-02-07,S. Patel,Meta Ads,Fundraising,30.68,USD
+RMP-700684,10/10/2025,K. Lee,Meta Ads,FUNDRAISING,43.5,USD
+RMP-700685,03-Aug-2025,R. Hall,VistaPrint,FUNDRAISING,40.82,GBP
+RMP-700686,2026-01-17,R. Hall,Google Ads,Fundraising,62.63,USD
+RMP-700687,02/14/2025,K. Lee,Hilton,Prog - Fundraising,53.58,USD
+RMP-700688,2025-06-21,A. Noor,Zoom,Advocacy,17.87,USD
+RMP-700689,08/09/2025,K. Lee,Office Depot,ADVOCACY,203.82,USD
+RMP-700690,2026-01-20,S. Patel,Shell,ADVOCACY,38.82,USD
+RMP-700691,2025-04-05,R. Hall,Canva,Prog - Volunteer Training,13.26,USD
+RMP-700692,13-Feb-2025,J. Brown,Office Depot,ADVOCACY,6.05,USD
+RMP-700693,2025-08-16,A. Noor,Google Ads,Fundraising,47.83,USD
+RMP-700694,11/13/2025,M. Ortiz,Meta Ads,Prog - Fundraising,19.42,USD
+RMP-700695,2025-12-01,R. Hall,Uber,Prog - Advocacy,74.85,USD
+RMP-700696,2026-04-12,S. Patel,Uber,ADVOCACY,46.69,USD
+RMP-700697,2025-10-24,R. Hall,Meta Ads,FUNDRAISING,1547.9,USD
+RMP-700698,06/29/2026,S. Patel,Zoom,Advocacy,14.37,USD
+RMP-700699,04-May-2026,S. Patel,Uber,Advocacy,115.81,USD
+RMP-700700,08/03/2025,R. Hall,Google Ads,Fundraising,16.77,USD
+RMP-700701,2026-06-08,R. Hall,Panera,Volunteer Training,94.43,GBP
+RMP-700702,01/02/2025,R. Hall,Adobe,Admin,160.9,USD
+RMP-700703,26-Jul-2025,K. Lee,VistaPrint,FUNDRAISING,32.79,USD
+RMP-700704,12/07/2025,R. Hall,Dropbox,Prog - Admin,23.19,GBP
+RMP-700705,2026-02-11,M. Ortiz,Office Depot,Prog - Advocacy,38.83,USD
+RMP-700706,2025-11-02,A. Noor,Shell,Advocacy,22.9,USD
+RMP-700707,2026-05-22,S. Patel,Office Depot,Prog - Advocacy,190.48,USD
+RMP-700708,14-Apr-2026,R. Hall,Uber,ADVOCACY,37.42,USD
+RMP-700709,2026-05-10,M. Ortiz,Eventbrite,Volunteer Training,66.39,USD
+RMP-700710,18-Sep-2025,J. Brown,Meta Ads,FUNDRAISING,68.17,GBP
+RMP-700711,12/30/2025,R. Hall,Staples,Prog - Admin,99.78,USD
+RMP-700712,29-May-2026,K. Lee,Dropbox,Prog - Admin,29.76,USD
+RMP-700713,25-Jun-2026,S. Patel,Eventbrite,Volunteer Training,89.18,USD
+RMP-700714,31-Mar-2026,M. Ortiz,Google Ads,Fundraising,144.21,USD
+RMP-700715,05/24/2025,R. Hall,Office Depot,ADVOCACY,38.86,USD
+RMP-700716,2025-07-11,M. Ortiz,Udemy,Volunteer Training,13.47,USD
+RMP-700717,2025-12-19,S. Patel,Staples,Prog - Admin,153.2,USD
+RMP-700718,2025-10-26,M. Ortiz,Zoom,Advocacy,52.26,USD
+RMP-700719,04/05/2026,M. Ortiz,Eventbrite,Prog - Volunteer Training,44.87,USD
+RMP-700720,2026-03-03,R. Hall,Microsoft,ADMIN,82.19,GBP
+RMP-700721,01/31/2025,R. Hall,Zoom,ADVOCACY,161.78,USD
+RMP-700722,2025-11-28,A. Noor,Staples,Admin,36.61,USD
+RMP-700723,2026-02-15,K. Lee,Shell,Advocacy,138.39,USD
+RMP-700724,02/21/2025,A. Noor,Dropbox,Admin,47.7,USD
+RMP-700725,01/19/2026,K. Lee,Panera,Volunteer Training,78.37,USD
+RMP-700726,08/31/2025,K. Lee,Office Depot,ADVOCACY,25.89,USD
+RMP-700727,2026-02-21,A. Noor,Office Depot,Advocacy,35.57,USD
+RMP-700728,04/20/2026,S. Patel,VistaPrint,FUNDRAISING,118.65,GBP
+RMP-700729,2026-01-27,M. Ortiz,Staples,Admin,7.63,USD
+RMP-700730,24-Jan-2026,J. Brown,Hilton,Prog - Fundraising,83.97,USD
+RMP-700731,2026-04-14,A. Noor,Adobe,ADMIN,62.9,USD
+RMP-700732,2026-02-12,A. Noor,Meta Ads,Prog - Fundraising,199.32,USD
+RMP-700733,2026-06-03,S. Patel,Shell,Advocacy,110.55,USD
+RMP-700734,08-Jul-2025,M. Ortiz,Meta Ads,FUNDRAISING,52.41,USD
+RMP-700735,17-Dec-2025,R. Hall,Shell,Advocacy,14.23,USD
+RMP-700736,2025-10-10,A. Noor,Canva,VOLUNTEER TRAINING,26.51,USD
+RMP-700737,2025-06-06,J. Brown,Office Depot,Prog - Advocacy,36.44,USD
+RMP-700738,2025-05-28,M. Ortiz,Zoom,ADVOCACY,171.2,USD
+RMP-700739,11-Mar-2025,A. Noor,Google Ads,Fundraising,91.9,USD
+RMP-700740,2026-01-05,R. Hall,Shell,Prog - Advocacy,21.86,USD
+RMP-700741,05/30/2026,A. Noor,Google Ads,Fundraising,64.23,USD
+RMP-700742,08/22/2025,R. Hall,Staples,Admin,29.58,USD
+RMP-700743,04/12/2026,K. Lee,Uber,Prog - Advocacy,25.0,USD
+RMP-700744,2025-10-14,K. Lee,Hilton,FUNDRAISING,78.71,USD
+RMP-700745,2025-10-21,A. Noor,Meta Ads,Prog - Fundraising,39.25,USD
+RMP-700746,2026-04-26,S. Patel,Zoom,ADVOCACY,15.68,USD
+RMP-700747,05/14/2025,K. Lee,Google Ads,Fundraising,94.09,USD
+RMP-700748,2025-01-08,A. Noor,Office Depot,Advocacy,51.25,USD
+RMP-700749,2025-01-28,R. Hall,Shell,ADVOCACY,32.15,USD
+RMP-700750,04-Jun-2026,M. Ortiz,Office Depot,Prog - Advocacy,171.27,USD
+RMP-700751,06-Nov-2025,R. Hall,Udemy,Volunteer Training,116.48,USD
+RMP-700752,2026-06-25,J. Brown,Udemy,Prog - Volunteer Training,49.87,USD
+RMP-700753,2026-05-09,K. Lee,Uber,Advocacy,9.58,USD
+RMP-700754,2025-02-03,A. Noor,Office Depot,ADVOCACY,121.45,USD
+RMP-700755,07-Jan-2025,K. Lee,VistaPrint,Fundraising,28.93,USD
+RMP-700756,2025-02-09,R. Hall,Dropbox,ADMIN,38.78,USD
+RMP-700757,11/26/2025,R. Hall,Eventbrite,Prog - Volunteer Training,34.04,USD
+RMP-700758,03-Mar-2025,M. Ortiz,Uber,Advocacy,13.93,USD
+RMP-700759,03/27/2025,S. Patel,Zoom,Advocacy,67.17,USD
+RMP-700760,04/26/2025,A. Noor,Microsoft,Prog - Admin,20.94,USD
+RMP-700761,2025-10-24,M. Ortiz,Shell,Prog - Advocacy,64.11,USD
+RMP-700762,2026-01-14,J. Brown,Uber,ADVOCACY,19.25,USD
+RMP-700763,2025-11-18,A. Noor,Eventbrite,Volunteer Training,29.7,USD
+RMP-700764,30-Jan-2026,J. Brown,Hilton,Fundraising,62.09,USD
+RMP-700765,12/23/2025,S. Patel,Canva,Volunteer Training,49.96,USD
+RMP-700766,2026-02-23,A. Noor,Uber,Advocacy,78.22,USD
+RMP-700767,04/23/2026,A. Noor,Hilton,Fundraising,83.72,USD
+RMP-700768,2025-12-02,M. Ortiz,Google Ads,Prog - Fundraising,148.28,USD
+RMP-700769,01/20/2025,K. Lee,VistaPrint,Fundraising,44.67,USD
+RMP-700770,02/16/2026,A. Noor,Shell,Prog - Advocacy,132.46,USD
+RMP-700771,09/16/2025,S. Patel,Meta Ads,Prog - Fundraising,33.44,USD
+RMP-700772,23-Dec-2025,A. Noor,Canva,Volunteer Training,90.02,USD
+RMP-700773,07/20/2025,A. Noor,Eventbrite,VOLUNTEER TRAINING,122.88,GBP
+RMP-700774,2026-02-15,A. Noor,Panera,Prog - Volunteer Training,122.46,USD
+RMP-700775,2025-10-15,A. Noor,Uber,Prog - Advocacy,12.03,USD
+RMP-700776,02/17/2025,S. Patel,Shell,Advocacy,2.64,USD
+RMP-700777,2026-01-05,M. Ortiz,Shell,ADVOCACY,73.67,GBP
+RMP-700778,2025-08-19,K. Lee,Canva,Volunteer Training,44.8,USD
+RMP-700779,05-Apr-2025,S. Patel,Eventbrite,Volunteer Training,57.53,USD
+RMP-700780,2025-10-30,S. Patel,Hilton,Fundraising,48.55,USD
+RMP-700781,08/06/2025,J. Brown,Office Depot,Advocacy,32.94,USD
+RMP-700782,22-Jan-2026,K. Lee,Dropbox,Admin,74.84,USD
+RMP-700783,2025-04-01,M. Ortiz,Uber,Advocacy,60.65,USD
+RMP-700784,02/27/2025,R. Hall,Udemy,Prog - Volunteer Training,40.68,USD
+RMP-700785,2026-03-10,M. Ortiz,Uber,Prog - Advocacy,45.88,USD
+RMP-700786,2026-06-06,R. Hall,VistaPrint,Prog - Fundraising,77.88,USD
+RMP-700787,28-Apr-2026,J. Brown,Hilton,Fundraising,26.19,USD
+RMP-700788,01/02/2026,J. Brown,Staples,ADMIN,16.44,USD
+RMP-700789,2026-02-11,S. Patel,Uber,ADVOCACY,16.21,USD
+RMP-700790,2026-06-02,M. Ortiz,Office Depot,ADVOCACY,28.28,USD
+RMP-700791,27-Nov-2025,R. Hall,VistaPrint,Fundraising,170.03,USD
+RMP-700792,2025-08-23,M. Ortiz,Meta Ads,FUNDRAISING,50.37,USD
+RMP-700793,2026-02-15,R. Hall,Adobe,Prog - Admin,24.26,USD
+RMP-700794,02-Jul-2025,M. Ortiz,Shell,Advocacy,53.63,USD
+RMP-700795,10/14/2025,S. Patel,Google Ads,Fundraising,17.46,USD
+RMP-700796,2025-05-03,R. Hall,Zoom,Advocacy,37.82,USD
+RMP-700797,07-Jun-2025,M. Ortiz,Udemy,Prog - Volunteer Training,30.9,USD
+RMP-700798,19-Nov-2025,A. Noor,Office Depot,Advocacy,13.59,USD
+RMP-700799,2025-01-13,J. Brown,Meta Ads,Prog - Fundraising,119.57,USD
+RMP-700800,2025-07-23,J. Brown,Google Ads,Fundraising,31.85,USD
+RMP-700801,2025-10-29,R. Hall,Office Depot,Prog - Advocacy,43.18,USD
+RMP-700802,2025-02-12,J. Brown,Uber,Advocacy,83.69,USD
+RMP-700803,2026-05-21,J. Brown,Canva,Volunteer Training,61.35,USD
+RMP-700804,10-Jul-2025,A. Noor,Zoom,Prog - Advocacy,47.92,USD
+RMP-700805,2025-03-01,K. Lee,Office Depot,Advocacy,36.08,USD
+RMP-700806,2026-04-11,M. Ortiz,Uber,Advocacy,86.09,USD
+RMP-700807,01/14/2026,R. Hall,Hilton,Prog - Fundraising,44.41,USD
+RMP-700808,05-Mar-2026,J. Brown,Eventbrite,Volunteer Training,50.9,USD
+RMP-700809,03-Mar-2025,M. Ortiz,Office Depot,Advocacy,121.7,USD
+RMP-700810,29-Oct-2025,M. Ortiz,Dropbox,Admin,128.07,USD
+RMP-700811,2025-06-21,A. Noor,Shell,Advocacy,56.93,GBP
+RMP-700812,05/20/2026,M. Ortiz,Meta Ads,Fundraising,49.11,USD
+RMP-700813,2025-03-04,J. Brown,Canva,Volunteer Training,80.66,USD
+RMP-700814,01/16/2025,R. Hall,Adobe,Admin,35.64,GBP
+RMP-700815,2025-04-11,M. Ortiz,Canva,Prog - Volunteer Training,35.73,USD
+RMP-700816,06/25/2025,A. Noor,Google Ads,Fundraising,42.25,USD
+RMP-700817,12-Jul-2025,R. Hall,Shell,ADVOCACY,17.87,USD
+RMP-700818,2025-09-30,R. Hall,Microsoft,Admin,374.71,USD
+RMP-700819,12-Apr-2026,R. Hall,Uber,Advocacy,31.2,USD
+RMP-700820,06/24/2025,J. Brown,Eventbrite,VOLUNTEER TRAINING,68.09,USD
+RMP-700821,08/22/2025,A. Noor,Office Depot,ADVOCACY,44.03,USD
+RMP-700822,04-Aug-2025,S. Patel,Adobe,ADMIN,83.03,GBP
+RMP-700823,06-May-2026,K. Lee,VistaPrint,FUNDRAISING,31.64,USD
+RMP-700824,02/21/2026,M. Ortiz,Uber,ADVOCACY,54.33,USD
+RMP-700825,17-Jun-2026,M. Ortiz,Office Depot,Advocacy,20.8,USD
+RMP-700826,2026-03-27,M. Ortiz,Eventbrite,Prog - Volunteer Training,133.32,GBP
+RMP-700827,2025-10-07,S. Patel,Office Depot,ADVOCACY,81.08,USD
+RMP-700828,09/01/2025,R. Hall,Uber,Advocacy,12.49,USD
+RMP-700829,2025-05-26,R. Hall,Microsoft,ADMIN,45.27,USD
+RMP-700830,2025-03-08,K. Lee,Google Ads,FUNDRAISING,12.79,USD
+RMP-700831,04/13/2025,A. Noor,Staples,Prog - Admin,21.77,USD
+RMP-700832,06-Nov-2025,S. Patel,Udemy,VOLUNTEER TRAINING,102.4,USD
+RMP-700833,2025-04-27,S. Patel,Google Ads,Fundraising,4.77,USD
+RMP-700834,2026-04-17,J. Brown,Eventbrite,Volunteer Training,114.52,USD
+RMP-700835,2025-11-17,R. Hall,Office Depot,Advocacy,62.86,USD
+RMP-700836,2026-03-11,S. Patel,Panera,Prog - Volunteer Training,41.59,USD
+RMP-700837,2026-01-05,S. Patel,Udemy,Volunteer Training,98.5,USD
+RMP-700838,2025-07-06,M. Ortiz,Staples,Prog - Admin,509.04,USD
+RMP-700839,2026-04-14,R. Hall,Panera,VOLUNTEER TRAINING,13.51,USD
+RMP-700840,2026-04-18,J. Brown,Meta Ads,FUNDRAISING,205.24,USD
+RMP-700841,2026-03-30,A. Noor,Meta Ads,Prog - Fundraising,106.67,USD
+RMP-700842,2026-03-22,K. Lee,Panera,Prog - Volunteer Training,23.71,USD
+RMP-700843,04/04/2025,A. Noor,Eventbrite,Volunteer Training,71.69,USD
+RMP-700844,02/07/2025,J. Brown,Uber,Prog - Advocacy,16.43,USD
+RMP-700845,04/27/2026,M. Ortiz,Zoom,Prog - Advocacy,28.69,USD
+RMP-700846,2025-04-21,K. Lee,VistaPrint,Prog - Fundraising,6.72,USD
+RMP-700847,2026-02-14,A. Noor,Microsoft,Prog - Admin,13.28,USD
+RMP-700848,2025-06-17,R. Hall,Shell,Advocacy,63.02,USD
+RMP-700849,2026-02-01,R. Hall,Microsoft,Prog - Admin,68.25,USD
+RMP-700850,07-May-2025,K. Lee,Office Depot,ADVOCACY,67.57,USD
+RMP-700851,2025-02-11,K. Lee,Canva,Volunteer Training,79.25,USD
+RMP-700852,2025-02-10,K. Lee,Zoom,ADVOCACY,49.73,USD
+RMP-700853,2026-05-02,S. Patel,Zoom,ADVOCACY,82.31,USD
+RMP-700854,02/03/2026,J. Brown,Zoom,ADVOCACY,117.42,USD
+RMP-700855,2025-07-01,R. Hall,Canva,Volunteer Training,55.8,USD
+RMP-700856,2025-06-30,R. Hall,Office Depot,Advocacy,30.24,USD
+RMP-700857,09-Apr-2026,J. Brown,Uber,Advocacy,39.22,USD
+RMP-700858,02/19/2025,M. Ortiz,Shell,Prog - Advocacy,21.06,USD
+RMP-700859,2026-02-12,R. Hall,Zoom,Advocacy,96.18,USD
+RMP-700860,2026-02-05,A. Noor,Shell,ADVOCACY,10.54,USD
+RMP-700861,2025-05-26,M. Ortiz,Meta Ads,Fundraising,38.73,USD
+RMP-700862,25-Oct-2025,A. Noor,Google Ads,Fundraising,74.61,USD
+RMP-700863,2025-05-25,K. Lee,Zoom,Prog - Advocacy,17.85,USD
+RMP-700864,2025-01-16,R. Hall,Zoom,Advocacy,12.7,USD
+RMP-700865,2025-03-26,A. Noor,VistaPrint,Fundraising,5.74,USD
+RMP-700866,08/04/2025,A. Noor,Uber,Advocacy,34.61,GBP
+RMP-700867,2026-04-27,K. Lee,Hilton,Fundraising,15.97,USD
+RMP-700868,21-Feb-2025,M. Ortiz,Office Depot,ADVOCACY,98.4,USD
+RMP-700869,04/17/2025,A. Noor,Office Depot,Advocacy,11.06,USD
+RMP-700870,2025-08-07,R. Hall,Uber,ADVOCACY,71.94,USD
+RMP-700871,2025-12-03,M. Ortiz,Office Depot,Advocacy,13.85,USD
+RMP-700872,01/06/2026,M. Ortiz,Google Ads,FUNDRAISING,11.45,USD
+RMP-700873,09/11/2025,J. Brown,Shell,ADVOCACY,15.13,USD
+RMP-700874,2026-02-09,R. Hall,Microsoft,Admin,117.66,USD
+RMP-700875,01/30/2025,R. Hall,Uber,Advocacy,15.14,USD
+RMP-700876,2025-07-04,K. Lee,Microsoft,Prog - Admin,124.93,USD
+RMP-700877,16-Oct-2025,K. Lee,Uber,Advocacy,53.64,USD
+RMP-700878,2025-12-25,S. Patel,Shell,Advocacy,28.04,USD
+RMP-700879,04/19/2026,R. Hall,Meta Ads,FUNDRAISING,17.34,USD
+RMP-700880,2026-02-04,M. Ortiz,Office Depot,Prog - Advocacy,248.14,USD
+RMP-700881,05/13/2025,S. Patel,Google Ads,FUNDRAISING,26.32,USD
+RMP-700882,2026-05-17,R. Hall,Panera,Prog - Volunteer Training,26.42,USD
+RMP-700883,2026-05-18,K. Lee,Meta Ads,Fundraising,165.02,USD
+RMP-700884,03/18/2025,K. Lee,Office Depot,Advocacy,193.56,USD
+RMP-700885,16-Dec-2025,R. Hall,Hilton,Prog - Fundraising,39.41,USD
+RMP-700886,03/01/2025,S. Patel,Google Ads,Fundraising,129.78,USD
+RMP-700887,2026-03-31,K. Lee,Google Ads,Prog - Fundraising,25.76,USD
+RMP-700888,04/10/2026,K. Lee,Office Depot,ADVOCACY,337.74,USD
+RMP-700889,2025-11-07,J. Brown,Adobe,Admin,13.73,USD
+RMP-700890,2025-04-01,A. Noor,Staples,Admin,19.64,USD
+RMP-700891,2025-10-25,R. Hall,Microsoft,ADMIN,145.69,USD
+RMP-700892,11/21/2025,J. Brown,Google Ads,Fundraising,34.46,USD
+RMP-700893,10/07/2025,A. Noor,Panera,Prog - Volunteer Training,153.69,GBP
+RMP-700894,2025-04-28,R. Hall,Office Depot,ADVOCACY,29.38,USD
+RMP-700895,28-Sep-2025,J. Brown,Dropbox,Prog - Admin,80.91,USD
+RMP-700896,01-Jun-2026,J. Brown,Adobe,Admin,23.96,USD
+RMP-700897,2025-04-11,R. Hall,Zoom,Prog - Advocacy,41.76,USD
+RMP-700898,2026-01-23,M. Ortiz,Udemy,Prog - Volunteer Training,14.12,USD
+RMP-700899,2025-10-13,S. Patel,Microsoft,ADMIN,42.82,USD
+RMP-700900,02/22/2025,R. Hall,Shell,Prog - Advocacy,20.29,USD
+RMP-700901,08/28/2025,J. Brown,Shell,Advocacy,288.67,USD
+RMP-700902,2025-08-02,M. Ortiz,Microsoft,Admin,33.49,USD
+RMP-700903,2025-12-27,J. Brown,Google Ads,Fundraising,15.21,USD
+RMP-700904,2025-12-30,S. Patel,Staples,Prog - Admin,83.32,USD
+RMP-700905,2025-11-23,M. Ortiz,Shell,ADVOCACY,15.07,USD
+RMP-700906,04/21/2026,R. Hall,Office Depot,Prog - Advocacy,98.42,USD
+RMP-700907,04/07/2025,A. Noor,Google Ads,FUNDRAISING,27.06,USD
+RMP-700908,2025-11-23,S. Patel,Panera,Volunteer Training,43.21,USD
+RMP-700909,14-Mar-2025,K. Lee,Zoom,ADVOCACY,37.68,USD
+RMP-700910,09/13/2025,R. Hall,Dropbox,ADMIN,35.57,USD
+RMP-700911,06/19/2025,R. Hall,Microsoft,Admin,47.28,USD
+RMP-700912,2025-11-29,R. Hall,Zoom,Advocacy,24.61,USD
+RMP-700913,2025-06-06,M. Ortiz,Zoom,ADVOCACY,16.73,USD
+RMP-700914,2026-02-23,K. Lee,Zoom,Advocacy,46.29,USD
+RMP-700915,2026-04-03,M. Ortiz,Eventbrite,VOLUNTEER TRAINING,31.25,USD
+RMP-700916,2025-04-09,A. Noor,Office Depot,ADVOCACY,14.14,USD
+RMP-700917,2025-09-01,M. Ortiz,Panera,Volunteer Training,77.7,USD
+RMP-700918,2026-04-22,R. Hall,Panera,VOLUNTEER TRAINING,44.05,USD
+RMP-700919,03/17/2026,J. Brown,Dropbox,ADMIN,16.81,USD
+RMP-700920,2025-07-13,K. Lee,Zoom,Advocacy,36.09,USD
+RMP-700921,2026-01-10,K. Lee,Hilton,FUNDRAISING,39.25,USD
+RMP-700922,2026-01-02,M. Ortiz,Hilton,FUNDRAISING,17.68,USD
+RMP-700923,2025-06-04,J. Brown,VistaPrint,Prog - Fundraising,769.83,USD
+RMP-700924,2026-05-14,J. Brown,Microsoft,Prog - Admin,44.39,USD
+RMP-700925,2026-06-18,M. Ortiz,Hilton,Fundraising,36.67,USD
+RMP-700926,2026-04-03,S. Patel,Dropbox,Admin,400.69,USD
+RMP-700927,23-Apr-2025,A. Noor,Shell,ADVOCACY,67.42,USD
+RMP-700928,2025-01-24,M. Ortiz,Meta Ads,Fundraising,132.67,USD
+RMP-700929,2025-10-10,R. Hall,Eventbrite,VOLUNTEER TRAINING,48.66,USD
+RMP-700930,10/19/2025,J. Brown,Dropbox,Prog - Admin,47.36,USD
+RMP-700931,12/29/2025,A. Noor,Office Depot,ADVOCACY,20.7,USD
+RMP-700932,2026-02-05,M. Ortiz,Shell,Prog - Advocacy,81.61,USD
+RMP-700933,2025-09-23,A. Noor,VistaPrint,Fundraising,236.0,USD
+RMP-700934,2025-02-23,S. Patel,Uber,Advocacy,184.82,USD
+RMP-700935,02/26/2026,J. Brown,Meta Ads,FUNDRAISING,15.04,USD
+RMP-700936,19-Apr-2026,S. Patel,Adobe,ADMIN,238.32,USD
+RMP-700937,2025-08-31,S. Patel,Adobe,ADMIN,21.23,USD
+RMP-700938,2025-12-20,J. Brown,Uber,Advocacy,19.17,USD
+RMP-700939,01/23/2026,R. Hall,Office Depot,Advocacy,20.14,USD
+RMP-700940,06/27/2025,S. Patel,Meta Ads,Fundraising,31.44,USD
+RMP-700941,20-Apr-2026,M. Ortiz,Meta Ads,Fundraising,7.85,USD
+RMP-700942,2026-02-09,M. Ortiz,Hilton,Fundraising,46.87,USD
+RMP-700943,05-Feb-2025,A. Noor,Google Ads,FUNDRAISING,35.39,USD
+RMP-700944,2025-12-24,M. Ortiz,VistaPrint,Fundraising,46.4,USD
+RMP-700945,2025-11-23,M. Ortiz,Zoom,Advocacy,28.61,USD
+RMP-700946,2025-02-13,A. Noor,Google Ads,FUNDRAISING,10.67,USD
+RMP-700947,11/16/2025,K. Lee,Office Depot,Advocacy,35.36,USD
+RMP-700948,04/17/2026,J. Brown,Office Depot,Advocacy,134.07,USD
+RMP-700949,2025-09-26,M. Ortiz,Google Ads,Fundraising,18.01,USD
+RMP-700950,09-Jun-2026,A. Noor,Udemy,Prog - Volunteer Training,20.3,USD
+RMP-700951,01/25/2025,S. Patel,VistaPrint,Fundraising,67.32,USD
+RMP-700952,06/06/2025,S. Patel,Canva,Volunteer Training,14.67,USD
+RMP-700953,07/04/2025,R. Hall,Uber,Prog - Advocacy,54.77,USD
+RMP-700954,2025-06-23,M. Ortiz,Zoom,ADVOCACY,66.66,USD
+RMP-700955,2026-01-29,J. Brown,Google Ads,Fundraising,26.93,USD
+RMP-700956,2025-07-05,A. Noor,Shell,Prog - Advocacy,22.77,USD
+RMP-700957,2025-10-08,R. Hall,Hilton,Fundraising,12.58,USD
+RMP-700958,2025-10-22,R. Hall,Hilton,Fundraising,21.93,GBP
+RMP-700959,06/12/2026,A. Noor,Panera,VOLUNTEER TRAINING,74.51,USD
+RMP-700960,2025-07-07,A. Noor,Staples,Admin,95.05,USD
+RMP-700961,2026-02-16,A. Noor,Adobe,Admin,47.34,USD
+RMP-700962,2025-07-05,A. Noor,Adobe,Admin,25.71,USD
+RMP-700963,2026-06-28,J. Brown,Meta Ads,Fundraising,47.75,USD
+RMP-700964,2025-10-28,A. Noor,Shell,Advocacy,21.4,USD
+RMP-700965,2025-11-05,J. Brown,Panera,Prog - Volunteer Training,52.52,GBP
+RMP-700966,2025-07-08,J. Brown,Hilton,FUNDRAISING,87.55,USD
+RMP-700967,02/15/2026,J. Brown,Shell,Advocacy,29.41,USD
+RMP-700968,2026-06-22,S. Patel,Google Ads,Fundraising,21.7,USD
+RMP-700969,2026-01-22,K. Lee,Udemy,Prog - Volunteer Training,28.82,USD
+RMP-700970,07/12/2025,R. Hall,Zoom,Advocacy,118.96,USD
+RMP-700971,2025-06-12,M. Ortiz,Meta Ads,Fundraising,551.25,GBP
+RMP-700972,02/22/2025,S. Patel,Zoom,Advocacy,80.14,USD
+RMP-700973,2026-04-20,K. Lee,Uber,Prog - Advocacy,41.85,GBP
+RMP-700974,06/23/2025,R. Hall,Staples,ADMIN,18.61,USD
+RMP-700975,07/15/2025,S. Patel,Panera,Volunteer Training,17.6,USD
+RMP-700976,07/30/2025,R. Hall,Panera,Volunteer Training,65.69,USD
+RMP-700977,2026-01-25,J. Brown,Office Depot,Prog - Advocacy,22.16,USD
+RMP-700978,2025-11-04,J. Brown,Udemy,Volunteer Training,112.19,USD
+RMP-700979,2026-04-02,A. Noor,Shell,Advocacy,25.97,USD
+RMP-700980,2025-11-27,J. Brown,Meta Ads,FUNDRAISING,160.9,USD
+RMP-700981,2026-05-10,S. Patel,VistaPrint,FUNDRAISING,30.93,GBP
+RMP-700982,2025-11-25,R. Hall,Adobe,Admin,123.98,USD
+RMP-700983,29-Jan-2025,M. Ortiz,Uber,ADVOCACY,81.92,USD
+RMP-700984,05/02/2025,R. Hall,Meta Ads,Prog - Fundraising,95.8,USD
+RMP-700985,2026-04-03,J. Brown,Hilton,Fundraising,42.03,USD
+RMP-700986,22-Feb-2026,R. Hall,Shell,ADVOCACY,24.59,USD
+RMP-700987,2025-06-08,K. Lee,Uber,ADVOCACY,110.89,USD
+RMP-700988,2026-05-31,R. Hall,Google Ads,Prog - Fundraising,224.49,GBP
+RMP-700989,02-Jan-2025,S. Patel,VistaPrint,Prog - Fundraising,18.14,USD
+RMP-700990,10/29/2025,K. Lee,Panera,Prog - Volunteer Training,68.58,USD
+RMP-700991,03/20/2025,A. Noor,Office Depot,Advocacy,68.35,USD
+RMP-700992,2025-11-11,A. Noor,Udemy,Volunteer Training,51.89,USD
+RMP-700993,2025-11-24,R. Hall,Eventbrite,VOLUNTEER TRAINING,162.07,USD
+RMP-700994,2025-10-03,M. Ortiz,Canva,Volunteer Training,22.24,USD
+RMP-700995,2026-03-28,S. Patel,Eventbrite,VOLUNTEER TRAINING,120.12,USD
+RMP-700996,2026-05-01,M. Ortiz,Hilton,Fundraising,34.83,USD
+RMP-700997,2025-04-17,K. Lee,Meta Ads,Fundraising,5.46,USD
+RMP-700998,2025-09-03,M. Ortiz,Hilton,Fundraising,12.04,USD
+RMP-700999,2025-06-13,K. Lee,Hilton,Fundraising,46.16,GBP
+RMP-701000,06/11/2026,M. Ortiz,Office Depot,ADVOCACY,134.03,USD
+RMP-701001,01/01/2025,A. Noor,Eventbrite,VOLUNTEER TRAINING,118.3,USD
+RMP-701002,17-May-2025,S. Patel,Office Depot,Advocacy,49.15,GBP
+RMP-701003,2025-05-31,M. Ortiz,Canva,Volunteer Training,15.95,USD
+RMP-701004,06/29/2025,R. Hall,Dropbox,ADMIN,15.08,USD
+RMP-701005,2026-05-02,K. Lee,Google Ads,FUNDRAISING,65.27,USD
+RMP-701006,01/18/2025,R. Hall,Office Depot,Advocacy,43.03,USD
+RMP-701007,2025-08-13,S. Patel,Zoom,Advocacy,107.11,USD
+RMP-701008,15-Apr-2025,R. Hall,Zoom,Advocacy,33.15,USD
+RMP-701009,2025-03-06,A. Noor,Zoom,Advocacy,22.31,USD
+RMP-701010,2025-11-29,A. Noor,Udemy,Volunteer Training,34.8,USD
+RMP-701011,2026-01-07,J. Brown,Shell,ADVOCACY,44.18,USD
+RMP-701012,2025-07-26,S. Patel,Uber,Advocacy,7.17,USD
+RMP-701013,17-Aug-2025,M. Ortiz,Shell,Prog - Advocacy,68.42,USD
+RMP-701014,2025-05-22,A. Noor,Meta Ads,Fundraising,50.83,USD
+RMP-701015,2025-11-27,M. Ortiz,VistaPrint,Prog - Fundraising,104.83,USD
+RMP-701016,09/28/2025,M. Ortiz,VistaPrint,Fundraising,90.2,USD
+RMP-701017,21-Nov-2025,K. Lee,Uber,ADVOCACY,118.51,USD
+RMP-701018,2026-06-11,R. Hall,VistaPrint,Fundraising,202.88,USD
+RMP-701019,2025-03-10,M. Ortiz,VistaPrint,Fundraising,50.68,GBP
+RMP-701020,2025-07-31,J. Brown,Office Depot,ADVOCACY,6.14,USD
+RMP-701021,01/17/2026,S. Patel,Office Depot,ADVOCACY,97.04,USD
+RMP-701022,24-Feb-2026,S. Patel,Panera,VOLUNTEER TRAINING,131.53,USD
+RMP-701023,2025-02-17,K. Lee,Panera,Volunteer Training,36.43,USD
+RMP-701024,08/19/2025,J. Brown,Office Depot,Advocacy,7.28,USD
+RMP-701025,22-Apr-2026,R. Hall,VistaPrint,Fundraising,113.96,USD
+RMP-701026,03/30/2025,J. Brown,Office Depot,Advocacy,43.93,USD
+RMP-701027,2025-02-21,S. Patel,Eventbrite,Prog - Volunteer Training,13.45,USD
+RMP-701028,2026-06-18,J. Brown,Panera,Prog - Volunteer Training,35.14,USD
+RMP-701029,2026-02-26,R. Hall,Panera,VOLUNTEER TRAINING,44.5,USD
+RMP-701030,2026-03-22,A. Noor,Microsoft,Admin,35.13,USD
+RMP-701031,05/11/2025,M. Ortiz,Staples,Prog - Admin,28.36,USD
+RMP-701032,01/09/2026,M. Ortiz,Uber,Prog - Advocacy,105.29,USD
+RMP-701033,2026-06-14,S. Patel,Canva,Prog - Volunteer Training,150.81,USD
+RMP-701034,15-Apr-2025,S. Patel,VistaPrint,FUNDRAISING,254.36,USD
+RMP-701035,01/22/2026,R. Hall,Uber,ADVOCACY,18.11,GBP
+RMP-701036,2025-12-02,J. Brown,Hilton,Fundraising,144.13,USD
+RMP-701037,2025-04-27,R. Hall,Adobe,Prog - Admin,53.08,USD
+RMP-701038,01/01/2025,K. Lee,VistaPrint,FUNDRAISING,62.69,USD
+RMP-701039,2026-06-22,S. Patel,Uber,Advocacy,133.35,USD
+RMP-701040,12-Mar-2026,S. Patel,Meta Ads,Fundraising,42.74,USD
+RMP-701041,05/11/2026,S. Patel,Microsoft,Admin,37.93,USD
+RMP-701042,2025-01-12,R. Hall,Hilton,Prog - Fundraising,23.95,USD
+RMP-701043,2025-10-21,R. Hall,Udemy,Volunteer Training,15.64,USD
+RMP-701044,05/23/2026,J. Brown,Staples,Prog - Admin,25.3,USD
+RMP-701045,2025-05-08,A. Noor,Staples,Admin,52.14,USD
+RMP-701046,03/17/2025,S. Patel,Microsoft,Admin,42.72,USD
+RMP-701047,09/26/2025,A. Noor,Panera,VOLUNTEER TRAINING,31.74,USD
+RMP-701048,2025-05-26,R. Hall,Hilton,Fundraising,32.63,GBP
+RMP-701049,2026-02-07,J. Brown,Google Ads,Fundraising,115.15,USD
+RMP-701050,05/14/2026,R. Hall,Zoom,ADVOCACY,52.36,USD
+RMP-701051,07/18/2025,K. Lee,Canva,Volunteer Training,18.28,USD
+RMP-701052,2026-05-18,M. Ortiz,Meta Ads,Fundraising,47.09,USD
+RMP-701053,02/07/2026,M. Ortiz,Staples,Prog - Admin,77.83,USD
+RMP-701054,2025-07-28,R. Hall,Microsoft,Admin,105.72,USD
+RMP-701055,2025-12-08,M. Ortiz,Office Depot,Advocacy,74.27,USD
+RMP-701056,2025-02-17,M. Ortiz,Eventbrite,Prog - Volunteer Training,95.94,USD
+RMP-701057,2026-06-25,J. Brown,Udemy,Volunteer Training,70.49,USD
+RMP-701058,06/25/2025,M. Ortiz,Adobe,ADMIN,7.34,USD
+RMP-701059,2026-05-26,J. Brown,Zoom,Prog - Advocacy,38.7,USD
+RMP-701060,19-Jan-2025,K. Lee,Google Ads,Fundraising,41.21,USD
+RMP-701061,10-May-2026,S. Patel,Google Ads,Fundraising,280.18,USD
+RMP-701062,2025-12-21,S. Patel,Adobe,ADMIN,88.54,USD
+RMP-701063,2025-12-11,S. Patel,Canva,Prog - Volunteer Training,34.4,USD
+RMP-701064,03/01/2025,J. Brown,Google Ads,Fundraising,22.3,USD
+RMP-701065,2025-08-17,J. Brown,Dropbox,Prog - Admin,32.8,USD
+RMP-701066,27-May-2025,J. Brown,Hilton,Prog - Fundraising,21.59,USD
+RMP-701067,2025-10-25,K. Lee,Zoom,ADVOCACY,317.94,USD
+RMP-701068,2025-11-29,A. Noor,Uber,Advocacy,44.09,USD
+RMP-701069,11/28/2025,J. Brown,Google Ads,Fundraising,93.91,USD
+RMP-701070,2026-03-09,J. Brown,Shell,ADVOCACY,71.08,USD
+RMP-701071,2026-02-03,S. Patel,Google Ads,Prog - Fundraising,80.77,USD
+RMP-701072,2025-12-01,R. Hall,Meta Ads,Prog - Fundraising,20.24,USD
+RMP-701073,28-Jul-2025,M. Ortiz,Adobe,Admin,148.94,USD
+RMP-701074,2026-02-15,M. Ortiz,Eventbrite,Volunteer Training,41.29,GBP
+RMP-701075,28-Sep-2025,K. Lee,Hilton,Prog - Fundraising,172.49,USD
+RMP-701076,06/29/2025,M. Ortiz,Uber,Advocacy,65.57,USD
+RMP-701077,19-Feb-2026,A. Noor,Panera,VOLUNTEER TRAINING,216.71,USD
+RMP-701078,12/12/2025,S. Patel,Office Depot,Advocacy,76.73,USD
+RMP-701079,2026-06-03,K. Lee,VistaPrint,Fundraising,37.82,USD
+RMP-701080,2026-03-14,M. Ortiz,Hilton,Fundraising,158.39,USD
+RMP-701081,2025-01-13,M. Ortiz,Office Depot,Advocacy,50.63,USD
+RMP-701082,2026-02-08,R. Hall,Shell,Advocacy,72.55,USD
+RMP-701083,2026-01-15,S. Patel,Meta Ads,Prog - Fundraising,48.44,USD
+RMP-701084,02/25/2026,K. Lee,Meta Ads,Fundraising,27.47,USD
+RMP-701085,06/29/2025,S. Patel,Google Ads,Fundraising,38.73,USD
+RMP-701086,2025-10-10,K. Lee,Dropbox,Admin,84.82,USD
+RMP-701087,2026-02-22,M. Ortiz,Staples,Prog - Admin,107.23,USD
+RMP-701088,2025-12-22,S. Patel,Udemy,Volunteer Training,7.26,USD
+RMP-701089,2025-01-16,S. Patel,Shell,Advocacy,59.64,USD
+RMP-701090,11/11/2025,A. Noor,Hilton,FUNDRAISING,41.67,USD
+RMP-701091,2026-06-17,R. Hall,Google Ads,FUNDRAISING,13.02,USD
+RMP-701092,2025-01-16,S. Patel,Eventbrite,Prog - Volunteer Training,96.71,USD
+RMP-701093,2026-04-10,K. Lee,Meta Ads,Fundraising,227.23,USD
+RMP-701094,2026-04-08,A. Noor,Office Depot,Advocacy,169.61,USD
+RMP-701095,29-Jun-2026,S. Patel,Adobe,Admin,5.47,USD
+RMP-701096,03/10/2025,S. Patel,Google Ads,Prog - Fundraising,59.86,GBP
+RMP-701097,2026-02-15,A. Noor,Eventbrite,Prog - Volunteer Training,24.91,USD
+RMP-701098,02/21/2025,M. Ortiz,Eventbrite,Prog - Volunteer Training,29.86,USD
+RMP-701099,2025-03-06,S. Patel,Zoom,Advocacy,35.62,USD
+RMP-701100,04/12/2026,J. Brown,Google Ads,Fundraising,6.05,USD
+RMP-701101,2025-09-29,R. Hall,Google Ads,Prog - Fundraising,7.01,USD
+RMP-701102,2026-03-15,M. Ortiz,Meta Ads,FUNDRAISING,48.26,USD
+RMP-701103,2026-06-14,S. Patel,Zoom,Advocacy,55.86,USD
+RMP-701104,2025-09-30,M. Ortiz,Office Depot,Advocacy,37.49,USD
+RMP-701105,2026-04-04,K. Lee,Canva,Prog - Volunteer Training,14.53,USD
+RMP-701106,2025-06-22,M. Ortiz,Uber,ADVOCACY,31.07,USD
+RMP-701107,06/05/2026,A. Noor,Eventbrite,Volunteer Training,164.17,USD
+RMP-701108,2026-05-12,S. Patel,Shell,Advocacy,32.25,GBP
+RMP-701109,2026-06-18,M. Ortiz,Uber,ADVOCACY,28.43,USD
+RMP-701110,2025-03-13,J. Brown,Meta Ads,Fundraising,136.07,USD
+RMP-701111,06/21/2025,K. Lee,Adobe,ADMIN,36.81,USD
+RMP-701112,2025-10-19,K. Lee,Udemy,Prog - Volunteer Training,82.47,USD
+RMP-701113,09/09/2025,M. Ortiz,VistaPrint,FUNDRAISING,67.68,USD
+RMP-701114,2026-02-13,A. Noor,Office Depot,Advocacy,20.02,USD
+RMP-701115,2026-01-02,K. Lee,Eventbrite,Volunteer Training,18.33,USD
+RMP-701116,2025-09-13,M. Ortiz,Microsoft,ADMIN,13.29,USD
+RMP-701117,09-Jun-2026,M. Ortiz,Uber,Advocacy,18.02,USD
+RMP-701118,2026-03-16,K. Lee,Shell,Advocacy,94.09,USD
+RMP-701119,2025-12-01,M. Ortiz,Uber,Prog - Advocacy,21.34,GBP
+RMP-701120,2026-03-11,M. Ortiz,Panera,Prog - Volunteer Training,39.48,USD
+RMP-701121,2026-04-06,R. Hall,VistaPrint,Fundraising,34.69,USD
+RMP-701122,2025-11-04,J. Brown,Uber,Prog - Advocacy,62.91,USD
+RMP-701123,05-Apr-2025,M. Ortiz,Office Depot,Advocacy,13.09,USD
+RMP-701124,2026-02-13,R. Hall,Microsoft,Prog - Admin,120.09,USD
+RMP-701125,2025-06-17,R. Hall,Eventbrite,Prog - Volunteer Training,162.81,GBP
+RMP-701126,03/28/2025,M. Ortiz,Udemy,VOLUNTEER TRAINING,43.7,USD
+RMP-701127,2025-01-03,A. Noor,Microsoft,Prog - Admin,5.96,USD
+RMP-701128,2026-01-07,K. Lee,Shell,Advocacy,20.63,GBP
+RMP-701129,2026-06-12,R. Hall,Staples,ADMIN,59.41,USD
+RMP-701130,2025-01-23,R. Hall,Dropbox,Admin,62.49,USD
+RMP-701131,2025-04-08,A. Noor,Uber,Prog - Advocacy,35.45,GBP
+RMP-701132,2026-06-06,S. Patel,Udemy,VOLUNTEER TRAINING,120.37,USD
+RMP-701133,2025-11-17,A. Noor,Udemy,Prog - Volunteer Training,26.61,USD
+RMP-701134,2026-06-18,S. Patel,Dropbox,Prog - Admin,108.39,USD
+RMP-701135,01/02/2026,S. Patel,Shell,ADVOCACY,44.74,USD
+RMP-701136,2025-07-03,A. Noor,Google Ads,Fundraising,26.86,USD
+RMP-701137,2026-02-21,J. Brown,Microsoft,Admin,86.35,USD
+RMP-701138,08/02/2025,A. Noor,VistaPrint,Fundraising,42.97,USD
+RMP-701139,07/29/2025,R. Hall,Dropbox,Prog - Admin,99.36,USD
+RMP-701140,2025-05-13,K. Lee,Meta Ads,Fundraising,611.39,USD
+RMP-701141,2025-02-22,A. Noor,Adobe,Prog - Admin,19.29,USD
+RMP-701142,2025-01-23,J. Brown,Shell,Advocacy,98.76,USD
+RMP-701143,2025-04-16,A. Noor,Meta Ads,Fundraising,79.37,USD
+RMP-701144,2026-04-05,J. Brown,VistaPrint,FUNDRAISING,221.71,USD
+RMP-701145,04/27/2026,K. Lee,Panera,Volunteer Training,101.77,USD
+RMP-701146,2025-04-30,M. Ortiz,Office Depot,Prog - Advocacy,184.13,USD
+RMP-701147,07/27/2025,J. Brown,Hilton,Fundraising,18.44,USD
+RMP-701148,11/14/2025,J. Brown,Office Depot,ADVOCACY,14.18,USD
+RMP-701149,04-Dec-2025,R. Hall,Panera,Prog - Volunteer Training,19.17,USD
+RMP-701150,04-Jun-2025,J. Brown,Panera,Volunteer Training,38.82,USD
+RMP-701151,2025-06-04,K. Lee,Staples,Admin,155.13,USD
+RMP-701152,2026-01-29,S. Patel,Office Depot,Advocacy,189.65,USD
+RMP-701153,05/20/2026,J. Brown,Google Ads,Prog - Fundraising,32.19,USD
+RMP-701154,09-Nov-2025,K. Lee,Uber,Advocacy,40.41,USD
+RMP-701155,2025-09-16,R. Hall,Eventbrite,Volunteer Training,15.57,USD
+RMP-701156,2025-06-06,R. Hall,Udemy,Volunteer Training,47.73,USD
+RMP-701157,01/14/2025,M. Ortiz,VistaPrint,Fundraising,37.4,USD
+RMP-701158,2025-03-18,J. Brown,Meta Ads,Prog - Fundraising,37.49,USD
+RMP-701159,12/05/2025,S. Patel,Meta Ads,Fundraising,129.37,USD
+RMP-701160,2026-02-13,K. Lee,Meta Ads,Fundraising,64.35,USD
+RMP-701161,29-Jan-2026,M. Ortiz,Canva,Volunteer Training,13.78,USD
+RMP-701162,2025-08-08,S. Patel,Hilton,Fundraising,4.5,USD
+RMP-701163,09-Mar-2026,M. Ortiz,Eventbrite,Prog - Volunteer Training,73.46,USD
+RMP-701164,2026-03-31,S. Patel,Uber,Advocacy,55.1,USD
+RMP-701165,2025-05-20,A. Noor,Microsoft,ADMIN,62.8,USD
+RMP-701166,2026-05-13,A. Noor,Staples,Admin,55.11,USD
+RMP-701167,2026-06-14,A. Noor,Uber,Prog - Advocacy,15.96,USD
+RMP-701168,04/06/2025,M. Ortiz,Adobe,Admin,37.68,USD
+RMP-701169,2025-01-28,A. Noor,Meta Ads,Prog - Fundraising,33.95,USD
+RMP-701170,2025-08-18,K. Lee,Panera,Prog - Volunteer Training,41.55,USD
+RMP-701171,2026-02-20,K. Lee,Office Depot,Advocacy,98.55,USD
+RMP-701172,04/01/2026,A. Noor,Staples,ADMIN,26.58,USD
+RMP-701173,2025-01-25,S. Patel,VistaPrint,FUNDRAISING,15.79,USD
+RMP-701174,2026-02-08,S. Patel,Udemy,VOLUNTEER TRAINING,149.3,USD
+RMP-701175,2026-06-26,M. Ortiz,VistaPrint,Fundraising,23.17,USD
+RMP-701176,14-Jun-2025,S. Patel,Google Ads,Prog - Fundraising,126.11,USD
+RMP-701177,2025-07-27,J. Brown,Eventbrite,Prog - Volunteer Training,309.92,USD
+RMP-701178,2026-01-08,S. Patel,Hilton,Fundraising,173.54,USD
+RMP-701179,10-Mar-2025,K. Lee,Panera,Volunteer Training,81.29,USD
+RMP-701180,06/04/2026,R. Hall,Google Ads,Prog - Fundraising,37.4,USD
+RMP-701181,2025-12-19,S. Patel,Adobe,ADMIN,101.67,GBP
+RMP-701182,2025-04-11,M. Ortiz,Staples,Admin,43.79,USD
+RMP-701183,01/01/2025,S. Patel,Hilton,Prog - Fundraising,159.79,USD
+RMP-701184,12/17/2025,M. Ortiz,Dropbox,Admin,79.41,USD
+RMP-701185,2025-01-07,J. Brown,Adobe,ADMIN,62.83,USD
+RMP-701186,2025-11-14,A. Noor,Uber,Prog - Advocacy,46.73,USD
+RMP-701187,05/24/2026,J. Brown,Dropbox,ADMIN,28.65,USD
+RMP-701188,07/05/2025,K. Lee,Zoom,Prog - Advocacy,44.61,USD
+RMP-701189,2026-04-07,R. Hall,Uber,Advocacy,58.18,USD
+RMP-701190,12/09/2025,J. Brown,Hilton,Prog - Fundraising,35.47,USD
+RMP-701191,01/08/2025,J. Brown,Udemy,Prog - Volunteer Training,58.45,USD
+RMP-701192,2025-05-16,K. Lee,Udemy,VOLUNTEER TRAINING,108.53,USD
+RMP-701193,2026-01-18,K. Lee,Hilton,FUNDRAISING,57.39,USD
+RMP-701194,2025-07-05,A. Noor,Zoom,Prog - Advocacy,27.63,USD
+RMP-701195,2026-01-07,A. Noor,Dropbox,Admin,3.74,USD
+RMP-701196,06/15/2025,S. Patel,Canva,VOLUNTEER TRAINING,133.27,USD
+RMP-701197,11/17/2025,M. Ortiz,Microsoft,Admin,40.47,USD
+RMP-701198,2025-06-06,K. Lee,Panera,Volunteer Training,53.54,USD
+RMP-701199,2025-10-12,J. Brown,Hilton,Fundraising,73.0,USD
+RMP-701200,28-Jan-2025,J. Brown,Udemy,VOLUNTEER TRAINING,73.02,USD
+RMP-701201,2025-12-17,A. Noor,Meta Ads,Fundraising,88.41,GBP
+RMP-701202,24-Mar-2025,M. Ortiz,Shell,Prog - Advocacy,110.82,GBP
+RMP-701203,01/05/2026,K. Lee,Panera,Volunteer Training,88.23,USD
+RMP-701204,06/25/2026,A. Noor,Uber,ADVOCACY,2.7,USD
+RMP-701205,01/30/2026,M. Ortiz,Google Ads,Fundraising,63.67,USD
+RMP-701206,2026-04-25,K. Lee,Dropbox,Admin,56.23,GBP
+RMP-701207,2025-08-01,J. Brown,Shell,Advocacy,35.6,USD
+RMP-701208,2025-12-26,J. Brown,Meta Ads,Fundraising,68.83,USD
+RMP-701209,2025-08-02,A. Noor,VistaPrint,Fundraising,45.52,USD
+RMP-701210,2025-10-31,M. Ortiz,Zoom,Prog - Advocacy,26.81,USD
+RMP-701211,2025-06-04,J. Brown,Shell,Advocacy,136.06,USD
+RMP-701212,2026-01-15,M. Ortiz,Uber,ADVOCACY,61.13,USD
+RMP-701213,2025-07-19,A. Noor,Office Depot,Prog - Advocacy,52.21,USD
+RMP-701214,2025-08-26,S. Patel,Office Depot,ADVOCACY,6.85,USD
+RMP-701215,16-Jun-2025,M. Ortiz,Eventbrite,VOLUNTEER TRAINING,303.62,USD
+RMP-701216,08/14/2025,R. Hall,Canva,Volunteer Training,8.35,USD
+RMP-701217,09/08/2025,M. Ortiz,VistaPrint,FUNDRAISING,71.65,USD
+RMP-701218,07-Oct-2025,A. Noor,VistaPrint,Prog - Fundraising,84.92,USD
+RMP-701219,2026-04-21,R. Hall,Hilton,Prog - Fundraising,196.37,USD
+RMP-701220,05/13/2026,S. Patel,Meta Ads,Prog - Fundraising,18.81,USD
+RMP-701221,19-Jun-2026,J. Brown,Zoom,Advocacy,21.59,USD
+RMP-701222,02/15/2026,K. Lee,Panera,Volunteer Training,91.87,USD
+RMP-701223,03/05/2026,A. Noor,Office Depot,ADVOCACY,80.31,GBP
+RMP-701224,23-Jun-2026,K. Lee,Meta Ads,Fundraising,206.77,USD
+RMP-701225,2026-03-19,S. Patel,Microsoft,ADMIN,118.95,USD
+RMP-701226,2025-07-29,R. Hall,Zoom,Advocacy,32.96,USD
+RMP-701227,2026-05-06,S. Patel,Udemy,Volunteer Training,40.45,USD
+RMP-701228,04/16/2026,M. Ortiz,VistaPrint,Fundraising,71.57,USD
+RMP-701229,2026-04-08,K. Lee,Meta Ads,Fundraising,11.3,GBP
+RMP-701230,2026-04-22,K. Lee,Shell,ADVOCACY,74.07,USD
+RMP-701231,17-Jul-2025,S. Patel,Uber,Advocacy,79.05,USD
+RMP-701232,2026-06-05,R. Hall,Staples,Prog - Admin,21.56,USD
+RMP-701233,2026-05-14,K. Lee,Zoom,Advocacy,36.9,GBP
+RMP-701234,05/26/2026,J. Brown,VistaPrint,Fundraising,7.51,USD
+RMP-701235,2025-11-21,S. Patel,Staples,Admin,103.13,USD
+RMP-701236,2026-04-12,M. Ortiz,Adobe,ADMIN,65.12,USD
+RMP-701237,2025-05-19,M. Ortiz,Uber,Advocacy,13.79,USD
+RMP-701238,2025-08-30,M. Ortiz,Canva,Volunteer Training,17.22,USD
+RMP-701239,11/12/2025,K. Lee,Shell,ADVOCACY,30.23,USD
+RMP-701240,2025-05-15,S. Patel,Hilton,Prog - Fundraising,96.0,USD
+RMP-701241,07-Jul-2025,M. Ortiz,Google Ads,Prog - Fundraising,70.39,USD
+RMP-701242,2025-03-10,S. Patel,Microsoft,Prog - Admin,21.33,USD
+RMP-701243,03/15/2026,K. Lee,Canva,Volunteer Training,26.21,USD
+RMP-701244,2025-03-18,J. Brown,VistaPrint,Fundraising,46.87,GBP
+RMP-701245,02/04/2026,J. Brown,Canva,VOLUNTEER TRAINING,21.75,USD
+RMP-701246,2026-01-09,J. Brown,Shell,ADVOCACY,27.98,USD
+RMP-701247,2025-01-12,K. Lee,Shell,Advocacy,83.32,USD
+RMP-701248,2026-05-02,M. Ortiz,Shell,Prog - Advocacy,14.82,USD
+RMP-701249,2026-02-21,K. Lee,Hilton,FUNDRAISING,39.33,USD
+RMP-701250,2025-07-26,S. Patel,Eventbrite,VOLUNTEER TRAINING,36.78,USD
+RMP-701251,2025-12-07,J. Brown,Office Depot,ADVOCACY,43.01,USD
+RMP-701252,2025-11-07,S. Patel,Canva,Prog - Volunteer Training,56.7,USD
+RMP-701253,2025-11-04,K. Lee,Uber,ADVOCACY,77.72,USD
+RMP-701254,20-Oct-2025,A. Noor,Zoom,ADVOCACY,90.54,USD
+RMP-701255,01/11/2026,A. Noor,Adobe,Admin,32.8,USD
+RMP-701256,06/11/2026,K. Lee,Staples,Admin,39.01,USD
+RMP-701257,2025-12-06,M. Ortiz,Zoom,Advocacy,61.3,USD
+RMP-701258,2025-03-24,R. Hall,Hilton,Fundraising,52.57,USD
+RMP-701259,03/28/2026,S. Patel,Eventbrite,Volunteer Training,74.71,USD
+RMP-701260,01/03/2025,K. Lee,Panera,Prog - Volunteer Training,67.0,USD
+RMP-701261,2026-04-01,K. Lee,Meta Ads,Fundraising,21.3,USD
+RMP-701262,2025-08-24,A. Noor,Zoom,ADVOCACY,241.53,USD
+RMP-701263,01/24/2026,J. Brown,Uber,ADVOCACY,44.85,USD
+RMP-701264,2026-01-28,J. Brown,Office Depot,Advocacy,83.91,USD
+RMP-701265,2025-01-30,R. Hall,Shell,Advocacy,77.44,USD
+RMP-701266,2025-05-28,M. Ortiz,Zoom,Advocacy,57.1,USD
+RMP-701267,2025-10-10,M. Ortiz,Office Depot,ADVOCACY,56.61,USD
+RMP-701268,26-Aug-2025,R. Hall,Panera,VOLUNTEER TRAINING,102.99,USD
+RMP-701269,2025-11-15,M. Ortiz,Meta Ads,Fundraising,37.06,USD
+RMP-701270,2025-12-03,A. Noor,Office Depot,Advocacy,89.84,USD
+RMP-701271,2025-01-31,K. Lee,Office Depot,Prog - Advocacy,70.26,USD
+RMP-701272,2025-07-26,M. Ortiz,Office Depot,Prog - Advocacy,128.79,USD
+RMP-701273,2025-08-17,A. Noor,Staples,Prog - Admin,28.6,USD
+RMP-701274,2025-12-08,S. Patel,Shell,ADVOCACY,48.22,USD
+RMP-701275,2026-04-05,K. Lee,Staples,Prog - Admin,20.7,USD
+RMP-701276,2025-05-16,R. Hall,Canva,Volunteer Training,121.36,USD
+RMP-701277,2025-10-11,S. Patel,Staples,Admin,22.98,USD
+RMP-701278,17-Dec-2025,J. Brown,Eventbrite,Volunteer Training,60.27,USD
+RMP-701279,2025-01-17,J. Brown,Zoom,ADVOCACY,29.72,USD
+RMP-701280,2025-08-03,K. Lee,Udemy,Volunteer Training,124.84,USD
+RMP-701281,2026-01-30,M. Ortiz,Hilton,Prog - Fundraising,42.41,USD
+RMP-701282,03-Feb-2026,K. Lee,Hilton,Fundraising,80.32,USD
+RMP-701283,2026-02-18,M. Ortiz,Panera,Volunteer Training,16.85,USD
+RMP-701284,2025-09-01,R. Hall,Shell,Advocacy,25.33,USD
+RMP-701285,2025-04-05,J. Brown,Meta Ads,Fundraising,77.2,USD
+RMP-701286,2025-01-06,K. Lee,Microsoft,Admin,142.86,USD
+RMP-701287,2025-03-28,K. Lee,Microsoft,ADMIN,71.77,USD
+RMP-701288,2025-07-08,R. Hall,Hilton,Prog - Fundraising,381.72,USD
+RMP-701289,24-Feb-2026,M. Ortiz,Shell,Advocacy,91.13,USD
+RMP-701290,2025-03-08,J. Brown,Uber,Advocacy,45.35,USD
+RMP-701291,09/05/2025,J. Brown,VistaPrint,Fundraising,33.49,USD
+RMP-701292,2025-07-26,M. Ortiz,Meta Ads,Fundraising,229.38,USD
+RMP-701293,2025-07-24,R. Hall,Staples,Admin,92.45,USD
+RMP-701294,2025-11-15,M. Ortiz,Hilton,Prog - Fundraising,28.11,GBP
+RMP-701295,03/24/2025,R. Hall,Microsoft,Admin,24.7,USD
+RMP-701296,2026-02-28,M. Ortiz,Meta Ads,Prog - Fundraising,24.6,USD
+RMP-701297,03/23/2025,J. Brown,Google Ads,Fundraising,70.82,USD
+RMP-701298,05/02/2026,J. Brown,VistaPrint,Prog - Fundraising,11.4,USD
+RMP-701299,05/13/2025,K. Lee,Zoom,Prog - Advocacy,28.22,USD
+RMP-701300,2025-04-25,R. Hall,Meta Ads,Fundraising,58.43,USD
+RMP-701301,2026-01-12,J. Brown,Dropbox,Admin,45.83,USD
+RMP-701302,2025-07-30,R. Hall,Office Depot,Prog - Advocacy,29.68,USD
+RMP-701303,05/12/2025,R. Hall,Hilton,Fundraising,83.54,USD
+RMP-701304,01/09/2026,S. Patel,Uber,Advocacy,83.16,USD
+RMP-701305,06/03/2025,S. Patel,VistaPrint,Fundraising,36.79,USD
+RMP-701306,02/27/2026,M. Ortiz,Meta Ads,Fundraising,27.71,USD
+RMP-701307,01/01/2026,R. Hall,Microsoft,Admin,97.33,USD
+RMP-701308,27-May-2025,M. Ortiz,VistaPrint,Prog - Fundraising,38.75,USD
+RMP-701309,2025-05-07,M. Ortiz,Udemy,Volunteer Training,45.27,USD
+RMP-701310,11/04/2025,K. Lee,Zoom,Prog - Advocacy,90.43,USD
+RMP-701311,2025-04-28,S. Patel,Hilton,Fundraising,16.61,USD
+RMP-701312,2025-08-19,S. Patel,Eventbrite,Prog - Volunteer Training,28.04,GBP
+RMP-701313,03/27/2026,J. Brown,Hilton,Fundraising,35.35,USD
+RMP-701314,2026-05-15,S. Patel,Office Depot,Prog - Advocacy,248.75,USD
+RMP-701315,2025-05-25,J. Brown,Staples,ADMIN,14.48,USD
+RMP-701316,02/18/2025,R. Hall,Panera,VOLUNTEER TRAINING,46.33,GBP
+RMP-701317,2025-04-17,K. Lee,Dropbox,Prog - Admin,20.13,USD
+RMP-701318,04/03/2025,M. Ortiz,Google Ads,Fundraising,357.2,USD
+RMP-701319,2025-05-20,M. Ortiz,Office Depot,ADVOCACY,56.83,USD
+RMP-701320,2025-11-10,R. Hall,VistaPrint,Fundraising,18.96,USD
+RMP-701321,2025-01-11,J. Brown,Dropbox,Admin,10.16,USD
+RMP-701322,2026-03-24,A. Noor,Meta Ads,Fundraising,77.54,USD
+RMP-701323,01/30/2026,R. Hall,Canva,Volunteer Training,53.19,USD
+RMP-701324,05/20/2026,J. Brown,Dropbox,Admin,79.21,USD
+RMP-701325,2026-01-13,R. Hall,Zoom,Advocacy,18.07,USD
+RMP-701326,2025-12-27,K. Lee,Eventbrite,VOLUNTEER TRAINING,240.2,USD
+RMP-701327,01/31/2026,R. Hall,Meta Ads,Fundraising,48.12,USD
+RMP-701328,2025-07-05,R. Hall,Uber,ADVOCACY,65.49,USD
+RMP-701329,08/09/2025,S. Patel,Eventbrite,Volunteer Training,78.38,USD
+RMP-701330,2026-06-02,J. Brown,Hilton,FUNDRAISING,49.03,USD
+RMP-701331,27-Oct-2025,K. Lee,Hilton,Prog - Fundraising,144.75,USD
+RMP-701332,24-Jun-2025,M. Ortiz,Uber,Advocacy,27.75,USD
+RMP-701333,2026-01-06,A. Noor,Google Ads,Fundraising,112.18,USD
+RMP-701334,24-May-2026,A. Noor,Google Ads,Fundraising,148.39,USD
+RMP-701335,07/23/2025,J. Brown,Google Ads,Fundraising,113.63,USD
+RMP-701336,09-Oct-2025,R. Hall,VistaPrint,FUNDRAISING,162.54,USD
+RMP-701337,2026-02-20,S. Patel,Zoom,ADVOCACY,23.17,USD
+RMP-701338,2025-02-02,R. Hall,Meta Ads,Fundraising,69.89,USD
+RMP-701339,23-Mar-2025,J. Brown,VistaPrint,Fundraising,65.08,USD
+RMP-701340,2026-04-28,A. Noor,VistaPrint,Prog - Fundraising,47.82,USD
+RMP-701341,2025-05-28,A. Noor,Panera,Prog - Volunteer Training,78.59,USD
+RMP-701342,10-May-2026,R. Hall,Eventbrite,Volunteer Training,132.46,USD
+RMP-701343,06/19/2025,R. Hall,Udemy,Volunteer Training,23.33,USD
+RMP-701344,2025-01-07,R. Hall,Google Ads,FUNDRAISING,15.08,USD
+RMP-701345,01/15/2026,M. Ortiz,Panera,Volunteer Training,37.17,USD
+RMP-701346,03/10/2026,S. Patel,Office Depot,ADVOCACY,4.78,USD
+RMP-701347,2025-02-03,S. Patel,Hilton,FUNDRAISING,42.0,USD
+RMP-701348,18-May-2025,A. Noor,Hilton,Fundraising,161.85,USD
+RMP-701349,01/02/2026,A. Noor,Zoom,Advocacy,12.41,USD
+RMP-701350,04/16/2025,J. Brown,Staples,Prog - Admin,30.69,GBP
+RMP-701351,2025-02-01,J. Brown,Uber,Advocacy,16.07,USD
+RMP-701352,2026-06-08,M. Ortiz,Panera,VOLUNTEER TRAINING,63.88,USD
+RMP-701353,2025-06-17,A. Noor,Meta Ads,Fundraising,79.29,USD
+RMP-701354,2025-03-19,J. Brown,Office Depot,Advocacy,45.57,USD
+RMP-701355,06/30/2026,M. Ortiz,Adobe,Admin,24.13,GBP
+RMP-701356,07/28/2025,S. Patel,Eventbrite,Prog - Volunteer Training,53.05,USD
+RMP-701357,2026-02-15,A. Noor,Zoom,ADVOCACY,136.12,USD
+RMP-701358,08-Jan-2025,K. Lee,Hilton,Prog - Fundraising,99.56,USD
+RMP-701359,2025-08-15,A. Noor,Google Ads,Fundraising,30.99,USD
+RMP-701360,2025-06-24,J. Brown,Staples,Prog - Admin,33.39,USD
+RMP-701361,2025-03-22,A. Noor,Udemy,Prog - Volunteer Training,32.57,USD
+RMP-701362,02/26/2025,K. Lee,Shell,Advocacy,69.5,USD
+RMP-701363,2025-05-15,A. Noor,Office Depot,Advocacy,12.89,GBP
+RMP-701364,2025-08-26,J. Brown,Hilton,Prog - Fundraising,72.85,USD
+RMP-701365,2026-04-17,S. Patel,Meta Ads,FUNDRAISING,27.46,USD
+RMP-701366,08/05/2025,J. Brown,Staples,ADMIN,35.22,USD
+RMP-701367,01/26/2025,M. Ortiz,Meta Ads,Fundraising,23.16,USD
+RMP-701368,2025-07-06,J. Brown,Microsoft,Admin,86.33,USD
+RMP-701369,26-Apr-2025,M. Ortiz,Adobe,Admin,26.22,USD
+RMP-701370,06/12/2025,A. Noor,Eventbrite,VOLUNTEER TRAINING,18.85,USD
+RMP-701371,02/18/2026,M. Ortiz,Uber,Advocacy,26.54,USD
+RMP-701372,27-Jun-2025,R. Hall,Zoom,ADVOCACY,16.88,USD
+RMP-701373,10/07/2025,A. Noor,Office Depot,Advocacy,97.08,USD
+RMP-701374,31-Jul-2025,M. Ortiz,Panera,Volunteer Training,16.57,USD
+RMP-701375,23-Feb-2025,J. Brown,Shell,ADVOCACY,42.99,USD
+RMP-701376,03/08/2025,K. Lee,Shell,Advocacy,24.89,USD
+RMP-701377,28-Jun-2026,A. Noor,Uber,Advocacy,183.4,USD
+RMP-701378,2026-06-04,M. Ortiz,Office Depot,ADVOCACY,65.41,USD
+RMP-701379,14-May-2026,K. Lee,Canva,Volunteer Training,25.37,USD
+RMP-701380,03/07/2026,M. Ortiz,Zoom,Advocacy,52.16,USD
+RMP-701381,02/15/2025,M. Ortiz,Canva,Volunteer Training,19.72,USD
+RMP-701382,2025-02-04,M. Ortiz,Uber,Advocacy,81.8,USD
+RMP-701383,08-Jul-2025,J. Brown,Meta Ads,Fundraising,51.98,USD
+RMP-701384,2025-03-30,M. Ortiz,Shell,Advocacy,65.18,USD
+RMP-701385,12/01/2025,K. Lee,Dropbox,Admin,18.95,USD
+RMP-701386,2025-05-16,R. Hall,VistaPrint,Fundraising,12.87,USD
+RMP-701387,2026-06-30,M. Ortiz,Eventbrite,Prog - Volunteer Training,10.0,GBP
+RMP-701388,2025-04-23,R. Hall,Udemy,VOLUNTEER TRAINING,10.71,USD
+RMP-701389,2025-06-21,S. Patel,Eventbrite,VOLUNTEER TRAINING,45.14,USD
+RMP-701390,2025-12-05,A. Noor,Uber,Advocacy,252.05,USD
+RMP-701391,2026-06-09,J. Brown,Google Ads,Fundraising,31.21,USD
+RMP-701392,23-Jun-2025,S. Patel,Staples,Prog - Admin,26.55,USD
+RMP-701393,11/28/2025,S. Patel,Adobe,ADMIN,42.57,GBP
+RMP-701394,2025-07-26,K. Lee,Hilton,Fundraising,22.03,USD
+RMP-701395,12/09/2025,K. Lee,Canva,VOLUNTEER TRAINING,14.1,USD
+RMP-701396,14-Apr-2025,R. Hall,Panera,Prog - Volunteer Training,24.8,GBP
+RMP-701397,02/09/2025,R. Hall,Google Ads,Fundraising,36.44,USD
+RMP-701398,2025-01-23,J. Brown,VistaPrint,Prog - Fundraising,238.28,USD
+RMP-701399,09/09/2025,J. Brown,Udemy,Volunteer Training,28.8,USD
+RMP-701400,17-Oct-2025,A. Noor,Dropbox,ADMIN,53.27,USD
+RMP-701401,2025-07-21,M. Ortiz,Office Depot,Advocacy,13.0,USD
+RMP-701402,2025-06-04,J. Brown,Eventbrite,Prog - Volunteer Training,83.47,USD
+RMP-701403,2025-04-16,J. Brown,Staples,Admin,22.98,USD
+RMP-701404,2025-09-17,R. Hall,Adobe,ADMIN,16.18,USD
+RMP-701405,07/19/2025,M. Ortiz,Hilton,Fundraising,17.72,USD
+RMP-701406,2025-08-05,A. Noor,Shell,Advocacy,25.08,USD
+RMP-701407,2026-02-15,K. Lee,Office Depot,Advocacy,15.79,USD
+RMP-701408,2025-04-27,A. Noor,Uber,Prog - Advocacy,58.1,GBP
+RMP-701409,2026-02-28,M. Ortiz,Google Ads,Prog - Fundraising,16.85,USD
+RMP-701410,31-Jul-2025,K. Lee,Panera,Volunteer Training,79.94,USD
+RMP-701411,04-Jun-2025,K. Lee,Meta Ads,Prog - Fundraising,28.28,USD
+RMP-701412,2025-09-20,K. Lee,Eventbrite,Volunteer Training,19.58,USD
+RMP-701413,2026-05-22,A. Noor,Canva,VOLUNTEER TRAINING,24.17,USD
+RMP-701414,31-May-2025,R. Hall,VistaPrint,FUNDRAISING,17.92,USD
+RMP-701415,2025-07-31,M. Ortiz,Microsoft,Prog - Admin,45.58,USD
+RMP-701416,2025-07-11,A. Noor,Uber,ADVOCACY,27.37,USD
+RMP-701417,2025-04-08,A. Noor,Meta Ads,Prog - Fundraising,121.54,USD
+RMP-701418,2026-06-25,S. Patel,Eventbrite,VOLUNTEER TRAINING,5.61,USD
+RMP-701419,2025-06-21,J. Brown,Google Ads,Fundraising,127.91,USD
+RMP-701420,06-Jan-2026,A. Noor,Microsoft,Admin,24.4,USD
+RMP-701421,2025-06-04,S. Patel,Zoom,Advocacy,188.74,USD
+RMP-701422,2025-05-20,R. Hall,Uber,Advocacy,49.82,USD
+RMP-701423,2025-09-13,R. Hall,Zoom,Prog - Advocacy,131.59,USD
+RMP-701424,02/20/2026,M. Ortiz,Uber,ADVOCACY,41.74,USD
+RMP-701425,2025-11-25,S. Patel,Google Ads,FUNDRAISING,39.5,USD
+RMP-701426,2026-01-13,A. Noor,Zoom,Advocacy,19.03,USD
+RMP-701427,2025-09-23,M. Ortiz,Shell,ADVOCACY,41.17,GBP
+RMP-701428,06/25/2026,S. Patel,Meta Ads,Prog - Fundraising,18.18,USD
+RMP-701429,2025-05-19,A. Noor,Meta Ads,FUNDRAISING,52.91,USD
+RMP-701430,2026-05-27,M. Ortiz,Canva,Volunteer Training,51.69,USD
+RMP-701431,2025-09-06,M. Ortiz,Google Ads,Prog - Fundraising,40.03,USD
+RMP-701432,11/04/2025,J. Brown,Google Ads,FUNDRAISING,136.08,USD
+RMP-701433,07-Aug-2025,R. Hall,Uber,Advocacy,69.95,USD
+RMP-701434,10/20/2025,A. Noor,VistaPrint,Fundraising,19.53,USD
+RMP-701435,02/14/2026,J. Brown,VistaPrint,Prog - Fundraising,74.55,USD
+RMP-701436,17-Jul-2025,M. Ortiz,Panera,Prog - Volunteer Training,105.3,USD
+RMP-701437,03/21/2025,M. Ortiz,Hilton,Prog - Fundraising,5.18,USD
+RMP-701438,01/20/2026,S. Patel,Hilton,Fundraising,16.87,USD
+RMP-701439,2025-05-17,J. Brown,Google Ads,Fundraising,29.31,USD
+RMP-701440,2025-08-01,K. Lee,VistaPrint,Fundraising,21.49,USD
+RMP-701441,2025-07-26,A. Noor,Google Ads,Fundraising,79.39,USD
+RMP-701442,2025-05-13,R. Hall,VistaPrint,Fundraising,20.13,USD
+RMP-701443,06/15/2025,J. Brown,Google Ads,Fundraising,18.26,USD
+RMP-701444,05/18/2026,M. Ortiz,Canva,Volunteer Training,55.42,USD
+RMP-701445,2026-03-06,S. Patel,Zoom,Prog - Advocacy,36.31,USD
+RMP-701446,29-Jun-2025,A. Noor,Uber,ADVOCACY,122.76,USD
+RMP-701447,2025-05-01,R. Hall,Uber,Advocacy,62.42,USD
+RMP-701448,06/23/2025,A. Noor,Udemy,Prog - Volunteer Training,955.72,USD
+RMP-701449,2025-11-27,S. Patel,Eventbrite,VOLUNTEER TRAINING,16.75,USD
+RMP-701450,03/09/2025,M. Ortiz,Staples,Admin,11.29,USD
+RMP-701451,05/18/2025,R. Hall,Staples,Prog - Admin,154.19,USD
+RMP-701452,2025-11-04,K. Lee,VistaPrint,Fundraising,706.29,USD
+RMP-701453,2025-11-26,S. Patel,Adobe,Prog - Admin,36.56,USD
+RMP-701454,08/26/2025,K. Lee,Dropbox,Admin,33.57,USD
+RMP-701455,2026-06-14,J. Brown,Microsoft,ADMIN,50.13,USD
+RMP-701456,03/17/2025,A. Noor,Office Depot,ADVOCACY,20.75,USD
+RMP-701457,05/31/2025,R. Hall,Canva,Prog - Volunteer Training,7.76,USD
+RMP-701458,2025-11-12,M. Ortiz,Canva,Volunteer Training,55.62,USD
+RMP-701459,2025-02-06,K. Lee,Shell,Advocacy,45.09,USD
+RMP-701460,2025-05-06,M. Ortiz,Hilton,Prog - Fundraising,12.87,USD
+RMP-701461,2025-10-13,J. Brown,Office Depot,Advocacy,25.65,USD
+RMP-701462,2025-08-28,K. Lee,Panera,Prog - Volunteer Training,12.61,USD
+RMP-701463,08/08/2025,M. Ortiz,Zoom,Prog - Advocacy,62.45,USD
+RMP-701464,07-Jan-2025,M. Ortiz,Panera,Prog - Volunteer Training,43.63,USD
+RMP-701465,2025-08-04,J. Brown,VistaPrint,Fundraising,51.72,USD
+RMP-701466,2025-10-20,S. Patel,Meta Ads,Fundraising,71.37,USD
+RMP-701467,2026-06-23,R. Hall,Uber,Prog - Advocacy,119.89,USD
+RMP-701468,2026-04-29,J. Brown,VistaPrint,Fundraising,52.47,USD
+RMP-701469,2025-02-12,K. Lee,VistaPrint,Fundraising,77.76,USD
+RMP-701470,11/03/2025,K. Lee,Meta Ads,Prog - Fundraising,229.79,USD
+RMP-701471,04/03/2025,A. Noor,Shell,Prog - Advocacy,106.69,USD
+RMP-701472,09/26/2025,M. Ortiz,Shell,Advocacy,54.4,USD
+RMP-701473,2025-08-03,R. Hall,Shell,Advocacy,51.47,USD
+RMP-701474,2025-04-24,K. Lee,Google Ads,Fundraising,21.19,USD
+RMP-701475,07/04/2025,S. Patel,Canva,VOLUNTEER TRAINING,24.98,USD
+RMP-701476,05/05/2025,S. Patel,Office Depot,ADVOCACY,40.9,USD
+RMP-701477,15-Apr-2025,J. Brown,Shell,Advocacy,32.52,USD
+RMP-701478,25-Aug-2025,K. Lee,VistaPrint,FUNDRAISING,243.94,USD
+RMP-701479,06/07/2025,R. Hall,Meta Ads,Fundraising,62.53,USD
+RMP-701480,2026-04-19,R. Hall,Panera,Prog - Volunteer Training,58.06,USD
+RMP-701481,05/20/2026,K. Lee,VistaPrint,Prog - Fundraising,128.49,USD
+RMP-701482,10/01/2025,A. Noor,Shell,Advocacy,52.71,USD
+RMP-701483,04/27/2025,A. Noor,Uber,Advocacy,34.87,USD
+RMP-701484,20-Jun-2026,A. Noor,Canva,Volunteer Training,56.4,USD
+RMP-701485,03/01/2025,K. Lee,Uber,Advocacy,64.45,USD
+RMP-701486,02/05/2026,J. Brown,Dropbox,Admin,157.62,USD
+RMP-701487,2025-06-29,R. Hall,VistaPrint,FUNDRAISING,13.17,USD
+RMP-701488,2025-08-20,J. Brown,Meta Ads,Fundraising,22.98,USD
+RMP-701489,2026-04-21,J. Brown,Zoom,Advocacy,41.86,USD
+RMP-701490,09/02/2025,J. Brown,Uber,Advocacy,103.91,USD
+RMP-701491,08/01/2025,S. Patel,Zoom,Advocacy,90.79,GBP
+RMP-701492,2026-04-04,K. Lee,Google Ads,Fundraising,49.28,USD
+RMP-701493,2025-05-08,M. Ortiz,Office Depot,Advocacy,111.87,USD
+RMP-701494,2025-08-05,K. Lee,Canva,Prog - Volunteer Training,24.37,USD
+RMP-701495,2025-01-20,J. Brown,VistaPrint,Prog - Fundraising,243.48,USD
+RMP-701496,2025-03-01,S. Patel,Adobe,Admin,21.07,USD
+RMP-701497,05/09/2025,S. Patel,Office Depot,Prog - Advocacy,9.56,USD
+RMP-701498,2025-07-16,K. Lee,Shell,Advocacy,77.07,USD
+RMP-701499,05/07/2026,M. Ortiz,Office Depot,Prog - Advocacy,12.31,USD
+RMP-701500,05/19/2026,J. Brown,Hilton,Fundraising,28.28,USD
+RMP-701501,2025-09-04,S. Patel,Zoom,ADVOCACY,39.3,USD
+RMP-701502,17-Sep-2025,J. Brown,Hilton,Fundraising,64.94,USD
+RMP-701503,2025-12-13,J. Brown,Hilton,FUNDRAISING,111.23,USD
+RMP-701504,2025-07-16,R. Hall,Office Depot,Advocacy,13.27,USD
+RMP-701505,2025-04-17,J. Brown,Office Depot,ADVOCACY,16.23,USD
+RMP-701506,09-Jun-2025,A. Noor,Canva,Prog - Volunteer Training,965.04,GBP
+RMP-701507,2026-02-26,R. Hall,Zoom,Prog - Advocacy,36.96,USD
+RMP-701508,2025-07-26,J. Brown,Office Depot,Advocacy,10.19,USD
+RMP-701509,2025-11-09,J. Brown,Panera,Prog - Volunteer Training,18.03,GBP
+RMP-701510,2026-03-08,M. Ortiz,Meta Ads,Fundraising,27.81,USD
+RMP-701511,08/23/2025,R. Hall,Office Depot,Advocacy,44.9,USD
+RMP-701512,2025-11-23,R. Hall,Hilton,Fundraising,130.75,USD
+RMP-701513,04/24/2026,M. Ortiz,Office Depot,Advocacy,194.51,USD
+RMP-701514,2026-03-04,A. Noor,Meta Ads,Fundraising,21.28,USD
+RMP-701515,2025-04-10,R. Hall,Meta Ads,Fundraising,26.81,USD
+RMP-701516,2025-08-26,A. Noor,Hilton,Fundraising,51.09,USD
+RMP-701517,04/17/2025,J. Brown,Eventbrite,Prog - Volunteer Training,23.26,USD
+RMP-701518,2025-12-30,S. Patel,Hilton,FUNDRAISING,130.78,USD
+RMP-701519,2026-05-08,S. Patel,Google Ads,Fundraising,411.6,USD
+RMP-701520,02/12/2025,K. Lee,Zoom,Prog - Advocacy,45.57,USD
+RMP-701521,03/14/2025,S. Patel,VistaPrint,Fundraising,60.07,USD
+RMP-701522,2025-10-31,S. Patel,Hilton,FUNDRAISING,26.38,USD
+RMP-701523,2025-01-05,M. Ortiz,Panera,VOLUNTEER TRAINING,60.47,USD
+RMP-701524,15-Dec-2025,K. Lee,Udemy,Volunteer Training,17.22,USD
+RMP-701525,04-Feb-2026,K. Lee,VistaPrint,Fundraising,19.03,GBP
+RMP-701526,2026-03-09,M. Ortiz,Office Depot,Prog - Advocacy,8.71,USD
+RMP-701527,2025-04-17,S. Patel,Panera,Volunteer Training,93.16,USD
+RMP-701528,2025-04-27,S. Patel,Zoom,ADVOCACY,156.01,USD
+RMP-701529,2026-01-18,K. Lee,Zoom,Advocacy,113.02,USD
+RMP-701530,03/23/2025,S. Patel,Shell,Advocacy,48.64,USD
+RMP-701531,2026-02-14,K. Lee,Canva,VOLUNTEER TRAINING,33.72,USD
+RMP-701532,2025-03-11,S. Patel,Office Depot,ADVOCACY,41.12,USD
+RMP-701533,01/22/2026,J. Brown,Hilton,Fundraising,17.86,USD
+RMP-701534,06/08/2026,M. Ortiz,Eventbrite,VOLUNTEER TRAINING,104.25,USD
+RMP-701535,24-Oct-2025,R. Hall,Uber,ADVOCACY,114.84,USD
+RMP-701536,03/06/2025,A. Noor,Shell,Prog - Advocacy,17.18,USD
+RMP-701537,2025-06-27,J. Brown,Uber,Advocacy,19.28,GBP
+RMP-701538,2025-01-08,S. Patel,Eventbrite,VOLUNTEER TRAINING,13.56,USD
+RMP-701539,08-Jun-2025,A. Noor,Office Depot,Prog - Advocacy,35.55,USD
+RMP-701540,11-Jan-2025,R. Hall,Meta Ads,FUNDRAISING,43.84,USD
+RMP-701541,2026-02-15,J. Brown,Zoom,Advocacy,47.46,USD
+RMP-701542,2025-06-04,R. Hall,Panera,VOLUNTEER TRAINING,13.48,USD
+RMP-701543,07/25/2025,M. Ortiz,VistaPrint,FUNDRAISING,23.13,USD
+RMP-701544,2025-04-25,A. Noor,Canva,Prog - Volunteer Training,23.17,USD
+RMP-701545,14-Jan-2026,R. Hall,VistaPrint,FUNDRAISING,86.3,GBP
+RMP-701546,12/16/2025,A. Noor,Google Ads,Prog - Fundraising,18.24,USD
+RMP-701547,2025-04-08,M. Ortiz,Zoom,Advocacy,46.94,USD
+RMP-701548,2025-01-19,R. Hall,Microsoft,Admin,23.63,GBP
+RMP-701549,2025-11-09,J. Brown,Microsoft,Admin,37.62,USD
+RMP-701550,2026-06-12,A. Noor,Zoom,ADVOCACY,104.69,USD
+RMP-701551,21-Mar-2026,R. Hall,Microsoft,Admin,14.66,USD
+RMP-701552,19-Aug-2025,M. Ortiz,Google Ads,Fundraising,4.28,USD
+RMP-701553,2025-12-25,R. Hall,Adobe,Admin,13.4,USD
+RMP-701554,01/18/2026,R. Hall,VistaPrint,FUNDRAISING,65.08,USD
+RMP-701555,2026-05-27,J. Brown,Hilton,Fundraising,15.21,USD
+RMP-701556,2025-02-13,S. Patel,Uber,Advocacy,23.54,USD
+RMP-701557,2025-12-31,K. Lee,Udemy,Prog - Volunteer Training,67.26,USD
+RMP-701558,2025-04-21,S. Patel,Shell,Prog - Advocacy,92.16,USD
+RMP-701559,2025-08-11,S. Patel,Zoom,ADVOCACY,113.23,USD
+RMP-701560,01/21/2026,K. Lee,Adobe,Admin,73.6,USD
+RMP-701561,2025-09-22,R. Hall,Office Depot,ADVOCACY,16.23,GBP
+RMP-701562,2025-09-28,S. Patel,Meta Ads,Fundraising,189.74,USD
+RMP-701563,2025-07-31,S. Patel,Zoom,Advocacy,19.13,USD
+RMP-701564,2026-05-11,M. Ortiz,Office Depot,ADVOCACY,25.21,USD
+RMP-701565,2025-11-10,M. Ortiz,Panera,Volunteer Training,44.48,USD
+RMP-701566,01/22/2026,J. Brown,Uber,Advocacy,57.45,USD
+RMP-701567,2025-09-04,A. Noor,Dropbox,Admin,163.16,USD
+RMP-701568,2025-12-16,R. Hall,Uber,ADVOCACY,25.29,USD
+RMP-701569,13-Mar-2025,J. Brown,Shell,Advocacy,62.95,USD
+RMP-701570,23-Oct-2025,M. Ortiz,Shell,Advocacy,25.42,USD
+RMP-701571,08/01/2025,M. Ortiz,Office Depot,Advocacy,189.95,USD
+RMP-701572,2025-10-22,K. Lee,Uber,Prog - Advocacy,65.66,USD
+RMP-701573,2025-06-20,K. Lee,Panera,Prog - Volunteer Training,142.64,USD
+RMP-701574,2025-09-03,M. Ortiz,Canva,Volunteer Training,15.84,USD
+RMP-701575,2025-05-21,S. Patel,Shell,Prog - Advocacy,26.98,USD
+RMP-701576,08/28/2025,J. Brown,Office Depot,ADVOCACY,55.91,USD
+RMP-701577,11/07/2025,M. Ortiz,VistaPrint,Fundraising,144.69,USD
+RMP-701578,02/20/2026,R. Hall,Panera,VOLUNTEER TRAINING,109.19,USD
+RMP-701579,2026-02-02,M. Ortiz,Udemy,Volunteer Training,172.5,USD
+RMP-701580,2025-01-22,K. Lee,VistaPrint,Prog - Fundraising,149.49,USD
+RMP-701581,19-Mar-2025,J. Brown,Google Ads,Fundraising,90.09,USD
+RMP-701582,04/20/2026,J. Brown,Google Ads,FUNDRAISING,51.32,USD
+RMP-701583,2025-12-19,A. Noor,Hilton,Fundraising,16.39,USD
+RMP-701584,2026-01-06,M. Ortiz,Uber,Advocacy,6.49,USD
+RMP-701585,2025-01-21,A. Noor,Zoom,Prog - Advocacy,49.99,USD
+RMP-701586,22-May-2026,K. Lee,Canva,VOLUNTEER TRAINING,92.05,USD
+RMP-701587,2025-06-09,A. Noor,Dropbox,ADMIN,3.85,USD
+RMP-701588,2025-12-27,S. Patel,Office Depot,Advocacy,15.54,USD
+RMP-701589,24-Oct-2025,M. Ortiz,VistaPrint,Prog - Fundraising,17.91,USD
+RMP-701590,2025-12-18,M. Ortiz,VistaPrint,Prog - Fundraising,37.76,USD
+RMP-701591,2025-06-29,J. Brown,Canva,Prog - Volunteer Training,49.05,USD
+RMP-701592,04/17/2026,A. Noor,Office Depot,Prog - Advocacy,118.31,USD
+RMP-701593,01/30/2026,J. Brown,Zoom,Prog - Advocacy,13.68,USD
+RMP-701594,2025-08-01,R. Hall,Uber,ADVOCACY,60.93,USD
+RMP-701595,2026-06-14,A. Noor,Shell,ADVOCACY,12.83,USD
+RMP-701596,01/30/2026,A. Noor,Zoom,Prog - Advocacy,94.84,USD
+RMP-701597,01/27/2025,K. Lee,Google Ads,FUNDRAISING,28.98,USD
+RMP-701598,2026-03-25,A. Noor,Microsoft,ADMIN,15.02,USD
+RMP-701599,2026-03-14,J. Brown,Hilton,Fundraising,24.41,USD
+RMP-701600,2025-10-12,R. Hall,VistaPrint,Fundraising,16.38,USD
+RMP-701601,2025-07-08,A. Noor,Panera,VOLUNTEER TRAINING,48.57,USD
+RMP-701602,2025-07-18,A. Noor,Zoom,Advocacy,78.39,USD
+RMP-701603,04/12/2025,M. Ortiz,Uber,ADVOCACY,113.08,USD
+RMP-701604,2026-04-24,M. Ortiz,Shell,ADVOCACY,28.02,USD
+RMP-701605,2025-08-12,R. Hall,Google Ads,Fundraising,155.89,USD
+RMP-701606,06/01/2026,M. Ortiz,Adobe,Prog - Admin,43.73,USD
+RMP-701607,11-Jun-2026,S. Patel,Canva,Volunteer Training,139.58,GBP
+RMP-701608,17-Mar-2026,M. Ortiz,Eventbrite,Prog - Volunteer Training,38.8,USD
+RMP-701609,2026-06-01,S. Patel,Panera,Volunteer Training,36.31,USD
+RMP-701610,08/18/2025,R. Hall,Panera,Prog - Volunteer Training,75.23,USD
+RMP-701611,2025-04-24,S. Patel,Google Ads,Prog - Fundraising,58.98,USD
+RMP-701612,2026-05-31,R. Hall,Hilton,FUNDRAISING,27.15,USD
+RMP-701613,2025-07-03,J. Brown,Google Ads,Prog - Fundraising,126.44,USD
+RMP-701614,03-Feb-2025,M. Ortiz,Hilton,Fundraising,18.9,USD
+RMP-701615,2025-10-23,A. Noor,Udemy,Volunteer Training,75.23,GBP
+RMP-701616,03/29/2026,K. Lee,Microsoft,Admin,72.31,USD
+RMP-701617,05/20/2026,A. Noor,Hilton,Fundraising,116.53,USD
+RMP-701618,2026-02-10,M. Ortiz,Udemy,Volunteer Training,118.6,USD
+RMP-701619,05/07/2025,A. Noor,Canva,Prog - Volunteer Training,37.95,USD
+RMP-701620,2025-05-22,M. Ortiz,Meta Ads,Fundraising,46.04,USD
+RMP-701621,2025-05-08,M. Ortiz,Canva,Volunteer Training,43.35,USD
+RMP-701622,12/16/2025,A. Noor,Eventbrite,VOLUNTEER TRAINING,215.08,USD
+RMP-701623,2026-06-08,S. Patel,Office Depot,Advocacy,80.31,GBP
+RMP-701624,04/08/2026,J. Brown,Hilton,Fundraising,114.37,USD
+RMP-701625,01-Sep-2025,J. Brown,Canva,Prog - Volunteer Training,35.66,USD
+RMP-701626,05-Jul-2025,J. Brown,VistaPrint,Prog - Fundraising,16.22,USD
+RMP-701627,2025-08-21,J. Brown,Microsoft,Admin,19.26,USD
+RMP-701628,29-May-2026,K. Lee,Microsoft,Admin,111.19,USD
+RMP-701629,01-Jan-2025,R. Hall,Google Ads,Prog - Fundraising,23.14,USD
+RMP-701630,2025-08-27,M. Ortiz,Zoom,ADVOCACY,792.85,USD
+RMP-701631,2025-02-24,K. Lee,Panera,VOLUNTEER TRAINING,31.03,USD
+RMP-701632,05/10/2026,J. Brown,Uber,Advocacy,61.32,USD
+RMP-701633,22-Feb-2026,J. Brown,Uber,Advocacy,61.22,USD
+RMP-701634,03/24/2026,A. Noor,Microsoft,Prog - Admin,52.54,USD
+RMP-701635,2025-12-04,J. Brown,Staples,Admin,14.91,USD
+RMP-701636,04-Oct-2025,M. Ortiz,Eventbrite,Volunteer Training,55.87,USD
+RMP-701637,01/10/2025,J. Brown,Shell,Prog - Advocacy,55.43,USD
+RMP-701638,2025-12-07,J. Brown,Shell,Advocacy,34.14,USD
+RMP-701639,04/14/2025,K. Lee,Panera,Prog - Volunteer Training,236.59,USD
+RMP-701640,2025-12-11,M. Ortiz,Uber,Prog - Advocacy,10.02,USD
+RMP-701641,2026-01-05,S. Patel,Hilton,FUNDRAISING,11.47,USD
+RMP-701642,17-Jul-2025,A. Noor,VistaPrint,Fundraising,88.09,USD
+RMP-701643,14-Jan-2025,S. Patel,Staples,Prog - Admin,41.33,USD
+RMP-701644,12/04/2025,R. Hall,Office Depot,Prog - Advocacy,20.25,USD
+RMP-701645,06/26/2026,K. Lee,Panera,Prog - Volunteer Training,53.28,USD
+RMP-701646,02-Apr-2026,J. Brown,Adobe,Admin,106.0,GBP
+RMP-701647,2026-06-10,A. Noor,Udemy,Volunteer Training,10.3,USD
+RMP-701648,03/12/2026,R. Hall,Zoom,Prog - Advocacy,85.68,USD
+RMP-701649,2026-01-01,R. Hall,Zoom,ADVOCACY,60.2,USD
+RMP-701650,05-Feb-2026,M. Ortiz,Hilton,Prog - Fundraising,36.36,USD
+RMP-701651,2026-04-27,A. Noor,VistaPrint,FUNDRAISING,55.76,USD
+RMP-701652,2025-04-20,R. Hall,Adobe,Admin,56.61,USD
+RMP-701653,10-Feb-2026,K. Lee,Shell,ADVOCACY,73.32,GBP
+RMP-701654,2025-11-05,J. Brown,Google Ads,FUNDRAISING,18.42,USD
+RMP-701655,2025-06-09,K. Lee,VistaPrint,FUNDRAISING,118.95,USD
+RMP-701656,2025-02-24,R. Hall,Office Depot,ADVOCACY,109.19,USD
+RMP-701657,2025-09-13,M. Ortiz,Adobe,ADMIN,112.12,USD
+RMP-701658,06/18/2026,S. Patel,Google Ads,Fundraising,9.46,USD
+RMP-701659,2026-02-26,J. Brown,Dropbox,Prog - Admin,125.2,GBP
+RMP-701660,09/21/2025,J. Brown,Adobe,ADMIN,32.08,USD
+RMP-701661,08/21/2025,K. Lee,Shell,Prog - Advocacy,72.07,USD
+RMP-701662,2025-08-21,K. Lee,Udemy,Volunteer Training,7.51,USD
+RMP-701663,2026-06-01,K. Lee,Panera,VOLUNTEER TRAINING,24.17,USD
+RMP-701664,2025-02-14,R. Hall,Hilton,Fundraising,95.23,USD
+RMP-701665,2026-03-12,J. Brown,Google Ads,Fundraising,71.76,USD
+RMP-701666,12/01/2025,K. Lee,Meta Ads,Prog - Fundraising,16.91,USD
+RMP-701667,2026-02-08,A. Noor,Office Depot,ADVOCACY,82.45,USD
+RMP-701668,13-Jun-2025,R. Hall,Meta Ads,Fundraising,21.44,USD
+RMP-701669,2025-09-13,R. Hall,Uber,Prog - Advocacy,35.18,USD
+RMP-701670,2025-03-07,A. Noor,Uber,Advocacy,15.59,GBP
+RMP-701671,29-Mar-2025,A. Noor,Google Ads,Prog - Fundraising,60.89,USD
+RMP-701672,2025-08-28,R. Hall,Zoom,Prog - Advocacy,118.94,USD
+RMP-701673,11/07/2025,J. Brown,Uber,Prog - Advocacy,99.13,USD
+RMP-701674,09/15/2025,K. Lee,Zoom,Advocacy,19.75,USD
+RMP-701675,05/29/2026,M. Ortiz,Udemy,Volunteer Training,42.88,USD
+RMP-701676,03/10/2026,K. Lee,Shell,Prog - Advocacy,10.86,USD
+RMP-701677,2025-05-09,J. Brown,Meta Ads,FUNDRAISING,152.61,USD
+RMP-701678,2025-11-22,A. Noor,VistaPrint,FUNDRAISING,45.48,USD
+RMP-701679,17-Jan-2025,J. Brown,Shell,Advocacy,80.24,USD
+RMP-701680,12/08/2025,K. Lee,Canva,VOLUNTEER TRAINING,53.48,USD
+RMP-701681,06-Sep-2025,J. Brown,Zoom,Advocacy,25.44,USD
+RMP-701682,26-Jun-2025,M. Ortiz,Hilton,Fundraising,27.15,USD
+RMP-701683,2025-12-23,J. Brown,Canva,VOLUNTEER TRAINING,67.37,USD
+RMP-701684,05/10/2026,S. Patel,Shell,Advocacy,195.04,USD
+RMP-701685,2025-02-04,J. Brown,Zoom,Advocacy,32.83,USD
+RMP-701686,2026-02-11,K. Lee,Uber,Advocacy,128.6,USD
+RMP-701687,2025-01-10,S. Patel,VistaPrint,Fundraising,102.56,USD
+RMP-701688,2026-06-15,A. Noor,Office Depot,Prog - Advocacy,33.53,USD
+RMP-701689,06/19/2026,K. Lee,Zoom,Advocacy,120.32,USD
+RMP-701690,2025-04-05,R. Hall,Shell,Prog - Advocacy,111.87,USD
+RMP-701691,03/26/2026,M. Ortiz,Microsoft,Prog - Admin,6.48,USD
+RMP-701692,2025-08-08,J. Brown,Meta Ads,FUNDRAISING,84.05,USD
+RMP-701693,2025-04-06,J. Brown,Office Depot,Advocacy,141.52,USD
+RMP-701694,2026-01-16,K. Lee,Shell,Advocacy,15.63,USD
+RMP-701695,07/26/2025,J. Brown,Microsoft,Prog - Admin,13.7,USD
+RMP-701696,2025-09-03,J. Brown,Shell,Advocacy,53.9,USD
+RMP-701697,2026-05-25,A. Noor,Microsoft,ADMIN,185.08,USD
+RMP-701698,24-Mar-2025,J. Brown,Zoom,Advocacy,16.79,USD
+RMP-701699,13-Nov-2025,J. Brown,Shell,ADVOCACY,10.8,USD
+RMP-701700,04/15/2025,A. Noor,Meta Ads,Prog - Fundraising,29.72,USD
+RMP-701701,01/05/2026,R. Hall,VistaPrint,FUNDRAISING,26.22,USD
+RMP-701702,2025-06-29,J. Brown,Microsoft,Admin,9.93,USD
+RMP-701703,2025-03-24,R. Hall,Hilton,Fundraising,26.42,USD
+RMP-701704,16-Jun-2026,A. Noor,Panera,Volunteer Training,61.19,USD
+RMP-701705,2026-05-16,M. Ortiz,Google Ads,Prog - Fundraising,237.61,USD
+RMP-701706,2025-12-14,J. Brown,Hilton,Prog - Fundraising,74.1,USD
+RMP-701707,2025-09-29,K. Lee,Udemy,Volunteer Training,92.35,USD
+RMP-701708,2025-11-27,S. Patel,Shell,Prog - Advocacy,16.79,USD
+RMP-701709,2026-01-24,M. Ortiz,Uber,ADVOCACY,41.06,USD
+RMP-701710,2025-05-17,J. Brown,Shell,Advocacy,36.66,USD
+RMP-701711,2025-12-27,K. Lee,Hilton,Prog - Fundraising,59.94,USD
+RMP-701712,2025-10-09,S. Patel,Panera,VOLUNTEER TRAINING,76.48,USD
+RMP-701713,2025-07-21,A. Noor,Office Depot,Advocacy,105.38,USD
+RMP-701714,2026-06-15,J. Brown,Meta Ads,Fundraising,46.0,USD
+RMP-701715,16-Jan-2025,R. Hall,Office Depot,Prog - Advocacy,27.92,USD
+RMP-701716,04/24/2025,R. Hall,VistaPrint,Fundraising,134.51,USD
+RMP-701717,2025-03-09,A. Noor,Microsoft,Prog - Admin,85.85,USD
+RMP-701718,2025-01-30,M. Ortiz,Panera,Volunteer Training,77.97,USD
+RMP-701719,03-Jun-2026,R. Hall,Zoom,Advocacy,43.14,USD
+RMP-701720,2025-01-22,S. Patel,Canva,Prog - Volunteer Training,133.57,USD
+RMP-701721,03/07/2026,R. Hall,Meta Ads,Prog - Fundraising,14.42,USD
+RMP-701722,01/30/2025,S. Patel,Panera,Volunteer Training,99.85,USD
+RMP-701723,2026-02-14,R. Hall,Zoom,ADVOCACY,99.4,GBP
+RMP-701724,02/18/2025,A. Noor,Uber,Advocacy,19.87,USD
+RMP-701725,2025-11-21,A. Noor,Meta Ads,Fundraising,24.23,USD
+RMP-701726,05/03/2026,R. Hall,Eventbrite,Volunteer Training,14.06,USD
+RMP-701727,2025-10-25,M. Ortiz,Hilton,Fundraising,70.76,USD
+RMP-701728,2025-06-30,K. Lee,Google Ads,Prog - Fundraising,4.38,USD
+RMP-701729,05/02/2025,R. Hall,Google Ads,Fundraising,54.65,USD
+RMP-701730,2025-05-04,J. Brown,Microsoft,Prog - Admin,22.48,GBP
+RMP-701731,29-Mar-2026,K. Lee,Zoom,Advocacy,18.43,USD
+RMP-701732,2025-09-23,R. Hall,Uber,Prog - Advocacy,8.25,USD
+RMP-701733,01/28/2025,S. Patel,Google Ads,Prog - Fundraising,20.13,USD
+RMP-701734,2025-09-16,J. Brown,Uber,Advocacy,161.88,USD
+RMP-701735,03/18/2025,M. Ortiz,VistaPrint,FUNDRAISING,23.4,USD
+RMP-701736,03/08/2026,K. Lee,Staples,Admin,65.22,USD
+RMP-701737,2025-02-04,K. Lee,Adobe,ADMIN,16.75,USD
+RMP-701738,2026-03-12,J. Brown,Google Ads,Fundraising,112.54,USD
+RMP-701739,04/24/2025,M. Ortiz,Staples,ADMIN,77.06,USD
+RMP-701740,2025-03-03,R. Hall,Zoom,Advocacy,36.42,USD
+RMP-701741,2025-02-21,M. Ortiz,Eventbrite,Volunteer Training,55.07,GBP
+RMP-701742,26-Apr-2025,R. Hall,Panera,Volunteer Training,59.49,USD
+RMP-701743,2025-02-16,K. Lee,Shell,Prog - Advocacy,18.16,USD
+RMP-701744,03/14/2026,R. Hall,Shell,ADVOCACY,21.5,USD
+RMP-701745,2026-02-16,K. Lee,Microsoft,Prog - Admin,102.12,USD
+RMP-701746,2025-04-11,A. Noor,VistaPrint,Fundraising,179.83,USD
+RMP-701747,10/06/2025,J. Brown,Hilton,Prog - Fundraising,51.02,USD
+RMP-701748,2025-04-17,M. Ortiz,Office Depot,Advocacy,83.38,USD
+RMP-701749,2025-02-04,S. Patel,Eventbrite,Volunteer Training,132.17,USD
+RMP-701750,2025-12-25,J. Brown,Dropbox,Admin,33.37,USD
+RMP-701751,2025-01-02,R. Hall,VistaPrint,Fundraising,41.73,USD
+RMP-701752,2026-05-07,A. Noor,Hilton,Fundraising,85.02,USD
+RMP-701753,09/29/2025,J. Brown,Microsoft,Prog - Admin,318.98,USD
+RMP-701754,2025-05-24,K. Lee,Google Ads,Fundraising,87.73,USD
+RMP-701755,11-Mar-2026,J. Brown,Google Ads,Fundraising,58.75,USD
+RMP-701756,2026-03-27,R. Hall,Shell,Prog - Advocacy,26.36,USD
+RMP-701757,2025-08-16,J. Brown,Eventbrite,Prog - Volunteer Training,42.43,USD
+RMP-701758,2026-06-29,J. Brown,Meta Ads,FUNDRAISING,82.99,USD
+RMP-701759,2025-08-02,R. Hall,Zoom,ADVOCACY,75.39,USD
+RMP-701760,2025-09-05,S. Patel,Meta Ads,FUNDRAISING,26.06,USD
+RMP-701761,02/12/2026,A. Noor,Office Depot,ADVOCACY,145.33,USD
+RMP-701762,22-Feb-2025,J. Brown,Uber,Advocacy,145.48,USD
+RMP-701763,2025-11-10,J. Brown,Udemy,VOLUNTEER TRAINING,40.45,USD
+RMP-701764,2026-01-09,S. Patel,Office Depot,Advocacy,57.52,USD
+RMP-701765,06-Feb-2025,M. Ortiz,Microsoft,ADMIN,25.11,USD
+RMP-701766,2026-06-08,J. Brown,Shell,Advocacy,21.59,USD
+RMP-701767,03/25/2025,R. Hall,VistaPrint,Fundraising,61.09,USD
+RMP-701768,04-Apr-2025,R. Hall,Uber,Prog - Advocacy,22.14,USD
+RMP-701769,02/19/2026,J. Brown,Shell,Prog - Advocacy,80.13,USD
+RMP-701770,08-Dec-2025,M. Ortiz,Eventbrite,VOLUNTEER TRAINING,31.27,USD
+RMP-701771,2026-02-25,R. Hall,Microsoft,Admin,115.02,USD
+RMP-701772,2025-12-14,J. Brown,Udemy,Volunteer Training,41.39,USD
+RMP-701773,05/08/2025,J. Brown,Hilton,Fundraising,7.92,USD
+RMP-701774,2025-06-01,J. Brown,Zoom,ADVOCACY,31.98,USD
+RMP-701775,2026-06-06,A. Noor,Office Depot,Advocacy,49.21,USD
+RMP-701776,2025-02-07,R. Hall,Hilton,Fundraising,9.39,USD
+RMP-701777,2026-03-03,K. Lee,Canva,Volunteer Training,10.21,USD
+RMP-701778,04/15/2025,A. Noor,Canva,Volunteer Training,37.76,USD
+RMP-701779,2025-06-14,M. Ortiz,Office Depot,Advocacy,110.4,USD
+RMP-701780,2026-06-28,A. Noor,Uber,Advocacy,78.91,USD
+RMP-701781,2025-07-31,A. Noor,Canva,Volunteer Training,44.12,USD
+RMP-701782,2026-06-10,S. Patel,Microsoft,Prog - Admin,20.75,USD
+RMP-701783,05/12/2025,M. Ortiz,Office Depot,Advocacy,19.86,USD
+RMP-701784,06/01/2025,M. Ortiz,Staples,Admin,80.17,USD
+RMP-701785,04/06/2025,M. Ortiz,Uber,ADVOCACY,53.43,USD
+RMP-701786,05/18/2026,A. Noor,Canva,Volunteer Training,96.44,USD
+RMP-701787,06/06/2026,M. Ortiz,Zoom,Advocacy,132.11,USD
+RMP-701788,01/09/2026,R. Hall,Panera,Volunteer Training,29.71,USD
+RMP-701789,2025-01-16,S. Patel,Shell,Advocacy,66.43,USD
+RMP-701790,2025-01-18,J. Brown,Zoom,ADVOCACY,74.81,USD
+RMP-701791,13-Feb-2026,A. Noor,Dropbox,ADMIN,23.86,USD
+RMP-701792,2025-01-07,J. Brown,VistaPrint,Prog - Fundraising,25.02,USD
+RMP-701793,2025-09-02,J. Brown,Hilton,Fundraising,85.67,USD
+RMP-701794,05/09/2025,A. Noor,Shell,Advocacy,44.77,USD
+RMP-701795,31-Mar-2026,R. Hall,Dropbox,Prog - Admin,20.38,USD
+RMP-701796,13-Mar-2025,A. Noor,Panera,VOLUNTEER TRAINING,21.39,GBP
+RMP-701797,2025-06-09,M. Ortiz,Dropbox,ADMIN,14.08,GBP
+RMP-701798,2025-03-28,S. Patel,Office Depot,Advocacy,32.38,USD
+RMP-701799,2026-02-05,A. Noor,Uber,Advocacy,17.71,USD
+RMP-701800,04/07/2026,J. Brown,Microsoft,Admin,49.01,USD
+RMP-701801,2026-06-13,A. Noor,Canva,Volunteer Training,348.31,USD
+RMP-701802,2025-03-30,S. Patel,Adobe,Admin,67.65,USD
+RMP-701803,06-Jan-2025,K. Lee,Uber,ADVOCACY,116.79,USD
+RMP-701804,2025-03-25,R. Hall,Canva,VOLUNTEER TRAINING,64.11,USD
+RMP-701805,2025-09-07,J. Brown,Adobe,Admin,10.13,GBP
+RMP-701806,2026-02-20,K. Lee,VistaPrint,Prog - Fundraising,50.09,USD
+RMP-701807,13-Mar-2025,K. Lee,VistaPrint,Prog - Fundraising,24.18,USD
+RMP-701808,22-Apr-2025,S. Patel,Uber,Advocacy,21.28,USD
+RMP-701809,2025-06-21,R. Hall,Office Depot,Advocacy,36.46,USD
+RMP-701810,2025-09-30,A. Noor,Zoom,ADVOCACY,78.88,USD
+RMP-701811,2026-06-14,K. Lee,Panera,Volunteer Training,33.96,USD
+RMP-701812,2025-11-15,M. Ortiz,Meta Ads,Prog - Fundraising,96.82,USD
+RMP-701813,03/23/2025,A. Noor,Udemy,VOLUNTEER TRAINING,52.71,USD
+RMP-701814,2025-03-16,R. Hall,Hilton,Prog - Fundraising,59.48,USD
+RMP-701815,2026-03-05,J. Brown,VistaPrint,Prog - Fundraising,42.39,USD
+RMP-701816,05-Apr-2026,A. Noor,Shell,Prog - Advocacy,142.21,USD
+RMP-701817,2025-12-12,S. Patel,Staples,ADMIN,23.79,USD
+RMP-701818,2025-09-06,S. Patel,Adobe,ADMIN,25.03,USD
+RMP-701819,01/22/2026,J. Brown,Office Depot,ADVOCACY,33.57,USD
+RMP-701820,29-Dec-2025,J. Brown,Uber,Advocacy,70.25,USD
+RMP-701821,10/23/2025,J. Brown,Zoom,Advocacy,79.32,USD
+RMP-701822,09-Mar-2025,S. Patel,Hilton,Fundraising,27.0,USD
+RMP-701823,14-Mar-2026,R. Hall,Zoom,Advocacy,100.2,USD
+RMP-701824,2026-06-16,R. Hall,VistaPrint,Fundraising,18.5,USD
+RMP-701825,05/13/2025,A. Noor,Eventbrite,Volunteer Training,84.91,USD
+RMP-701826,2025-10-22,K. Lee,Hilton,Prog - Fundraising,61.68,USD
+RMP-701827,2025-10-23,K. Lee,Hilton,FUNDRAISING,45.41,USD
+RMP-701828,2025-02-02,M. Ortiz,Staples,Admin,68.43,USD
+RMP-701829,09-Jan-2026,S. Patel,Office Depot,Prog - Advocacy,40.16,USD
+RMP-701830,2025-02-01,J. Brown,Zoom,Prog - Advocacy,56.24,USD
+RMP-701831,2025-11-01,R. Hall,Office Depot,Advocacy,389.73,USD
+RMP-701832,2025-04-18,A. Noor,Eventbrite,VOLUNTEER TRAINING,99.97,USD
+RMP-701833,2025-04-06,R. Hall,Eventbrite,Volunteer Training,27.44,USD
+RMP-701834,07-Mar-2025,S. Patel,Microsoft,Admin,33.96,USD
+RMP-701835,05-Jun-2026,M. Ortiz,Hilton,Fundraising,132.61,USD
+RMP-701836,2025-08-18,R. Hall,Zoom,Advocacy,31.33,USD
+RMP-701837,2025-12-24,K. Lee,Hilton,Fundraising,206.58,USD
+RMP-701838,02/06/2026,A. Noor,Shell,ADVOCACY,89.02,USD
+RMP-701839,2025-04-09,K. Lee,Zoom,ADVOCACY,13.19,GBP
+RMP-701840,28-Sep-2025,A. Noor,VistaPrint,Prog - Fundraising,97.66,USD
+RMP-701841,2025-12-28,J. Brown,Microsoft,Prog - Admin,6.42,USD
+RMP-701842,13-Jun-2025,A. Noor,Zoom,Prog - Advocacy,32.67,USD
+RMP-701843,2026-06-12,J. Brown,Google Ads,Fundraising,96.51,USD
+RMP-701844,2025-06-18,S. Patel,Dropbox,Admin,8.33,USD
+RMP-701845,21-Jan-2025,K. Lee,Office Depot,Advocacy,277.7,USD
+RMP-701846,2026-06-24,A. Noor,Shell,ADVOCACY,106.87,USD
+RMP-701847,02/01/2026,A. Noor,Hilton,Fundraising,18.52,USD
+RMP-701848,2025-02-05,M. Ortiz,Hilton,FUNDRAISING,175.57,USD
+RMP-701849,2026-05-10,K. Lee,Eventbrite,VOLUNTEER TRAINING,8.02,USD
+RMP-701850,11/10/2025,S. Patel,Uber,ADVOCACY,18.05,USD
+RMP-701851,2026-05-05,J. Brown,Google Ads,Fundraising,12.51,USD
+RMP-701852,03-Oct-2025,S. Patel,VistaPrint,Prog - Fundraising,7.56,USD
+RMP-701853,2025-08-21,M. Ortiz,Panera,Prog - Volunteer Training,33.12,USD
+RMP-701854,12-Mar-2026,S. Patel,Uber,ADVOCACY,53.09,GBP
+RMP-701855,2025-01-06,J. Brown,Hilton,Prog - Fundraising,51.68,USD
+RMP-701856,2026-06-19,K. Lee,VistaPrint,Prog - Fundraising,50.27,USD
+RMP-701857,2025-09-01,R. Hall,Staples,Admin,46.87,USD
+RMP-701858,2025-08-29,M. Ortiz,Adobe,Prog - Admin,15.44,USD
+RMP-701859,2025-09-30,A. Noor,VistaPrint,Fundraising,28.44,USD
+RMP-701860,03/16/2025,A. Noor,Adobe,ADMIN,3.76,USD
+RMP-701861,2025-10-10,K. Lee,Dropbox,Prog - Admin,118.11,USD
+RMP-701862,2026-06-19,R. Hall,Meta Ads,Fundraising,48.67,USD
+RMP-701863,28-Mar-2025,S. Patel,VistaPrint,FUNDRAISING,47.54,USD
+RMP-701864,29-May-2025,A. Noor,Hilton,Prog - Fundraising,90.15,USD
+RMP-701865,05/30/2025,M. Ortiz,Meta Ads,Fundraising,96.15,USD
+RMP-701866,2025-06-09,R. Hall,Office Depot,Advocacy,32.3,USD
+RMP-701867,2026-03-22,J. Brown,Eventbrite,Volunteer Training,40.24,USD
+RMP-701868,03/23/2025,S. Patel,Zoom,Advocacy,183.01,USD
+RMP-701869,2025-01-07,R. Hall,Shell,Advocacy,26.4,USD
+RMP-701870,07/01/2025,J. Brown,Zoom,Prog - Advocacy,181.54,USD
+RMP-701871,2026-06-10,R. Hall,Staples,Admin,32.61,USD
+RMP-701872,2026-04-23,R. Hall,Eventbrite,Volunteer Training,8.03,USD
+RMP-701873,07/02/2025,S. Patel,Zoom,Prog - Advocacy,48.45,USD
+RMP-701874,2025-11-10,M. Ortiz,VistaPrint,FUNDRAISING,32.39,USD
+RMP-701875,23-Jun-2025,J. Brown,Zoom,Advocacy,13.28,GBP
+RMP-701876,2025-01-14,M. Ortiz,Google Ads,FUNDRAISING,41.56,USD
+RMP-701877,27-Oct-2025,J. Brown,Zoom,Advocacy,28.88,USD
+RMP-701878,2025-03-14,S. Patel,Shell,Advocacy,241.4,USD
+RMP-701879,2026-05-29,M. Ortiz,Microsoft,Prog - Admin,106.87,USD
+RMP-701880,12/09/2025,S. Patel,Google Ads,Prog - Fundraising,18.82,USD
+RMP-701881,2026-01-31,R. Hall,Adobe,ADMIN,22.96,USD
+RMP-701882,29-Nov-2025,R. Hall,Udemy,Volunteer Training,110.0,USD
+RMP-701883,2025-12-21,S. Patel,Shell,Prog - Advocacy,133.12,USD
+RMP-701884,06/12/2025,J. Brown,Canva,VOLUNTEER TRAINING,33.12,USD
+RMP-701885,2025-04-26,R. Hall,Zoom,Prog - Advocacy,29.0,USD
+RMP-701886,07-Feb-2026,J. Brown,Uber,Advocacy,39.87,USD
+RMP-701887,2025-03-20,M. Ortiz,Shell,Prog - Advocacy,58.03,USD
+RMP-701888,23-Mar-2026,A. Noor,VistaPrint,Prog - Fundraising,85.89,USD
+RMP-701889,01/08/2025,R. Hall,Hilton,FUNDRAISING,89.99,USD
+RMP-701890,23-Jan-2025,R. Hall,Zoom,Advocacy,17.29,USD
+RMP-701891,06/27/2026,K. Lee,Shell,Prog - Advocacy,32.34,USD
+RMP-701892,2026-02-18,J. Brown,Microsoft,Admin,6.83,USD
+RMP-701893,2026-02-13,S. Patel,Shell,ADVOCACY,43.76,USD
+RMP-701894,2025-01-22,K. Lee,Panera,Volunteer Training,12.82,USD
+RMP-701895,2026-02-07,M. Ortiz,Eventbrite,Prog - Volunteer Training,23.14,USD
+RMP-701896,06-Jun-2025,K. Lee,Meta Ads,Prog - Fundraising,120.74,USD
+RMP-701897,11/26/2025,K. Lee,Office Depot,Prog - Advocacy,63.5,USD
+RMP-701898,2025-01-22,A. Noor,Dropbox,ADMIN,61.2,USD
+RMP-701899,04/17/2026,A. Noor,Canva,VOLUNTEER TRAINING,44.79,USD
+RMP-701900,2025-09-21,K. Lee,Uber,Advocacy,158.13,USD
+RMP-701901,10/30/2025,A. Noor,Office Depot,Prog - Advocacy,25.41,USD
+RMP-701902,2026-04-10,A. Noor,Shell,Advocacy,51.79,USD
+RMP-701903,06/13/2025,K. Lee,Shell,Advocacy,49.36,USD
+RMP-701904,16-May-2025,J. Brown,Staples,ADMIN,32.67,USD
+RMP-701905,09/09/2025,A. Noor,Shell,ADVOCACY,306.27,USD
+RMP-701906,2025-07-24,K. Lee,Staples,Prog - Admin,14.9,USD
+RMP-701907,29-Oct-2025,J. Brown,Udemy,VOLUNTEER TRAINING,8.47,USD
+RMP-701908,2025-08-30,R. Hall,Zoom,Prog - Advocacy,49.26,USD
+RMP-701909,03/02/2025,A. Noor,Uber,ADVOCACY,25.98,USD
+RMP-701910,04/10/2026,K. Lee,Eventbrite,Volunteer Training,5.53,USD
+RMP-701911,2025-10-29,A. Noor,Meta Ads,Prog - Fundraising,62.69,USD
+RMP-701912,17-Apr-2026,J. Brown,Staples,Prog - Admin,55.57,USD
+RMP-701913,01/29/2026,K. Lee,Hilton,Fundraising,122.74,USD
+RMP-701914,09/16/2025,J. Brown,Panera,Volunteer Training,27.1,USD
+RMP-701915,06/26/2026,R. Hall,Zoom,ADVOCACY,8.39,USD
+RMP-701916,06/14/2026,S. Patel,Microsoft,Admin,19.21,USD
+RMP-701917,2025-07-06,M. Ortiz,Adobe,ADMIN,7.93,USD
+RMP-701918,2025-07-31,S. Patel,Eventbrite,Volunteer Training,171.93,USD
+RMP-701919,2025-02-04,A. Noor,Shell,Prog - Advocacy,110.52,USD
+RMP-701920,2025-05-27,J. Brown,VistaPrint,Prog - Fundraising,141.88,USD
+RMP-701921,2025-10-09,K. Lee,Meta Ads,Fundraising,81.44,USD
+RMP-701922,2025-09-06,J. Brown,Panera,VOLUNTEER TRAINING,12.67,USD
+RMP-701923,2025-02-26,A. Noor,Udemy,Volunteer Training,31.07,USD
+RMP-701924,11/01/2025,K. Lee,Staples,ADMIN,91.22,USD
+RMP-701925,2026-06-06,S. Patel,Shell,Advocacy,9.68,USD
+RMP-701926,27-Dec-2025,J. Brown,Panera,VOLUNTEER TRAINING,66.47,USD
+RMP-701927,2025-08-25,M. Ortiz,Office Depot,Advocacy,90.06,USD
+RMP-701928,2025-08-22,R. Hall,Zoom,Advocacy,342.72,USD
+RMP-701929,2025-08-11,R. Hall,Staples,ADMIN,105.63,USD
+RMP-701930,2025-11-23,A. Noor,Hilton,Fundraising,68.55,USD
+RMP-701931,2025-04-08,A. Noor,Hilton,FUNDRAISING,45.86,USD
+RMP-701932,2025-08-14,J. Brown,Eventbrite,Volunteer Training,72.89,USD
+RMP-701933,2026-05-04,S. Patel,Hilton,Prog - Fundraising,77.43,USD
+RMP-701934,2026-04-23,S. Patel,Eventbrite,Prog - Volunteer Training,6.93,USD
+RMP-701935,2025-11-30,M. Ortiz,Zoom,Advocacy,54.17,USD
+RMP-701936,2026-05-27,M. Ortiz,Microsoft,Admin,4.14,USD
+RMP-701937,2026-01-17,J. Brown,Uber,Prog - Advocacy,5.88,USD
+RMP-701938,02/27/2026,K. Lee,Udemy,Volunteer Training,46.43,USD
+RMP-701939,2025-12-14,S. Patel,Canva,Volunteer Training,68.77,USD
+RMP-701940,2025-06-02,K. Lee,Zoom,Advocacy,13.55,USD
+RMP-701941,28-Mar-2026,K. Lee,Uber,Advocacy,119.63,USD
+RMP-701942,2025-10-17,J. Brown,VistaPrint,FUNDRAISING,175.49,USD
+RMP-701943,2025-04-29,M. Ortiz,Shell,ADVOCACY,92.33,USD
+RMP-701944,08/02/2025,K. Lee,Panera,VOLUNTEER TRAINING,43.64,USD
+RMP-701945,15-Mar-2026,J. Brown,Hilton,Fundraising,58.89,USD
+RMP-701946,2026-03-23,M. Ortiz,Eventbrite,Prog - Volunteer Training,49.48,USD
+RMP-701947,2025-02-11,K. Lee,Meta Ads,Fundraising,54.19,GBP
+RMP-701948,2026-01-30,K. Lee,Staples,Admin,17.78,USD
+RMP-701949,2025-09-04,M. Ortiz,Uber,Advocacy,31.97,USD
+RMP-701950,2025-10-18,R. Hall,Hilton,Fundraising,47.16,USD
+RMP-701951,2025-09-05,M. Ortiz,Office Depot,Advocacy,60.55,USD
+RMP-701952,2026-03-25,A. Noor,VistaPrint,FUNDRAISING,75.99,USD
+RMP-701953,2025-03-25,A. Noor,Panera,Volunteer Training,18.2,USD
+RMP-701954,08/09/2025,J. Brown,Zoom,Advocacy,38.26,USD
+RMP-701955,02/20/2025,J. Brown,Zoom,Prog - Advocacy,35.11,USD
+RMP-701956,2025-07-06,S. Patel,Meta Ads,FUNDRAISING,260.74,USD
+RMP-701957,2026-06-09,A. Noor,Zoom,ADVOCACY,55.97,USD
+RMP-701958,2025-08-11,M. Ortiz,Shell,Advocacy,81.97,USD
+RMP-701959,2026-04-10,A. Noor,Dropbox,ADMIN,109.6,USD
+RMP-701960,2026-02-23,R. Hall,Zoom,Advocacy,96.39,USD
+RMP-701961,2025-03-28,J. Brown,Google Ads,FUNDRAISING,7.16,USD
+RMP-701962,09/16/2025,R. Hall,Uber,Advocacy,38.08,USD
+RMP-701963,2025-06-30,J. Brown,Staples,Prog - Admin,82.29,USD
+RMP-701964,2025-11-07,R. Hall,Zoom,Advocacy,50.26,USD
+RMP-701965,2025-06-22,J. Brown,Udemy,VOLUNTEER TRAINING,9.96,USD
+RMP-701966,2025-11-18,M. Ortiz,VistaPrint,FUNDRAISING,17.48,USD
+RMP-701967,12/06/2025,R. Hall,Microsoft,Admin,20.1,USD
+RMP-701968,2026-05-11,K. Lee,VistaPrint,Fundraising,60.06,USD
+RMP-701969,2025-09-02,J. Brown,Office Depot,Advocacy,55.19,USD
+RMP-701970,05/20/2026,A. Noor,VistaPrint,Fundraising,176.17,USD
+RMP-701971,11/25/2025,K. Lee,Hilton,Fundraising,45.21,USD
+RMP-701972,2025-07-15,A. Noor,Dropbox,Prog - Admin,53.69,GBP
+RMP-701973,2025-03-03,J. Brown,Microsoft,Prog - Admin,13.42,USD
+RMP-701974,2025-01-25,M. Ortiz,Panera,Volunteer Training,38.85,USD
+RMP-701975,2026-01-13,K. Lee,VistaPrint,Fundraising,345.86,USD
+RMP-701976,10/22/2025,K. Lee,Hilton,Fundraising,60.82,USD
+RMP-701977,21-Feb-2025,J. Brown,VistaPrint,FUNDRAISING,27.01,USD
+RMP-701978,2025-02-09,R. Hall,Uber,Advocacy,64.97,USD
+RMP-701979,02-Apr-2026,J. Brown,Office Depot,ADVOCACY,114.18,USD
+RMP-701980,01/02/2025,J. Brown,Shell,Advocacy,69.97,USD
+RMP-701981,14-Apr-2026,S. Patel,Dropbox,Prog - Admin,94.48,USD
+RMP-701982,2025-04-16,M. Ortiz,Office Depot,Advocacy,105.99,USD
+RMP-701983,2025-08-04,R. Hall,Shell,Advocacy,51.48,USD
+RMP-701984,02/18/2026,M. Ortiz,Uber,Advocacy,60.11,USD
+RMP-701985,2025-07-29,J. Brown,VistaPrint,Prog - Fundraising,26.09,USD
+RMP-701986,02/27/2025,S. Patel,Microsoft,Admin,25.83,USD
+RMP-701987,02/12/2025,J. Brown,Hilton,Prog - Fundraising,41.58,USD
+RMP-701988,05/18/2025,J. Brown,Shell,Prog - Advocacy,13.57,USD
+RMP-701989,04-May-2026,M. Ortiz,Dropbox,ADMIN,62.3,USD
+RMP-701990,2026-04-14,S. Patel,Shell,Prog - Advocacy,21.83,USD
+RMP-701991,24-Jan-2026,M. Ortiz,Staples,ADMIN,52.51,USD
+RMP-701992,2025-07-17,J. Brown,Shell,Advocacy,71.2,GBP
+RMP-701993,07/21/2025,A. Noor,Meta Ads,FUNDRAISING,13.67,USD
+RMP-701994,2025-07-11,K. Lee,Shell,Prog - Advocacy,64.65,USD
+RMP-701995,2025-04-17,R. Hall,Adobe,Prog - Admin,6.97,USD
+RMP-701996,23-Nov-2025,J. Brown,Shell,ADVOCACY,75.93,USD
+RMP-701997,2025-12-23,R. Hall,Shell,Advocacy,76.89,USD
+RMP-701998,05/16/2026,S. Patel,Adobe,Admin,81.72,USD
+RMP-701999,2025-10-11,A. Noor,Uber,Advocacy,60.91,USD
+RMP-702000,2026-04-13,R. Hall,VistaPrint,Prog - Fundraising,28.04,USD
+RMP-702001,2026-05-23,R. Hall,Meta Ads,Fundraising,28.95,USD
+RMP-702002,04/16/2025,S. Patel,Meta Ads,FUNDRAISING,25.67,USD
+RMP-702003,2025-10-21,J. Brown,Udemy,Volunteer Training,112.93,USD
+RMP-702004,03/07/2025,J. Brown,Microsoft,Admin,204.72,GBP
+RMP-702005,07/14/2025,K. Lee,Adobe,ADMIN,48.23,USD
+RMP-702006,2025-07-07,S. Patel,Panera,Prog - Volunteer Training,18.37,USD
+RMP-702007,2025-02-16,A. Noor,Uber,Advocacy,34.8,USD
+RMP-702008,2025-12-28,K. Lee,Office Depot,Advocacy,107.89,USD
+RMP-702009,2026-06-21,S. Patel,Office Depot,ADVOCACY,73.59,USD
+RMP-702010,2026-05-02,J. Brown,Canva,Volunteer Training,46.09,USD
+RMP-702011,09/03/2025,K. Lee,Staples,Prog - Admin,35.24,USD
+RMP-702012,2025-06-27,J. Brown,Hilton,Fundraising,9.78,USD
+RMP-702013,2025-04-25,M. Ortiz,Hilton,Fundraising,36.84,USD
+RMP-702014,2025-06-14,M. Ortiz,Udemy,Prog - Volunteer Training,31.54,USD
+RMP-702015,2025-08-07,K. Lee,Uber,Advocacy,30.6,USD
+RMP-702016,2025-07-16,K. Lee,VistaPrint,Fundraising,57.6,USD
+RMP-702017,05-Feb-2026,S. Patel,VistaPrint,Fundraising,216.03,USD
+RMP-702018,2025-03-17,A. Noor,Meta Ads,Fundraising,45.5,USD
+RMP-702019,03/02/2026,A. Noor,Zoom,ADVOCACY,76.59,USD
+RMP-702020,10/14/2025,M. Ortiz,Hilton,Prog - Fundraising,42.33,USD
+RMP-702021,2026-06-29,M. Ortiz,Zoom,ADVOCACY,42.31,USD
+RMP-702022,10/26/2025,M. Ortiz,Uber,Advocacy,124.8,USD
+RMP-702023,10/21/2025,J. Brown,VistaPrint,Prog - Fundraising,62.57,USD
+RMP-702024,2026-03-23,A. Noor,Office Depot,ADVOCACY,90.11,USD
+RMP-702025,18-Feb-2026,K. Lee,Dropbox,Prog - Admin,136.44,USD
+RMP-702026,2026-03-07,M. Ortiz,Shell,Advocacy,61.97,USD
+RMP-702027,2025-08-18,R. Hall,Meta Ads,Fundraising,55.71,USD
+RMP-702028,04/06/2025,S. Patel,Meta Ads,FUNDRAISING,86.77,USD
+RMP-702029,2026-03-15,K. Lee,Udemy,Prog - Volunteer Training,24.93,USD
+RMP-702030,06/20/2025,K. Lee,VistaPrint,Prog - Fundraising,25.32,USD
+RMP-702031,11/13/2025,K. Lee,VistaPrint,Prog - Fundraising,22.58,USD
+RMP-702032,2026-06-28,A. Noor,Dropbox,Admin,28.74,USD
+RMP-702033,2026-05-06,M. Ortiz,Zoom,Prog - Advocacy,15.36,USD
+RMP-702034,01/23/2026,S. Patel,Zoom,ADVOCACY,10.07,USD
+RMP-702035,2025-03-13,J. Brown,Udemy,Prog - Volunteer Training,21.34,USD
+RMP-702036,06/16/2026,S. Patel,Hilton,FUNDRAISING,5.38,USD
+RMP-702037,2025-08-27,S. Patel,Canva,Prog - Volunteer Training,57.71,USD
+RMP-702038,03/30/2025,R. Hall,Zoom,Advocacy,48.86,GBP
+RMP-702039,2026-06-19,S. Patel,Zoom,Advocacy,87.1,USD
+RMP-702040,2025-06-03,J. Brown,Zoom,ADVOCACY,19.31,USD
+RMP-702041,2025-07-09,S. Patel,Hilton,Prog - Fundraising,70.04,USD
+RMP-702042,2026-02-19,R. Hall,Office Depot,Prog - Advocacy,21.59,USD
+RMP-702043,2025-06-03,S. Patel,Zoom,Advocacy,89.72,USD
+RMP-702044,12/05/2025,M. Ortiz,Zoom,Prog - Advocacy,8.67,USD
+RMP-702045,2026-06-01,R. Hall,Meta Ads,FUNDRAISING,36.11,USD
+RMP-702046,02/04/2025,M. Ortiz,Staples,Admin,31.21,USD
+RMP-702047,2026-06-10,M. Ortiz,Google Ads,Fundraising,91.58,USD
+RMP-702048,06/21/2026,K. Lee,Uber,Advocacy,90.36,USD
+RMP-702049,2025-08-06,R. Hall,Office Depot,ADVOCACY,133.88,USD
+RMP-702050,09/11/2025,S. Patel,Panera,Volunteer Training,7.29,USD
+RMP-702051,2025-07-22,A. Noor,Hilton,FUNDRAISING,171.84,USD
+RMP-702052,2025-04-11,A. Noor,Canva,Volunteer Training,19.43,USD
+RMP-702053,2025-12-27,A. Noor,Staples,ADMIN,207.95,USD
+RMP-702054,27-Jun-2025,J. Brown,Staples,ADMIN,330.74,USD
+RMP-702055,03-Oct-2025,M. Ortiz,Shell,Advocacy,130.58,USD
+RMP-702056,11/08/2025,M. Ortiz,Uber,Prog - Advocacy,20.66,USD
+RMP-702057,02/14/2026,M. Ortiz,Udemy,Volunteer Training,14.58,USD
+RMP-702058,2025-10-15,R. Hall,Canva,Volunteer Training,23.7,USD
+RMP-702059,2026-06-09,J. Brown,Meta Ads,Fundraising,74.69,USD
+RMP-702060,02/05/2026,S. Patel,VistaPrint,FUNDRAISING,17.17,USD
+RMP-702061,2025-08-05,K. Lee,Zoom,Advocacy,8.39,USD
+RMP-702062,15-Apr-2026,R. Hall,Google Ads,Fundraising,118.27,USD
+RMP-702063,2025-01-27,M. Ortiz,Hilton,Fundraising,26.04,USD
+RMP-702064,26-Feb-2026,S. Patel,Adobe,Admin,101.81,USD
+RMP-702065,2025-01-14,A. Noor,Hilton,FUNDRAISING,89.52,USD
+RMP-702066,2026-05-16,K. Lee,VistaPrint,FUNDRAISING,53.4,USD
+RMP-702067,2025-11-21,A. Noor,Office Depot,Advocacy,95.15,USD
+RMP-702068,2025-11-20,S. Patel,VistaPrint,FUNDRAISING,169.47,GBP
+RMP-702069,2025-10-12,S. Patel,Shell,Advocacy,88.92,USD
+RMP-702070,2025-03-30,A. Noor,Google Ads,Fundraising,91.1,USD
+RMP-702071,02/14/2025,R. Hall,Uber,Prog - Advocacy,63.36,USD
+RMP-702072,13-May-2026,K. Lee,Zoom,Advocacy,30.27,USD
+RMP-702073,2026-05-13,A. Noor,Uber,Advocacy,59.0,USD
+RMP-702074,05/25/2025,A. Noor,Office Depot,Advocacy,53.96,USD
+RMP-702075,06/02/2026,R. Hall,Uber,Prog - Advocacy,69.42,USD
+RMP-702076,03/23/2025,A. Noor,Dropbox,ADMIN,60.35,USD
+RMP-702077,2025-06-16,K. Lee,Shell,Advocacy,29.62,USD
+RMP-702078,04/15/2025,J. Brown,Hilton,FUNDRAISING,124.65,USD
+RMP-702079,2026-05-03,K. Lee,Shell,Advocacy,27.81,USD
+RMP-702080,11/06/2025,R. Hall,Udemy,Prog - Volunteer Training,63.74,USD
+RMP-702081,03/23/2025,A. Noor,Office Depot,Advocacy,71.06,USD
+RMP-702082,04/04/2025,M. Ortiz,Uber,Advocacy,17.38,GBP
+RMP-702083,17-Nov-2025,M. Ortiz,Uber,Advocacy,182.3,USD
+RMP-702084,12/09/2025,S. Patel,Udemy,Volunteer Training,43.08,USD
+RMP-702085,2025-12-27,J. Brown,Zoom,ADVOCACY,18.28,USD
+RMP-702086,03/07/2025,R. Hall,Adobe,Admin,44.72,GBP
+RMP-702087,03/05/2026,S. Patel,Canva,Volunteer Training,18.6,USD
+RMP-702088,2026-02-05,S. Patel,Hilton,FUNDRAISING,26.52,USD
+RMP-702089,20-Jun-2025,M. Ortiz,Dropbox,Admin,26.06,USD
+RMP-702090,09-Mar-2025,K. Lee,Google Ads,FUNDRAISING,39.56,USD
+RMP-702091,07-May-2026,S. Patel,Microsoft,Prog - Admin,152.67,USD
+RMP-702092,02/03/2025,S. Patel,Shell,Advocacy,49.19,USD
+RMP-702093,01/01/2025,J. Brown,Google Ads,Fundraising,51.83,USD
+RMP-702094,2025-05-31,M. Ortiz,Uber,Prog - Advocacy,29.1,GBP
+RMP-702095,2025-09-15,K. Lee,Canva,Volunteer Training,57.68,USD
+RMP-702096,2025-01-19,J. Brown,Google Ads,Fundraising,43.39,USD
+RMP-702097,2025-02-04,K. Lee,Microsoft,Admin,41.45,USD
+RMP-702098,2026-01-06,K. Lee,Adobe,Admin,84.47,USD
+RMP-702099,05/06/2026,S. Patel,Uber,Advocacy,19.16,GBP
+RMP-702100,2025-08-29,J. Brown,Panera,Volunteer Training,139.75,USD
+RMP-702101,2025-01-07,S. Patel,Google Ads,Fundraising,3.95,USD
+RMP-702102,01/06/2026,A. Noor,Google Ads,FUNDRAISING,41.11,USD
+RMP-702103,2025-09-07,K. Lee,Uber,Advocacy,151.84,USD
+RMP-702104,2025-04-25,J. Brown,Eventbrite,Prog - Volunteer Training,132.43,USD
+RMP-702105,03-Dec-2025,M. Ortiz,Meta Ads,Prog - Fundraising,51.55,USD
+RMP-702106,05/22/2025,S. Patel,Meta Ads,Fundraising,21.57,USD
+RMP-702107,2026-04-30,A. Noor,Canva,Prog - Volunteer Training,39.64,USD
+RMP-702108,14-Mar-2026,R. Hall,Meta Ads,FUNDRAISING,460.51,USD
+RMP-702109,2025-03-29,A. Noor,Hilton,Fundraising,84.6,USD
+RMP-702110,04/08/2026,A. Noor,Staples,Admin,9.67,USD
+RMP-702111,2025-02-17,S. Patel,VistaPrint,Fundraising,48.16,USD
+RMP-702112,2026-04-26,M. Ortiz,Canva,VOLUNTEER TRAINING,26.08,USD
+RMP-702113,08-Jun-2026,J. Brown,Staples,ADMIN,14.25,USD
+RMP-702114,07/30/2025,K. Lee,Zoom,Advocacy,69.02,USD
+RMP-702115,2025-09-01,M. Ortiz,Staples,Admin,18.67,USD
+RMP-702116,2025-08-27,S. Patel,VistaPrint,Fundraising,180.09,USD
+RMP-702117,2025-07-16,R. Hall,Adobe,Admin,149.45,USD
+RMP-702118,2025-08-23,J. Brown,Office Depot,Prog - Advocacy,23.18,USD
+RMP-702119,07/06/2025,K. Lee,VistaPrint,Fundraising,21.91,USD
+RMP-702120,2025-10-17,R. Hall,Google Ads,FUNDRAISING,81.94,USD
+RMP-702121,2025-08-09,J. Brown,Hilton,Fundraising,111.72,USD
+RMP-702122,2026-05-12,K. Lee,Uber,Prog - Advocacy,35.64,USD
+RMP-702123,05/11/2026,K. Lee,Office Depot,Advocacy,107.84,USD
+RMP-702124,2025-10-29,A. Noor,Meta Ads,Prog - Fundraising,199.94,USD
+RMP-702125,2025-07-06,R. Hall,Canva,Volunteer Training,60.15,USD
+RMP-702126,2026-03-26,R. Hall,Google Ads,Prog - Fundraising,17.71,USD
+RMP-702127,16-Feb-2026,S. Patel,Udemy,Volunteer Training,90.65,USD
+RMP-702128,2025-09-02,M. Ortiz,Dropbox,ADMIN,50.85,USD
+RMP-702129,11/09/2025,A. Noor,Canva,Prog - Volunteer Training,33.47,USD
+RMP-702130,2026-05-11,A. Noor,Office Depot,ADVOCACY,87.93,USD
+RMP-702131,01/22/2025,J. Brown,Zoom,Advocacy,132.47,USD
+RMP-702132,2025-03-09,R. Hall,Google Ads,Fundraising,52.85,USD
+RMP-702133,2026-01-27,K. Lee,Canva,Volunteer Training,5.75,USD
+RMP-702134,2025-11-12,K. Lee,Eventbrite,VOLUNTEER TRAINING,49.79,USD
+RMP-702135,03/06/2025,J. Brown,Hilton,Fundraising,54.83,USD
+RMP-702136,2026-06-25,R. Hall,Panera,VOLUNTEER TRAINING,458.21,USD
+RMP-702137,2025-07-31,S. Patel,Dropbox,ADMIN,50.23,USD
+RMP-702138,07/19/2025,K. Lee,Microsoft,ADMIN,38.31,USD
+RMP-702139,2025-06-27,A. Noor,Shell,Prog - Advocacy,83.17,GBP
+RMP-702140,2026-02-27,A. Noor,Staples,Admin,34.12,GBP
+RMP-702141,07-Apr-2026,R. Hall,VistaPrint,Prog - Fundraising,24.11,USD
+RMP-702142,2025-02-13,K. Lee,Udemy,Volunteer Training,10.64,USD
+RMP-702143,2026-03-07,K. Lee,Hilton,FUNDRAISING,26.15,USD
+RMP-702144,2025-06-17,S. Patel,Hilton,Prog - Fundraising,8.03,USD
+RMP-702145,10/14/2025,R. Hall,Adobe,Admin,57.68,USD
+RMP-702146,03-Dec-2025,K. Lee,Google Ads,Fundraising,54.29,USD
+RMP-702147,2025-06-20,S. Patel,Office Depot,Prog - Advocacy,83.66,USD
+RMP-702148,2025-07-02,A. Noor,Hilton,Fundraising,17.67,USD
+RMP-702149,16-Jan-2025,S. Patel,Office Depot,ADVOCACY,12.25,USD
+RMP-702150,2026-05-11,K. Lee,Meta Ads,FUNDRAISING,284.78,USD
+RMP-702151,2025-04-20,M. Ortiz,Hilton,Fundraising,41.65,USD
+RMP-702152,2025-11-02,R. Hall,Panera,Volunteer Training,83.92,USD
+RMP-702153,06-Jan-2025,K. Lee,Office Depot,Advocacy,50.38,USD
+RMP-702154,30-Sep-2025,M. Ortiz,Hilton,Fundraising,87.4,USD
+RMP-702155,2025-12-27,A. Noor,Uber,Advocacy,54.88,USD
+RMP-702156,07/04/2025,R. Hall,Uber,Advocacy,21.72,USD
+RMP-702157,2025-04-10,J. Brown,Meta Ads,FUNDRAISING,72.79,USD
+RMP-702158,31-Mar-2025,R. Hall,Dropbox,ADMIN,58.76,USD
+RMP-702159,09/03/2025,A. Noor,Google Ads,Fundraising,9.83,USD
+RMP-702160,27-Aug-2025,A. Noor,Canva,VOLUNTEER TRAINING,58.27,GBP
+RMP-702161,22-Mar-2025,A. Noor,Hilton,FUNDRAISING,31.55,USD
+RMP-702162,04/25/2025,S. Patel,Office Depot,Advocacy,24.53,USD
+RMP-702163,2025-10-03,A. Noor,Hilton,Fundraising,107.53,USD
+RMP-702164,21-Mar-2025,J. Brown,Hilton,Fundraising,41.9,USD
+RMP-702165,28-Jun-2025,K. Lee,Adobe,ADMIN,43.07,USD
+RMP-702166,05-Nov-2025,M. Ortiz,Adobe,Admin,48.44,USD
+RMP-702167,2026-05-24,R. Hall,Udemy,Volunteer Training,43.42,USD
+RMP-702168,09/17/2025,R. Hall,Staples,ADMIN,40.94,USD
+RMP-702169,10/19/2025,A. Noor,Adobe,Admin,165.75,USD
+RMP-702170,2025-10-18,M. Ortiz,Hilton,Fundraising,24.15,USD
+RMP-702171,2026-06-26,A. Noor,Office Depot,Prog - Advocacy,9.36,USD
+RMP-702172,2025-03-04,S. Patel,Meta Ads,Prog - Fundraising,46.53,USD
+RMP-702173,2026-02-09,M. Ortiz,Zoom,Advocacy,19.19,GBP
+RMP-702174,25-Apr-2026,A. Noor,Hilton,Fundraising,16.66,USD
+RMP-702175,2025-11-21,A. Noor,Shell,Advocacy,44.07,USD
+RMP-702176,01/16/2026,J. Brown,Hilton,FUNDRAISING,57.24,USD
+RMP-702177,2025-11-06,J. Brown,Dropbox,Admin,38.23,USD
+RMP-702178,09-Dec-2025,J. Brown,Uber,Advocacy,29.63,USD
+RMP-702179,2026-04-20,S. Patel,Meta Ads,Fundraising,37.32,USD
+RMP-702180,02/25/2025,M. Ortiz,Uber,Prog - Advocacy,42.7,USD
+RMP-702181,2026-03-01,S. Patel,Google Ads,Fundraising,44.59,USD
+RMP-702182,2025-05-22,K. Lee,Hilton,Prog - Fundraising,8.91,USD
+RMP-702183,2026-01-11,A. Noor,Uber,Prog - Advocacy,98.15,USD
+RMP-702184,08/14/2025,A. Noor,Meta Ads,FUNDRAISING,12.04,USD
+RMP-702185,2026-04-19,A. Noor,Staples,ADMIN,24.44,USD
+RMP-702186,2025-01-25,J. Brown,Panera,Prog - Volunteer Training,11.04,USD
+RMP-702187,2025-12-31,A. Noor,Meta Ads,Fundraising,51.96,USD
+RMP-702188,2025-04-05,J. Brown,Google Ads,Prog - Fundraising,23.58,USD
+RMP-702189,2026-05-23,K. Lee,Zoom,ADVOCACY,37.89,USD
+RMP-702190,2025-06-25,S. Patel,Adobe,ADMIN,22.91,USD
+RMP-702191,2026-02-12,S. Patel,Meta Ads,Fundraising,17.31,USD
+RMP-702192,2026-05-05,S. Patel,Panera,Prog - Volunteer Training,4.67,USD
+RMP-702193,2026-04-04,J. Brown,Uber,ADVOCACY,26.25,USD
+RMP-702194,17-Feb-2026,R. Hall,Canva,Volunteer Training,15.04,USD
+RMP-702195,04-Dec-2025,R. Hall,Meta Ads,Fundraising,71.35,USD
+RMP-702196,2025-11-27,M. Ortiz,Meta Ads,Prog - Fundraising,290.85,USD
+RMP-702197,2025-08-01,R. Hall,VistaPrint,Fundraising,232.05,USD
+RMP-702198,2025-12-11,M. Ortiz,VistaPrint,Fundraising,41.55,USD
+RMP-702199,08-Jun-2026,K. Lee,Udemy,VOLUNTEER TRAINING,21.93,USD
+RMP-702200,2025-12-12,M. Ortiz,Panera,VOLUNTEER TRAINING,7.73,USD
+RMP-702201,09/05/2025,K. Lee,Staples,Admin,30.66,USD
+RMP-702202,2025-11-21,A. Noor,Staples,ADMIN,19.67,USD
+RMP-702203,12-Apr-2026,S. Patel,Udemy,Volunteer Training,23.02,USD
+RMP-702204,2025-04-01,R. Hall,Google Ads,Prog - Fundraising,10.29,USD
+RMP-702205,2025-10-21,J. Brown,Shell,Advocacy,84.14,USD
+RMP-702206,2026-06-25,K. Lee,Uber,Advocacy,70.69,USD
+RMP-702207,08-Jun-2026,R. Hall,Meta Ads,Fundraising,19.61,USD
+RMP-702208,16-Sep-2025,J. Brown,Udemy,VOLUNTEER TRAINING,96.57,USD
+RMP-702209,03/28/2025,J. Brown,Office Depot,Prog - Advocacy,47.17,USD
+RMP-702210,06/07/2025,S. Patel,Hilton,Prog - Fundraising,72.04,USD
+RMP-702211,05/09/2026,A. Noor,Dropbox,ADMIN,89.72,GBP
+RMP-702212,2025-07-05,A. Noor,Adobe,Admin,62.08,USD
+RMP-702213,2025-12-10,M. Ortiz,Google Ads,Fundraising,21.36,USD
+RMP-702214,2026-05-31,R. Hall,Panera,Volunteer Training,114.94,USD
+RMP-702215,05/24/2026,A. Noor,Office Depot,Advocacy,89.61,USD
+RMP-702216,24-Jun-2026,S. Patel,Meta Ads,Fundraising,90.8,USD
+RMP-702217,2025-01-16,R. Hall,Adobe,ADMIN,13.51,USD
+RMP-702218,2026-06-09,J. Brown,Staples,Prog - Admin,11.94,GBP
+RMP-702219,2025-07-19,K. Lee,Google Ads,Fundraising,174.44,USD
+RMP-702220,2025-07-03,K. Lee,Shell,Advocacy,25.17,USD
+RMP-702221,11/05/2025,A. Noor,Udemy,Volunteer Training,56.1,USD
+RMP-702222,23-May-2026,M. Ortiz,Panera,Volunteer Training,132.39,USD
+RMP-702223,2025-10-08,K. Lee,Staples,ADMIN,194.35,USD
+RMP-702224,07-Jun-2025,M. Ortiz,Shell,Prog - Advocacy,74.94,USD
+RMP-702225,26-Dec-2025,K. Lee,Eventbrite,Volunteer Training,27.94,USD
+RMP-702226,2025-09-16,M. Ortiz,Office Depot,ADVOCACY,34.54,USD
+RMP-702227,2025-06-06,M. Ortiz,Meta Ads,Fundraising,62.4,GBP
+RMP-702228,03/01/2026,J. Brown,Google Ads,Prog - Fundraising,52.32,USD
+RMP-702229,21-Jan-2025,S. Patel,Meta Ads,FUNDRAISING,23.47,USD
+RMP-702230,13-Dec-2025,K. Lee,Hilton,Fundraising,4.1,USD
+RMP-702231,2025-12-16,R. Hall,VistaPrint,Fundraising,23.05,USD
+RMP-702232,2026-01-20,A. Noor,Office Depot,Advocacy,36.9,USD
+RMP-702233,2026-03-14,S. Patel,Canva,VOLUNTEER TRAINING,44.32,USD
+RMP-702234,2026-04-01,J. Brown,Microsoft,Admin,207.69,USD
+RMP-702235,2026-06-30,J. Brown,Office Depot,Prog - Advocacy,116.79,USD
+RMP-702236,2025-03-21,J. Brown,Shell,Advocacy,29.5,USD
+RMP-702237,28-Mar-2026,A. Noor,Eventbrite,Volunteer Training,70.34,GBP
+RMP-702238,25-Jun-2026,K. Lee,Panera,Volunteer Training,4.06,USD
+RMP-702239,2026-05-04,K. Lee,Canva,Volunteer Training,134.76,USD
+RMP-702240,06/07/2026,M. Ortiz,VistaPrint,Fundraising,28.6,USD
+RMP-702241,2026-01-27,M. Ortiz,Adobe,ADMIN,52.9,USD
+RMP-702242,25-Dec-2025,R. Hall,VistaPrint,Prog - Fundraising,45.92,GBP
+RMP-702243,2025-02-02,M. Ortiz,Uber,Advocacy,112.57,USD
+RMP-702244,16-May-2025,A. Noor,Hilton,Fundraising,32.66,GBP
+RMP-702245,2026-02-14,S. Patel,VistaPrint,Fundraising,93.75,USD
+RMP-702246,2026-06-13,K. Lee,Staples,Admin,62.07,USD
+RMP-702247,04/01/2025,M. Ortiz,Eventbrite,Prog - Volunteer Training,49.91,USD
+RMP-702248,02/17/2026,A. Noor,Shell,Advocacy,40.56,USD
+RMP-702249,2025-10-26,A. Noor,Google Ads,Fundraising,28.26,USD
+RMP-702250,2026-05-02,R. Hall,Google Ads,Fundraising,38.5,USD
+RMP-702251,03/14/2025,M. Ortiz,Eventbrite,Volunteer Training,31.69,GBP
+RMP-702252,09/18/2025,R. Hall,Zoom,Advocacy,65.17,USD
+RMP-702253,11/08/2025,J. Brown,Meta Ads,Prog - Fundraising,16.1,USD
+RMP-702254,06/14/2025,J. Brown,Shell,ADVOCACY,47.7,USD
+RMP-702255,2025-12-01,J. Brown,Office Depot,Advocacy,174.97,USD
+RMP-702256,17-May-2026,M. Ortiz,Office Depot,Advocacy,30.09,USD
+RMP-702257,06/10/2025,A. Noor,Eventbrite,VOLUNTEER TRAINING,66.32,USD
+RMP-702258,2026-01-25,A. Noor,Canva,Prog - Volunteer Training,5.52,USD
+RMP-702259,2025-03-12,K. Lee,Shell,Advocacy,10.78,USD
+RMP-702260,02-Apr-2025,J. Brown,Uber,Prog - Advocacy,39.66,USD
+RMP-702261,2025-12-27,M. Ortiz,Uber,Advocacy,41.77,USD
+RMP-702262,11/17/2025,K. Lee,Uber,ADVOCACY,46.4,USD
+RMP-702263,09/02/2025,A. Noor,Udemy,Prog - Volunteer Training,321.09,USD
+RMP-702264,2025-01-24,K. Lee,Zoom,Advocacy,26.45,GBP
+RMP-702265,2026-02-07,J. Brown,Uber,Advocacy,48.23,USD
+RMP-702266,2026-01-08,S. Patel,Panera,Volunteer Training,23.46,USD
+RMP-702267,13-Oct-2025,J. Brown,Shell,Advocacy,86.76,USD
+RMP-702268,03/17/2026,J. Brown,Office Depot,Advocacy,15.87,USD
+RMP-702269,2025-12-18,M. Ortiz,Google Ads,Prog - Fundraising,23.83,USD
+RMP-702270,2025-08-07,S. Patel,Panera,Prog - Volunteer Training,19.86,USD
+RMP-702271,04/30/2026,R. Hall,Dropbox,Admin,93.82,USD
+RMP-702272,2026-03-19,S. Patel,Udemy,Volunteer Training,50.07,USD
+RMP-702273,2025-08-06,S. Patel,Adobe,Prog - Admin,57.69,USD
+RMP-702274,08-Mar-2025,A. Noor,Zoom,ADVOCACY,37.54,USD
+RMP-702275,01/31/2025,K. Lee,Hilton,FUNDRAISING,132.73,USD
+RMP-702276,11/18/2025,A. Noor,Canva,Prog - Volunteer Training,38.88,GBP
+RMP-702277,2025-09-07,R. Hall,Staples,Admin,262.12,GBP
+RMP-702278,2025-01-10,S. Patel,Canva,Volunteer Training,140.12,USD
+RMP-702279,2025-10-12,M. Ortiz,Dropbox,Prog - Admin,11.84,USD
+RMP-702280,2025-06-02,R. Hall,Hilton,Fundraising,79.41,USD
+RMP-702281,2026-06-28,J. Brown,Meta Ads,FUNDRAISING,139.92,USD
+RMP-702282,2026-06-13,J. Brown,Dropbox,ADMIN,30.97,USD
+RMP-702283,2026-01-06,A. Noor,Adobe,Admin,64.74,USD
+RMP-702284,2025-10-28,R. Hall,Hilton,FUNDRAISING,11.82,USD
+RMP-702285,2025-05-26,A. Noor,Office Depot,Advocacy,18.24,USD
+RMP-702286,21-Feb-2025,M. Ortiz,Zoom,Prog - Advocacy,35.64,USD
+RMP-702287,2026-02-08,J. Brown,Shell,ADVOCACY,13.21,USD
+RMP-702288,05/21/2025,A. Noor,Office Depot,Advocacy,46.98,USD
+RMP-702289,03/29/2025,K. Lee,Office Depot,Advocacy,80.27,USD
+RMP-702290,03/03/2026,A. Noor,VistaPrint,FUNDRAISING,19.6,USD
+RMP-702291,2025-03-25,A. Noor,Meta Ads,Fundraising,13.38,USD
+RMP-702292,08/31/2025,S. Patel,Office Depot,Advocacy,10.79,USD
+RMP-702293,2025-04-16,K. Lee,Hilton,Prog - Fundraising,133.11,GBP
+RMP-702294,2025-12-21,K. Lee,Eventbrite,Volunteer Training,9.32,USD
+RMP-702295,2025-01-21,M. Ortiz,Adobe,Prog - Admin,58.34,USD
+RMP-702296,01/06/2025,S. Patel,Zoom,Advocacy,144.79,USD
+RMP-702297,2025-08-09,K. Lee,Hilton,Fundraising,18.54,USD
+RMP-702298,2025-03-28,S. Patel,Dropbox,Admin,20.91,GBP
+RMP-702299,2026-03-29,S. Patel,Uber,Advocacy,52.36,GBP
+RMP-702300,2025-12-08,J. Brown,VistaPrint,FUNDRAISING,55.51,USD
+RMP-702301,2026-01-28,K. Lee,Adobe,ADMIN,28.54,USD
+RMP-702302,2025-12-18,J. Brown,Shell,Advocacy,34.21,USD
+RMP-702303,2025-09-03,A. Noor,Adobe,Prog - Admin,48.51,USD
+RMP-702304,2025-04-23,A. Noor,VistaPrint,Fundraising,31.07,USD
+RMP-702305,06/07/2025,J. Brown,Shell,Advocacy,32.03,USD
+RMP-702306,2025-08-25,A. Noor,Zoom,Prog - Advocacy,256.76,USD
+RMP-702307,2025-08-31,J. Brown,Meta Ads,FUNDRAISING,111.28,USD
+RMP-702308,2025-06-15,M. Ortiz,Adobe,Admin,119.44,USD
+RMP-702309,02/03/2025,S. Patel,Uber,Advocacy,32.89,USD
+RMP-702310,2025-09-12,M. Ortiz,VistaPrint,Prog - Fundraising,9.52,USD
+RMP-702311,29-Oct-2025,K. Lee,Uber,Advocacy,415.08,USD
+RMP-702312,2025-08-08,M. Ortiz,Meta Ads,Prog - Fundraising,25.66,USD
+RMP-702313,02/01/2025,M. Ortiz,Google Ads,Prog - Fundraising,59.05,USD
+RMP-702314,05/24/2026,A. Noor,Canva,Volunteer Training,90.5,USD
+RMP-702315,2026-04-27,R. Hall,Google Ads,Fundraising,26.51,USD
+RMP-702316,08/21/2025,R. Hall,Adobe,Admin,100.62,USD
+RMP-702317,08/03/2025,J. Brown,Eventbrite,Volunteer Training,45.07,USD
+RMP-702318,2025-08-30,K. Lee,Hilton,Fundraising,35.26,USD
+RMP-702319,2025-09-02,R. Hall,Shell,Advocacy,26.5,USD
+RMP-702320,2025-01-20,A. Noor,Hilton,FUNDRAISING,18.23,USD
+RMP-702321,29-Jul-2025,K. Lee,VistaPrint,FUNDRAISING,8.36,USD
+RMP-702322,2026-03-02,S. Patel,Panera,Volunteer Training,562.5,USD
+RMP-702323,2025-03-13,J. Brown,VistaPrint,FUNDRAISING,165.94,USD
+RMP-702324,27-Jun-2025,A. Noor,Hilton,Prog - Fundraising,49.04,USD
+RMP-702325,06/07/2026,M. Ortiz,Dropbox,Prog - Admin,182.0,USD
+RMP-702326,2025-10-26,S. Patel,Shell,ADVOCACY,161.79,USD
+RMP-702327,2025-09-23,M. Ortiz,Shell,Prog - Advocacy,76.47,USD
+RMP-702328,2026-06-04,R. Hall,Meta Ads,Fundraising,32.77,USD
+RMP-702329,05/10/2026,K. Lee,Google Ads,Fundraising,117.53,USD
+RMP-702330,02-Oct-2025,S. Patel,Eventbrite,VOLUNTEER TRAINING,101.27,USD
+RMP-702331,22-Feb-2025,A. Noor,Adobe,Prog - Admin,91.11,USD
+RMP-702332,2026-02-04,M. Ortiz,Hilton,FUNDRAISING,33.0,GBP
+RMP-702333,18-Feb-2026,R. Hall,Microsoft,Prog - Admin,62.87,USD
+RMP-702334,2026-05-04,M. Ortiz,Eventbrite,Prog - Volunteer Training,57.17,USD
+RMP-702335,17-May-2026,K. Lee,Shell,Advocacy,31.73,USD
+RMP-702336,03-Nov-2025,K. Lee,Udemy,Volunteer Training,62.36,USD
+RMP-702337,2026-02-21,R. Hall,Staples,Admin,138.03,USD
+RMP-702338,2026-05-24,J. Brown,Panera,Volunteer Training,176.44,USD
+RMP-702339,2026-06-14,R. Hall,Staples,ADMIN,70.07,USD
+RMP-702340,01/06/2025,J. Brown,VistaPrint,Fundraising,38.5,USD
+RMP-702341,2026-02-26,R. Hall,Udemy,Prog - Volunteer Training,96.47,USD
+RMP-702342,03/27/2026,R. Hall,Eventbrite,Volunteer Training,20.39,USD
+RMP-702343,2026-03-03,K. Lee,VistaPrint,FUNDRAISING,31.84,USD
+RMP-702344,2026-01-25,J. Brown,Google Ads,Fundraising,140.84,USD
+RMP-702345,2025-11-30,R. Hall,Uber,Prog - Advocacy,240.95,USD
+RMP-702346,24-Mar-2026,M. Ortiz,Microsoft,Prog - Admin,124.7,USD
+RMP-702347,2025-12-04,K. Lee,Hilton,Fundraising,41.54,USD
+RMP-702348,2025-03-29,S. Patel,Adobe,Prog - Admin,6.23,GBP
+RMP-702349,26-Sep-2025,K. Lee,Google Ads,Fundraising,90.52,USD
+RMP-702350,03/06/2025,R. Hall,Eventbrite,Volunteer Training,71.62,USD
+RMP-702351,2025-03-05,A. Noor,Hilton,Fundraising,73.49,USD
+RMP-702352,2025-09-27,A. Noor,VistaPrint,FUNDRAISING,12.3,USD
+RMP-702353,12-Jan-2026,K. Lee,Uber,ADVOCACY,33.2,USD
+RMP-702354,2025-11-25,S. Patel,Microsoft,ADMIN,239.55,USD
+RMP-702355,2026-06-02,K. Lee,Eventbrite,VOLUNTEER TRAINING,17.79,USD
+RMP-702356,2026-02-25,S. Patel,Staples,Prog - Admin,75.23,USD
+RMP-702357,11/09/2025,R. Hall,Staples,Admin,24.76,USD
+RMP-702358,2025-11-05,M. Ortiz,Google Ads,Fundraising,70.58,USD
+RMP-702359,07/08/2025,M. Ortiz,Udemy,VOLUNTEER TRAINING,37.37,USD
+RMP-702360,02/11/2025,S. Patel,VistaPrint,Fundraising,132.4,USD
+RMP-702361,11/16/2025,J. Brown,Google Ads,Fundraising,46.39,USD
+RMP-702362,2026-03-21,M. Ortiz,Udemy,Volunteer Training,109.42,USD
+RMP-702363,2026-01-09,A. Noor,VistaPrint,Fundraising,298.91,USD
+RMP-702364,10/13/2025,K. Lee,VistaPrint,FUNDRAISING,108.58,USD
+RMP-702365,2025-06-20,R. Hall,Canva,VOLUNTEER TRAINING,75.11,USD
+RMP-702366,2025-09-20,J. Brown,Panera,Volunteer Training,126.67,USD
+RMP-702367,2026-06-19,A. Noor,Shell,Advocacy,74.17,USD
+RMP-702368,05/22/2025,K. Lee,Zoom,ADVOCACY,25.86,USD
+RMP-702369,2025-05-28,A. Noor,Microsoft,Prog - Admin,20.88,USD
+RMP-702370,16-Mar-2026,J. Brown,VistaPrint,FUNDRAISING,83.19,USD
+RMP-702371,2026-02-20,S. Patel,Shell,Advocacy,25.46,USD
+RMP-702372,25-Jan-2025,K. Lee,Adobe,Admin,23.33,USD
+RMP-702373,2025-04-04,A. Noor,Uber,Advocacy,37.65,USD
+RMP-702374,2025-11-01,R. Hall,Eventbrite,VOLUNTEER TRAINING,9.45,USD
+RMP-702375,2025-07-04,R. Hall,Zoom,ADVOCACY,24.82,USD
+RMP-702376,10-Oct-2025,A. Noor,Adobe,Admin,23.06,USD
+RMP-702377,2025-06-04,J. Brown,Adobe,Prog - Admin,409.84,USD
+RMP-702378,01/14/2025,J. Brown,Hilton,Prog - Fundraising,87.88,USD
+RMP-702379,2025-12-07,R. Hall,Udemy,VOLUNTEER TRAINING,30.59,USD
+RMP-702380,2026-04-18,R. Hall,Panera,Volunteer Training,22.42,USD
+RMP-702381,2025-04-18,J. Brown,VistaPrint,Prog - Fundraising,4.98,USD
+RMP-702382,11/27/2025,S. Patel,Shell,ADVOCACY,11.96,USD
+RMP-702383,24-Jun-2026,M. Ortiz,Udemy,Volunteer Training,10.03,USD
+RMP-702384,2026-03-15,A. Noor,Meta Ads,Prog - Fundraising,18.56,USD
+RMP-702385,01/19/2026,S. Patel,Udemy,Volunteer Training,44.29,USD
+RMP-702386,2025-06-09,A. Noor,Office Depot,Prog - Advocacy,37.75,USD
+RMP-702387,03/08/2026,R. Hall,Udemy,VOLUNTEER TRAINING,20.01,USD
+RMP-702388,2026-01-31,S. Patel,Meta Ads,Fundraising,42.7,USD
+RMP-702389,05/03/2026,R. Hall,Microsoft,Admin,12.31,USD
+RMP-702390,2025-07-08,R. Hall,Shell,Advocacy,66.67,USD
+RMP-702391,2026-02-22,R. Hall,Panera,Volunteer Training,88.91,USD
+RMP-702392,2025-12-09,K. Lee,Canva,Prog - Volunteer Training,69.66,USD
+RMP-702393,2025-12-27,M. Ortiz,Shell,ADVOCACY,119.64,USD
+RMP-702394,04/19/2025,R. Hall,Meta Ads,FUNDRAISING,11.41,USD
+RMP-702395,10/28/2025,A. Noor,Uber,Advocacy,46.33,USD
+RMP-702396,03-Jan-2026,J. Brown,Uber,ADVOCACY,18.96,GBP
+RMP-702397,2025-09-12,M. Ortiz,Meta Ads,Fundraising,15.85,USD
+RMP-702398,2025-11-12,A. Noor,Eventbrite,Volunteer Training,12.51,USD
+RMP-702399,2025-03-12,K. Lee,Dropbox,Admin,415.96,USD
+RMP-702400,2025-09-26,R. Hall,Panera,VOLUNTEER TRAINING,101.51,USD
+RMP-702401,16-May-2026,A. Noor,Panera,Volunteer Training,192.53,USD
+RMP-702402,2025-07-28,A. Noor,Office Depot,Prog - Advocacy,61.4,USD
+RMP-702403,2026-04-23,A. Noor,Zoom,Advocacy,21.22,USD
+RMP-702404,2025-06-25,M. Ortiz,Dropbox,ADMIN,81.83,USD
+RMP-702405,08/27/2025,R. Hall,Hilton,FUNDRAISING,368.13,GBP
+RMP-702406,03/18/2026,A. Noor,Office Depot,Prog - Advocacy,71.68,USD
+RMP-702407,05/07/2026,J. Brown,VistaPrint,Fundraising,40.39,USD
+RMP-702408,04/09/2025,R. Hall,Dropbox,Prog - Admin,57.08,USD
+RMP-702409,11/25/2025,S. Patel,Office Depot,Advocacy,121.98,USD
+RMP-702410,2025-11-22,J. Brown,Zoom,Prog - Advocacy,44.06,USD
+RMP-702411,21-Mar-2026,K. Lee,Uber,ADVOCACY,40.24,USD
+RMP-702412,2025-10-22,M. Ortiz,Dropbox,ADMIN,24.29,USD
+RMP-702413,2026-03-18,S. Patel,Shell,ADVOCACY,61.51,USD
+RMP-702414,31-Jan-2025,M. Ortiz,Office Depot,Advocacy,14.26,USD
+RMP-702415,2025-05-11,M. Ortiz,Udemy,Volunteer Training,31.62,USD
+RMP-702416,2026-06-11,A. Noor,Meta Ads,Fundraising,39.82,USD
+RMP-702417,03/14/2026,J. Brown,Google Ads,Fundraising,17.22,USD
+RMP-702418,11/22/2025,S. Patel,Canva,Prog - Volunteer Training,43.8,USD
+RMP-702419,2025-09-24,A. Noor,Canva,Volunteer Training,105.44,USD
+RMP-702420,2025-10-13,S. Patel,Dropbox,Prog - Admin,164.92,USD
+RMP-702421,10/18/2025,R. Hall,Shell,ADVOCACY,36.13,USD
+RMP-702422,2026-01-03,R. Hall,Shell,Advocacy,29.68,USD
+RMP-702423,2026-05-01,J. Brown,Google Ads,Fundraising,35.35,USD
+RMP-702424,06/17/2025,A. Noor,VistaPrint,Fundraising,78.5,USD
+RMP-702425,2026-04-16,S. Patel,Udemy,VOLUNTEER TRAINING,25.5,USD
+RMP-702426,06/19/2025,R. Hall,Office Depot,Advocacy,25.46,USD
+RMP-702427,2025-12-12,A. Noor,Hilton,Fundraising,57.05,USD
+RMP-702428,2025-03-19,M. Ortiz,VistaPrint,FUNDRAISING,71.3,USD
+RMP-702429,2025-03-26,R. Hall,Microsoft,Prog - Admin,53.56,USD
+RMP-702430,2025-07-20,K. Lee,VistaPrint,Fundraising,49.98,USD
+RMP-702431,12/27/2025,S. Patel,Office Depot,ADVOCACY,28.9,USD
+RMP-702432,2025-10-29,R. Hall,Hilton,Prog - Fundraising,45.53,USD
+RMP-702433,2025-10-20,J. Brown,Shell,Prog - Advocacy,5.23,USD
+RMP-702434,2025-10-21,S. Patel,Staples,Prog - Admin,180.33,USD
+RMP-702435,04/19/2025,K. Lee,Meta Ads,Prog - Fundraising,51.68,USD
+RMP-702436,2025-12-31,S. Patel,Hilton,FUNDRAISING,296.95,USD
+RMP-702437,05/09/2026,S. Patel,VistaPrint,Fundraising,142.56,GBP
+RMP-702438,2025-09-24,R. Hall,Zoom,Advocacy,21.46,USD
+RMP-702439,03-Apr-2025,S. Patel,Shell,Advocacy,32.21,USD
+RMP-702440,2025-03-05,J. Brown,Office Depot,Advocacy,16.58,USD
+RMP-702441,04-Mar-2026,K. Lee,Meta Ads,Fundraising,24.47,USD
+RMP-702442,2026-01-03,R. Hall,Canva,VOLUNTEER TRAINING,10.94,USD
+RMP-702443,15-Apr-2025,K. Lee,Uber,Advocacy,19.47,USD
+RMP-702444,2025-07-28,J. Brown,Hilton,Prog - Fundraising,17.61,USD
+RMP-702445,2026-04-19,S. Patel,Zoom,Advocacy,98.83,USD
+RMP-702446,03/02/2025,S. Patel,Hilton,Fundraising,10.4,USD
+RMP-702447,12/12/2025,R. Hall,Canva,VOLUNTEER TRAINING,331.39,USD
+RMP-702448,2025-01-12,K. Lee,Canva,Volunteer Training,33.46,USD
+RMP-702449,11-Apr-2026,S. Patel,Zoom,ADVOCACY,150.27,USD
+RMP-702450,2025-07-14,M. Ortiz,Staples,Prog - Admin,18.77,USD
+RMP-702451,2025-03-15,S. Patel,Zoom,Advocacy,90.05,USD
+RMP-702452,2026-01-21,S. Patel,Uber,ADVOCACY,11.92,USD
+RMP-702453,05/16/2025,A. Noor,Meta Ads,Fundraising,11.86,USD
+RMP-702454,2026-03-12,K. Lee,Adobe,Prog - Admin,119.71,USD
+RMP-702455,2025-02-08,K. Lee,Shell,Advocacy,40.06,USD
+RMP-702456,2026-06-27,M. Ortiz,Hilton,Fundraising,37.4,USD
+RMP-702457,2025-11-16,M. Ortiz,VistaPrint,Fundraising,18.12,USD
+RMP-702458,2025-12-19,M. Ortiz,Google Ads,Prog - Fundraising,20.41,USD
+RMP-702459,05/29/2026,K. Lee,Panera,Volunteer Training,10.63,USD
+RMP-702460,04/28/2026,A. Noor,Zoom,Advocacy,27.91,USD
+RMP-702461,20-Feb-2026,A. Noor,Canva,Volunteer Training,56.29,USD
+RMP-702462,2026-01-05,J. Brown,VistaPrint,FUNDRAISING,48.01,USD
+RMP-702463,2025-12-09,K. Lee,Shell,Advocacy,48.46,USD
+RMP-702464,2025-11-21,J. Brown,Meta Ads,FUNDRAISING,7.04,USD
+RMP-702465,2026-01-02,S. Patel,Uber,Advocacy,53.36,GBP
+RMP-702466,12/02/2025,M. Ortiz,Panera,Volunteer Training,33.55,USD
+RMP-702467,2025-10-23,J. Brown,Google Ads,FUNDRAISING,22.03,USD
+RMP-702468,2025-01-24,R. Hall,Adobe,Admin,14.71,USD
+RMP-702469,2026-03-18,J. Brown,VistaPrint,Prog - Fundraising,81.25,USD
+RMP-702470,2025-04-14,K. Lee,Uber,Prog - Advocacy,6.6,USD
+RMP-702471,2026-02-16,M. Ortiz,Office Depot,ADVOCACY,14.73,GBP
+RMP-702472,10/21/2025,M. Ortiz,VistaPrint,Fundraising,51.03,GBP
+RMP-702473,2025-08-31,A. Noor,Canva,VOLUNTEER TRAINING,28.14,USD
+RMP-702474,2025-12-08,J. Brown,Hilton,Fundraising,62.83,USD
+RMP-702475,2025-06-22,A. Noor,Canva,Volunteer Training,48.75,GBP
+RMP-702476,2026-02-20,J. Brown,Google Ads,Fundraising,24.26,USD
+RMP-702477,04/13/2025,K. Lee,Dropbox,ADMIN,9.74,USD
+RMP-702478,09-Jun-2025,K. Lee,Shell,Advocacy,88.04,USD
+RMP-702479,14-Sep-2025,S. Patel,Google Ads,Prog - Fundraising,38.26,USD
+RMP-702480,2025-07-15,J. Brown,Zoom,ADVOCACY,13.68,USD
+RMP-702481,2026-01-26,J. Brown,Udemy,Volunteer Training,6.76,USD
+RMP-702482,03/11/2025,M. Ortiz,Udemy,Volunteer Training,60.3,USD
+RMP-702483,2025-09-04,M. Ortiz,Meta Ads,Prog - Fundraising,25.23,USD
+RMP-702484,11/25/2025,A. Noor,Canva,Volunteer Training,15.94,USD
+RMP-702485,2025-06-07,S. Patel,Meta Ads,Prog - Fundraising,129.06,USD
+RMP-702486,2025-02-24,K. Lee,Office Depot,Advocacy,8.27,USD
+RMP-702487,05/01/2026,J. Brown,Shell,Advocacy,35.7,USD
+RMP-702488,31-Aug-2025,A. Noor,Zoom,Advocacy,85.82,USD
+RMP-702489,2025-12-19,S. Patel,VistaPrint,Fundraising,69.39,USD
+RMP-702490,2026-02-14,M. Ortiz,Shell,ADVOCACY,13.83,GBP
+RMP-702491,01/15/2025,S. Patel,Eventbrite,Volunteer Training,146.29,USD
+RMP-702492,2025-05-27,A. Noor,Shell,Advocacy,160.43,USD
+RMP-702493,2026-05-05,K. Lee,Zoom,Prog - Advocacy,112.39,USD
+RMP-702494,01/25/2025,M. Ortiz,Uber,Advocacy,20.49,USD
+RMP-702495,2025-11-29,R. Hall,Uber,Prog - Advocacy,36.5,USD
+RMP-702496,2025-06-23,M. Ortiz,Panera,VOLUNTEER TRAINING,138.69,USD
+RMP-702497,2025-10-17,K. Lee,Udemy,Volunteer Training,66.67,USD
+RMP-702498,2025-05-25,M. Ortiz,Shell,Advocacy,25.17,USD
+RMP-702499,2025-05-02,A. Noor,Google Ads,Fundraising,36.91,USD
+RMP-702500,2025-01-27,M. Ortiz,Shell,ADVOCACY,11.33,USD
+RMP-702501,2025-03-07,J. Brown,Eventbrite,Prog - Volunteer Training,125.75,USD
+RMP-702502,2025-04-11,S. Patel,Meta Ads,Fundraising,40.78,USD
+RMP-702503,01/23/2026,A. Noor,Google Ads,Prog - Fundraising,214.58,USD
+RMP-702504,04/04/2025,K. Lee,Staples,ADMIN,8.64,USD
+RMP-702505,2025-03-08,A. Noor,Panera,Prog - Volunteer Training,18.65,USD
+RMP-702506,2025-09-07,J. Brown,VistaPrint,Fundraising,42.63,USD
+RMP-702507,2025-05-22,M. Ortiz,Google Ads,Prog - Fundraising,342.14,USD
+RMP-702508,09/24/2025,M. Ortiz,Adobe,Admin,47.94,USD
+RMP-702509,2025-08-03,R. Hall,Adobe,Admin,22.56,USD
+RMP-702510,2026-05-04,A. Noor,Office Depot,ADVOCACY,45.42,USD
+RMP-702511,2026-05-11,M. Ortiz,Uber,ADVOCACY,24.33,USD
+RMP-702512,2026-04-25,M. Ortiz,Meta Ads,FUNDRAISING,104.76,USD
+RMP-702513,05/05/2026,J. Brown,Canva,Volunteer Training,97.05,USD
+RMP-702514,01-Jan-2025,K. Lee,Hilton,Prog - Fundraising,190.42,USD
+RMP-702515,01/09/2025,R. Hall,Shell,Advocacy,10.2,GBP
+RMP-702516,15-Jan-2026,R. Hall,VistaPrint,Fundraising,8.81,USD
+RMP-702517,05/24/2025,R. Hall,Uber,Prog - Advocacy,36.25,USD
+RMP-702518,2025-10-29,S. Patel,Zoom,Advocacy,93.15,USD
+RMP-702519,2026-02-21,A. Noor,Dropbox,Prog - Admin,112.41,USD
+RMP-702520,28-Jun-2025,K. Lee,Office Depot,Prog - Advocacy,55.48,USD
+RMP-702521,10/05/2025,S. Patel,Shell,Advocacy,93.0,USD
+RMP-702522,2025-05-24,K. Lee,Uber,ADVOCACY,174.77,USD
+RMP-702523,2025-12-05,A. Noor,Dropbox,Admin,22.0,USD
+RMP-702524,04-Apr-2026,R. Hall,Google Ads,FUNDRAISING,167.4,USD
+RMP-702525,2025-11-27,J. Brown,VistaPrint,Fundraising,172.06,USD
+RMP-702526,2025-09-27,J. Brown,Udemy,VOLUNTEER TRAINING,27.2,USD
+RMP-702527,2025-07-06,J. Brown,Udemy,Volunteer Training,19.03,USD
+RMP-702528,2025-06-21,K. Lee,Zoom,Advocacy,88.42,USD
+RMP-702529,08-Feb-2026,A. Noor,Uber,Advocacy,268.16,USD
+RMP-702530,13-Apr-2026,M. Ortiz,Eventbrite,Volunteer Training,20.9,USD
+RMP-702531,2025-09-04,M. Ortiz,Hilton,FUNDRAISING,251.71,USD
+RMP-702532,2026-06-07,J. Brown,Shell,Advocacy,18.83,USD
+RMP-702533,2025-04-21,K. Lee,Office Depot,Advocacy,36.67,GBP
+RMP-702534,2025-10-30,M. Ortiz,Office Depot,Prog - Advocacy,16.18,USD
+RMP-702535,18-Apr-2026,K. Lee,Udemy,Volunteer Training,65.87,USD
+RMP-702536,19-Oct-2025,A. Noor,Zoom,ADVOCACY,50.51,USD
+RMP-702537,09/09/2025,J. Brown,Zoom,ADVOCACY,46.74,USD
+RMP-702538,2025-06-24,S. Patel,Zoom,Advocacy,25.41,USD
+RMP-702539,04/19/2025,J. Brown,Staples,ADMIN,30.43,USD
+RMP-702540,06-Dec-2025,S. Patel,Shell,Prog - Advocacy,42.11,GBP
+RMP-702541,2025-01-14,M. Ortiz,Hilton,Fundraising,35.34,USD
+RMP-702542,18-Nov-2025,R. Hall,Eventbrite,VOLUNTEER TRAINING,43.02,USD
+RMP-702543,02/12/2025,S. Patel,VistaPrint,Fundraising,11.62,USD
+RMP-702544,2026-04-06,R. Hall,Shell,Advocacy,6.45,USD
+RMP-702545,2025-04-12,K. Lee,Hilton,FUNDRAISING,61.09,USD
+RMP-702546,01/09/2025,R. Hall,Shell,ADVOCACY,62.91,USD
+RMP-702547,05/29/2025,S. Patel,Office Depot,Advocacy,55.2,GBP
+RMP-702548,12/04/2025,M. Ortiz,Microsoft,Admin,71.88,USD
+RMP-702549,2025-08-12,M. Ortiz,VistaPrint,Prog - Fundraising,29.74,USD
+RMP-702550,04/20/2025,J. Brown,Office Depot,ADVOCACY,32.57,USD
+RMP-702551,2025-12-20,M. Ortiz,Panera,Prog - Volunteer Training,29.07,USD
+RMP-702552,2025-03-25,K. Lee,Canva,Prog - Volunteer Training,8.77,USD
+RMP-702553,2025-03-07,S. Patel,Hilton,Prog - Fundraising,74.98,USD
+RMP-702554,01/23/2026,A. Noor,Google Ads,Prog - Fundraising,90.63,USD
+RMP-702555,2025-05-15,M. Ortiz,Zoom,Advocacy,103.41,USD
+RMP-702556,2025-03-27,R. Hall,Shell,Advocacy,33.79,USD
+RMP-702557,2025-03-25,S. Patel,Udemy,Prog - Volunteer Training,23.43,USD
+RMP-702558,15-Aug-2025,J. Brown,Udemy,VOLUNTEER TRAINING,29.27,USD
+RMP-702559,09/17/2025,A. Noor,Panera,Volunteer Training,28.11,USD
+RMP-702560,2025-01-20,J. Brown,Google Ads,Fundraising,7.37,USD
+RMP-702561,02/04/2025,K. Lee,Google Ads,FUNDRAISING,58.41,USD
+RMP-702562,2026-03-19,J. Brown,Canva,Volunteer Training,95.52,USD
+RMP-702563,09/27/2025,S. Patel,Dropbox,Prog - Admin,54.32,USD
+RMP-702564,2026-02-10,A. Noor,Shell,Advocacy,45.62,USD
+RMP-702565,2026-05-23,J. Brown,Hilton,Fundraising,25.42,USD
+RMP-702566,2025-10-31,J. Brown,Adobe,Prog - Admin,88.75,USD
+RMP-702567,2025-10-12,R. Hall,Canva,VOLUNTEER TRAINING,41.31,USD
+RMP-702568,2025-01-29,R. Hall,Udemy,VOLUNTEER TRAINING,14.93,USD
+RMP-702569,26-Jan-2026,K. Lee,Shell,Advocacy,147.06,USD
+RMP-702570,02/20/2026,S. Patel,Hilton,FUNDRAISING,80.0,USD
+RMP-702571,2025-05-22,J. Brown,Eventbrite,VOLUNTEER TRAINING,198.23,USD
+RMP-702572,2025-12-07,S. Patel,VistaPrint,Fundraising,127.3,USD
+RMP-702573,09/02/2025,M. Ortiz,Zoom,Advocacy,25.52,USD
+RMP-702574,2025-01-05,K. Lee,Shell,Advocacy,34.58,USD
+RMP-702575,2026-03-25,R. Hall,Shell,ADVOCACY,111.1,USD
+RMP-702576,23-Sep-2025,K. Lee,Shell,Prog - Advocacy,15.52,USD
+RMP-702577,2026-05-06,K. Lee,Staples,Prog - Admin,198.4,USD
+RMP-702578,2025-08-27,S. Patel,Staples,ADMIN,60.02,USD
+RMP-702579,2025-09-07,R. Hall,Udemy,Volunteer Training,94.18,USD
+RMP-702580,10/18/2025,R. Hall,Zoom,Prog - Advocacy,59.78,USD
+RMP-702581,27-Jun-2026,J. Brown,Zoom,ADVOCACY,46.9,USD
+RMP-702582,2025-03-20,J. Brown,Meta Ads,FUNDRAISING,34.42,GBP
+RMP-702583,2026-06-05,S. Patel,Uber,ADVOCACY,39.18,USD
+RMP-702584,03/26/2026,S. Patel,VistaPrint,Prog - Fundraising,4.04,USD
+RMP-702585,2025-05-24,M. Ortiz,Uber,Advocacy,74.18,USD
+RMP-702586,2025-04-30,A. Noor,VistaPrint,FUNDRAISING,317.62,USD
+RMP-702587,2025-06-25,A. Noor,Hilton,Fundraising,21.19,USD
+RMP-702588,03/11/2025,K. Lee,Eventbrite,Prog - Volunteer Training,11.93,USD
+RMP-702589,2025-07-22,J. Brown,Meta Ads,Fundraising,183.44,USD
+RMP-702590,2025-06-29,R. Hall,Hilton,Fundraising,62.79,USD
+RMP-702591,2025-04-20,K. Lee,Hilton,Fundraising,100.91,USD
+RMP-702592,2026-02-28,R. Hall,Panera,VOLUNTEER TRAINING,70.31,USD
+RMP-702593,05/18/2026,J. Brown,Zoom,Advocacy,19.4,USD
+RMP-702594,02/10/2026,J. Brown,Dropbox,Prog - Admin,101.29,GBP
+RMP-702595,04/01/2025,M. Ortiz,Google Ads,Prog - Fundraising,28.68,USD
+RMP-702596,10/21/2025,S. Patel,VistaPrint,FUNDRAISING,21.26,USD
+RMP-702597,28-Jan-2026,S. Patel,VistaPrint,Fundraising,79.41,USD
+RMP-702598,2025-02-06,S. Patel,Office Depot,Prog - Advocacy,52.22,USD
+RMP-702599,2026-06-01,A. Noor,Microsoft,Admin,64.83,USD

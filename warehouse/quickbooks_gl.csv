@@ -1,0 +1,1801 @@
+qb_txn_id,txn_date,account,class,amount,memo,program
+QB-1076,2025-01-05,Salaries & Wages,Advocacy,664.51,,Advocacy
+QB-1276,2026-04-25,Salaries & Wages,Admin,508.98,,Admin
+QB-1149,2025-02-21,Salaries & Wages,Advocacy,473.02,,Advocacy
+QB-264,2025-12-26,Program Supplies,Advocacy,68.65,,Advocacy
+QB-736,2025-01-31,Software,Advocacy,216.02,,Advocacy
+QB-1769,2025-06-19,Software,Prog - Volunteer Training,698.68,,Volunteer Training
+QB-216,2026-04-07,Software,VOLUNTEER TRAINING,483.87,,Volunteer Training
+QB-1160,2026-01-27,Software,Fundraising,793.87,,Fundraising
+QB-1750,2025-03-11,Program Supplies,Admin,53.66,,Admin
+QB-507,2026-05-15,Salaries & Wages,Prog - Advocacy,119.84,,Advocacy
+QB-842,2025-07-22,Program Supplies,Prog - Admin,805.65,,Admin
+QB-29,2025-03-26,Software,Prog - Advocacy,226.46,,Advocacy
+QB-1209,2025-07-18,Salaries & Wages,Prog - Advocacy,624.97,,Advocacy
+QB-1303,2025-11-27,Program Supplies,Advocacy,171.31,,Advocacy
+QB-840,2026-05-10,Insurance,FUNDRAISING,190.13,,Fundraising
+QB-454,2026-06-02,Salaries & Wages,Admin,987.31,,Admin
+QB-565,2026-01-08,Salaries & Wages,Volunteer Training,1037.88,,Volunteer Training
+QB-604,2025-09-04,Salaries & Wages,ADVOCACY,235.15,,Advocacy
+QB-1418,2025-10-08,Salaries & Wages,Volunteer Training,551.64,,Volunteer Training
+QB-1042,2026-06-04,Program Supplies,FUNDRAISING,1287.99,,Fundraising
+QB-1445,2025-08-29,Salaries & Wages,Admin,771.56,,Admin
+QB-528,2025-05-07,Professional Fees,Advocacy,1618.02,,Advocacy
+QB-928,2025-10-11,Salaries & Wages,Fundraising,344.79,,Fundraising
+QB-648,2026-01-31,Professional Fees,FUNDRAISING,1092.48,,Fundraising
+QB-1709,2025-02-14,Insurance,Fundraising,1237.6,,Fundraising
+QB-326,2025-01-21,Salaries & Wages,FUNDRAISING,566.4,,Fundraising
+QB-1339,2025-01-22,Salaries & Wages,ADVOCACY,557.9,,Advocacy
+QB-1257,2026-01-23,Program Supplies,ADVOCACY,250.18,,Advocacy
+QB-1444,2025-05-01,Program Supplies,Prog - Fundraising,165.8,,Fundraising
+QB-1631,2025-09-27,Program Supplies,ADMIN,134.79,,Admin
+QB-1686,2025-04-29,Salaries & Wages,Volunteer Training,633.99,,Volunteer Training
+QB-1475,2025-02-25,Software,Advocacy,66.25,,Advocacy
+QB-1272,2025-09-14,Salaries & Wages,Admin,2689.27,,Admin
+QB-1734,2025-01-24,Insurance,Fundraising,758.52,,Fundraising
+QB-1610,2026-04-08,Software,Prog - Volunteer Training,205.75,,Volunteer Training
+QB-1080,2025-03-13,Rent,Prog - Advocacy,928.77,,Advocacy
+QB-854,2026-04-12,Salaries & Wages,Advocacy,87.0,,Advocacy
+QB-850,2026-05-04,Salaries & Wages,Volunteer Training,695.39,,Volunteer Training
+QB-37,2026-05-23,Salaries & Wages,Admin,356.67,,Admin
+QB-1092,2025-08-17,Rent,Advocacy,242.24,,Advocacy
+QB-860,2025-06-14,Professional Fees,Advocacy,17867.14,,Advocacy
+QB-469,2025-03-05,Program Supplies,FUNDRAISING,300.28,,Fundraising
+QB-1035,2026-05-16,Software,Admin,443.23,,Admin
+QB-761,2025-09-26,Salaries & Wages,Advocacy,815.35,,Advocacy
+QB-962,2026-05-27,Salaries & Wages,Prog - Fundraising,353.07,,Fundraising
+QB-1090,2025-09-12,Software,Advocacy,266.56,,Advocacy
+QB-235,2026-02-21,Rent,ADMIN,206.66,,Admin
+QB-230,2025-09-06,Salaries & Wages,Fundraising,201.55,,Fundraising
+QB-1029,2025-06-25,Software,Admin,568.45,,Admin
+QB-1196,2025-09-29,Software,Prog - Advocacy,586.4,,Advocacy
+QB-183,2025-10-28,Professional Fees,Admin,53.09,,Admin
+QB-212,2026-04-06,Professional Fees,Fundraising,1388.54,,Fundraising
+QB-1486,2025-08-15,Program Supplies,Prog - Admin,364.4,,Admin
+QB-437,2026-05-11,Insurance,Volunteer Training,542.75,,Volunteer Training
+QB-1213,2026-04-19,Professional Fees,Admin,1680.23,,Admin
+QB-101,2025-02-15,Program Supplies,Advocacy,1176.79,,Advocacy
+QB-1443,2025-04-20,Insurance,,835.65,,Unallocated
+QB-219,2026-03-08,Rent,Advocacy,276.25,,Advocacy
+QB-275,2025-11-10,Insurance,FUNDRAISING,639.15,,Fundraising
+QB-329,2026-04-17,Insurance,Fundraising,146.41,,Fundraising
+QB-621,2025-12-21,Salaries & Wages,Prog - Advocacy,285.61,,Advocacy
+QB-148,2026-06-16,Program Supplies,Admin,110.94,,Admin
+QB-1601,2025-12-05,Software,Prog - Advocacy,58.92,,Advocacy
+QB-1417,2025-10-16,Program Supplies,Prog - Admin,63.72,,Admin
+QB-85,2025-04-16,Insurance,ADVOCACY,239.63,,Advocacy
+QB-196,2025-07-29,Software,Prog - Advocacy,1326.73,,Advocacy
+QB-1643,2025-09-24,Salaries & Wages,Prog - Fundraising,485.89,,Fundraising
+QB-95,2025-12-29,Program Supplies,Prog - Advocacy,356.72,,Advocacy
+QB-470,2025-04-06,Software,Prog - Fundraising,113.24,,Fundraising
+QB-1352,2026-06-27,Software,FUNDRAISING,494.11,,Fundraising
+QB-1024,2026-04-01,Program Supplies,Prog - Advocacy,126.11,,Advocacy
+QB-773,2026-04-23,Salaries & Wages,Advocacy,605.09,,Advocacy
+QB-837,2026-01-31,Insurance,Volunteer Training,235.93,,Volunteer Training
+QB-729,2025-10-10,Salaries & Wages,Volunteer Training,375.57,,Volunteer Training
+QB-1673,2026-03-23,Professional Fees,Prog - Admin,197.25,,Admin
+QB-1627,2026-04-27,Insurance,Prog - Advocacy,254.87,,Advocacy
+QB-1036,2025-11-08,Salaries & Wages,Prog - Advocacy,807.22,,Advocacy
+QB-1737,2025-07-06,Insurance,Advocacy,7194.23,,Advocacy
+QB-1281,2025-03-11,Salaries & Wages,Admin,132.98,,Admin
+QB-766,2025-08-30,Salaries & Wages,Prog - Advocacy,1335.33,,Advocacy
+QB-1440,2026-06-02,Insurance,Admin,1461.63,,Admin
+QB-1546,2025-07-11,Software,ADVOCACY,5640.94,,Advocacy
+QB-353,2025-11-02,Software,ADVOCACY,567.7,,Advocacy
+QB-1717,2025-05-04,Program Supplies,,775.93,,Unallocated
+QB-588,2025-01-14,Insurance,VOLUNTEER TRAINING,530.01,,Volunteer Training
+QB-781,2026-06-01,Salaries & Wages,Volunteer Training,1799.91,,Volunteer Training
+QB-174,2025-09-20,Rent,Prog - Advocacy,780.49,,Advocacy
+QB-841,2026-02-07,Software,Fundraising,1195.57,,Fundraising
+QB-1725,2025-04-13,Professional Fees,Fundraising,1300.24,,Fundraising
+QB-1470,2025-09-13,Professional Fees,Fundraising,1065.46,,Fundraising
+QB-1752,2026-02-06,Program Supplies,Advocacy,116.42,,Advocacy
+QB-1573,2025-04-10,Software,Fundraising,657.65,,Fundraising
+QB-1248,2025-06-18,Program Supplies,Prog - Admin,278.31,,Admin
+QB-1572,2025-02-20,Professional Fees,Volunteer Training,253.81,,Volunteer Training
+QB-1749,2025-03-23,Salaries & Wages,ADVOCACY,1068.24,,Advocacy
+QB-1538,2025-05-31,Salaries & Wages,VOLUNTEER TRAINING,109.84,,Volunteer Training
+QB-828,2026-03-16,Program Supplies,Prog - Advocacy,318.93,,Advocacy
+QB-992,2025-05-15,Salaries & Wages,Prog - Volunteer Training,165.55,,Volunteer Training
+QB-1166,2025-09-14,Salaries & Wages,Advocacy,90.95,,Advocacy
+QB-484,2025-03-22,Salaries & Wages,Prog - Fundraising,35.26,,Fundraising
+QB-1628,2025-05-21,Salaries & Wages,Admin,419.75,,Admin
+QB-365,2026-02-17,Program Supplies,VOLUNTEER TRAINING,768.57,,Volunteer Training
+QB-1254,2025-06-01,Insurance,Admin,727.49,,Admin
+QB-423,2025-06-20,Software,Volunteer Training,337.55,,Volunteer Training
+QB-1497,2025-12-21,Insurance,Prog - Advocacy,202.91,,Advocacy
+QB-110,2025-06-16,Software,Advocacy,1158.53,,Advocacy
+QB-798,2025-02-24,Professional Fees,FUNDRAISING,285.96,,Fundraising
+QB-1051,2025-11-16,Salaries & Wages,Prog - Admin,127.57,,Admin
+QB-1316,2025-11-04,Salaries & Wages,Fundraising,421.36,,Fundraising
+QB-28,2025-11-20,Program Supplies,Prog - Volunteer Training,1550.79,,Volunteer Training
+QB-147,2025-01-05,Salaries & Wages,Prog - Fundraising,2705.79,,Fundraising
+QB-263,2026-06-07,Salaries & Wages,ADVOCACY,330.17,,Advocacy
+QB-832,2025-10-22,Insurance,FUNDRAISING,1160.28,,Fundraising
+QB-1207,2026-05-10,Salaries & Wages,ADVOCACY,2025.44,,Advocacy
+QB-806,2025-08-04,Program Supplies,Advocacy,660.03,,Advocacy
+QB-913,2026-04-14,Program Supplies,Prog - Volunteer Training,791.86,,Volunteer Training
+QB-57,2025-04-10,Program Supplies,Advocacy,270.26,,Advocacy
+QB-1554,2026-02-15,Salaries & Wages,Prog - Volunteer Training,519.98,,Volunteer Training
+QB-756,2025-05-04,Salaries & Wages,Prog - Advocacy,189.65,,Advocacy
+QB-1770,2025-09-03,Software,Advocacy,1846.61,,Advocacy
+QB-176,2025-06-22,Salaries & Wages,Admin,967.82,,Admin
+QB-1370,2026-04-01,Insurance,Advocacy,252.71,,Advocacy
+QB-379,2025-12-20,Salaries & Wages,VOLUNTEER TRAINING,437.67,,Volunteer Training
+QB-856,2025-02-25,Insurance,ADVOCACY,729.24,,Advocacy
+QB-90,2025-01-28,Program Supplies,Advocacy,63.77,,Advocacy
+QB-1763,2026-02-15,Salaries & Wages,ADMIN,895.2,,Admin
+QB-1068,2025-09-24,Software,Fundraising,25917.06,,Fundraising
+QB-762,2025-07-14,Salaries & Wages,,592.74,,Unallocated
+QB-1637,2025-02-14,Professional Fees,Advocacy,237.66,,Advocacy
+QB-1703,2026-02-05,Salaries & Wages,Prog - Volunteer Training,162.61,,Volunteer Training
+QB-1753,2026-06-09,Salaries & Wages,ADMIN,152.33,,Admin
+QB-887,2025-05-31,Program Supplies,Advocacy,1836.18,,Advocacy
+QB-241,2025-04-14,Rent,Advocacy,5461.51,,Advocacy
+QB-1790,2025-12-26,Professional Fees,ADMIN,305.14,,Admin
+QB-1653,2026-05-13,Software,Advocacy,400.25,,Advocacy
+QB-742,2025-04-17,Salaries & Wages,Admin,860.73,,Admin
+QB-613,2025-01-28,Program Supplies,ADVOCACY,706.7,,Advocacy
+QB-695,2025-03-15,Salaries & Wages,Prog - Advocacy,400.05,,Advocacy
+QB-592,2025-02-03,Software,ADMIN,184.19,,Admin
+QB-373,2025-11-21,Salaries & Wages,FUNDRAISING,45.07,,Fundraising
+QB-1145,2026-04-07,Insurance,Admin,294.38,,Admin
+QB-1253,2025-07-12,Salaries & Wages,Admin,197.98,,Admin
+QB-881,2025-02-12,Professional Fees,ADVOCACY,103.15,,Advocacy
+QB-68,2025-07-07,Salaries & Wages,Prog - Advocacy,149.89,,Advocacy
+QB-1794,2025-12-07,Rent,ADVOCACY,1077.14,,Advocacy
+QB-822,2026-06-19,Program Supplies,Prog - Volunteer Training,71.96,,Volunteer Training
+QB-543,2025-12-25,Software,Volunteer Training,92.63,,Volunteer Training
+QB-1783,2025-05-10,Program Supplies,Prog - Fundraising,644.74,,Fundraising
+QB-920,2026-02-24,Professional Fees,VOLUNTEER TRAINING,883.28,,Volunteer Training
+QB-1318,2026-05-29,Insurance,Fundraising,1986.51,,Fundraising
+QB-1098,2026-06-25,Program Supplies,Admin,1029.08,,Admin
+QB-1002,2026-04-04,Professional Fees,,1459.39,,Unallocated
+QB-1757,2025-11-29,Professional Fees,Advocacy,682.6,,Advocacy
+QB-1041,2025-05-12,Software,ADVOCACY,61.84,,Advocacy
+QB-1028,2025-08-27,Insurance,Prog - Admin,32.76,,Admin
+QB-64,2025-02-08,Rent,Fundraising,171.58,,Fundraising
+QB-1413,2026-06-25,Program Supplies,Advocacy,603.0,,Advocacy
+QB-684,2025-03-19,Salaries & Wages,Advocacy,288.79,,Advocacy
+QB-27,2025-09-26,Salaries & Wages,Prog - Advocacy,339.32,,Advocacy
+QB-1761,2025-07-08,Salaries & Wages,Fundraising,7092.83,,Fundraising
+QB-775,2026-05-13,Program Supplies,Advocacy,6886.19,,Advocacy
+QB-134,2026-06-24,Software,Advocacy,5589.93,,Advocacy
+QB-869,2026-01-29,Professional Fees,FUNDRAISING,103.71,,Fundraising
+QB-1740,2025-10-21,Insurance,ADVOCACY,883.27,,Advocacy
+QB-582,2025-12-07,Rent,ADVOCACY,787.22,,Advocacy
+QB-311,2025-05-15,Rent,Admin,632.71,,Admin
+QB-1567,2026-03-04,Professional Fees,Volunteer Training,563.2,,Volunteer Training
+QB-804,2025-09-25,Salaries & Wages,Advocacy,1126.7,,Advocacy
+QB-210,2026-05-27,Salaries & Wages,ADVOCACY,44.48,,Advocacy
+QB-593,2025-08-22,Program Supplies,Fundraising,99.86,,Fundraising
+QB-675,2025-10-10,Program Supplies,Volunteer Training,12451.09,,Volunteer Training
+QB-1199,2026-01-21,Software,,729.4,,Unallocated
+QB-295,2025-04-12,Program Supplies,Advocacy,343.71,,Advocacy
+QB-16,2025-10-27,Salaries & Wages,Prog - Admin,308.5,,Admin
+QB-1376,2025-06-16,Insurance,Advocacy,726.1,,Advocacy
+QB-1695,2025-01-16,Insurance,ADVOCACY,479.65,,Advocacy
+QB-728,2025-06-16,Program Supplies,Advocacy,2800.88,,Advocacy
+QB-831,2026-03-02,Insurance,Admin,458.85,,Admin
+QB-1152,2025-12-11,Salaries & Wages,ADVOCACY,5750.8,,Advocacy
+QB-871,2025-01-26,Program Supplies,Prog - Volunteer Training,325.48,,Volunteer Training
+QB-579,2025-11-03,Program Supplies,Prog - Advocacy,209.32,,Advocacy
+QB-1558,2026-04-05,Professional Fees,Prog - Admin,210.0,,Admin
+QB-1409,2025-11-09,Software,VOLUNTEER TRAINING,1039.93,,Volunteer Training
+QB-1411,2026-02-08,Software,Prog - Advocacy,474.12,,Advocacy
+QB-495,2025-10-14,Professional Fees,Volunteer Training,758.18,,Volunteer Training
+QB-1437,2025-08-13,Program Supplies,Admin,90.85,,Admin
+QB-819,2025-03-04,Software,ADMIN,139.53,,Admin
+QB-1249,2026-06-16,Software,Prog - Fundraising,1067.98,,Fundraising
+QB-1101,2025-06-19,Software,ADMIN,120.09,,Admin
+QB-1474,2026-01-10,Salaries & Wages,ADVOCACY,609.15,,Advocacy
+QB-589,2025-01-14,Program Supplies,Advocacy,332.81,,Advocacy
+QB-1378,2025-05-20,Program Supplies,Advocacy,434.6,,Advocacy
+QB-1297,2025-01-02,Salaries & Wages,Advocacy,289.01,,Advocacy
+QB-794,2025-01-13,Insurance,Admin,3977.51,,Admin
+QB-1264,2025-07-28,Salaries & Wages,Fundraising,1406.3,,Fundraising
+QB-1215,2026-03-02,Software,ADMIN,96.56,,Admin
+QB-20,2026-05-03,Professional Fees,ADVOCACY,541.65,,Advocacy
+QB-1592,2025-03-30,Professional Fees,ADVOCACY,136.69,,Advocacy
+QB-893,2025-03-22,Rent,ADVOCACY,187.42,,Advocacy
+QB-1565,2025-10-18,Rent,Advocacy,162.5,,Advocacy
+QB-145,2025-04-21,Salaries & Wages,Prog - Advocacy,378.39,,Advocacy
+QB-1283,2025-01-02,Insurance,Prog - Fundraising,211.52,,Fundraising
+QB-778,2025-03-12,Insurance,Fundraising,199.1,,Fundraising
+QB-359,2025-11-25,Salaries & Wages,Prog - Fundraising,95.77,,Fundraising
+QB-1529,2026-04-25,Insurance,Admin,1610.47,,Admin
+QB-1118,2025-01-05,Salaries & Wages,Advocacy,94.29,,Advocacy
+QB-638,2026-03-14,Program Supplies,Prog - Advocacy,783.42,,Advocacy
+QB-1232,2025-10-08,Salaries & Wages,ADMIN,417.29,,Admin
+QB-1198,2025-03-28,Program Supplies,,2403.2,,Unallocated
+QB-245,2026-01-25,Salaries & Wages,Advocacy,1175.01,,Advocacy
+QB-182,2025-09-21,Program Supplies,ADMIN,228.15,,Admin
+QB-1448,2026-04-10,Program Supplies,Admin,2478.45,,Admin
+QB-1493,2025-03-30,Salaries & Wages,,1428.0,,Unallocated
+QB-248,2026-01-18,Software,ADMIN,1102.37,,Admin
+QB-614,2026-01-05,Salaries & Wages,Advocacy,276.61,,Advocacy
+QB-1656,2025-01-05,Professional Fees,Volunteer Training,1055.91,,Volunteer Training
+QB-1093,2026-01-02,Rent,Advocacy,769.32,,Advocacy
+QB-130,2025-07-14,Salaries & Wages,Admin,150.92,,Admin
+QB-404,2026-04-09,Software,Fundraising,167.87,,Fundraising
+QB-1659,2026-02-27,Program Supplies,Prog - Advocacy,384.72,,Advocacy
+QB-181,2026-02-21,Professional Fees,Prog - Volunteer Training,977.6,,Volunteer Training
+QB-1060,2025-11-14,Software,Admin,118.6,,Admin
+QB-107,2025-10-29,Salaries & Wages,Advocacy,125.26,,Advocacy
+QB-1715,2025-09-26,Salaries & Wages,Fundraising,164.73,,Fundraising
+QB-952,2026-02-09,Salaries & Wages,Advocacy,489.36,,Advocacy
+QB-689,2025-02-24,Program Supplies,Advocacy,255.1,,Advocacy
+QB-705,2025-06-14,Salaries & Wages,Prog - Advocacy,3869.69,,Advocacy
+QB-1284,2026-05-10,Rent,Fundraising,762.87,,Fundraising
+QB-801,2025-03-27,Salaries & Wages,ADVOCACY,526.2,,Advocacy
+QB-1178,2025-03-22,Salaries & Wages,Admin,869.65,,Admin
+QB-1599,2025-04-15,Professional Fees,Admin,216.16,,Admin
+QB-1025,2026-06-13,Program Supplies,Volunteer Training,238.08,,Volunteer Training
+QB-165,2026-05-30,Rent,Advocacy,566.93,,Advocacy
+QB-140,2026-06-07,Salaries & Wages,Fundraising,249.39,,Fundraising
+QB-1057,2026-05-01,Program Supplies,Advocacy,275.72,,Advocacy
+QB-1148,2025-04-17,Insurance,Advocacy,130.83,,Advocacy
+QB-1307,2025-01-30,Program Supplies,Prog - Volunteer Training,327.28,,Volunteer Training
+QB-1033,2026-05-24,Professional Fees,Prog - Fundraising,285.36,,Fundraising
+QB-1699,2025-01-11,Salaries & Wages,,679.76,,Unallocated
+QB-1174,2025-06-22,Rent,Prog - Advocacy,1030.74,,Advocacy
+QB-1506,2025-07-09,Software,,622.75,,Unallocated
+QB-1212,2025-12-08,Rent,Prog - Advocacy,612.81,,Advocacy
+QB-56,2026-01-04,Software,Advocacy,72.19,,Advocacy
+QB-1187,2026-04-06,Software,Prog - Admin,1978.33,,Admin
+QB-1122,2025-05-27,Insurance,Prog - Advocacy,581.24,,Advocacy
+QB-339,2026-02-28,Software,Volunteer Training,201.57,,Volunteer Training
+QB-1150,2025-10-21,Professional Fees,ADVOCACY,83.73,,Advocacy
+QB-1091,2025-06-28,Insurance,FUNDRAISING,229.37,,Fundraising
+QB-1724,2025-09-01,Salaries & Wages,Advocacy,907.13,,Advocacy
+QB-492,2025-05-16,Salaries & Wages,ADVOCACY,731.26,,Advocacy
+QB-1556,2025-08-31,Salaries & Wages,,195.74,,Unallocated
+QB-1309,2025-05-13,Rent,Fundraising,2767.56,,Fundraising
+QB-1489,2025-11-03,Salaries & Wages,FUNDRAISING,675.21,,Fundraising
+QB-298,2026-02-10,Salaries & Wages,Advocacy,135.79,,Advocacy
+QB-375,2025-12-13,Program Supplies,Advocacy,763.01,,Advocacy
+QB-719,2025-08-20,Program Supplies,FUNDRAISING,334.04,,Fundraising
+QB-18,2025-10-06,Professional Fees,Advocacy,69.02,,Advocacy
+QB-66,2025-12-24,Professional Fees,ADMIN,473.16,,Admin
+QB-1343,2026-01-08,Salaries & Wages,Advocacy,480.03,,Advocacy
+QB-1523,2025-12-05,Salaries & Wages,ADVOCACY,634.77,,Advocacy
+QB-663,2026-04-17,Program Supplies,Fundraising,557.78,,Fundraising
+QB-510,2025-10-27,Professional Fees,Admin,262.1,,Admin
+QB-372,2026-05-08,Insurance,ADMIN,418.88,,Admin
+QB-1788,2025-06-03,Salaries & Wages,ADVOCACY,184.0,,Advocacy
+QB-234,2025-04-19,Program Supplies,Admin,602.73,,Admin
+QB-1796,2025-06-18,Program Supplies,Prog - Admin,3061.99,,Admin
+QB-1082,2025-03-23,Professional Fees,ADVOCACY,375.53,,Advocacy
+QB-731,2026-01-02,Salaries & Wages,ADMIN,106.11,,Admin
+QB-1244,2025-06-06,Salaries & Wages,Prog - Admin,733.53,,Admin
+QB-1657,2026-06-05,Salaries & Wages,VOLUNTEER TRAINING,273.6,,Volunteer Training
+QB-1050,2025-04-15,Professional Fees,Advocacy,1622.3,,Advocacy
+QB-256,2025-04-16,Program Supplies,Advocacy,43.38,,Advocacy
+QB-1010,2026-02-25,Salaries & Wages,Volunteer Training,4675.0,,Volunteer Training
+QB-104,2026-05-05,Salaries & Wages,Prog - Advocacy,578.34,,Advocacy
+QB-222,2026-05-18,Salaries & Wages,,599.38,,Unallocated
+QB-915,2025-01-01,Salaries & Wages,Admin,1557.09,,Admin
+QB-1595,2025-11-14,Salaries & Wages,VOLUNTEER TRAINING,788.05,,Volunteer Training
+QB-1141,2025-05-02,Program Supplies,Prog - Admin,1759.06,,Admin
+QB-1163,2026-01-20,Salaries & Wages,Prog - Admin,129.08,,Admin
+QB-152,2025-07-31,Salaries & Wages,ADMIN,2097.97,,Admin
+QB-382,2025-11-19,Rent,Prog - Volunteer Training,2140.75,,Volunteer Training
+QB-1112,2025-08-21,Insurance,ADMIN,80.19,,Admin
+QB-1214,2026-02-01,Salaries & Wages,Advocacy,460.24,,Advocacy
+QB-814,2025-12-17,Software,Fundraising,1099.83,,Fundraising
+QB-1661,2025-11-13,Salaries & Wages,FUNDRAISING,946.67,,Fundraising
+QB-908,2025-08-02,Insurance,ADVOCACY,384.3,,Advocacy
+QB-1436,2025-02-27,Software,Fundraising,425.5,,Fundraising
+QB-838,2025-01-22,Salaries & Wages,Fundraising,516.22,,Fundraising
+QB-950,2026-03-14,Salaries & Wages,Advocacy,638.47,,Advocacy
+QB-282,2025-08-19,Program Supplies,Prog - Admin,369.78,,Admin
+QB-47,2026-03-23,Salaries & Wages,Advocacy,4773.47,,Advocacy
+QB-1680,2025-03-28,Salaries & Wages,Prog - Fundraising,1374.65,,Fundraising
+QB-87,2026-06-06,Salaries & Wages,ADVOCACY,102.38,,Advocacy
+QB-707,2026-03-12,Insurance,Prog - Volunteer Training,575.24,,Volunteer Training
+QB-1331,2025-03-29,Salaries & Wages,Admin,350.66,,Admin
+QB-213,2025-11-21,Salaries & Wages,Fundraising,285.92,,Fundraising
+QB-1175,2025-11-26,Salaries & Wages,Prog - Advocacy,141.31,,Advocacy
+QB-1353,2025-10-04,Program Supplies,ADVOCACY,114.64,,Advocacy
+QB-42,2025-01-30,Program Supplies,Admin,61.88,,Admin
+QB-737,2026-05-01,Professional Fees,Prog - Fundraising,1411.26,,Fundraising
+QB-278,2026-06-01,Salaries & Wages,Prog - Volunteer Training,276.52,,Volunteer Training
+QB-427,2026-02-10,Professional Fees,Prog - Admin,411.53,,Admin
+QB-1382,2025-10-26,Salaries & Wages,Advocacy,1264.82,,Advocacy
+QB-1758,2025-07-24,Program Supplies,Prog - Advocacy,471.3,,Advocacy
+QB-823,2025-03-20,Salaries & Wages,VOLUNTEER TRAINING,280.67,,Volunteer Training
+QB-1142,2025-05-04,Rent,ADVOCACY,7795.1,,Advocacy
+QB-97,2026-05-06,Salaries & Wages,ADVOCACY,332.8,,Advocacy
+QB-912,2025-03-04,Rent,Advocacy,3500.02,,Advocacy
+QB-629,2025-07-19,Insurance,Prog - Advocacy,50.92,,Advocacy
+QB-330,2025-05-18,Professional Fees,Prog - Admin,1331.66,,Admin
+QB-277,2025-09-01,Salaries & Wages,Admin,219.31,,Admin
+QB-815,2026-03-27,Software,Advocacy,131.51,,Advocacy
+QB-168,2026-03-21,Salaries & Wages,Fundraising,905.31,,Fundraising
+QB-54,2025-02-23,Program Supplies,Prog - Advocacy,382.38,,Advocacy
+QB-1363,2025-11-24,Salaries & Wages,Advocacy,799.44,,Advocacy
+QB-862,2026-02-22,Professional Fees,Advocacy,977.05,,Advocacy
+QB-169,2025-12-01,Professional Fees,ADMIN,475.68,,Admin
+QB-1158,2025-11-16,Salaries & Wages,Admin,1356.12,,Admin
+QB-1598,2025-09-26,Salaries & Wages,ADMIN,441.99,,Admin
+QB-352,2025-03-20,Program Supplies,ADMIN,302.21,,Admin
+QB-1786,2025-07-29,Program Supplies,Advocacy,1567.75,,Advocacy
+QB-1338,2026-06-30,Software,Prog - Fundraising,1368.83,,Fundraising
+QB-471,2026-06-24,Professional Fees,ADVOCACY,279.9,,Advocacy
+QB-1192,2026-05-31,Insurance,Admin,381.24,,Admin
+QB-173,2025-04-14,Salaries & Wages,Volunteer Training,252.26,,Volunteer Training
+QB-1605,2025-01-17,Software,VOLUNTEER TRAINING,381.68,,Volunteer Training
+QB-1500,2026-02-08,Professional Fees,ADVOCACY,1007.99,,Advocacy
+QB-1682,2025-10-28,Software,Fundraising,628.64,,Fundraising
+QB-332,2026-02-09,Salaries & Wages,Admin,142.41,,Admin
+QB-149,2025-10-22,Program Supplies,Prog - Advocacy,256.0,,Advocacy
+QB-48,2026-03-08,Salaries & Wages,Prog - Fundraising,401.42,,Fundraising
+QB-1541,2025-12-11,Salaries & Wages,Prog - Volunteer Training,2600.9,,Volunteer Training
+QB-442,2025-03-05,Program Supplies,,813.17,,Unallocated
+QB-1172,2025-10-12,Salaries & Wages,ADMIN,477.31,,Admin
+QB-1457,2026-06-20,Program Supplies,Fundraising,96.7,,Fundraising
+QB-25,2026-04-19,Software,Prog - Advocacy,2631.08,,Advocacy
+QB-1678,2025-01-10,Software,Prog - Admin,79.52,,Admin
+QB-539,2025-06-07,Salaries & Wages,Advocacy,1174.85,,Advocacy
+QB-958,2025-05-16,Software,Prog - Admin,689.98,,Admin
+QB-886,2025-03-24,Software,Prog - Advocacy,674.12,,Advocacy
+QB-1235,2025-03-19,Program Supplies,Advocacy,1321.44,,Advocacy
+QB-43,2026-01-09,Software,Advocacy,770.38,,Advocacy
+QB-96,2025-02-07,Rent,FUNDRAISING,1435.7,,Fundraising
+QB-628,2025-11-30,Professional Fees,Advocacy,468.9,,Advocacy
+QB-1269,2025-01-31,Professional Fees,Admin,48.79,,Admin
+QB-1684,2025-03-23,Software,ADMIN,850.46,,Admin
+QB-426,2025-04-15,Rent,ADVOCACY,115.06,,Advocacy
+QB-115,2025-04-06,Program Supplies,ADVOCACY,1651.67,,Advocacy
+QB-1650,2025-07-19,Salaries & Wages,Advocacy,479.22,,Advocacy
+QB-599,2025-06-25,Program Supplies,Prog - Advocacy,801.19,,Advocacy
+QB-1348,2026-03-16,Professional Fees,Prog - Volunteer Training,214.13,,Volunteer Training
+QB-1507,2025-01-18,Salaries & Wages,Fundraising,668.73,,Fundraising
+QB-79,2025-12-11,Salaries & Wages,Advocacy,558.15,,Advocacy
+QB-1625,2025-09-10,Program Supplies,Prog - Volunteer Training,726.53,,Volunteer Training
+QB-1449,2025-08-25,Salaries & Wages,ADVOCACY,417.8,,Advocacy
+QB-1591,2025-10-27,Program Supplies,Prog - Fundraising,991.72,,Fundraising
+QB-202,2025-01-16,Rent,Volunteer Training,122.84,,Volunteer Training
+QB-1365,2025-06-12,Salaries & Wages,Advocacy,283.85,,Advocacy
+QB-1451,2025-05-29,Salaries & Wages,VOLUNTEER TRAINING,530.64,,Volunteer Training
+QB-317,2026-01-14,Software,Advocacy,284.18,,Advocacy
+QB-1722,2025-08-05,Program Supplies,FUNDRAISING,729.3,,Fundraising
+QB-331,2025-08-18,Program Supplies,Fundraising,226.35,,Fundraising
+QB-464,2025-07-20,Salaries & Wages,VOLUNTEER TRAINING,413.0,,Volunteer Training
+QB-964,2025-07-04,Salaries & Wages,Prog - Volunteer Training,1930.02,,Volunteer Training
+QB-1013,2025-09-04,Salaries & Wages,VOLUNTEER TRAINING,364.51,,Volunteer Training
+QB-948,2026-02-11,Program Supplies,Fundraising,171.13,,Fundraising
+QB-1553,2026-02-25,Rent,ADVOCACY,4271.55,,Advocacy
+QB-755,2025-04-15,Salaries & Wages,Advocacy,113.94,,Advocacy
+QB-966,2025-06-12,Program Supplies,ADMIN,127.94,,Admin
+QB-883,2025-03-24,Rent,Prog - Admin,1061.36,,Admin
+QB-853,2025-11-14,Rent,Advocacy,81.61,,Advocacy
+QB-609,2025-01-25,Program Supplies,Advocacy,550.82,,Advocacy
+QB-1756,2025-12-04,Salaries & Wages,Prog - Admin,4846.95,,Admin
+QB-1690,2025-11-10,Software,Advocacy,246.85,,Advocacy
+QB-1582,2025-04-26,Salaries & Wages,Advocacy,126.41,,Advocacy
+QB-1696,2026-05-31,Rent,VOLUNTEER TRAINING,177.04,,Volunteer Training
+QB-155,2025-09-17,Insurance,Volunteer Training,789.7,,Volunteer Training
+QB-1182,2025-07-07,Insurance,Advocacy,64.76,,Advocacy
+QB-703,2026-03-17,Rent,Fundraising,1213.51,,Fundraising
+QB-961,2025-06-11,Salaries & Wages,VOLUNTEER TRAINING,535.94,,Volunteer Training
+QB-1323,2025-10-21,Insurance,Prog - Fundraising,13398.76,,Fundraising
+QB-262,2025-11-10,Salaries & Wages,ADMIN,98.57,,Admin
+QB-1548,2026-05-16,Professional Fees,Prog - Admin,303.14,,Admin
+QB-361,2026-02-23,Program Supplies,Advocacy,133.32,,Advocacy
+QB-1161,2025-10-12,Salaries & Wages,ADVOCACY,12.13,,Advocacy
+QB-1231,2025-02-20,Program Supplies,Advocacy,2483.03,,Advocacy
+QB-1144,2025-10-16,Software,ADVOCACY,2307.64,,Advocacy
+QB-1102,2025-06-24,Rent,Fundraising,397.26,,Fundraising
+QB-1079,2025-02-27,Salaries & Wages,ADMIN,300.05,,Admin
+QB-934,2026-01-21,Program Supplies,Admin,100.68,,Admin
+QB-193,2026-03-12,Rent,Prog - Advocacy,1172.75,,Advocacy
+QB-969,2025-10-26,Salaries & Wages,Prog - Admin,141.91,,Admin
+QB-701,2025-12-09,Program Supplies,Admin,427.79,,Admin
+QB-1143,2026-06-19,Software,,87.44,,Unallocated
+QB-1622,2026-06-19,Rent,Advocacy,217.19,,Advocacy
+QB-1748,2025-06-17,Software,Advocacy,276.41,,Advocacy
+QB-545,2026-01-22,Insurance,Prog - Admin,29.38,,Admin
+QB-988,2025-12-10,Insurance,Prog - Admin,205.94,,Admin
+QB-581,2025-08-22,Program Supplies,Prog - Admin,1917.74,,Admin
+QB-1295,2025-08-08,Salaries & Wages,Fundraising,327.39,,Fundraising
+QB-1,2025-10-23,Professional Fees,Prog - Admin,559.16,,Admin
+QB-810,2026-05-28,Salaries & Wages,Advocacy,982.89,,Advocacy
+QB-895,2025-12-02,Rent,Advocacy,264.04,,Advocacy
+QB-986,2025-07-04,Salaries & Wages,Advocacy,467.53,,Advocacy
+QB-1738,2025-04-22,Software,Volunteer Training,1915.04,,Volunteer Training
+QB-1191,2026-02-14,Salaries & Wages,Advocacy,239.57,,Advocacy
+QB-603,2025-05-22,Software,Fundraising,395.04,,Fundraising
+QB-691,2026-04-04,Program Supplies,Advocacy,244.0,,Advocacy
+QB-709,2026-03-23,Software,Admin,799.32,,Admin
+QB-857,2025-11-27,Program Supplies,Advocacy,209.93,,Advocacy
+QB-1003,2026-03-01,Professional Fees,Admin,1378.61,,Admin
+QB-970,2025-10-09,Salaries & Wages,FUNDRAISING,1453.28,,Fundraising
+QB-249,2025-01-28,Rent,Advocacy,83.7,,Advocacy
+QB-11,2025-07-31,Professional Fees,Admin,2748.89,,Admin
+QB-299,2025-01-21,Salaries & Wages,Advocacy,584.92,,Advocacy
+QB-305,2025-10-28,Software,Fundraising,41.24,,Fundraising
+QB-855,2026-03-16,Rent,ADVOCACY,1031.62,,Advocacy
+QB-370,2025-02-14,Program Supplies,ADVOCACY,530.08,,Advocacy
+QB-608,2025-06-17,Salaries & Wages,Prog - Volunteer Training,281.76,,Volunteer Training
+QB-351,2026-05-11,Software,Fundraising,134.11,,Fundraising
+QB-191,2026-04-30,Program Supplies,Admin,292.1,,Admin
+QB-39,2025-09-20,Insurance,Prog - Fundraising,19.9,,Fundraising
+QB-1014,2025-03-29,Program Supplies,FUNDRAISING,158.84,,Fundraising
+QB-1084,2026-06-06,Salaries & Wages,FUNDRAISING,646.74,,Fundraising
+QB-195,2025-02-12,Salaries & Wages,ADVOCACY,1125.03,,Advocacy
+QB-1377,2026-04-17,Program Supplies,FUNDRAISING,824.21,,Fundraising
+QB-258,2025-12-18,Salaries & Wages,,123.55,,Unallocated
+QB-1630,2026-06-21,Salaries & Wages,Volunteer Training,1451.46,,Volunteer Training
+QB-72,2025-09-13,Salaries & Wages,ADMIN,391.82,,Admin
+QB-692,2026-06-09,Salaries & Wages,Prog - Advocacy,2203.68,,Advocacy
+QB-1099,2026-06-13,Rent,Advocacy,587.02,,Advocacy
+QB-1300,2025-01-26,Professional Fees,Advocacy,706.81,,Advocacy
+QB-1330,2025-08-20,Rent,ADVOCACY,173.01,,Advocacy
+QB-1608,2025-05-17,Software,Volunteer Training,569.57,,Volunteer Training
+QB-1227,2025-12-06,Program Supplies,ADVOCACY,1986.43,,Advocacy
+QB-406,2025-11-26,Software,Admin,417.41,,Admin
+QB-364,2025-03-01,Salaries & Wages,Prog - Advocacy,774.43,,Advocacy
+QB-650,2026-03-10,Program Supplies,ADVOCACY,553.31,,Advocacy
+QB-590,2025-07-29,Salaries & Wages,Advocacy,1056.08,,Advocacy
+QB-1515,2026-01-04,Salaries & Wages,Fundraising,701.6,,Fundraising
+QB-1642,2025-03-06,Rent,Prog - Advocacy,700.7,,Advocacy
+QB-1328,2026-06-09,Salaries & Wages,FUNDRAISING,813.22,,Fundraising
+QB-1559,2025-12-31,Program Supplies,Advocacy,243.51,,Advocacy
+QB-563,2025-10-11,Salaries & Wages,Prog - Fundraising,371.7,,Fundraising
+QB-625,2025-11-23,Software,ADVOCACY,329.03,,Advocacy
+QB-1194,2025-07-01,Program Supplies,ADMIN,225.95,,Admin
+QB-1789,2026-06-17,Program Supplies,,2028.27,,Unallocated
+QB-1798,2025-10-07,Professional Fees,Advocacy,2704.42,,Advocacy
+QB-123,2025-09-15,Salaries & Wages,ADVOCACY,2098.84,,Advocacy
+QB-945,2025-09-30,Program Supplies,Volunteer Training,1419.83,,Volunteer Training
+QB-306,2026-02-17,Salaries & Wages,Advocacy,856.99,,Advocacy
+QB-1200,2025-03-14,Salaries & Wages,Advocacy,533.02,,Advocacy
+QB-874,2025-09-14,Rent,Advocacy,634.23,,Advocacy
+QB-879,2025-10-18,Salaries & Wages,Advocacy,464.32,,Advocacy
+QB-1739,2026-05-08,Program Supplies,ADVOCACY,1515.86,,Advocacy
+QB-211,2025-11-27,Salaries & Wages,Advocacy,4154.8,,Advocacy
+QB-452,2025-03-30,Insurance,Admin,209.69,,Admin
+QB-366,2025-06-12,Salaries & Wages,ADVOCACY,548.02,,Advocacy
+QB-381,2026-02-12,Salaries & Wages,Volunteer Training,627.76,,Volunteer Training
+QB-1055,2025-02-06,Software,ADMIN,992.61,,Admin
+QB-642,2026-05-28,Insurance,Advocacy,19.69,,Advocacy
+QB-1425,2025-10-17,Salaries & Wages,Fundraising,331.31,,Fundraising
+QB-1046,2026-06-02,Salaries & Wages,Volunteer Training,164.41,,Volunteer Training
+QB-979,2025-04-30,Rent,,1671.77,,Unallocated
+QB-998,2025-10-20,Salaries & Wages,Admin,2441.7,,Admin
+QB-1206,2025-12-21,Professional Fees,Prog - Fundraising,231.32,,Fundraising
+QB-342,2026-06-22,Rent,FUNDRAISING,530.83,,Fundraising
+QB-708,2026-01-16,Software,Prog - Admin,358.62,,Admin
+QB-1762,2025-04-09,Insurance,Prog - Advocacy,402.11,,Advocacy
+QB-1654,2025-10-04,Salaries & Wages,Prog - Advocacy,624.01,,Advocacy
+QB-957,2025-10-29,Salaries & Wages,Prog - Volunteer Training,1195.46,,Volunteer Training
+QB-1151,2025-10-27,Professional Fees,Fundraising,831.88,,Fundraising
+QB-795,2025-07-05,Salaries & Wages,Advocacy,2365.5,,Advocacy
+QB-567,2025-06-13,Insurance,Advocacy,534.41,,Advocacy
+QB-345,2026-06-04,Insurance,Admin,2290.67,,Admin
+QB-530,2025-10-08,Software,ADVOCACY,65.19,,Advocacy
+QB-898,2025-09-10,Salaries & Wages,Prog - Advocacy,296.19,,Advocacy
+QB-989,2026-06-14,Program Supplies,Prog - Admin,70.13,,Admin
+QB-481,2025-06-26,Salaries & Wages,Advocacy,1230.41,,Advocacy
+QB-1777,2025-05-01,Salaries & Wages,Prog - Advocacy,57.14,,Advocacy
+QB-153,2025-04-29,Salaries & Wages,Admin,407.05,,Admin
+QB-17,2025-10-25,Salaries & Wages,ADVOCACY,541.38,,Advocacy
+QB-685,2025-02-05,Software,Fundraising,218.03,,Fundraising
+QB-1392,2026-03-03,Salaries & Wages,Advocacy,2028.3,,Advocacy
+QB-270,2025-04-23,Rent,Advocacy,265.97,,Advocacy
+QB-825,2026-05-10,Professional Fees,ADMIN,65.77,,Admin
+QB-942,2025-06-16,Salaries & Wages,ADMIN,579.61,,Admin
+QB-1645,2025-08-12,Software,ADVOCACY,153.26,,Advocacy
+QB-764,2025-03-06,Salaries & Wages,Fundraising,823.69,,Fundraising
+QB-745,2025-02-11,Professional Fees,Volunteer Training,741.78,,Volunteer Training
+QB-1561,2026-05-05,Insurance,Prog - Admin,918.7,,Admin
+QB-553,2025-02-24,Software,VOLUNTEER TRAINING,356.99,,Volunteer Training
+QB-1156,2026-01-20,Program Supplies,FUNDRAISING,1458.43,,Fundraising
+QB-500,2025-11-12,Program Supplies,Prog - Volunteer Training,291.4,,Volunteer Training
+QB-228,2026-03-23,Software,Admin,6131.26,,Admin
+QB-1059,2026-05-01,Program Supplies,Volunteer Training,1033.7,,Volunteer Training
+QB-774,2026-02-15,Program Supplies,Advocacy,1602.03,,Advocacy
+QB-1266,2025-12-18,Program Supplies,Prog - Volunteer Training,2249.25,,Volunteer Training
+QB-302,2026-06-20,Insurance,Advocacy,1114.12,,Advocacy
+QB-1139,2025-04-05,Salaries & Wages,Admin,444.16,,Admin
+QB-924,2025-05-24,Program Supplies,Admin,134.21,,Admin
+QB-1731,2026-03-31,Professional Fees,Admin,231.42,,Admin
+QB-1315,2026-04-17,Software,,770.92,,Unallocated
+QB-1012,2025-07-02,Salaries & Wages,ADVOCACY,326.37,,Advocacy
+QB-1676,2025-01-29,Program Supplies,Volunteer Training,354.99,,Volunteer Training
+QB-632,2025-12-01,Software,Prog - Volunteer Training,1657.21,,Volunteer Training
+QB-5,2025-09-27,Program Supplies,FUNDRAISING,285.52,,Fundraising
+QB-252,2025-07-05,Insurance,ADVOCACY,606.82,,Advocacy
+QB-199,2025-06-13,Rent,Advocacy,1786.99,,Advocacy
+QB-863,2025-09-24,Salaries & Wages,FUNDRAISING,535.5,,Fundraising
+QB-1155,2026-03-12,Salaries & Wages,Advocacy,432.06,,Advocacy
+QB-980,2025-09-16,Rent,Advocacy,441.88,,Advocacy
+QB-1400,2026-01-10,Software,Advocacy,673.8,,Advocacy
+QB-1629,2026-05-26,Professional Fees,Volunteer Training,1176.36,,Volunteer Training
+QB-1256,2025-07-27,Salaries & Wages,Prog - Advocacy,632.62,,Advocacy
+QB-1179,2025-11-17,Rent,Prog - Advocacy,822.51,,Advocacy
+QB-296,2025-04-02,Professional Fees,Advocacy,193.07,,Advocacy
+QB-1324,2025-01-09,Salaries & Wages,Advocacy,168.42,,Advocacy
+QB-203,2025-07-13,Software,Prog - Advocacy,315.63,,Advocacy
+QB-1469,2025-11-22,Salaries & Wages,Admin,381.27,,Admin
+QB-1049,2026-05-23,Insurance,Admin,405.59,,Admin
+QB-475,2025-10-06,Professional Fees,ADMIN,4053.43,,Admin
+QB-1416,2026-04-01,Salaries & Wages,Prog - Advocacy,217.99,,Advocacy
+QB-485,2025-12-07,Salaries & Wages,Prog - Admin,263.99,,Admin
+QB-1772,2025-04-09,Salaries & Wages,Admin,856.13,,Admin
+QB-163,2025-03-03,Salaries & Wages,Admin,935.87,,Admin
+QB-669,2025-07-12,Program Supplies,Advocacy,399.15,,Advocacy
+QB-12,2026-01-04,Salaries & Wages,Fundraising,355.24,,Fundraising
+QB-1119,2025-03-13,Salaries & Wages,FUNDRAISING,519.72,,Fundraising
+QB-792,2025-06-11,Salaries & Wages,Advocacy,183.21,,Advocacy
+QB-807,2025-08-19,Salaries & Wages,Fundraising,775.69,,Fundraising
+QB-1579,2025-06-06,Salaries & Wages,Fundraising,110.74,,Fundraising
+QB-955,2025-11-23,Rent,Advocacy,335.02,,Advocacy
+QB-184,2026-04-01,Salaries & Wages,ADVOCACY,264.09,,Advocacy
+QB-640,2025-01-06,Insurance,Admin,1364.27,,Admin
+QB-616,2025-10-21,Salaries & Wages,,463.15,,Unallocated
+QB-1305,2025-07-16,Program Supplies,Fundraising,2041.9,,Fundraising
+QB-981,2025-04-14,Professional Fees,,135.88,,Unallocated
+QB-839,2025-12-06,Professional Fees,ADVOCACY,215.38,,Advocacy
+QB-146,2025-08-08,Salaries & Wages,Admin,170.94,,Admin
+QB-1274,2025-08-07,Program Supplies,Prog - Advocacy,1507.18,,Advocacy
+QB-188,2025-11-30,Rent,ADVOCACY,182.03,,Advocacy
+QB-739,2025-09-10,Rent,Fundraising,97.67,,Fundraising
+QB-1058,2025-04-20,Software,Volunteer Training,1221.25,,Volunteer Training
+QB-1590,2025-11-25,Rent,ADMIN,654.86,,Admin
+QB-1018,2025-11-09,Salaries & Wages,Advocacy,1065.55,,Advocacy
+QB-1393,2025-12-27,Rent,Fundraising,177.79,,Fundraising
+QB-384,2025-02-11,Program Supplies,VOLUNTEER TRAINING,3166.21,,Volunteer Training
+QB-1243,2025-07-22,Salaries & Wages,Volunteer Training,245.19,,Volunteer Training
+QB-281,2025-01-21,Rent,VOLUNTEER TRAINING,140.95,,Volunteer Training
+QB-1736,2026-01-09,Professional Fees,Prog - Volunteer Training,440.78,,Volunteer Training
+QB-820,2026-05-20,Rent,ADMIN,1480.95,,Admin
+QB-1278,2026-05-16,Rent,Advocacy,1226.01,,Advocacy
+QB-646,2026-03-04,Program Supplies,Advocacy,117.94,,Advocacy
+QB-1216,2025-02-14,Salaries & Wages,Prog - Volunteer Training,555.56,,Volunteer Training
+QB-1705,2025-03-24,Salaries & Wages,VOLUNTEER TRAINING,195.19,,Volunteer Training
+QB-344,2025-12-26,Salaries & Wages,Advocacy,732.47,,Advocacy
+QB-74,2025-09-14,Salaries & Wages,Prog - Advocacy,587.95,,Advocacy
+QB-1791,2025-11-06,Salaries & Wages,VOLUNTEER TRAINING,46.51,,Volunteer Training
+QB-450,2026-02-24,Salaries & Wages,Admin,747.66,,Admin
+QB-1177,2026-04-16,Salaries & Wages,Admin,349.48,,Admin
+QB-1531,2026-02-05,Professional Fees,Volunteer Training,645.8,,Volunteer Training
+QB-343,2025-07-13,Software,ADVOCACY,204.98,,Advocacy
+QB-1540,2026-02-15,Salaries & Wages,ADMIN,318.41,,Admin
+QB-1126,2026-02-20,Professional Fees,Volunteer Training,184.97,,Volunteer Training
+QB-724,2025-02-21,Software,ADVOCACY,251.59,,Advocacy
+QB-1247,2025-04-11,Salaries & Wages,VOLUNTEER TRAINING,172.52,,Volunteer Training
+QB-1162,2025-01-13,Software,Advocacy,1026.81,,Advocacy
+QB-194,2026-01-29,Insurance,Fundraising,876.11,,Fundraising
+QB-984,2026-01-04,Program Supplies,Fundraising,178.93,,Fundraising
+QB-922,2025-09-11,Salaries & Wages,Advocacy,298.29,,Advocacy
+QB-1104,2026-03-30,Software,Advocacy,837.28,,Advocacy
+QB-1132,2025-09-26,Software,Advocacy,3738.11,,Advocacy
+QB-24,2026-01-10,Program Supplies,Admin,333.15,,Admin
+QB-750,2025-02-11,Salaries & Wages,Advocacy,113.72,,Advocacy
+QB-601,2025-11-14,Professional Fees,Advocacy,1795.39,,Advocacy
+QB-612,2025-11-06,Rent,,3093.29,,Unallocated
+QB-287,2025-10-17,Software,Prog - Fundraising,626.21,,Fundraising
+QB-1799,2026-01-24,Salaries & Wages,Prog - Admin,1058.97,,Admin
+QB-410,2025-10-07,Salaries & Wages,ADVOCACY,428.34,,Advocacy
+QB-725,2025-08-10,Salaries & Wages,Prog - Fundraising,117.7,,Fundraising
+QB-477,2025-03-10,Insurance,ADMIN,171.05,,Admin
+QB-1521,2025-10-16,Professional Fees,Advocacy,753.48,,Advocacy
+QB-880,2025-10-31,Salaries & Wages,,112.65,,Unallocated
+QB-720,2026-04-13,Salaries & Wages,ADVOCACY,5367.04,,Advocacy
+QB-1528,2025-05-13,Program Supplies,ADMIN,6196.06,,Admin
+QB-1065,2025-12-30,Salaries & Wages,Prog - Advocacy,382.15,,Advocacy
+QB-1624,2026-03-06,Insurance,ADVOCACY,1138.01,,Advocacy
+QB-8,2026-05-02,Salaries & Wages,Advocacy,664.21,,Advocacy
+QB-1290,2025-04-06,Salaries & Wages,Advocacy,867.62,,Advocacy
+QB-428,2026-04-04,Salaries & Wages,Admin,152.91,,Admin
+QB-1005,2026-05-24,Professional Fees,Prog - Volunteer Training,1021.65,,Volunteer Training
+QB-362,2025-01-22,Program Supplies,Prog - Advocacy,80.17,,Advocacy
+QB-220,2025-04-07,Insurance,Advocacy,88.26,,Advocacy
+QB-493,2025-11-21,Software,Prog - Admin,207.29,,Admin
+QB-349,2025-11-30,Insurance,ADMIN,7971.1,,Admin
+QB-760,2025-02-12,Program Supplies,Advocacy,722.57,,Advocacy
+QB-520,2025-03-01,Rent,Prog - Advocacy,5145.66,,Advocacy
+QB-65,2026-06-30,Salaries & Wages,Advocacy,222.01,,Advocacy
+QB-476,2025-02-08,Professional Fees,,177.03,,Unallocated
+QB-243,2026-02-19,Software,Prog - Fundraising,3189.95,,Fundraising
+QB-133,2025-12-22,Rent,Advocacy,269.61,,Advocacy
+QB-1114,2026-01-06,Salaries & Wages,Prog - Admin,327.44,,Admin
+QB-544,2025-05-13,Software,Fundraising,364.69,,Fundraising
+QB-463,2026-02-14,Salaries & Wages,FUNDRAISING,1485.11,,Fundraising
+QB-94,2025-04-02,Rent,ADVOCACY,1345.69,,Advocacy
+QB-1518,2026-04-21,Program Supplies,Advocacy,948.91,,Advocacy
+QB-1569,2026-05-28,Program Supplies,Fundraising,1152.44,,Fundraising
+QB-1292,2026-04-01,Professional Fees,Prog - Admin,135.3,,Admin
+QB-1641,2026-03-18,Program Supplies,Prog - Fundraising,1101.14,,Fundraising
+QB-899,2026-05-17,Salaries & Wages,Advocacy,1256.67,,Advocacy
+QB-1407,2025-10-02,Salaries & Wages,Admin,340.62,,Admin
+QB-108,2025-04-28,Salaries & Wages,Prog - Advocacy,952.83,,Advocacy
+QB-4,2026-01-22,Software,Prog - Volunteer Training,195.65,,Volunteer Training
+QB-505,2026-05-07,Software,Fundraising,800.01,,Fundraising
+QB-120,2025-07-24,Rent,Fundraising,253.63,,Fundraising
+QB-890,2025-02-06,Program Supplies,Advocacy,2978.45,,Advocacy
+QB-555,2026-06-18,Program Supplies,Advocacy,759.49,,Advocacy
+QB-1263,2025-04-16,Salaries & Wages,Admin,404.18,,Admin
+QB-1186,2026-06-24,Software,Fundraising,1145.73,,Fundraising
+QB-803,2025-09-21,Rent,Admin,224.53,,Admin
+QB-1061,2025-03-17,Salaries & Wages,Volunteer Training,2602.65,,Volunteer Training
+QB-556,2025-02-04,Salaries & Wages,Admin,1151.82,,Admin
+QB-1534,2026-01-28,Rent,Advocacy,1951.94,,Advocacy
+QB-573,2025-10-04,Salaries & Wages,Advocacy,20.91,,Advocacy
+QB-158,2026-02-18,Insurance,Volunteer Training,1117.27,,Volunteer Training
+QB-1685,2025-07-31,Program Supplies,Volunteer Training,28.3,,Volunteer Training
+QB-1485,2025-04-29,Program Supplies,Advocacy,1312.27,,Advocacy
+QB-348,2025-03-09,Program Supplies,ADVOCACY,5778.76,,Advocacy
+QB-99,2025-05-24,Program Supplies,Prog - Volunteer Training,504.31,,Volunteer Training
+QB-813,2025-11-01,Salaries & Wages,Fundraising,188.5,,Fundraising
+QB-1668,2026-04-28,Software,Advocacy,425.3,,Advocacy
+QB-32,2026-05-23,Rent,Volunteer Training,1046.44,,Volunteer Training
+QB-417,2026-02-27,Software,Advocacy,125.13,,Advocacy
+QB-177,2025-11-17,Salaries & Wages,Prog - Advocacy,556.6,,Advocacy
+QB-799,2026-05-25,Insurance,Volunteer Training,1134.02,,Volunteer Training
+QB-835,2026-06-10,Rent,FUNDRAISING,814.91,,Fundraising
+QB-371,2025-06-28,Professional Fees,Fundraising,568.22,,Fundraising
+QB-315,2025-07-23,Rent,VOLUNTEER TRAINING,406.48,,Volunteer Training
+QB-363,2025-09-18,Program Supplies,Advocacy,173.87,,Advocacy
+QB-929,2026-05-01,Software,Admin,506.83,,Admin
+QB-69,2025-05-19,Salaries & Wages,Advocacy,1619.25,,Advocacy
+QB-892,2025-04-25,Rent,Prog - Advocacy,6831.67,,Advocacy
+QB-291,2026-01-20,Professional Fees,Prog - Fundraising,970.48,,Fundraising
+QB-788,2025-12-25,Salaries & Wages,Prog - Advocacy,511.04,,Advocacy
+QB-19,2026-01-09,Professional Fees,Prog - Volunteer Training,980.66,,Volunteer Training
+QB-721,2025-12-20,Salaries & Wages,Advocacy,531.42,,Advocacy
+QB-1452,2026-01-09,Software,ADVOCACY,112.52,,Advocacy
+QB-318,2025-10-21,Salaries & Wages,ADVOCACY,123.54,,Advocacy
+QB-717,2025-04-08,Salaries & Wages,Admin,143.78,,Admin
+QB-637,2026-05-20,Software,Admin,641.19,,Admin
+QB-1426,2025-11-06,Software,Advocacy,1418.18,,Advocacy
+QB-876,2025-02-02,Salaries & Wages,Admin,1219.35,,Admin
+QB-845,2025-01-30,Rent,Volunteer Training,185.69,,Volunteer Training
+QB-1286,2026-02-07,Program Supplies,ADMIN,79.47,,Admin
+QB-1361,2025-02-07,Software,VOLUNTEER TRAINING,1631.09,,Volunteer Training
+QB-36,2025-06-30,Program Supplies,Advocacy,1020.11,,Advocacy
+QB-1167,2025-04-18,Rent,ADVOCACY,1633.33,,Advocacy
+QB-1442,2025-05-31,Program Supplies,Admin,124.04,,Admin
+QB-1094,2025-01-31,Software,Prog - Fundraising,947.61,,Fundraising
+QB-1707,2025-02-23,Software,FUNDRAISING,1298.5,,Fundraising
+QB-1511,2026-03-02,Salaries & Wages,Prog - Advocacy,460.22,,Advocacy
+QB-449,2026-04-28,Professional Fees,,533.48,,Unallocated
+QB-758,2025-01-06,Program Supplies,Prog - Admin,645.95,,Admin
+QB-81,2025-12-02,Professional Fees,ADVOCACY,496.91,,Advocacy
+QB-290,2025-05-29,Professional Fees,Advocacy,499.14,,Advocacy
+QB-217,2025-10-17,Software,Admin,121.08,,Admin
+QB-1123,2026-02-19,Program Supplies,Prog - Admin,914.44,,Admin
+QB-1109,2025-07-21,Professional Fees,ADVOCACY,370.77,,Advocacy
+QB-1241,2025-06-16,Rent,Prog - Advocacy,117.2,,Advocacy
+QB-1704,2025-02-07,Salaries & Wages,Prog - Advocacy,250.98,,Advocacy
+QB-1467,2026-02-19,Software,Advocacy,525.54,,Advocacy
+QB-35,2025-01-15,Professional Fees,FUNDRAISING,1382.51,,Fundraising
+QB-1350,2026-02-10,Software,Advocacy,182.33,,Advocacy
+QB-1394,2025-11-06,Professional Fees,Advocacy,236.65,,Advocacy
+QB-891,2025-09-25,Program Supplies,FUNDRAISING,143.09,,Fundraising
+QB-1085,2025-05-16,Program Supplies,ADVOCACY,155.32,,Advocacy
+QB-818,2025-02-07,Software,ADVOCACY,64.68,,Advocacy
+QB-1017,2026-05-19,Insurance,Volunteer Training,276.08,,Volunteer Training
+QB-67,2025-01-09,Salaries & Wages,ADVOCACY,481.32,,Advocacy
+QB-683,2026-01-12,Program Supplies,Prog - Admin,934.96,,Admin
+QB-1581,2025-01-14,Software,,106.47,,Unallocated
+QB-519,2026-05-19,Salaries & Wages,ADVOCACY,171.94,,Advocacy
+QB-576,2026-05-03,Insurance,Advocacy,2521.87,,Advocacy
+QB-1000,2026-04-11,Rent,ADVOCACY,366.56,,Advocacy
+QB-566,2025-07-16,Salaries & Wages,Admin,180.63,,Admin
+QB-947,2026-02-23,Software,,164.18,,Unallocated
+QB-1494,2025-10-02,Insurance,Advocacy,4038.32,,Advocacy
+QB-1462,2026-05-23,Program Supplies,Admin,326.71,,Admin
+QB-1385,2026-04-23,Salaries & Wages,Advocacy,821.68,,Advocacy
+QB-524,2026-01-26,Software,Advocacy,555.98,,Advocacy
+QB-142,2025-09-15,Professional Fees,Advocacy,443.38,,Advocacy
+QB-1428,2025-01-06,Program Supplies,Prog - Admin,200.54,,Admin
+QB-84,2026-04-17,Software,Prog - Volunteer Training,197.73,,Volunteer Training
+QB-1566,2026-05-19,Insurance,ADVOCACY,276.94,,Advocacy
+QB-1450,2026-01-06,Salaries & Wages,Prog - Advocacy,388.26,,Advocacy
+QB-10,2025-05-05,Software,Prog - Advocacy,1480.3,,Advocacy
+QB-982,2025-12-30,Software,FUNDRAISING,254.1,,Fundraising
+QB-973,2026-01-27,Insurance,Prog - Admin,380.38,,Admin
+QB-521,2025-07-02,Software,FUNDRAISING,150.81,,Fundraising
+QB-1644,2026-02-03,Software,VOLUNTEER TRAINING,181.76,,Volunteer Training
+QB-73,2025-06-28,Program Supplies,Advocacy,4493.98,,Advocacy
+QB-1464,2025-05-26,Insurance,Prog - Admin,2735.06,,Admin
+QB-897,2025-06-03,Software,ADVOCACY,12282.23,,Advocacy
+QB-557,2026-06-24,Software,Admin,1604.21,,Admin
+QB-772,2025-11-10,Rent,ADVOCACY,303.53,,Advocacy
+QB-261,2026-04-26,Software,ADVOCACY,3026.35,,Advocacy
+QB-537,2026-01-20,Salaries & Wages,ADVOCACY,562.81,,Advocacy
+QB-518,2025-05-20,Salaries & Wages,FUNDRAISING,1026.73,,Fundraising
+QB-1638,2025-07-26,Program Supplies,,340.76,,Unallocated
+QB-1570,2025-11-20,Program Supplies,Advocacy,554.11,,Advocacy
+QB-1369,2026-04-21,Salaries & Wages,Prog - Volunteer Training,1341.4,,Volunteer Training
+QB-698,2026-06-03,Software,Fundraising,171.98,,Fundraising
+QB-661,2026-03-07,Salaries & Wages,Prog - Advocacy,431.58,,Advocacy
+QB-1277,2026-03-19,Salaries & Wages,Prog - Fundraising,99.69,,Fundraising
+QB-260,2025-12-15,Professional Fees,Advocacy,40.11,,Advocacy
+QB-1268,2025-09-03,Software,Admin,1630.71,,Admin
+QB-1288,2026-04-28,Program Supplies,Volunteer Training,392.59,,Volunteer Training
+QB-846,2025-01-29,Salaries & Wages,Advocacy,1482.39,,Advocacy
+QB-1767,2025-11-07,Salaries & Wages,FUNDRAISING,177.98,,Fundraising
+QB-1745,2025-07-16,Rent,Advocacy,546.88,,Advocacy
+QB-744,2025-02-22,Salaries & Wages,Prog - Advocacy,756.05,,Advocacy
+QB-916,2025-04-04,Rent,Admin,222.81,,Admin
+QB-847,2025-06-09,Rent,ADVOCACY,355.18,,Advocacy
+QB-394,2026-01-19,Salaries & Wages,Volunteer Training,144.38,,Volunteer Training
+QB-279,2026-01-05,Software,ADVOCACY,1063.27,,Advocacy
+QB-1563,2026-06-10,Salaries & Wages,Advocacy,2157.05,,Advocacy
+QB-666,2025-02-07,Salaries & Wages,ADMIN,167.25,,Admin
+QB-334,2026-06-25,Professional Fees,Prog - Advocacy,575.25,,Advocacy
+QB-1009,2025-10-19,Program Supplies,Admin,1906.61,,Admin
+QB-751,2025-12-19,Salaries & Wages,Prog - Advocacy,167.97,,Advocacy
+QB-783,2025-11-05,Insurance,Admin,4114.57,,Admin
+QB-1712,2025-12-10,Salaries & Wages,Advocacy,2756.4,,Advocacy
+QB-1115,2026-03-20,Professional Fees,Advocacy,679.96,,Advocacy
+QB-1189,2025-08-25,Salaries & Wages,Prog - Advocacy,1797.6,,Advocacy
+QB-930,2025-04-21,Program Supplies,,1613.11,,Unallocated
+QB-60,2026-02-18,Program Supplies,Admin,481.68,,Admin
+QB-696,2026-03-31,Salaries & Wages,Advocacy,545.33,,Advocacy
+QB-1137,2025-12-05,Rent,ADVOCACY,1427.11,,Advocacy
+QB-1349,2025-09-22,Rent,ADMIN,208.72,,Admin
+QB-1026,2025-10-31,Software,ADMIN,183.74,,Admin
+QB-233,2025-05-18,Program Supplies,Volunteer Training,3531.01,,Volunteer Training
+QB-827,2025-11-27,Salaries & Wages,ADVOCACY,100.98,,Advocacy
+QB-1441,2025-01-30,Professional Fees,ADVOCACY,961.35,,Advocacy
+QB-517,2026-04-25,Professional Fees,Advocacy,1176.23,,Advocacy
+QB-304,2025-06-02,Program Supplies,Prog - Advocacy,770.07,,Advocacy
+QB-1499,2025-06-25,Program Supplies,Fundraising,818.4,,Fundraising
+QB-738,2025-09-16,Salaries & Wages,Volunteer Training,364.18,,Volunteer Training
+QB-1320,2025-02-13,Program Supplies,Advocacy,129.45,,Advocacy
+QB-186,2025-04-14,Rent,Prog - Fundraising,379.73,,Fundraising
+QB-697,2025-06-04,Insurance,ADVOCACY,489.76,,Advocacy
+QB-1364,2026-03-06,Software,Prog - Advocacy,409.04,,Advocacy
+QB-255,2025-05-08,Program Supplies,,379.47,,Unallocated
+QB-1226,2025-03-23,Salaries & Wages,VOLUNTEER TRAINING,2933.67,,Volunteer Training
+QB-1048,2026-02-12,Program Supplies,Fundraising,4015.79,,Fundraising
+QB-829,2025-08-26,Salaries & Wages,Prog - Advocacy,314.48,,Advocacy
+QB-824,2025-07-04,Software,Admin,864.03,,Admin
+QB-31,2025-03-16,Program Supplies,Prog - Volunteer Training,322.19,,Volunteer Training
+QB-1775,2025-04-19,Software,Admin,908.63,,Admin
+QB-562,2025-01-23,Program Supplies,Admin,241.16,,Admin
+QB-679,2026-04-16,Insurance,ADVOCACY,436.12,,Advocacy
+QB-1427,2025-08-16,Salaries & Wages,Advocacy,2851.63,,Advocacy
+QB-1594,2025-10-28,Rent,Volunteer Training,203.73,,Volunteer Training
+QB-1542,2025-07-15,Salaries & Wages,Admin,165.36,,Admin
+QB-274,2026-03-20,Insurance,ADVOCACY,627.65,,Advocacy
+QB-1487,2025-01-24,Professional Fees,Prog - Advocacy,101.23,,Advocacy
+QB-607,2025-09-21,Salaries & Wages,Admin,242.25,,Admin
+QB-1404,2025-12-26,Salaries & Wages,Volunteer Training,122.62,,Volunteer Training
+QB-231,2025-12-06,Software,ADVOCACY,436.35,,Advocacy
+QB-1088,2026-01-31,Salaries & Wages,ADVOCACY,1462.93,,Advocacy
+QB-643,2026-05-28,Salaries & Wages,Fundraising,672.37,,Fundraising
+QB-1423,2025-02-26,Salaries & Wages,Advocacy,1674.18,,Advocacy
+QB-369,2025-07-15,Insurance,Advocacy,616.97,,Advocacy
+QB-1755,2025-04-12,Program Supplies,Admin,892.42,,Admin
+QB-1219,2025-08-07,Software,Prog - Advocacy,450.8,,Advocacy
+QB-953,2025-10-02,Salaries & Wages,Advocacy,2320.43,,Advocacy
+QB-681,2025-02-12,Software,Admin,363.59,,Admin
+QB-577,2025-10-03,Software,ADMIN,878.95,,Admin
+QB-1053,2025-08-29,Software,Advocacy,4532.86,,Advocacy
+QB-143,2025-06-19,Salaries & Wages,ADMIN,992.1,,Admin
+QB-307,2025-07-21,Insurance,ADVOCACY,223.04,,Advocacy
+QB-1111,2025-04-01,Salaries & Wages,FUNDRAISING,219.41,,Fundraising
+QB-1420,2026-04-29,Professional Fees,Prog - Volunteer Training,225.54,,Volunteer Training
+QB-990,2026-02-21,Salaries & Wages,ADVOCACY,602.02,,Advocacy
+QB-1719,2025-02-27,Rent,Prog - Advocacy,5717.69,,Advocacy
+QB-808,2025-06-26,Program Supplies,Prog - Volunteer Training,827.14,,Volunteer Training
+QB-861,2026-05-07,Software,Advocacy,2085.43,,Advocacy
+QB-1296,2025-04-12,Salaries & Wages,Admin,922.36,,Admin
+QB-312,2025-03-22,Professional Fees,VOLUNTEER TRAINING,1947.61,,Volunteer Training
+QB-335,2025-01-21,Program Supplies,Prog - Admin,177.0,,Admin
+QB-1110,2025-02-06,Program Supplies,Advocacy,542.22,,Advocacy
+QB-367,2025-04-24,Insurance,Admin,1466.71,,Admin
+QB-1358,2025-12-05,Salaries & Wages,Prog - Advocacy,919.87,,Advocacy
+QB-907,2025-05-06,Salaries & Wages,Advocacy,1042.14,,Advocacy
+QB-1337,2025-02-21,Program Supplies,Prog - Advocacy,302.21,,Advocacy
+QB-779,2025-01-13,Professional Fees,VOLUNTEER TRAINING,283.86,,Volunteer Training
+QB-1236,2026-06-24,Professional Fees,Prog - Advocacy,59.63,,Advocacy
+QB-1356,2026-03-06,Software,ADVOCACY,98.29,,Advocacy
+QB-550,2025-04-08,Salaries & Wages,Prog - Admin,457.26,,Admin
+QB-1136,2026-02-11,Rent,Advocacy,297.76,,Advocacy
+QB-1242,2025-03-04,Salaries & Wages,Prog - Advocacy,75.12,,Advocacy
+QB-414,2026-03-04,Salaries & Wages,Advocacy,139.51,,Advocacy
+QB-1298,2026-05-05,Salaries & Wages,Prog - Fundraising,137.29,,Fundraising
+QB-1589,2025-11-30,Salaries & Wages,Advocacy,1120.54,,Advocacy
+QB-618,2025-02-06,Salaries & Wages,Prog - Volunteer Training,8983.34,,Volunteer Training
+QB-1456,2026-04-18,Program Supplies,ADMIN,661.9,,Admin
+QB-1342,2025-02-07,Insurance,Advocacy,1204.54,,Advocacy
+QB-456,2025-09-24,Salaries & Wages,Advocacy,172.61,,Advocacy
+QB-1501,2025-08-18,Salaries & Wages,Advocacy,1972.82,,Advocacy
+QB-754,2026-01-30,Program Supplies,Advocacy,715.21,,Advocacy
+QB-1153,2026-01-17,Professional Fees,Fundraising,243.84,,Fundraising
+QB-1432,2026-01-10,Program Supplies,Admin,361.43,,Admin
+QB-596,2025-11-14,Salaries & Wages,Prog - Volunteer Training,768.48,,Volunteer Training
+QB-336,2026-06-11,Software,Advocacy,252.77,,Advocacy
+QB-218,2025-08-02,Program Supplies,ADVOCACY,29.8,,Advocacy
+QB-159,2025-05-14,Salaries & Wages,Admin,745.59,,Admin
+QB-1357,2025-03-17,Salaries & Wages,Prog - Admin,277.75,,Admin
+QB-415,2026-03-08,Software,Advocacy,199.12,,Advocacy
+QB-1760,2025-08-17,Rent,Fundraising,2834.26,,Fundraising
+QB-1768,2025-03-20,Salaries & Wages,Fundraising,37.8,,Fundraising
+QB-1472,2025-05-27,Professional Fees,Admin,141.85,,Admin
+QB-1438,2026-03-02,Salaries & Wages,FUNDRAISING,70.9,,Fundraising
+QB-502,2026-06-23,Program Supplies,Volunteer Training,2147.92,,Volunteer Training
+QB-242,2026-04-03,Program Supplies,ADMIN,111.27,,Admin
+QB-1217,2025-12-09,Salaries & Wages,Admin,214.53,,Admin
+QB-1398,2026-04-01,Professional Fees,ADMIN,206.46,,Admin
+QB-983,2026-06-30,Salaries & Wages,ADVOCACY,71.0,,Advocacy
+QB-811,2025-04-14,Insurance,Prog - Admin,248.1,,Admin
+QB-904,2025-11-21,Professional Fees,Advocacy,983.94,,Advocacy
+QB-512,2025-11-18,Rent,Advocacy,1043.26,,Advocacy
+QB-704,2025-04-07,Professional Fees,Volunteer Training,382.96,,Volunteer Training
+QB-106,2025-12-07,Rent,FUNDRAISING,1285.83,,Fundraising
+QB-513,2025-04-20,Professional Fees,Advocacy,1177.3,,Advocacy
+QB-102,2025-05-29,Program Supplies,Volunteer Training,1195.68,,Volunteer Training
+QB-564,2025-04-23,Software,Prog - Advocacy,220.45,,Advocacy
+QB-734,2025-09-12,Salaries & Wages,Advocacy,801.66,,Advocacy
+QB-491,2025-07-09,Program Supplies,Fundraising,315.12,,Fundraising
+QB-253,2025-07-14,Salaries & Wages,Advocacy,114.93,,Advocacy
+QB-267,2025-01-17,Program Supplies,Volunteer Training,683.5,,Volunteer Training
+QB-440,2025-06-23,Program Supplies,Fundraising,192.55,,Fundraising
+QB-1675,2026-03-28,Professional Fees,Fundraising,3593.41,,Fundraising
+QB-1408,2026-01-31,Salaries & Wages,Advocacy,153.58,,Advocacy
+QB-396,2026-02-11,Salaries & Wages,Admin,236.76,,Admin
+QB-205,2026-05-29,Salaries & Wages,VOLUNTEER TRAINING,175.7,,Volunteer Training
+QB-221,2025-09-06,Salaries & Wages,Advocacy,594.97,,Advocacy
+QB-244,2026-02-06,Software,Admin,194.56,,Admin
+QB-1301,2025-12-16,Salaries & Wages,Volunteer Training,379.71,,Volunteer Training
+QB-1593,2025-01-15,Salaries & Wages,FUNDRAISING,67.11,,Fundraising
+QB-533,2026-03-17,Professional Fees,Volunteer Training,4293.11,,Volunteer Training
+QB-92,2026-05-22,Rent,Admin,507.9,,Admin
+QB-204,2025-01-09,Professional Fees,Admin,335.54,,Admin
+QB-1351,2025-08-31,Software,VOLUNTEER TRAINING,378.9,,Volunteer Training
+QB-732,2025-02-05,Salaries & Wages,ADVOCACY,781.44,,Advocacy
+QB-21,2025-03-03,Software,Admin,1481.19,,Admin
+QB-833,2026-05-15,Professional Fees,Admin,471.12,,Admin
+QB-1665,2026-05-05,Software,Advocacy,1020.53,,Advocacy
+QB-660,2025-07-15,Professional Fees,Volunteer Training,1136.01,,Volunteer Training
+QB-872,2026-06-21,Program Supplies,VOLUNTEER TRAINING,887.65,,Volunteer Training
+QB-741,2025-08-22,Rent,,178.43,,Unallocated
+QB-867,2025-07-27,Insurance,ADMIN,191.38,,Admin
+QB-398,2025-02-27,Program Supplies,ADVOCACY,398.96,,Advocacy
+QB-132,2026-06-12,Professional Fees,Fundraising,2450.41,,Fundraising
+QB-225,2025-04-01,Salaries & Wages,Admin,3426.68,,Admin
+QB-1302,2025-04-12,Professional Fees,Admin,686.83,,Admin
+QB-1726,2026-06-01,Rent,Prog - Volunteer Training,474.82,,Volunteer Training
+QB-131,2025-09-27,Professional Fees,Volunteer Training,683.83,,Volunteer Training
+QB-1616,2025-09-02,Salaries & Wages,FUNDRAISING,124.96,,Fundraising
+QB-1008,2025-05-04,Rent,Prog - Advocacy,316.16,,Advocacy
+QB-949,2026-01-27,Salaries & Wages,Volunteer Training,185.55,,Volunteer Training
+QB-1611,2026-03-14,Program Supplies,FUNDRAISING,273.73,,Fundraising
+QB-393,2025-11-07,Salaries & Wages,ADVOCACY,132.95,,Advocacy
+QB-6,2025-11-20,Professional Fees,Advocacy,566.47,,Advocacy
+QB-161,2026-01-20,Professional Fees,Admin,705.46,,Admin
+QB-1476,2025-08-14,Software,Prog - Advocacy,487.1,,Advocacy
+QB-529,2026-04-01,Insurance,Advocacy,131.65,,Advocacy
+QB-337,2025-04-15,Professional Fees,Admin,303.55,,Admin
+QB-435,2025-03-13,Insurance,Admin,1704.69,,Admin
+QB-963,2025-03-18,Professional Fees,Fundraising,1167.73,,Fundraising
+QB-767,2025-01-07,Professional Fees,Volunteer Training,1189.47,,Volunteer Training
+QB-418,2025-03-19,Professional Fees,Fundraising,544.48,,Fundraising
+QB-1211,2026-04-20,Program Supplies,Advocacy,77.68,,Advocacy
+QB-284,2026-04-14,Program Supplies,Advocacy,1187.91,,Advocacy
+QB-1741,2026-02-26,Salaries & Wages,FUNDRAISING,230.29,,Fundraising
+QB-1396,2025-01-27,Rent,Advocacy,204.62,,Advocacy
+QB-787,2025-08-09,Program Supplies,VOLUNTEER TRAINING,2425.39,,Volunteer Training
+QB-429,2025-09-05,Salaries & Wages,Admin,152.09,,Admin
+QB-1632,2025-12-27,Rent,Prog - Volunteer Training,245.5,,Volunteer Training
+QB-1688,2026-01-12,Salaries & Wages,ADVOCACY,1180.27,,Advocacy
+QB-598,2025-03-21,Salaries & Wages,Admin,11935.74,,Admin
+QB-1399,2025-04-22,Salaries & Wages,Volunteer Training,732.67,,Volunteer Training
+QB-1347,2025-03-16,Software,Fundraising,2890.0,,Fundraising
+QB-896,2025-03-25,Salaries & Wages,Advocacy,325.55,,Advocacy
+QB-125,2025-08-17,Salaries & Wages,Prog - Admin,2854.04,,Admin
+QB-112,2026-03-13,Salaries & Wages,Prog - Volunteer Training,235.91,,Volunteer Training
+QB-743,2025-12-02,Program Supplies,ADVOCACY,787.11,,Advocacy
+QB-1062,2026-05-13,Software,ADVOCACY,2074.65,,Advocacy
+QB-784,2025-10-22,Rent,Prog - Admin,95.66,,Admin
+QB-126,2026-04-19,Salaries & Wages,Volunteer Training,4507.79,,Volunteer Training
+QB-1133,2026-03-24,Professional Fees,ADMIN,834.77,,Admin
+QB-1379,2025-08-17,Salaries & Wages,ADVOCACY,987.4,,Advocacy
+QB-494,2025-02-09,Program Supplies,Advocacy,330.7,,Advocacy
+QB-1525,2025-11-20,Software,,1858.28,,Unallocated
+QB-1255,2026-01-21,Professional Fees,Admin,838.89,,Admin
+QB-34,2026-01-29,Professional Fees,Prog - Advocacy,2710.7,,Advocacy
+QB-273,2025-03-02,Rent,ADVOCACY,342.34,,Advocacy
+QB-301,2025-01-19,Program Supplies,,175.82,,Unallocated
+QB-1195,2025-04-14,Salaries & Wages,Volunteer Training,1306.5,,Volunteer Training
+QB-328,2026-06-19,Program Supplies,Fundraising,6658.64,,Fundraising
+QB-71,2025-03-21,Software,Admin,191.39,,Admin
+QB-1588,2025-11-22,Software,Admin,142.7,,Admin
+QB-619,2026-01-07,Salaries & Wages,Prog - Advocacy,3949.18,,Advocacy
+QB-1040,2025-04-21,Insurance,Prog - Admin,322.94,,Admin
+QB-178,2025-02-14,Insurance,VOLUNTEER TRAINING,322.07,,Volunteer Training
+QB-1586,2025-01-24,Program Supplies,Prog - Advocacy,90.95,,Advocacy
+QB-280,2025-11-13,Salaries & Wages,Volunteer Training,1165.21,,Volunteer Training
+QB-941,2025-09-08,Salaries & Wages,FUNDRAISING,332.67,,Fundraising
+QB-1031,2025-12-25,Salaries & Wages,Prog - Advocacy,5818.79,,Advocacy
+QB-1708,2026-06-21,Salaries & Wages,ADVOCACY,1609.66,,Advocacy
+QB-558,2026-05-04,Software,VOLUNTEER TRAINING,1027.58,,Volunteer Training
+QB-124,2025-08-28,Salaries & Wages,Prog - Advocacy,218.03,,Advocacy
+QB-38,2025-12-04,Program Supplies,ADVOCACY,1227.13,,Advocacy
+QB-1764,2026-04-05,Program Supplies,Prog - Advocacy,454.03,,Advocacy
+QB-1776,2025-11-09,Program Supplies,Advocacy,892.1,,Advocacy
+QB-594,2025-10-17,Salaries & Wages,ADVOCACY,1917.45,,Advocacy
+QB-821,2025-09-22,Salaries & Wages,Volunteer Training,223.98,,Volunteer Training
+QB-1600,2026-06-01,Professional Fees,,483.5,,Unallocated
+QB-906,2025-03-24,Software,Advocacy,10234.28,,Advocacy
+QB-678,2025-07-23,Program Supplies,Volunteer Training,415.61,,Volunteer Training
+QB-458,2025-05-19,Rent,ADMIN,1851.03,,Admin
+QB-746,2025-09-17,Program Supplies,Fundraising,169.49,,Fundraising
+QB-1360,2025-03-20,Salaries & Wages,Advocacy,348.08,,Advocacy
+QB-383,2026-06-25,Salaries & Wages,Prog - Volunteer Training,334.52,,Volunteer Training
+QB-1468,2025-10-03,Software,ADVOCACY,436.89,,Advocacy
+QB-909,2026-04-07,Rent,Prog - Advocacy,228.84,,Advocacy
+QB-1503,2025-10-04,Salaries & Wages,Advocacy,440.19,,Advocacy
+QB-997,2025-11-13,Salaries & Wages,,448.94,,Unallocated
+QB-1434,2026-04-17,Rent,Fundraising,295.77,,Fundraising
+QB-385,2026-04-05,Salaries & Wages,Volunteer Training,209.44,,Volunteer Training
+QB-1771,2026-04-17,Program Supplies,Admin,627.59,,Admin
+QB-1430,2025-11-06,Program Supplies,ADVOCACY,111.6,,Advocacy
+QB-776,2026-06-18,Salaries & Wages,Advocacy,579.17,,Advocacy
+QB-715,2025-02-06,Software,Fundraising,350.46,,Fundraising
+QB-996,2025-05-25,Program Supplies,Fundraising,96.27,,Fundraising
+QB-1727,2025-09-21,Salaries & Wages,Volunteer Training,796.27,,Volunteer Training
+QB-1001,2025-02-18,Software,Advocacy,1639.28,,Advocacy
+QB-1510,2025-08-31,Rent,Admin,1276.53,,Admin
+QB-1422,2025-11-09,Salaries & Wages,Prog - Advocacy,1263.42,,Advocacy
+QB-1157,2026-01-07,Salaries & Wages,Advocacy,769.8,,Advocacy
+QB-226,2025-06-16,Rent,ADVOCACY,1155.91,,Advocacy
+QB-617,2026-04-24,Salaries & Wages,,1456.38,,Unallocated
+QB-431,2026-01-08,Insurance,Volunteer Training,285.89,,Volunteer Training
+QB-1754,2025-07-31,Insurance,Admin,772.58,,Admin
+QB-926,2025-08-14,Salaries & Wages,Advocacy,1418.18,,Advocacy
+QB-1265,2025-12-14,Rent,ADVOCACY,50.7,,Advocacy
+QB-1333,2026-01-23,Program Supplies,,92.79,,Unallocated
+QB-7,2025-02-16,Insurance,Volunteer Training,221.54,,Volunteer Training
+QB-670,2025-05-12,Salaries & Wages,Admin,185.55,,Admin
+QB-730,2026-05-16,Insurance,VOLUNTEER TRAINING,354.09,,Volunteer Training
+QB-1181,2026-02-03,Program Supplies,ADVOCACY,326.75,,Advocacy
+QB-460,2025-04-16,Insurance,Advocacy,263.48,,Advocacy
+QB-873,2026-05-30,Salaries & Wages,Prog - Advocacy,814.69,,Advocacy
+QB-864,2025-12-04,Software,Advocacy,249.49,,Advocacy
+QB-735,2025-07-19,Software,Prog - Volunteer Training,932.72,,Volunteer Training
+QB-392,2026-04-02,Program Supplies,Advocacy,515.85,,Advocacy
+QB-109,2025-05-31,Salaries & Wages,VOLUNTEER TRAINING,115.76,,Volunteer Training
+QB-662,2026-06-03,Salaries & Wages,Advocacy,13495.71,,Advocacy
+QB-171,2025-10-15,Salaries & Wages,Prog - Fundraising,502.51,,Fundraising
+QB-403,2025-07-06,Salaries & Wages,Advocacy,1814.26,,Advocacy
+QB-769,2025-01-03,Salaries & Wages,Advocacy,56.17,,Advocacy
+QB-378,2025-06-16,Program Supplies,Advocacy,257.5,,Advocacy
+QB-809,2026-06-01,Software,Admin,912.59,,Admin
+QB-658,2025-06-07,Salaries & Wages,VOLUNTEER TRAINING,2884.51,,Volunteer Training
+QB-657,2025-07-23,Salaries & Wages,ADVOCACY,873.46,,Advocacy
+QB-665,2025-02-14,Program Supplies,Prog - Admin,661.72,,Admin
+QB-631,2026-03-04,Program Supplies,Fundraising,112.63,,Fundraising
+QB-1602,2026-01-27,Program Supplies,ADVOCACY,2560.22,,Advocacy
+QB-1617,2026-04-21,Rent,Advocacy,761.04,,Advocacy
+QB-531,2026-01-30,Salaries & Wages,Prog - Advocacy,733.82,,Advocacy
+QB-633,2026-03-26,Salaries & Wages,ADMIN,357.76,,Admin
+QB-668,2025-10-29,Insurance,Prog - Admin,1094.88,,Admin
+QB-1077,2026-03-22,Salaries & Wages,Advocacy,424.63,,Advocacy
+QB-816,2025-09-26,Salaries & Wages,Fundraising,156.86,,Fundraising
+QB-1504,2025-10-02,Salaries & Wages,FUNDRAISING,151.89,,Fundraising
+QB-1238,2025-10-31,Software,Admin,1317.74,,Admin
+QB-448,2025-10-17,Rent,Fundraising,58.43,,Fundraising
+QB-75,2025-08-06,Program Supplies,Advocacy,761.47,,Advocacy
+QB-1723,2026-04-27,Software,VOLUNTEER TRAINING,408.69,,Volunteer Training
+QB-946,2026-06-20,Salaries & Wages,Volunteer Training,873.6,,Volunteer Training
+QB-179,2026-06-30,Program Supplies,Advocacy,2755.39,,Advocacy
+QB-870,2026-05-05,Software,ADVOCACY,648.48,,Advocacy
+QB-1056,2025-07-24,Professional Fees,Volunteer Training,1749.74,,Volunteer Training
+QB-976,2025-06-13,Professional Fees,VOLUNTEER TRAINING,2288.45,,Volunteer Training
+QB-800,2025-02-14,Professional Fees,Fundraising,506.71,,Fundraising
+QB-1693,2025-12-11,Rent,Admin,326.02,,Admin
+QB-45,2025-07-04,Salaries & Wages,Advocacy,64.13,,Advocacy
+QB-1787,2025-12-27,Salaries & Wages,Advocacy,85.02,,Advocacy
+QB-190,2025-10-28,Professional Fees,Admin,2566.46,,Admin
+QB-1683,2025-07-25,Professional Fees,ADVOCACY,351.91,,Advocacy
+QB-1671,2025-04-07,Software,ADVOCACY,200.15,,Advocacy
+QB-786,2025-03-03,Program Supplies,Admin,1656.22,,Admin
+QB-611,2026-06-12,Salaries & Wages,Prog - Advocacy,100.92,,Advocacy
+QB-321,2025-06-05,Rent,Admin,710.01,,Admin
+QB-1667,2025-02-07,Salaries & Wages,Advocacy,275.17,,Advocacy
+QB-1429,2026-03-19,Professional Fees,Advocacy,2244.31,,Advocacy
+QB-308,2025-05-19,Program Supplies,Prog - Volunteer Training,62.38,,Volunteer Training
+QB-693,2026-03-31,Rent,Advocacy,1084.38,,Advocacy
+QB-1011,2025-02-19,Insurance,Prog - Advocacy,5046.78,,Advocacy
+QB-285,2025-03-19,Rent,Fundraising,293.44,,Fundraising
+QB-1620,2026-05-09,Software,Advocacy,571.55,,Advocacy
+QB-1063,2026-04-24,Program Supplies,ADMIN,120.05,,Admin
+QB-991,2025-08-19,Salaries & Wages,Fundraising,747.76,,Fundraising
+QB-1797,2026-02-24,Professional Fees,Prog - Volunteer Training,1967.42,,Volunteer Training
+QB-180,2025-07-30,Program Supplies,ADVOCACY,440.3,,Advocacy
+QB-338,2025-12-02,Program Supplies,Advocacy,218.34,,Advocacy
+QB-624,2025-08-04,Program Supplies,ADVOCACY,389.89,,Advocacy
+QB-1779,2026-05-09,Software,Advocacy,87.35,,Advocacy
+QB-473,2025-12-06,Salaries & Wages,Prog - Fundraising,476.03,,Fundraising
+QB-1431,2025-01-02,Professional Fees,Admin,1742.56,,Admin
+QB-1564,2025-07-25,Professional Fees,Volunteer Training,1665.85,,Volunteer Training
+QB-1260,2025-12-03,Salaries & Wages,Admin,103.21,,Admin
+QB-413,2025-03-09,Salaries & Wages,Fundraising,219.39,,Fundraising
+QB-118,2025-01-27,Professional Fees,Advocacy,397.39,,Advocacy
+QB-1004,2025-03-09,Salaries & Wages,Advocacy,369.38,,Advocacy
+QB-1395,2025-12-22,Program Supplies,ADVOCACY,594.04,,Advocacy
+QB-499,2025-10-18,Rent,Prog - Admin,172.18,,Admin
+QB-636,2026-06-13,Rent,Prog - Advocacy,167.92,,Advocacy
+QB-844,2025-01-15,Salaries & Wages,Advocacy,990.93,,Advocacy
+QB-303,2026-06-22,Professional Fees,,393.04,,Unallocated
+QB-175,2026-03-11,Professional Fees,Fundraising,360.12,,Fundraising
+QB-571,2025-06-01,Rent,Prog - Advocacy,1062.99,,Advocacy
+QB-882,2026-04-25,Salaries & Wages,Volunteer Training,811.21,,Volunteer Training
+QB-323,2025-09-22,Software,ADMIN,159.04,,Admin
+QB-1532,2025-03-01,Professional Fees,Advocacy,368.27,,Advocacy
+QB-354,2025-01-20,Salaries & Wages,Prog - Admin,2822.33,,Admin
+QB-1636,2025-06-10,Program Supplies,Fundraising,362.64,,Fundraising
+QB-591,2025-02-09,Software,Prog - Admin,146.63,,Admin
+QB-1322,2025-09-20,Professional Fees,Admin,646.63,,Admin
+QB-490,2025-12-16,Software,ADVOCACY,76.49,,Advocacy
+QB-791,2025-12-03,Salaries & Wages,ADVOCACY,712.69,,Advocacy
+QB-606,2025-12-10,Rent,Volunteer Training,602.31,,Volunteer Training
+QB-752,2025-09-16,Professional Fees,Admin,1015.57,,Admin
+QB-1067,2025-03-04,Insurance,Advocacy,104.41,,Advocacy
+QB-1252,2025-12-13,Software,Prog - Admin,242.78,,Admin
+QB-247,2026-03-10,Salaries & Wages,Prog - Fundraising,1024.5,,Fundraising
+QB-667,2025-12-07,Professional Fees,Advocacy,1508.28,,Advocacy
+QB-1583,2025-05-19,Program Supplies,Fundraising,140.47,,Fundraising
+QB-1218,2025-01-17,Program Supplies,ADMIN,27.62,,Admin
+QB-1604,2025-06-18,Rent,Admin,1351.38,,Admin
+QB-237,2025-02-13,Software,Prog - Volunteer Training,578.63,,Volunteer Training
+QB-114,2025-12-28,Insurance,Advocacy,87.23,,Advocacy
+QB-1781,2025-04-20,Rent,FUNDRAISING,285.77,,Fundraising
+QB-1679,2025-04-11,Salaries & Wages,,146.54,,Unallocated
+QB-1117,2025-03-05,Salaries & Wages,Prog - Advocacy,223.59,,Advocacy
+QB-486,2026-02-25,Salaries & Wages,VOLUNTEER TRAINING,1625.25,,Volunteer Training
+QB-936,2025-11-24,Program Supplies,Advocacy,4829.1,,Advocacy
+QB-1285,2025-11-21,Salaries & Wages,Advocacy,2735.26,,Advocacy
+QB-1246,2025-10-05,Software,Advocacy,1326.25,,Advocacy
+QB-424,2025-10-19,Salaries & Wages,ADVOCACY,1605.86,,Advocacy
+QB-1173,2025-09-16,Program Supplies,Advocacy,939.91,,Advocacy
+QB-605,2025-06-26,Salaries & Wages,ADVOCACY,611.05,,Advocacy
+QB-1313,2025-02-10,Salaries & Wages,Fundraising,189.19,,Fundraising
+QB-1711,2025-05-05,Software,Volunteer Training,525.73,,Volunteer Training
+QB-411,2025-06-13,Salaries & Wages,Admin,1510.66,,Admin
+QB-1308,2025-10-26,Salaries & Wages,Advocacy,525.99,,Advocacy
+QB-1557,2025-06-21,Software,Advocacy,307.45,,Advocacy
+QB-214,2025-07-29,Professional Fees,ADVOCACY,183.28,,Advocacy
+QB-474,2025-09-08,Salaries & Wages,Advocacy,212.07,,Advocacy
+QB-1314,2026-05-13,Insurance,Prog - Admin,571.24,,Admin
+QB-1183,2026-03-14,Program Supplies,Prog - Advocacy,1837.82,,Advocacy
+QB-1568,2026-04-16,Salaries & Wages,Advocacy,29750.96,,Advocacy
+QB-33,2025-08-16,Program Supplies,Advocacy,151.05,,Advocacy
+QB-137,2026-02-13,Salaries & Wages,Advocacy,636.01,,Advocacy
+QB-711,2025-04-04,Program Supplies,Prog - Admin,962.09,,Admin
+QB-1185,2026-04-15,Rent,Prog - Advocacy,672.1,,Advocacy
+QB-1081,2026-06-25,Insurance,Advocacy,204.93,,Advocacy
+QB-1205,2025-09-11,Salaries & Wages,Advocacy,251.4,,Advocacy
+QB-421,2025-02-07,Program Supplies,VOLUNTEER TRAINING,104.92,,Volunteer Training
+QB-501,2025-05-12,Software,Advocacy,503.87,,Advocacy
+QB-817,2026-01-07,Salaries & Wages,Advocacy,155.9,,Advocacy
+QB-223,2026-06-09,Program Supplies,FUNDRAISING,168.93,,Fundraising
+QB-489,2025-03-29,Salaries & Wages,Fundraising,603.61,,Fundraising
+QB-23,2025-12-04,Software,VOLUNTEER TRAINING,562.25,,Volunteer Training
+QB-1597,2026-04-07,Professional Fees,Admin,158.75,,Admin
+QB-932,2025-11-29,Salaries & Wages,Advocacy,583.12,,Advocacy
+QB-951,2025-03-28,Insurance,Advocacy,53.04,,Advocacy
+QB-1619,2025-07-09,Program Supplies,Prog - Volunteer Training,2290.82,,Volunteer Training
+QB-753,2025-12-03,Salaries & Wages,Prog - Admin,54.38,,Admin
+QB-1022,2025-06-10,Rent,Advocacy,149.05,,Advocacy
+QB-900,2026-03-24,Rent,Fundraising,380.34,,Fundraising
+QB-718,2025-01-21,Professional Fees,Prog - Fundraising,1757.32,,Fundraising
+QB-700,2025-11-02,Salaries & Wages,Admin,204.9,,Admin
+QB-266,2026-01-19,Salaries & Wages,Volunteer Training,3384.64,,Volunteer Training
+QB-935,2026-02-08,Program Supplies,Advocacy,554.95,,Advocacy
+QB-615,2026-01-19,Software,Advocacy,76.27,,Advocacy
+QB-1146,2025-04-02,Program Supplies,Advocacy,341.44,,Advocacy
+QB-78,2025-10-11,Professional Fees,Prog - Admin,2597.9,,Admin
+QB-1203,2025-08-24,Software,Admin,694.73,,Admin
+QB-654,2025-12-15,Professional Fees,Advocacy,1409.93,,Advocacy
+QB-1697,2025-09-23,Software,Prog - Advocacy,1386.36,,Advocacy
+QB-1640,2026-05-19,Professional Fees,,1828.26,,Unallocated
+QB-9,2026-02-15,Program Supplies,Prog - Advocacy,250.75,,Advocacy
+QB-121,2025-08-08,Software,ADMIN,8840.42,,Admin
+QB-483,2026-02-24,Program Supplies,Admin,133.65,,Admin
+QB-1021,2025-03-12,Software,Advocacy,2771.99,,Advocacy
+QB-1496,2026-04-02,Salaries & Wages,Advocacy,1358.64,,Advocacy
+QB-511,2025-10-26,Salaries & Wages,Prog - Advocacy,850.85,,Advocacy
+QB-1646,2025-10-16,Rent,Fundraising,263.83,,Fundraising
+QB-1670,2026-04-29,Software,ADVOCACY,107.16,,Advocacy
+QB-51,2025-07-29,Salaries & Wages,Fundraising,760.01,,Fundraising
+QB-1484,2025-10-10,Software,Prog - Volunteer Training,908.59,,Volunteer Training
+QB-1747,2026-02-18,Program Supplies,Fundraising,665.68,,Fundraising
+QB-1533,2025-05-12,Salaries & Wages,Advocacy,4773.92,,Advocacy
+QB-937,2025-10-21,Program Supplies,Advocacy,2036.96,,Advocacy
+QB-1251,2025-05-21,Rent,Prog - Admin,343.75,,Admin
+QB-1576,2025-08-25,Insurance,Admin,214.39,,Admin
+QB-836,2026-02-01,Rent,Volunteer Training,618.93,,Volunteer Training
+QB-319,2026-02-19,Program Supplies,Advocacy,169.52,,Advocacy
+QB-170,2026-04-13,Professional Fees,ADVOCACY,499.96,,Advocacy
+QB-995,2026-02-26,Professional Fees,Volunteer Training,1764.19,,Volunteer Training
+QB-325,2025-10-20,Salaries & Wages,Advocacy,77.31,,Advocacy
+QB-797,2025-05-28,Software,ADMIN,459.03,,Admin
+QB-139,2026-06-05,Software,Advocacy,52.03,,Advocacy
+QB-939,2025-07-03,Software,ADVOCACY,687.95,,Advocacy
+QB-271,2026-02-20,Professional Fees,ADVOCACY,445.12,,Advocacy
+QB-865,2025-07-07,Software,FUNDRAISING,116.61,,Fundraising
+QB-1171,2026-06-07,Professional Fees,Advocacy,67.08,,Advocacy
+QB-580,2025-10-23,Software,Advocacy,370.13,,Advocacy
+QB-1070,2025-02-09,Rent,Advocacy,1110.19,,Advocacy
+QB-1549,2025-08-05,Software,Fundraising,147.83,,Fundraising
+QB-866,2026-04-20,Program Supplies,ADVOCACY,434.76,,Advocacy
+QB-447,2026-02-05,Rent,Advocacy,248.31,,Advocacy
+QB-549,2025-03-17,Salaries & Wages,Admin,604.26,,Admin
+QB-634,2025-08-04,Professional Fees,ADMIN,105.41,,Admin
+QB-805,2025-08-13,Salaries & Wages,ADMIN,146.76,,Admin
+QB-1019,2025-10-15,Salaries & Wages,Advocacy,756.71,,Advocacy
+QB-467,2026-03-10,Software,ADMIN,187.51,,Admin
+QB-1778,2025-04-09,Salaries & Wages,Admin,558.5,,Admin
+QB-968,2025-10-25,Rent,Volunteer Training,591.35,,Volunteer Training
+QB-793,2025-06-07,Salaries & Wages,Advocacy,604.04,,Advocacy
+QB-445,2025-04-23,Salaries & Wages,FUNDRAISING,1914.68,,Fundraising
+QB-1710,2025-10-21,Program Supplies,Advocacy,183.57,,Advocacy
+QB-387,2026-03-26,Salaries & Wages,Fundraising,40.79,,Fundraising
+QB-1488,2025-11-04,Salaries & Wages,ADMIN,129.86,,Admin
+QB-1329,2025-05-20,Salaries & Wages,Prog - Advocacy,3879.66,,Advocacy
+QB-559,2025-05-20,Software,Advocacy,4765.3,,Advocacy
+QB-3,2025-09-15,Insurance,Admin,638.9,,Admin
+QB-497,2026-02-24,Insurance,Admin,1558.69,,Admin
+QB-83,2025-07-09,Program Supplies,Advocacy,514.81,,Advocacy
+QB-1355,2026-02-07,Salaries & Wages,Volunteer Training,917.72,,Volunteer Training
+QB-905,2025-12-17,Software,Advocacy,222.74,,Advocacy
+QB-994,2026-05-07,Insurance,Prog - Admin,2687.45,,Admin
+QB-649,2025-05-16,Salaries & Wages,Advocacy,247.2,,Advocacy
+QB-1471,2026-05-28,Insurance,Admin,220.35,,Admin
+QB-1516,2025-09-05,Program Supplies,Fundraising,355.84,,Fundraising
+QB-944,2025-06-11,Rent,Volunteer Training,1497.91,,Volunteer Training
+QB-572,2025-07-10,Program Supplies,FUNDRAISING,448.6,,Fundraising
+QB-1795,2025-01-04,Program Supplies,Advocacy,546.67,,Advocacy
+QB-1128,2026-06-07,Insurance,ADMIN,501.02,,Admin
+QB-536,2026-01-03,Salaries & Wages,Prog - Advocacy,1768.74,,Advocacy
+QB-1124,2025-12-15,Program Supplies,ADVOCACY,374.78,,Advocacy
+QB-1517,2025-06-26,Salaries & Wages,Advocacy,888.4,,Advocacy
+QB-1746,2025-09-12,Professional Fees,Fundraising,318.24,,Fundraising
+QB-433,2025-11-11,Professional Fees,ADVOCACY,49.58,,Advocacy
+QB-1371,2025-06-01,Salaries & Wages,Advocacy,191.42,,Advocacy
+QB-516,2026-05-28,Insurance,Volunteer Training,166.8,,Volunteer Training
+QB-1509,2025-07-03,Program Supplies,Prog - Volunteer Training,1415.82,,Volunteer Training
+QB-532,2025-11-15,Software,Volunteer Training,934.28,,Volunteer Training
+QB-561,2026-01-08,Program Supplies,Advocacy,488.99,,Advocacy
+QB-22,2025-02-23,Salaries & Wages,ADVOCACY,961.94,,Advocacy
+QB-164,2025-01-07,Professional Fees,Advocacy,5294.11,,Advocacy
+QB-1401,2025-11-11,Salaries & Wages,Prog - Volunteer Training,3072.59,,Volunteer Training
+QB-1585,2025-12-26,Salaries & Wages,VOLUNTEER TRAINING,2535.34,,Volunteer Training
+QB-1766,2025-01-20,Rent,Advocacy,3893.08,,Advocacy
+QB-333,2025-12-23,Professional Fees,Prog - Admin,142.34,,Admin
+QB-1405,2025-12-28,Rent,FUNDRAISING,1238.64,,Fundraising
+QB-1038,2025-05-31,Program Supplies,Admin,526.96,,Admin
+QB-151,2026-05-28,Program Supplies,Prog - Advocacy,1120.02,,Advocacy
+QB-514,2026-04-16,Software,Admin,220.19,,Admin
+QB-461,2025-05-29,Professional Fees,FUNDRAISING,284.44,,Fundraising
+QB-1319,2026-05-18,Salaries & Wages,Advocacy,445.94,,Advocacy
+QB-313,2025-12-21,Insurance,ADVOCACY,646.99,,Advocacy
+QB-172,2025-01-12,Insurance,Advocacy,424.93,,Advocacy
+QB-903,2025-05-12,Professional Fees,Advocacy,653.11,,Advocacy
+QB-229,2025-07-05,Salaries & Wages,,132.07,,Unallocated
+QB-542,2025-03-26,Salaries & Wages,Fundraising,124.1,,Fundraising
+QB-768,2025-08-07,Program Supplies,Prog - Admin,330.78,,Admin
+QB-1202,2026-03-19,Rent,ADVOCACY,424.91,,Advocacy
+QB-1578,2026-02-02,Program Supplies,FUNDRAISING,346.7,,Fundraising
+QB-80,2025-03-16,Salaries & Wages,Admin,455.77,,Admin
+QB-1674,2025-10-06,Salaries & Wages,Prog - Admin,314.3,,Admin
+QB-1706,2025-02-01,Salaries & Wages,Prog - Fundraising,557.78,,Fundraising
+QB-438,2025-07-04,Program Supplies,Admin,287.9,,Admin
+QB-157,2025-06-24,Salaries & Wages,Advocacy,70.04,,Advocacy
+QB-479,2025-04-30,Software,VOLUNTEER TRAINING,1019.89,,Volunteer Training
+QB-763,2025-11-20,Program Supplies,Volunteer Training,1044.15,,Volunteer Training
+QB-1466,2026-05-19,Salaries & Wages,Advocacy,980.37,,Advocacy
+QB-1551,2025-12-26,Rent,Prog - Advocacy,146.36,,Advocacy
+QB-802,2025-10-19,Program Supplies,Prog - Advocacy,89.45,,Advocacy
+QB-1658,2025-10-07,Rent,Admin,2891.15,,Admin
+QB-1234,2025-02-05,Professional Fees,ADVOCACY,287.44,,Advocacy
+QB-960,2025-01-03,Insurance,Advocacy,257.77,,Advocacy
+QB-722,2025-03-13,Salaries & Wages,Advocacy,3215.95,,Advocacy
+QB-1201,2025-11-06,Software,Prog - Advocacy,449.96,,Advocacy
+QB-197,2025-01-11,Professional Fees,Advocacy,72.19,,Advocacy
+QB-548,2026-03-23,Salaries & Wages,Admin,672.27,,Admin
+QB-1743,2025-05-31,Professional Fees,Prog - Volunteer Training,936.04,,Volunteer Training
+QB-1560,2025-03-19,Salaries & Wages,Volunteer Training,1288.15,,Volunteer Training
+QB-1669,2025-11-11,Professional Fees,Volunteer Training,2521.02,,Volunteer Training
+QB-641,2025-08-07,Professional Fees,Prog - Fundraising,141.27,,Fundraising
+QB-341,2026-04-14,Insurance,Prog - Advocacy,542.21,,Advocacy
+QB-1652,2025-01-11,Software,Advocacy,849.57,,Advocacy
+QB-324,2025-02-18,Rent,Advocacy,315.47,,Advocacy
+QB-482,2025-04-02,Salaries & Wages,Admin,685.85,,Admin
+QB-723,2025-12-18,Software,Prog - Admin,1839.86,,Admin
+QB-257,2026-02-20,Program Supplies,Advocacy,654.98,,Advocacy
+QB-397,2026-04-21,Salaries & Wages,Admin,2154.12,,Admin
+QB-965,2026-04-25,Salaries & Wages,Fundraising,109.51,,Fundraising
+QB-498,2026-06-23,Salaries & Wages,Volunteer Training,751.48,,Volunteer Training
+QB-1728,2025-08-29,Professional Fees,Prog - Admin,577.47,,Admin
+QB-1455,2025-09-09,Professional Fees,ADMIN,360.54,,Admin
+QB-699,2026-01-10,Salaries & Wages,ADVOCACY,60.89,,Advocacy
+QB-1647,2025-10-12,Salaries & Wages,Admin,172.58,,Admin
+QB-300,2026-02-12,Professional Fees,ADVOCACY,226.08,,Advocacy
+QB-30,2026-01-07,Professional Fees,Prog - Fundraising,258.15,,Fundraising
+QB-276,2026-04-28,Software,Advocacy,344.21,,Advocacy
+QB-358,2025-01-28,Professional Fees,Prog - Fundraising,470.5,,Fundraising
+QB-1074,2026-01-18,Program Supplies,Admin,283.41,,Admin
+QB-706,2025-04-13,Program Supplies,ADVOCACY,265.7,,Advocacy
+QB-52,2025-09-16,Salaries & Wages,Admin,1508.64,,Admin
+QB-1742,2025-05-29,Salaries & Wages,Admin,656.96,,Admin
+QB-441,2026-01-28,Program Supplies,Prog - Admin,271.11,,Admin
+QB-1664,2025-06-27,Software,Fundraising,3474.29,,Fundraising
+QB-1064,2026-01-24,Salaries & Wages,ADMIN,614.2,,Admin
+QB-1491,2026-05-23,Program Supplies,Admin,1684.5,,Admin
+QB-1116,2026-03-17,Salaries & Wages,ADVOCACY,333.44,,Advocacy
+QB-1435,2025-10-31,Software,FUNDRAISING,350.42,,Fundraising
+QB-1702,2025-11-29,Program Supplies,Advocacy,181.86,,Advocacy
+QB-1044,2025-01-29,Salaries & Wages,Advocacy,75.2,,Advocacy
+QB-1176,2026-03-28,Professional Fees,Prog - Volunteer Training,82.51,,Volunteer Training
+QB-749,2026-04-11,Salaries & Wages,Advocacy,830.94,,Advocacy
+QB-322,2025-10-04,Software,Advocacy,283.35,,Advocacy
+QB-41,2025-08-17,Program Supplies,Prog - Volunteer Training,587.65,,Volunteer Training
+QB-1039,2026-06-03,Program Supplies,Prog - Advocacy,3972.26,,Advocacy
+QB-1131,2025-12-17,Program Supplies,Prog - Advocacy,284.57,,Advocacy
+QB-1164,2026-06-25,Salaries & Wages,Advocacy,343.66,,Advocacy
+QB-999,2026-06-20,Program Supplies,Prog - Advocacy,388.36,,Advocacy
+QB-1304,2026-01-07,Salaries & Wages,VOLUNTEER TRAINING,1582.34,,Volunteer Training
+QB-1519,2025-01-13,Salaries & Wages,Admin,937.41,,Admin
+QB-1197,2025-10-14,Salaries & Wages,Admin,749.78,,Admin
+QB-1208,2026-02-14,Salaries & Wages,Advocacy,264.34,,Advocacy
+QB-954,2026-02-19,Salaries & Wages,Prog - Advocacy,1026.09,,Advocacy
+QB-1574,2026-04-09,Insurance,Fundraising,1408.29,,Fundraising
+QB-439,2025-05-14,Software,VOLUNTEER TRAINING,863.94,,Volunteer Training
+QB-1784,2026-02-04,Professional Fees,Fundraising,829.24,,Fundraising
+QB-1075,2026-05-13,Salaries & Wages,Advocacy,186.04,,Advocacy
+QB-425,2026-02-26,Rent,Prog - Advocacy,61.58,,Advocacy
+QB-894,2026-06-11,Insurance,Admin,467.41,,Admin
+QB-1792,2026-04-19,Salaries & Wages,Advocacy,2435.5,,Advocacy
+QB-224,2026-05-20,Professional Fees,Prog - Admin,273.68,,Admin
+QB-1733,2026-01-09,Salaries & Wages,Prog - Admin,177.31,,Admin
+QB-294,2026-01-11,Rent,Volunteer Training,1567.2,,Volunteer Training
+QB-1649,2025-08-14,Program Supplies,ADMIN,440.5,,Admin
+QB-538,2026-05-25,Software,Advocacy,397.43,,Advocacy
+QB-1346,2026-05-17,Software,Volunteer Training,404.6,,Volunteer Training
+QB-76,2025-09-24,Salaries & Wages,Fundraising,252.19,,Fundraising
+QB-116,2025-10-19,Rent,Prog - Volunteer Training,2397.79,,Volunteer Training
+QB-1054,2025-09-27,Software,Prog - Advocacy,691.32,,Advocacy
+QB-1380,2025-03-14,Salaries & Wages,,238.5,,Unallocated
+QB-977,2025-04-14,Program Supplies,Admin,1392.11,,Admin
+QB-647,2025-12-29,Program Supplies,Prog - Volunteer Training,270.65,,Volunteer Training
+QB-672,2025-06-19,Professional Fees,Advocacy,243.38,,Advocacy
+QB-420,2025-06-19,Salaries & Wages,Prog - Fundraising,30.06,,Fundraising
+QB-1223,2026-05-12,Salaries & Wages,Advocacy,1008.31,,Advocacy
+QB-122,2025-10-27,Salaries & Wages,Fundraising,258.48,,Fundraising
+QB-496,2025-09-13,Insurance,Prog - Fundraising,533.73,,Fundraising
+QB-525,2025-05-24,Salaries & Wages,Volunteer Training,211.31,,Volunteer Training
+QB-136,2025-11-04,Professional Fees,Prog - Advocacy,634.18,,Advocacy
+QB-1165,2025-10-20,Salaries & Wages,Admin,1118.54,,Admin
+QB-546,2025-09-04,Rent,Advocacy,540.86,,Advocacy
+QB-1130,2025-09-06,Software,Prog - Advocacy,57.95,,Advocacy
+QB-1609,2025-06-11,Professional Fees,Volunteer Training,592.57,,Volunteer Training
+QB-236,2026-03-02,Insurance,Fundraising,806.39,,Fundraising
+QB-688,2025-11-26,Rent,VOLUNTEER TRAINING,497.68,,Volunteer Training
+QB-1108,2026-05-29,Software,Advocacy,1525.09,,Advocacy
+QB-238,2025-12-08,Salaries & Wages,Advocacy,352.44,,Advocacy
+QB-1129,2025-09-07,Program Supplies,ADVOCACY,922.82,,Advocacy
+QB-374,2026-01-05,Insurance,FUNDRAISING,1718.2,,Fundraising
+QB-1030,2025-07-29,Program Supplies,Volunteer Training,636.05,,Volunteer Training
+QB-1250,2026-02-07,Program Supplies,Prog - Advocacy,325.51,,Advocacy
+QB-972,2026-02-14,Software,Prog - Fundraising,5561.21,,Fundraising
+QB-859,2025-01-21,Program Supplies,Prog - Advocacy,104.72,,Advocacy
+QB-1421,2026-06-22,Salaries & Wages,Advocacy,527.85,,Advocacy
+QB-812,2025-04-11,Professional Fees,ADVOCACY,98.06,,Advocacy
+QB-789,2026-01-18,Program Supplies,ADVOCACY,3.62,,Advocacy
+QB-1461,2025-10-03,Salaries & Wages,Prog - Advocacy,970.69,,Advocacy
+QB-419,2026-05-03,Salaries & Wages,Volunteer Training,427.47,,Volunteer Training
+QB-1220,2025-07-10,Professional Fees,Advocacy,870.84,,Advocacy
+QB-858,2025-09-30,Program Supplies,Advocacy,735.64,,Advocacy
+QB-843,2025-12-12,Salaries & Wages,Fundraising,1149.89,,Fundraising
+QB-1544,2025-03-14,Insurance,Advocacy,1822.07,,Advocacy
+QB-1402,2025-05-06,Professional Fees,Advocacy,1775.49,,Advocacy
+QB-1626,2025-02-12,Salaries & Wages,Prog - Advocacy,746.35,,Advocacy
+QB-940,2025-07-31,Insurance,Prog - Admin,231.05,,Admin
+QB-82,2025-12-29,Professional Fees,VOLUNTEER TRAINING,8102.44,,Volunteer Training
+QB-1311,2025-11-04,Salaries & Wages,Prog - Advocacy,4417.18,,Advocacy
+QB-1359,2026-03-26,Insurance,ADVOCACY,148.66,,Advocacy
+QB-1007,2025-10-27,Program Supplies,Volunteer Training,466.44,,Volunteer Training
+QB-416,2026-01-10,Salaries & Wages,Advocacy,466.78,,Advocacy
+QB-1321,2025-02-10,Salaries & Wages,Admin,146.99,,Admin
+QB-1016,2025-10-18,Professional Fees,ADVOCACY,151.18,,Advocacy
+QB-1273,2025-05-06,Program Supplies,Volunteer Training,104.7,,Volunteer Training
+QB-919,2025-10-25,Software,Admin,566.97,,Admin
+QB-1535,2025-01-14,Insurance,Admin,4606.14,,Admin
+QB-240,2026-01-13,Insurance,Fundraising,101.51,,Fundraising
+QB-1259,2025-06-21,Salaries & Wages,Prog - Admin,2851.29,,Admin
+QB-1689,2026-03-04,Program Supplies,Advocacy,44.19,,Advocacy
+QB-399,2026-02-20,Salaries & Wages,Prog - Fundraising,1086.4,,Fundraising
+QB-1465,2026-02-06,Rent,Prog - Volunteer Training,426.54,,Volunteer Training
+QB-554,2025-11-01,Professional Fees,Fundraising,3692.68,,Fundraising
+QB-1700,2025-01-20,Professional Fees,Advocacy,184.61,,Advocacy
+QB-1083,2025-10-04,Salaries & Wages,Fundraising,1324.16,,Fundraising
+QB-198,2025-08-04,Professional Fees,Advocacy,103.98,,Advocacy
+QB-215,2025-05-05,Insurance,ADMIN,498.69,,Admin
+QB-748,2025-07-29,Program Supplies,Volunteer Training,1410.75,,Volunteer Training
+QB-1606,2026-06-28,Software,Admin,607.71,,Admin
+QB-759,2025-09-24,Insurance,Prog - Advocacy,1682.44,,Advocacy
+QB-987,2026-01-29,Software,Advocacy,385.31,,Advocacy
+QB-88,2025-08-02,Salaries & Wages,VOLUNTEER TRAINING,808.87,,Volunteer Training
+QB-910,2025-04-15,Rent,Fundraising,545.06,,Fundraising
+QB-782,2025-01-22,Program Supplies,Fundraising,1213.0,,Fundraising
+QB-1373,2026-02-19,Salaries & Wages,Admin,1466.71,,Admin
+QB-1537,2026-04-19,Salaries & Wages,ADMIN,1655.47,,Admin
+QB-1140,2025-09-16,Salaries & Wages,Advocacy,122.88,,Advocacy
+QB-250,2025-04-17,Rent,VOLUNTEER TRAINING,234.16,,Volunteer Training
+QB-585,2025-09-15,Software,Admin,1793.49,,Admin
+QB-1477,2026-06-03,Insurance,Prog - Advocacy,127.8,,Advocacy
+QB-1759,2026-05-02,Software,Prog - Admin,608.15,,Admin
+QB-1410,2026-05-07,Salaries & Wages,Admin,241.98,,Admin
+QB-1078,2025-10-15,Software,Admin,281.38,,Admin
+QB-1086,2025-04-24,Software,,479.98,,Unallocated
+QB-1034,2025-02-02,Salaries & Wages,Volunteer Training,131.53,,Volunteer Training
+QB-293,2026-01-30,Program Supplies,Advocacy,503.9,,Advocacy
+QB-504,2025-10-09,Salaries & Wages,Volunteer Training,73.27,,Volunteer Training
+QB-434,2026-06-23,Program Supplies,Advocacy,5592.87,,Advocacy
+QB-443,2026-02-19,Program Supplies,Fundraising,2438.76,,Fundraising
+QB-1069,2025-02-02,Salaries & Wages,FUNDRAISING,406.7,,Fundraising
+QB-526,2025-01-27,Salaries & Wages,Advocacy,216.44,,Advocacy
+QB-206,2025-10-20,Program Supplies,Admin,154.72,,Admin
+QB-1439,2025-07-21,Rent,Admin,863.65,,Admin
+QB-53,2025-10-13,Salaries & Wages,Prog - Admin,48.22,,Admin
+QB-682,2026-04-27,Program Supplies,Admin,4314.0,,Admin
+QB-1332,2025-07-20,Program Supplies,ADMIN,289.22,,Admin
+QB-141,2026-04-30,Program Supplies,,613.76,,Unallocated
+QB-508,2025-07-18,Professional Fees,Advocacy,503.05,,Advocacy
+QB-1015,2025-03-13,Software,Volunteer Training,561.08,,Volunteer Training
+QB-1262,2026-05-04,Software,ADVOCACY,549.88,,Advocacy
+QB-1221,2026-01-26,Insurance,ADVOCACY,1799.88,,Advocacy
+QB-884,2025-07-23,Program Supplies,Advocacy,155.88,,Advocacy
+QB-138,2026-03-17,Professional Fees,Advocacy,440.68,,Advocacy
+QB-933,2025-03-21,Program Supplies,ADVOCACY,369.93,,Advocacy
+QB-712,2026-03-20,Professional Fees,Advocacy,52.78,,Advocacy
+QB-135,2026-04-21,Program Supplies,Prog - Advocacy,251.85,,Advocacy
+QB-757,2025-04-09,Salaries & Wages,,104.36,,Unallocated
+QB-1282,2026-03-31,Software,Admin,1451.07,,Admin
+QB-1555,2026-06-01,Professional Fees,Prog - Fundraising,8523.77,,Fundraising
+QB-687,2025-06-23,Program Supplies,Prog - Fundraising,508.45,,Fundraising
+QB-156,2026-02-03,Professional Fees,Admin,3584.61,,Admin
+QB-1666,2026-03-13,Salaries & Wages,Advocacy,457.75,,Advocacy
+QB-978,2025-05-10,Professional Fees,Advocacy,2877.8,,Advocacy
+QB-1326,2025-05-08,Program Supplies,FUNDRAISING,6941.58,,Fundraising
+QB-1138,2025-03-21,Professional Fees,ADMIN,978.35,,Admin
+QB-1508,2026-02-18,Salaries & Wages,ADVOCACY,644.36,,Advocacy
+QB-1453,2026-05-31,Program Supplies,ADMIN,316.32,,Admin
+QB-386,2025-04-29,Rent,Admin,2099.35,,Admin
+QB-292,2025-06-04,Program Supplies,ADMIN,158.12,,Admin
+QB-246,2025-12-28,Salaries & Wages,Admin,822.19,,Admin
+QB-597,2026-02-12,Insurance,Advocacy,429.18,,Advocacy
+QB-716,2026-06-17,Rent,ADVOCACY,1051.8,,Advocacy
+QB-408,2026-05-15,Professional Fees,Prog - Fundraising,1419.63,,Fundraising
+QB-1100,2026-02-08,Salaries & Wages,ADVOCACY,526.35,,Advocacy
+QB-1729,2025-08-17,Professional Fees,Prog - Advocacy,3537.15,,Advocacy
+QB-1045,2025-12-17,Salaries & Wages,Advocacy,788.72,,Advocacy
+QB-1718,2025-09-28,Salaries & Wages,ADMIN,607.23,,Admin
+QB-868,2025-03-15,Salaries & Wages,Advocacy,204.06,,Advocacy
+QB-192,2026-04-02,Insurance,VOLUNTEER TRAINING,484.29,,Volunteer Training
+QB-444,2026-02-07,Salaries & Wages,Advocacy,1113.83,,Advocacy
+QB-1730,2026-03-28,Software,Admin,327.79,,Admin
+QB-487,2025-08-16,Software,ADVOCACY,307.56,,Advocacy
+QB-569,2025-01-10,Software,Volunteer Training,581.35,,Volunteer Training
+QB-1245,2026-05-30,Insurance,Prog - Advocacy,258.7,,Advocacy
+QB-49,2025-06-18,Software,Fundraising,1441.14,,Fundraising
+QB-622,2026-04-10,Program Supplies,Prog - Advocacy,97.65,,Advocacy
+QB-119,2025-11-01,Salaries & Wages,FUNDRAISING,694.83,,Fundraising
+QB-1193,2025-03-13,Salaries & Wages,Admin,971.09,,Admin
+QB-430,2025-11-05,Professional Fees,Volunteer Training,894.04,,Volunteer Training
+QB-1335,2025-05-12,Program Supplies,Advocacy,258.8,,Advocacy
+QB-259,2026-01-18,Salaries & Wages,VOLUNTEER TRAINING,195.46,,Volunteer Training
+QB-702,2025-02-13,Salaries & Wages,Volunteer Training,218.85,,Volunteer Training
+QB-911,2026-01-06,Program Supplies,ADVOCACY,129.33,,Advocacy
+QB-602,2026-02-14,Professional Fees,VOLUNTEER TRAINING,321.87,,Volunteer Training
+QB-652,2026-06-19,Salaries & Wages,Prog - Volunteer Training,148.66,,Volunteer Training
+QB-971,2026-04-17,Salaries & Wages,Fundraising,717.56,,Fundraising
+QB-1663,2025-10-31,Insurance,Advocacy,1355.0,,Advocacy
+QB-1275,2025-09-02,Professional Fees,Volunteer Training,3551.51,,Volunteer Training
+QB-1782,2026-04-29,Salaries & Wages,Prog - Fundraising,1536.73,,Fundraising
+QB-1571,2025-09-12,Rent,Admin,1033.39,,Admin
+QB-635,2025-09-12,Salaries & Wages,Advocacy,48.77,,Advocacy
+QB-931,2025-12-16,Salaries & Wages,Advocacy,2649.18,,Advocacy
+QB-1087,2025-06-06,Program Supplies,Volunteer Training,796.9,,Volunteer Training
+QB-664,2026-04-03,Program Supplies,Advocacy,56.22,,Advocacy
+QB-1317,2026-04-04,Salaries & Wages,Volunteer Training,320.97,,Volunteer Training
+QB-457,2026-02-10,Rent,Prog - Admin,226.09,,Admin
+QB-357,2026-03-26,Rent,Volunteer Training,251.43,,Volunteer Training
+QB-254,2025-05-26,Rent,Admin,55.75,,Admin
+QB-1655,2025-01-03,Software,ADMIN,217.23,,Admin
+QB-185,2025-08-14,Program Supplies,Fundraising,46.94,,Fundraising
+QB-167,2026-01-14,Software,Advocacy,403.66,,Advocacy
+QB-1447,2026-04-11,Salaries & Wages,ADVOCACY,738.2,,Advocacy
+QB-584,2025-12-30,Program Supplies,Advocacy,401.22,,Advocacy
+QB-1345,2025-06-15,Insurance,Advocacy,1506.38,,Advocacy
+QB-100,2025-07-16,Insurance,VOLUNTEER TRAINING,94.02,,Volunteer Training
+QB-1184,2026-03-24,Program Supplies,Fundraising,610.77,,Fundraising
+QB-1744,2025-06-23,Software,Admin,613.32,,Admin
+QB-1066,2025-11-05,Software,Prog - Fundraising,2345.23,,Fundraising
+QB-1716,2025-07-13,Salaries & Wages,Prog - Advocacy,680.71,,Advocacy
+QB-578,2025-07-09,Program Supplies,Prog - Admin,1167.33,,Admin
+QB-547,2025-05-21,Program Supplies,ADVOCACY,73.27,,Advocacy
+QB-878,2025-11-04,Professional Fees,ADMIN,816.16,,Admin
+QB-1639,2025-04-18,Professional Fees,VOLUNTEER TRAINING,6228.84,,Volunteer Training
+QB-726,2025-11-21,Professional Fees,Admin,558.35,,Admin
+QB-1614,2026-04-27,Salaries & Wages,Admin,1951.5,,Admin
+QB-1623,2025-10-09,Salaries & Wages,ADVOCACY,91.38,,Advocacy
+QB-568,2026-03-07,Salaries & Wages,Advocacy,911.87,,Advocacy
+QB-1261,2026-03-07,Software,Advocacy,3922.48,,Advocacy
+QB-535,2025-04-29,Professional Fees,ADVOCACY,424.84,,Advocacy
+QB-770,2026-04-09,Program Supplies,Prog - Advocacy,643.37,,Advocacy
+QB-943,2026-06-27,Salaries & Wages,ADVOCACY,581.55,,Advocacy
+QB-673,2025-09-22,Salaries & Wages,Admin,1172.14,,Admin
+QB-1190,2025-06-30,Insurance,Prog - Advocacy,904.47,,Advocacy
+QB-1774,2025-05-21,Software,Admin,556.69,,Admin
+QB-1524,2025-02-03,Software,Admin,2601.25,,Admin
+QB-1543,2026-06-28,Insurance,Advocacy,483.72,,Advocacy
+QB-993,2025-02-14,Salaries & Wages,Advocacy,274.02,,Advocacy
+QB-713,2026-04-24,Salaries & Wages,ADVOCACY,853.93,,Advocacy
+QB-1793,2025-10-27,Program Supplies,Prog - Admin,1611.03,,Admin
+QB-834,2025-02-06,Software,Advocacy,253.09,,Advocacy
+QB-472,2026-05-25,Insurance,Fundraising,2603.93,,Fundraising
+QB-1662,2025-05-07,Salaries & Wages,Advocacy,1203.56,,Advocacy
+QB-639,2026-04-15,Salaries & Wages,Volunteer Training,284.78,,Volunteer Training
+QB-1596,2025-06-27,Salaries & Wages,Prog - Volunteer Training,4241.17,,Volunteer Training
+QB-1403,2025-01-07,Rent,Prog - Advocacy,275.21,,Advocacy
+QB-1293,2026-02-08,Program Supplies,Prog - Advocacy,69.23,,Advocacy
+QB-309,2025-01-24,Salaries & Wages,FUNDRAISING,3917.52,,Fundraising
+QB-1694,2026-02-28,Salaries & Wages,Advocacy,1332.59,,Advocacy
+QB-389,2025-07-08,Software,Advocacy,683.87,,Advocacy
+QB-1071,2025-09-17,Salaries & Wages,Admin,2267.08,,Admin
+QB-1633,2025-10-22,Salaries & Wages,Fundraising,106.82,,Fundraising
+QB-790,2026-06-02,Insurance,Advocacy,217.48,,Advocacy
+QB-166,2025-11-28,Salaries & Wages,Prog - Admin,507.55,,Admin
+QB-610,2026-06-11,Program Supplies,Prog - Admin,37.45,,Admin
+QB-623,2026-04-25,Rent,Advocacy,195.23,,Advocacy
+QB-1375,2026-01-21,Software,ADVOCACY,672.21,,Advocacy
+QB-1334,2025-12-27,Software,Fundraising,2769.17,,Fundraising
+QB-1480,2026-04-15,Salaries & Wages,Volunteer Training,4095.25,,Volunteer Training
+QB-1089,2025-08-17,Insurance,Prog - Advocacy,214.67,,Advocacy
+QB-1612,2026-01-17,Software,ADMIN,161.73,,Admin
+QB-272,2025-03-12,Salaries & Wages,Advocacy,1116.84,,Advocacy
+QB-1414,2025-11-16,Software,ADMIN,1020.25,,Admin
+QB-200,2025-08-13,Salaries & Wages,,208.53,,Unallocated
+QB-1052,2025-02-15,Rent,Advocacy,92.63,,Advocacy
+QB-714,2026-05-09,Salaries & Wages,Advocacy,162.07,,Advocacy
+QB-1188,2026-05-30,Program Supplies,ADMIN,480.43,,Admin
+QB-1023,2025-05-07,Professional Fees,Admin,171.22,,Admin
+QB-1121,2025-11-26,Software,Admin,2106.72,,Admin
+QB-1479,2025-06-08,Program Supplies,Prog - Admin,67.76,,Admin
+QB-1154,2025-07-13,Program Supplies,Prog - Advocacy,409.27,,Advocacy
+QB-402,2025-06-09,Software,ADVOCACY,55.79,,Advocacy
+QB-1391,2025-01-20,Professional Fees,Prog - Advocacy,219.84,,Advocacy
+QB-1120,2026-02-01,Software,Admin,205.16,,Admin
+QB-1513,2025-08-14,Professional Fees,Prog - Fundraising,751.22,,Fundraising
+QB-1327,2026-06-15,Salaries & Wages,Prog - Volunteer Training,289.25,,Volunteer Training
+QB-1687,2025-05-16,Salaries & Wages,Prog - Advocacy,155.91,,Advocacy
+QB-1134,2025-03-24,Program Supplies,Prog - Admin,2674.21,,Admin
+QB-1751,2026-03-02,Rent,Advocacy,2196.49,,Advocacy
+QB-1368,2026-02-18,Program Supplies,Fundraising,138.09,,Fundraising
+QB-1584,2025-03-16,Professional Fees,Advocacy,1406.41,,Advocacy
+QB-1096,2025-10-09,Program Supplies,Volunteer Training,445.73,,Volunteer Training
+QB-1415,2025-08-13,Software,VOLUNTEER TRAINING,377.25,,Volunteer Training
+QB-1473,2025-10-22,Salaries & Wages,ADVOCACY,534.82,,Advocacy
+QB-1239,2026-01-27,Salaries & Wages,Advocacy,666.66,,Advocacy
+QB-388,2026-03-17,Program Supplies,Prog - Admin,146.91,,Admin
+QB-1721,2026-03-26,Software,,81.17,,Unallocated
+QB-105,2026-02-06,Program Supplies,Prog - Advocacy,572.29,,Advocacy
+QB-522,2026-02-23,Salaries & Wages,Prog - Volunteer Training,1479.43,,Volunteer Training
+QB-1672,2025-01-17,Salaries & Wages,Prog - Admin,387.27,,Admin
+QB-91,2025-11-11,Salaries & Wages,Advocacy,167.66,,Advocacy
+QB-1634,2026-04-20,Software,Prog - Advocacy,614.86,,Advocacy
+QB-740,2026-05-09,Rent,Advocacy,2696.79,,Advocacy
+QB-771,2025-11-01,Program Supplies,Prog - Advocacy,705.8,,Advocacy
+QB-626,2025-09-04,Professional Fees,Prog - Volunteer Training,4722.17,,Volunteer Training
+QB-1367,2025-11-25,Insurance,Prog - Advocacy,1714.28,,Advocacy
+QB-1267,2025-02-17,Software,Advocacy,3802.82,,Advocacy
+QB-1341,2025-06-17,Salaries & Wages,Admin,772.83,,Admin
+QB-967,2025-01-21,Salaries & Wages,Prog - Admin,2170.82,,Admin
+QB-466,2026-04-15,Software,Admin,823.95,,Admin
+QB-1562,2026-06-16,Salaries & Wages,Prog - Admin,1290.71,,Admin
+QB-826,2026-01-05,Program Supplies,Fundraising,1406.19,,Fundraising
+QB-0,2025-02-04,Salaries & Wages,Fundraising,155.62,,Fundraising
+QB-86,2025-03-11,Salaries & Wages,ADMIN,1163.09,,Admin
+QB-849,2026-02-24,Software,Advocacy,429.39,,Advocacy
+QB-1306,2026-05-25,Salaries & Wages,Fundraising,1135.96,,Fundraising
+QB-1481,2026-01-01,Salaries & Wages,Prog - Advocacy,339.67,,Advocacy
+QB-462,2025-07-04,Program Supplies,VOLUNTEER TRAINING,486.78,,Volunteer Training
+QB-422,2025-10-17,Software,Prog - Volunteer Training,20.61,,Volunteer Training
+QB-128,2025-08-06,Salaries & Wages,Advocacy,675.41,,Advocacy
+QB-407,2025-12-15,Insurance,Advocacy,465.86,,Advocacy
+QB-1446,2025-01-30,Professional Fees,Advocacy,1710.31,,Advocacy
+QB-1424,2025-05-03,Salaries & Wages,ADVOCACY,91.04,,Advocacy
+QB-1490,2026-05-09,Rent,,1459.81,,Unallocated
+QB-478,2025-10-04,Salaries & Wages,ADVOCACY,1905.38,,Advocacy
+QB-503,2025-10-30,Salaries & Wages,FUNDRAISING,292.69,,Fundraising
+QB-765,2025-07-20,Salaries & Wages,ADVOCACY,24.86,,Advocacy
+QB-377,2025-12-23,Rent,FUNDRAISING,2369.89,,Fundraising
+QB-70,2025-10-25,Software,Prog - Advocacy,1093.66,,Advocacy
+QB-1105,2026-05-24,Salaries & Wages,Advocacy,307.08,,Advocacy
+QB-390,2025-10-12,Program Supplies,Volunteer Training,317.19,,Volunteer Training
+QB-1677,2026-06-30,Software,VOLUNTEER TRAINING,774.96,,Volunteer Training
+QB-1459,2026-06-23,Salaries & Wages,Volunteer Training,1711.76,,Volunteer Training
+QB-154,2026-01-20,Software,Prog - Volunteer Training,634.45,,Volunteer Training
+QB-600,2025-10-12,Salaries & Wages,Fundraising,63.54,,Fundraising
+QB-1483,2025-08-17,Professional Fees,Prog - Advocacy,360.95,,Advocacy
+QB-1512,2025-02-22,Salaries & Wages,Volunteer Training,194.03,,Volunteer Training
+QB-50,2025-03-22,Program Supplies,Prog - Volunteer Training,1701.87,,Volunteer Training
+QB-1618,2026-04-10,Professional Fees,ADMIN,347.42,,Admin
+QB-1113,2025-09-10,Software,Fundraising,274.57,,Fundraising
+QB-98,2025-04-20,Software,,98.18,,Unallocated
+QB-727,2026-04-05,Rent,Advocacy,259.59,,Advocacy
+QB-451,2025-11-11,Program Supplies,ADVOCACY,354.25,,Advocacy
+QB-1168,2025-07-02,Software,Fundraising,429.78,,Fundraising
+QB-583,2025-07-12,Salaries & Wages,ADVOCACY,529.24,,Advocacy
+QB-1107,2025-04-06,Program Supplies,Advocacy,90.84,,Advocacy
+QB-405,2026-05-13,Professional Fees,Volunteer Training,316.04,,Volunteer Training
+QB-956,2025-04-22,Salaries & Wages,Prog - Advocacy,228.59,,Advocacy
+QB-694,2026-05-07,Professional Fees,Admin,406.57,,Admin
+QB-61,2026-04-27,Salaries & Wages,ADMIN,570.84,,Admin
+QB-1170,2026-06-18,Rent,ADVOCACY,182.52,,Advocacy
+QB-400,2025-09-08,Software,VOLUNTEER TRAINING,802.02,,Volunteer Training
+QB-162,2026-03-31,Insurance,Prog - Fundraising,1113.11,,Fundraising
+QB-1785,2026-05-21,Professional Fees,Prog - Fundraising,399.18,,Fundraising
+QB-59,2025-07-11,Salaries & Wages,,515.71,,Unallocated
+QB-1027,2026-05-05,Salaries & Wages,Advocacy,188.73,,Advocacy
+QB-316,2025-10-06,Salaries & Wages,Prog - Advocacy,233.64,,Advocacy
+QB-676,2026-02-09,Program Supplies,Volunteer Training,301.98,,Volunteer Training
+QB-1354,2025-11-04,Salaries & Wages,Advocacy,548.09,,Advocacy
+QB-651,2025-11-14,Rent,ADVOCACY,224.06,,Advocacy
+QB-1698,2025-01-20,Insurance,ADMIN,649.42,,Admin
+QB-509,2026-01-10,Software,Admin,1436.77,,Admin
+QB-523,2025-08-15,Salaries & Wages,ADMIN,2621.84,,Admin
+QB-570,2026-02-02,Rent,Prog - Admin,183.92,,Admin
+QB-540,2025-03-27,Salaries & Wages,Advocacy,254.85,,Advocacy
+QB-129,2026-04-10,Rent,Advocacy,172.05,,Advocacy
+QB-1460,2026-03-11,Salaries & Wages,Prog - Advocacy,54.16,,Advocacy
+QB-888,2025-11-15,Insurance,ADMIN,1633.67,,Admin
+QB-14,2025-05-15,Insurance,Volunteer Training,390.12,,Volunteer Training
+QB-620,2025-04-12,Software,VOLUNTEER TRAINING,185.74,,Volunteer Training
+QB-1701,2025-10-06,Software,ADVOCACY,29.89,,Advocacy
+QB-1550,2026-04-30,Salaries & Wages,FUNDRAISING,328.72,,Fundraising
+QB-1603,2025-05-21,Salaries & Wages,Admin,505.95,,Admin
+QB-111,2026-03-01,Salaries & Wages,Volunteer Training,1585.99,,Volunteer Training
+QB-677,2026-04-25,Program Supplies,Admin,352.92,,Admin
+QB-1135,2026-06-25,Software,,245.32,,Unallocated
+QB-468,2025-01-29,Salaries & Wages,Admin,187.35,,Admin
+QB-327,2026-03-20,Salaries & Wages,Admin,1394.12,,Admin
+QB-160,2025-04-12,Salaries & Wages,Prog - Advocacy,327.69,,Advocacy
+QB-1482,2025-01-01,Salaries & Wages,Prog - Volunteer Training,190.29,,Volunteer Training
+QB-26,2025-04-22,Salaries & Wages,Prog - Advocacy,5360.75,,Advocacy
+QB-1577,2026-04-17,Program Supplies,Prog - Fundraising,452.3,,Fundraising
+QB-1720,2025-02-28,Salaries & Wages,ADVOCACY,353.92,,Advocacy
+QB-1635,2026-04-17,Insurance,Prog - Volunteer Training,1303.45,,Volunteer Training
+QB-901,2025-09-30,Program Supplies,Advocacy,1380.51,,Advocacy
+QB-1073,2025-08-13,Program Supplies,FUNDRAISING,434.23,,Fundraising
+QB-885,2025-05-18,Professional Fees,Fundraising,1432.51,,Fundraising
+QB-1463,2025-04-05,Salaries & Wages,Volunteer Training,587.65,,Volunteer Training
+QB-848,2025-09-29,Salaries & Wages,Volunteer Training,1369.42,,Volunteer Training
+QB-15,2025-11-11,Program Supplies,ADMIN,175.9,,Admin
+QB-586,2026-05-26,Insurance,Advocacy,1692.96,,Advocacy
+QB-465,2025-08-08,Salaries & Wages,VOLUNTEER TRAINING,1175.66,,Volunteer Training
+QB-1233,2025-04-23,Salaries & Wages,Volunteer Training,216.84,,Volunteer Training
+QB-1336,2025-06-26,Program Supplies,Advocacy,187.94,,Advocacy
+QB-1229,2025-04-22,Program Supplies,Advocacy,1042.97,,Advocacy
+QB-1505,2025-08-05,Insurance,Prog - Volunteer Training,355.61,,Volunteer Training
+QB-289,2025-04-10,Salaries & Wages,Fundraising,161.41,,Fundraising
+QB-852,2025-08-19,Salaries & Wages,,1205.34,,Unallocated
+QB-1502,2025-11-19,Professional Fees,ADVOCACY,731.0,,Advocacy
+QB-1325,2025-02-22,Program Supplies,Fundraising,348.5,,Fundraising
+QB-686,2026-01-18,Salaries & Wages,ADVOCACY,1548.37,,Advocacy
+QB-227,2025-09-08,Program Supplies,ADVOCACY,299.62,,Advocacy
+QB-975,2025-03-23,Program Supplies,Advocacy,100.11,,Advocacy
+QB-1125,2025-12-31,Professional Fees,Advocacy,614.87,,Advocacy
+QB-1310,2026-06-16,Program Supplies,Admin,2016.83,,Admin
+QB-587,2025-08-19,Salaries & Wages,Fundraising,1006.91,,Fundraising
+QB-488,2026-04-18,Professional Fees,Prog - Advocacy,817.38,,Advocacy
+QB-659,2025-11-26,Insurance,Prog - Advocacy,1211.82,,Advocacy
+QB-1433,2025-09-03,Insurance,ADVOCACY,2749.31,,Advocacy
+QB-1047,2026-05-07,Salaries & Wages,FUNDRAISING,800.67,,Fundraising
+QB-1386,2026-05-06,Professional Fees,Prog - Advocacy,1791.46,,Advocacy
+QB-113,2025-03-15,Program Supplies,ADVOCACY,1883.79,,Advocacy
+QB-265,2025-11-17,Program Supplies,Advocacy,196.52,,Advocacy
+QB-1498,2025-09-19,Salaries & Wages,ADVOCACY,1420.67,,Advocacy
+QB-320,2026-03-04,Salaries & Wages,Volunteer Training,1318.23,,Volunteer Training
+QB-1389,2026-03-23,Salaries & Wages,Fundraising,4328.62,,Fundraising
+QB-1691,2026-02-08,Salaries & Wages,VOLUNTEER TRAINING,471.03,,Volunteer Training
+QB-560,2025-04-10,Salaries & Wages,Fundraising,591.47,,Fundraising
+QB-851,2025-06-25,Program Supplies,ADVOCACY,718.78,,Advocacy
+QB-63,2025-09-10,Software,Prog - Admin,710.67,,Admin
+QB-889,2025-09-04,Professional Fees,Admin,413.94,,Admin
+QB-144,2026-04-06,Insurance,ADVOCACY,1132.88,,Advocacy
+QB-58,2026-03-23,Salaries & Wages,Prog - Advocacy,237.0,,Advocacy
+QB-2,2026-05-07,Program Supplies,,640.57,,Unallocated
+QB-208,2025-07-28,Program Supplies,Prog - Admin,202.67,,Admin
+QB-938,2026-05-09,Rent,Advocacy,597.25,,Advocacy
+QB-251,2026-06-24,Professional Fees,Volunteer Training,109.41,,Volunteer Training
+QB-391,2025-04-14,Program Supplies,Advocacy,453.85,,Advocacy
+QB-1299,2025-07-19,Insurance,ADVOCACY,1009.84,,Advocacy
+QB-1372,2026-06-22,Software,Admin,416.13,,Admin
+QB-1735,2025-11-02,Salaries & Wages,ADMIN,408.89,,Admin
+QB-541,2025-12-27,Rent,ADMIN,1257.09,,Admin
+QB-959,2025-11-29,Salaries & Wages,ADVOCACY,375.75,,Advocacy
+QB-1222,2026-03-15,Salaries & Wages,Prog - Advocacy,3403.43,,Advocacy
+QB-575,2025-08-31,Professional Fees,Prog - Advocacy,2301.34,,Advocacy
+QB-1280,2025-09-12,Professional Fees,Advocacy,422.79,,Advocacy
+QB-1660,2025-08-26,Software,Prog - Advocacy,444.01,,Advocacy
+QB-1383,2025-08-24,Rent,Volunteer Training,1063.21,,Volunteer Training
+QB-187,2025-08-09,Software,Prog - Admin,2478.76,,Admin
+QB-207,2025-03-25,Program Supplies,,699.61,,Unallocated
+QB-1312,2025-01-21,Salaries & Wages,Advocacy,208.81,,Advocacy
+QB-927,2026-04-03,Program Supplies,Admin,140.3,,Admin
+QB-269,2025-03-07,Program Supplies,Fundraising,474.57,,Fundraising
+QB-1514,2025-11-15,Software,ADVOCACY,5831.16,,Advocacy
+QB-288,2025-08-06,Professional Fees,ADMIN,1808.4,,Admin
+QB-1621,2026-06-07,Rent,FUNDRAISING,488.71,,Fundraising
+QB-830,2025-10-19,Salaries & Wages,ADMIN,265.71,,Admin
+QB-1536,2026-03-11,Salaries & Wages,ADMIN,213.58,,Admin
+QB-297,2026-02-15,Salaries & Wages,Prog - Advocacy,3580.49,,Advocacy
+QB-1043,2025-11-01,Professional Fees,VOLUNTEER TRAINING,696.28,,Volunteer Training
+QB-310,2025-01-12,Salaries & Wages,Admin,954.43,,Admin
+QB-1291,2026-05-16,Salaries & Wages,Prog - Volunteer Training,210.92,,Volunteer Training
+QB-918,2025-01-12,Program Supplies,Volunteer Training,427.03,,Volunteer Training
+QB-644,2025-07-08,Rent,Prog - Advocacy,2036.74,,Advocacy
+QB-189,2026-02-22,Software,ADMIN,48.59,,Admin
+QB-710,2025-01-07,Insurance,Admin,1591.33,,Admin
+QB-1271,2026-04-22,Salaries & Wages,Advocacy,3012.72,,Advocacy
+QB-1587,2026-02-10,Salaries & Wages,Prog - Volunteer Training,2802.32,,Volunteer Training
+QB-1714,2025-06-16,Salaries & Wages,Prog - Volunteer Training,2171.24,,Volunteer Training
+QB-925,2025-07-28,Insurance,ADVOCACY,1082.24,,Advocacy
+QB-1169,2026-01-02,Salaries & Wages,ADMIN,2436.77,,Admin
+QB-1495,2026-04-25,Professional Fees,Admin,1825.09,,Admin
+QB-1228,2025-12-26,Program Supplies,Advocacy,329.04,,Advocacy
+QB-515,2026-02-16,Software,Prog - Advocacy,143.57,,Advocacy
+QB-1384,2025-04-07,Program Supplies,Prog - Fundraising,1125.67,,Fundraising
+QB-1340,2025-11-15,Salaries & Wages,Volunteer Training,206.27,,Volunteer Training
+QB-432,2025-04-16,Salaries & Wages,Volunteer Training,96.02,,Volunteer Training
+QB-453,2025-12-23,Rent,ADVOCACY,1934.77,,Advocacy
+QB-1230,2025-10-30,Salaries & Wages,FUNDRAISING,933.72,,Fundraising
+QB-127,2025-06-05,Salaries & Wages,Advocacy,753.4,,Advocacy
+QB-1575,2026-05-14,Insurance,Admin,477.28,,Admin
+QB-209,2025-02-27,Insurance,ADMIN,252.92,,Admin
+QB-314,2025-03-11,Insurance,Volunteer Training,204.7,,Volunteer Training
+QB-656,2025-05-20,Salaries & Wages,Prog - Fundraising,1996.34,,Fundraising
+QB-552,2026-04-11,Program Supplies,Prog - Volunteer Training,616.84,,Volunteer Training
+QB-368,2025-12-20,Salaries & Wages,Prog - Fundraising,1305.24,,Fundraising
+QB-1225,2025-04-05,Insurance,ADMIN,119.94,,Admin
+QB-902,2026-05-22,Software,Advocacy,270.81,,Advocacy
+QB-1412,2026-01-12,Salaries & Wages,ADVOCACY,482.29,,Advocacy
+QB-117,2025-06-26,Insurance,Admin,720.83,,Admin
+QB-1294,2025-01-08,Rent,Advocacy,1910.15,,Advocacy
+QB-55,2026-04-14,Salaries & Wages,Advocacy,16.63,,Advocacy
+QB-655,2025-02-28,Salaries & Wages,Advocacy,500.28,,Advocacy
+QB-1127,2026-05-22,Salaries & Wages,Prog - Volunteer Training,134.82,,Volunteer Training
+QB-455,2025-12-31,Salaries & Wages,Advocacy,2088.3,,Advocacy
+QB-595,2026-03-09,Program Supplies,Advocacy,223.02,,Advocacy
+QB-875,2025-10-07,Program Supplies,Admin,9185.53,,Admin
+QB-1580,2025-10-25,Salaries & Wages,Prog - Advocacy,262.77,,Advocacy
+QB-1458,2025-02-15,Insurance,Fundraising,139.75,,Fundraising
+QB-1210,2026-03-05,Salaries & Wages,ADVOCACY,256.99,,Advocacy
+QB-350,2025-03-26,Salaries & Wages,Admin,133.35,,Admin
+QB-1527,2025-08-13,Program Supplies,Advocacy,1173.92,,Advocacy
+QB-46,2026-03-24,Program Supplies,Prog - Advocacy,133.56,,Advocacy
+QB-674,2025-07-18,Salaries & Wages,ADMIN,908.34,,Admin
+QB-340,2025-01-04,Program Supplies,Admin,34.05,,Admin
+QB-645,2025-09-04,Software,Admin,2057.54,,Admin
+QB-436,2026-01-13,Program Supplies,ADVOCACY,299.83,,Advocacy
+QB-627,2025-03-29,Salaries & Wages,ADVOCACY,115.94,,Advocacy
+QB-1530,2025-08-09,Software,Advocacy,193.59,,Advocacy
+QB-376,2025-04-25,Salaries & Wages,Volunteer Training,129.29,,Volunteer Training
+QB-1006,2025-07-29,Salaries & Wages,Admin,2550.95,,Admin
+QB-1478,2025-01-20,Software,Advocacy,981.94,,Advocacy
+QB-1732,2026-06-28,Salaries & Wages,Advocacy,1298.29,,Advocacy
+QB-1204,2025-08-18,Software,Prog - Admin,2207.59,,Admin
+QB-1545,2025-07-13,Salaries & Wages,Advocacy,1250.19,,Advocacy
+QB-150,2026-04-03,Software,Admin,193.45,,Admin
+QB-1287,2025-05-09,Program Supplies,Prog - Advocacy,1337.48,,Advocacy
+QB-777,2025-12-23,Program Supplies,Prog - Advocacy,711.45,,Advocacy
+QB-103,2025-05-18,Salaries & Wages,Advocacy,187.17,,Advocacy
+QB-347,2025-03-19,Program Supplies,ADMIN,2128.74,,Admin
+QB-551,2025-10-30,Rent,VOLUNTEER TRAINING,796.36,,Volunteer Training
+QB-1374,2025-12-09,Salaries & Wages,Admin,692.53,,Admin
+QB-1037,2026-06-24,Program Supplies,Prog - Volunteer Training,283.25,,Volunteer Training
+QB-1237,2025-02-14,Salaries & Wages,Admin,18.23,,Admin
+QB-985,2025-11-22,Program Supplies,Admin,787.17,,Admin
+QB-1147,2025-01-24,Program Supplies,Volunteer Training,662.89,,Volunteer Training
+QB-877,2025-10-21,Program Supplies,Fundraising,123.15,,Fundraising
+QB-1279,2025-08-15,Software,ADMIN,1570.65,,Admin
+QB-412,2026-02-02,Software,Admin,954.05,,Admin
+QB-1607,2025-01-05,Insurance,Advocacy,1705.75,,Advocacy
+QB-346,2025-03-14,Program Supplies,Advocacy,505.7,,Advocacy
+QB-680,2025-12-15,Insurance,Advocacy,1525.06,,Advocacy
+QB-1765,2025-07-13,Salaries & Wages,Prog - Advocacy,444.21,,Advocacy
+QB-917,2026-03-28,Professional Fees,Admin,138.16,,Admin
+QB-1651,2026-05-19,Professional Fees,ADMIN,249.03,,Admin
+QB-459,2025-06-14,Program Supplies,Admin,467.74,,Admin
+QB-1773,2025-11-18,Software,ADVOCACY,1127.36,,Advocacy
+QB-1397,2025-02-16,Salaries & Wages,ADMIN,1290.17,,Admin
+QB-1072,2025-09-24,Insurance,Prog - Advocacy,397.18,,Advocacy
+QB-1387,2025-10-23,Insurance,FUNDRAISING,40.5,,Fundraising
+QB-506,2025-10-07,Rent,ADVOCACY,214.61,,Advocacy
+QB-1613,2026-01-17,Software,Prog - Advocacy,218.8,,Advocacy
+QB-1106,2025-08-28,Professional Fees,ADVOCACY,278.25,,Advocacy
+QB-923,2025-10-21,Program Supplies,Volunteer Training,16.58,,Volunteer Training
+QB-355,2025-06-05,Program Supplies,FUNDRAISING,982.37,,Fundraising
+QB-446,2025-03-06,Program Supplies,ADVOCACY,349.44,,Advocacy
+QB-534,2025-12-07,Rent,Volunteer Training,107.71,,Volunteer Training
+QB-380,2025-04-25,Salaries & Wages,ADVOCACY,1519.19,,Advocacy
+QB-1780,2025-05-24,Software,Advocacy,472.49,,Advocacy
+QB-201,2025-09-03,Program Supplies,Advocacy,235.12,,Advocacy
+QB-1381,2026-03-04,Software,Advocacy,1008.39,,Advocacy
+QB-671,2026-04-13,Salaries & Wages,Prog - Advocacy,578.86,,Advocacy
+QB-1020,2026-05-23,Salaries & Wages,Admin,67.24,,Admin
+QB-401,2025-08-08,Software,Prog - Admin,254.35,,Admin
+QB-286,2026-06-14,Program Supplies,ADVOCACY,5547.02,,Advocacy
+QB-1522,2026-03-07,Salaries & Wages,Admin,2117.42,,Admin
+QB-268,2026-01-05,Software,FUNDRAISING,222.3,,Fundraising
+QB-1258,2025-03-19,Salaries & Wages,Volunteer Training,394.79,,Volunteer Training
+QB-1390,2025-10-02,Salaries & Wages,Admin,248.62,,Admin
+QB-921,2025-06-16,Insurance,ADVOCACY,97.13,,Advocacy
+QB-690,2025-10-06,Rent,FUNDRAISING,460.54,,Fundraising
+QB-785,2025-01-31,Professional Fees,VOLUNTEER TRAINING,114.88,,Volunteer Training
+QB-1103,2025-03-15,Salaries & Wages,Prog - Fundraising,132.55,,Fundraising
+QB-1648,2025-07-05,Salaries & Wages,Advocacy,252.5,,Advocacy
+QB-1362,2025-11-14,Salaries & Wages,Advocacy,3549.99,,Advocacy
+QB-1539,2026-04-15,Salaries & Wages,ADMIN,85.51,,Admin
+QB-914,2025-01-26,Rent,Prog - Admin,447.29,,Admin
+QB-747,2026-01-04,Rent,ADVOCACY,3166.82,,Advocacy
+QB-232,2026-03-22,Salaries & Wages,ADMIN,91.46,,Admin
+QB-1615,2025-12-21,Software,,3602.81,,Unallocated
+QB-1526,2026-04-01,Salaries & Wages,Volunteer Training,1358.29,,Volunteer Training
+QB-62,2025-04-03,Insurance,Admin,597.16,,Admin
+QB-480,2025-03-27,Professional Fees,ADMIN,427.06,,Admin
+QB-780,2026-02-10,Salaries & Wages,ADVOCACY,424.26,,Advocacy
+QB-1547,2026-03-06,Program Supplies,Advocacy,494.58,,Advocacy
+QB-1270,2026-04-20,Program Supplies,ADMIN,1142.06,,Admin
+QB-360,2025-12-30,Program Supplies,Advocacy,500.21,,Advocacy
+QB-1388,2026-02-10,Software,Prog - Advocacy,1260.32,,Advocacy
+QB-44,2025-06-04,Salaries & Wages,ADMIN,943.86,,Admin
+QB-1492,2025-11-07,Software,Prog - Advocacy,592.83,,Advocacy
+QB-796,2025-11-05,Software,Volunteer Training,1199.65,,Volunteer Training
+QB-1159,2025-08-27,Professional Fees,ADMIN,282.35,,Admin
+QB-1454,2026-03-09,Rent,Prog - Advocacy,348.4,,Advocacy
+QB-1681,2026-04-15,Insurance,,3086.62,,Unallocated
+QB-1419,2026-02-21,Rent,Advocacy,414.59,,Advocacy
+QB-1095,2025-04-18,Program Supplies,Admin,1565.55,,Admin
+QB-630,2026-01-18,Rent,Fundraising,709.09,,Fundraising
+QB-1240,2025-01-15,Software,Admin,502.86,,Admin
+QB-1692,2025-08-31,Software,ADVOCACY,213.16,,Advocacy
+QB-395,2025-06-14,Salaries & Wages,Prog - Volunteer Training,636.09,,Volunteer Training
+QB-93,2025-08-24,Salaries & Wages,Advocacy,2286.29,,Advocacy
+QB-283,2026-06-10,Software,ADMIN,215.25,,Admin
+QB-89,2026-06-01,Salaries & Wages,Advocacy,222.25,,Advocacy
+QB-1366,2025-12-24,Software,Advocacy,1341.88,,Advocacy
+QB-653,2026-05-16,Salaries & Wages,Prog - Admin,183.83,,Admin
+QB-1406,2025-09-21,Salaries & Wages,Prog - Advocacy,240.15,,Advocacy
+QB-409,2026-05-05,Salaries & Wages,Volunteer Training,495.92,,Volunteer Training
+QB-13,2025-09-23,Salaries & Wages,Admin,1355.99,,Admin
+QB-77,2025-11-13,Salaries & Wages,Prog - Advocacy,349.18,,Advocacy
+QB-1713,2026-02-27,Rent,Advocacy,86.21,,Advocacy
+QB-974,2025-06-14,Program Supplies,Admin,1668.32,,Admin
+QB-1224,2025-04-04,Insurance,VOLUNTEER TRAINING,1375.98,,Volunteer Training
+QB-574,2026-05-08,Professional Fees,Prog - Advocacy,167.05,,Advocacy
+QB-239,2025-07-20,Salaries & Wages,Advocacy,130.4,,Advocacy
+QB-356,2025-04-27,Program Supplies,ADVOCACY,131.16,,Advocacy
+QB-1552,2025-11-05,Rent,Volunteer Training,68.3,,Volunteer Training
+QB-40,2025-03-19,Software,Fundraising,800.3,,Fundraising
+QB-1097,2026-01-25,Salaries & Wages,Prog - Advocacy,105.02,,Advocacy
+QB-1032,2025-07-08,Salaries & Wages,ADMIN,841.32,,Admin
+QB-1520,2025-12-27,Salaries & Wages,Prog - Advocacy,2230.92,,Advocacy
+QB-733,2026-06-12,Salaries & Wages,Advocacy,135.42,,Advocacy
+QB-1180,2026-03-17,Insurance,Advocacy,2777.59,,Advocacy
+QB-1344,2026-03-03,Salaries & Wages,Prog - Advocacy,380.61,,Advocacy
+QB-527,2026-05-23,Professional Fees,Fundraising,369.33,,Fundraising
+QB-1289,2025-05-26,Program Supplies,Prog - Advocacy,403.95,,Advocacy

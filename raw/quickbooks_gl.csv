@@ -1,0 +1,2841 @@
+qb_txn_id,txn_date,account,class,amount,memo
+QB-1076,2025-01-05,Salaries & Wages,Advocacy,664.51,
+QB-1276,2026-04-25,Salaries & Wages,Admin,508.98,
+QB-1149,02/21/2025,Salaries & Wages,Advocacy,473.02,
+QB-S353,26-Jul-2025,Credit Card Expense,FUNDRAISING,32.79,Ramp sync RMP-700703
+QB-264,12/26/2025,Program Supplies,Advocacy,68.65,
+QB-S368,02/12/2025,Credit Card Expense,Prog - Fundraising,41.58,Ramp sync RMP-701987
+QB-736,2025-01-31,Software,Advocacy,216.02,
+QB-1769,06/19/2025,Software,Prog - Volunteer Training,698.68,
+QB-S661,07/16/2025,Credit Card Expense,Volunteer Training,105.8,Ramp sync RMP-700040
+QB-216,04/07/2026,Software,VOLUNTEER TRAINING,483.87,
+QB-1160,2026-01-27,Software,Fundraising,793.87,
+QB-S110,2025-04-15,Credit Card Expense,VOLUNTEER TRAINING,48.29,Ramp sync RMP-700385
+QB-1750,2025-03-11,Program Supplies,Admin,53.66,
+QB-507,05/15/2026,Salaries & Wages,Prog - Advocacy,119.84,
+QB-S121,05/18/2026,Credit Card Expense,Prog - Advocacy,119.63,Ramp sync RMP-700292
+QB-842,2025-07-22,Program Supplies,Prog - Admin,805.65,
+QB-S794,15-Aug-2025,Credit Card Expense,VOLUNTEER TRAINING,29.27,Ramp sync RMP-702558
+QB-29,2025-03-26,Software,Prog - Advocacy,226.46,
+QB-1209,2025-07-18,Salaries & Wages,Prog - Advocacy,624.97,
+QB-1303,2025-11-27,Program Supplies,Advocacy,171.31,
+QB-840,2026-05-10,Insurance,FUNDRAISING,190.13,
+QB-454,06/02/2026,Salaries & Wages,Admin,987.31,
+QB-S780,2025-03-01,Credit Card Expense,Admin,21.07,Ramp sync RMP-701496
+QB-565,2026-01-08,Salaries & Wages,Volunteer Training,1037.88,
+QB-604,04-Sep-2025,Salaries & Wages,ADVOCACY,235.15,
+QB-S117,11/04/2025,Credit Card Expense,FUNDRAISING,136.08,Ramp sync RMP-701432
+QB-1418,2025-10-08,Salaries & Wages,Volunteer Training,551.64,
+QB-1042,2026-06-04,Program Supplies,FUNDRAISING,1287.99,
+QB-1445,2025-08-29,Salaries & Wages,Admin,771.56,
+QB-S665,2026-04-02,Credit Card Expense,Advocacy,25.97,Ramp sync RMP-700979
+QB-S1005,04/16/2025,Credit Card Expense,Advocacy,156.24,Ramp sync RMP-700315
+QB-528,05/07/2025,Professional Fees,Advocacy,1618.02,
+QB-S460,20-Jun-2025,Credit Card Expense,Admin,26.06,Ramp sync RMP-702089
+QB-S90,2025-08-24,Credit Card Expense,ADVOCACY,241.53,Ramp sync RMP-701262
+QB-928,11-Oct-2025,Salaries & Wages,Fundraising,344.79,
+QB-648,01/31/2026,Professional Fees,FUNDRAISING,1092.48,
+QB-1709,02/14/2025,Insurance,Fundraising,1237.6,
+QB-S697,2026-04-20,Credit Card Expense,Prog - Fundraising,66.85,Ramp sync RMP-700175
+QB-326,2025-01-21,Salaries & Wages,FUNDRAISING,566.4,
+QB-1339,2025-01-22,Salaries & Wages,ADVOCACY,557.9,
+QB-1257,2026-01-23,Program Supplies,ADVOCACY,250.18,
+QB-1444,05/01/2025,Program Supplies,Prog - Fundraising,165.8,
+QB-1631,2025-09-27,Program Supplies,ADMIN,134.79,
+QB-1686,2025-04-29,Salaries & Wages,Volunteer Training,633.99,
+QB-S802,02/07/2025,Credit Card Expense,Prog - Advocacy,16.43,Ramp sync RMP-700844
+QB-S600,2025-02-04,Credit Card Expense,Prog - Advocacy,110.52,Ramp sync RMP-701919
+QB-1475,2025-02-25,Software,Advocacy,66.25,
+QB-S552,13-Feb-2026,Credit Card Expense,ADMIN,23.86,Ramp sync RMP-701791
+QB-1272,2025-09-14,Salaries & Wages,Admin,2689.27,
+QB-S154,2026-05-22,Credit Card Expense,ADVOCACY,31.29,Ramp sync RMP-700408
+QB-1734,01/24/2025,Insurance,Fundraising,758.52,
+QB-1610,08-Apr-2026,Software,Prog - Volunteer Training,205.75,
+QB-1080,13-Mar-2025,Rent,Prog - Advocacy,928.77,
+QB-854,2026-04-12,Salaries & Wages,Advocacy,87.0,
+QB-850,05/04/2026,Salaries & Wages,Volunteer Training,695.39,
+QB-37,2026-05-23,Salaries & Wages,Admin,356.67,
+QB-1092,17-Aug-2025,Rent,Advocacy,242.24,
+QB-860,2025-06-14,Professional Fees,Advocacy,17867.14,
+QB-S148,11/18/2025,Credit Card Expense,Prog - Volunteer Training,38.88,Ramp sync RMP-702276
+QB-469,2025-03-05,Program Supplies,FUNDRAISING,300.28,
+QB-1035,16-May-2026,Software,Admin,443.23,
+QB-S1035,01/27/2025,Credit Card Expense,FUNDRAISING,28.98,Ramp sync RMP-701597
+QB-S655,2025-10-11,Credit Card Expense,Admin,22.98,Ramp sync RMP-701277
+QB-761,2025-09-26,Salaries & Wages,Advocacy,815.35,
+QB-962,2026-05-27,Salaries & Wages,Prog - Fundraising,353.07,
+QB-S87,2025-11-23,Credit Card Expense,ADVOCACY,15.07,Ramp sync RMP-700905
+QB-1090,2025-09-12,Software,Advocacy,266.56,
+QB-235,02/21/2026,Rent,ADMIN,206.66,
+QB-230,06-Sep-2025,Salaries & Wages,Fundraising,201.55,
+QB-1029,2025-06-25,Software,Admin,568.45,
+QB-1196,29-Sep-2025,Software,Prog - Advocacy,586.4,
+QB-183,2025-10-28,Professional Fees,Admin,53.09,
+QB-212,2026-04-06,Professional Fees,Fundraising,1388.54,
+QB-S293,08/25/2025,Credit Card Expense,ADMIN,64.63,Ramp sync RMP-700460
+QB-S521,2025-05-07,Credit Card Expense,Fundraising,148.55,Ramp sync RMP-700393
+QB-S239,2026-03-25,Credit Card Expense,ADMIN,15.02,Ramp sync RMP-701598
+QB-1486,2025-08-15,Program Supplies,Prog - Admin,364.4,
+QB-437,2026-05-11,Insurance,Volunteer Training,542.75,
+QB-S814,2025-04-21,Credit Card Expense,Prog - Fundraising,6.72,Ramp sync RMP-700846
+QB-1213,2026-04-19,Professional Fees,Admin,1680.23,
+QB-101,2025-02-15,Program Supplies,Advocacy,1176.79,
+QB-1443,2025-04-20,Insurance,,835.65,
+QB-219,2026-03-08,Rent,Advocacy,276.25,
+QB-275,2025-11-10,Insurance,FUNDRAISING,639.15,
+QB-329,2026-04-17,Insurance,Fundraising,146.41,
+QB-621,2025-12-21,Salaries & Wages,Prog - Advocacy,285.61,
+QB-148,06/16/2026,Program Supplies,Admin,110.94,
+QB-1601,2025-12-05,Software,Prog - Advocacy,58.92,
+QB-S298,11-May-2026,Credit Card Expense,Volunteer Training,272.54,Ramp sync RMP-700414
+QB-S931,16-Sep-2025,Credit Card Expense,VOLUNTEER TRAINING,96.57,Ramp sync RMP-702208
+QB-S351,2025-01-25,Credit Card Expense,FUNDRAISING,15.79,Ramp sync RMP-701173
+QB-S723,2025-08-03,Credit Card Expense,Admin,22.56,Ramp sync RMP-702509
+QB-S516,2025-07-13,Credit Card Expense,Advocacy,36.09,Ramp sync RMP-700920
+QB-1417,10/16/2025,Program Supplies,Prog - Admin,63.72,
+QB-85,2025-04-16,Insurance,ADVOCACY,239.63,
+QB-S650,2025-02-07,Credit Card Expense,Prog - Advocacy,222.73,Ramp sync RMP-700284
+QB-196,07/29/2025,Software,Prog - Advocacy,1326.73,
+QB-1643,2025-09-24,Salaries & Wages,Prog - Fundraising,485.89,
+QB-95,2025-12-29,Program Supplies,Prog - Advocacy,356.72,
+QB-S1016,2025-09-21,Credit Card Expense,Advocacy,158.13,Ramp sync RMP-701900
+QB-470,2025-04-06,Software,Prog - Fundraising,113.24,
+QB-S937,04-Jul-2025,Credit Card Expense,Advocacy,27.16,Ramp sync RMP-700103
+QB-S773,01-Feb-2026,Credit Card Expense,FUNDRAISING,35.39,Ramp sync RMP-700318
+QB-S718,2026-05-11,Credit Card Expense,ADVOCACY,25.21,Ramp sync RMP-701564
+QB-S408,2025-05-16,Credit Card Expense,Fundraising,12.87,Ramp sync RMP-701386
+QB-1352,2026-06-27,Software,FUNDRAISING,494.11,
+QB-1024,2026-04-01,Program Supplies,Prog - Advocacy,126.11,
+QB-S277,2025-03-13,Credit Card Expense,Prog - Volunteer Training,21.34,Ramp sync RMP-702035
+QB-773,04/23/2026,Salaries & Wages,Advocacy,605.09,
+QB-837,01/31/2026,Insurance,Volunteer Training,235.93,
+QB-729,2025-10-10,Salaries & Wages,Volunteer Training,375.57,
+QB-1673,03/23/2026,Professional Fees,Prog - Admin,197.25,
+QB-1627,2026-04-27,Insurance,Prog - Advocacy,254.87,
+QB-1036,2025-11-08,Salaries & Wages,Prog - Advocacy,807.22,
+QB-1737,06-Jul-2025,Insurance,Advocacy,7194.23,
+QB-1281,2025-03-11,Salaries & Wages,Admin,132.98,
+QB-S327,2025-08-09,Credit Card Expense,Fundraising,18.54,Ramp sync RMP-702297
+QB-S452,04/25/2025,Credit Card Expense,Advocacy,11.44,Ramp sync RMP-700546
+QB-766,08/30/2025,Salaries & Wages,Prog - Advocacy,1335.33,
+QB-1440,2026-06-02,Insurance,Admin,1461.63,
+QB-1546,11-Jul-2025,Software,ADVOCACY,5640.94,
+QB-353,2025-11-02,Software,ADVOCACY,567.7,
+QB-1717,2025-05-04,Program Supplies,,775.93,
+QB-588,01/14/2025,Insurance,VOLUNTEER TRAINING,530.01,
+QB-S342,03/23/2025,Credit Card Expense,Prog - Advocacy,32.67,Ramp sync RMP-700166
+QB-S411,19-Feb-2026,Credit Card Expense,VOLUNTEER TRAINING,216.71,Ramp sync RMP-701077
+QB-S379,03/16/2026,Credit Card Expense,Volunteer Training,70.6,Ramp sync RMP-700636
+QB-781,06/01/2026,Salaries & Wages,Volunteer Training,1799.91,
+QB-S82,2025-03-15,Credit Card Expense,ADVOCACY,8.92,Ramp sync RMP-700308
+QB-174,2025-09-20,Rent,Prog - Advocacy,780.49,
+QB-841,07-Feb-2026,Software,Fundraising,1195.57,
+QB-1725,2025-04-13,Professional Fees,Fundraising,1300.24,
+QB-1470,2025-09-13,Professional Fees,Fundraising,1065.46,
+QB-S304,06-Apr-2026,Credit Card Expense,Advocacy,70.3,Ramp sync RMP-700671
+QB-1752,2026-02-06,Program Supplies,Advocacy,116.42,
+QB-1573,10-Apr-2025,Software,Fundraising,657.65,
+QB-1248,2025-06-18,Program Supplies,Prog - Admin,278.31,
+QB-S128,2025-07-19,Credit Card Expense,Prog - Advocacy,52.21,Ramp sync RMP-701213
+QB-S812,03-Feb-2026,Credit Card Expense,Volunteer Training,27.11,Ramp sync RMP-700340
+QB-1572,2025-02-20,Professional Fees,Volunteer Training,253.81,
+QB-1749,2025-03-23,Salaries & Wages,ADVOCACY,1068.24,
+QB-1538,2025-05-31,Salaries & Wages,VOLUNTEER TRAINING,109.84,
+QB-828,2026-03-16,Program Supplies,Prog - Advocacy,318.93,
+QB-992,2025-05-15,Salaries & Wages,Prog - Volunteer Training,165.55,
+QB-S147,06/19/2025,Credit Card Expense,Volunteer Training,23.33,Ramp sync RMP-701343
+QB-S668,2025-01-12,Credit Card Expense,Advocacy,83.32,Ramp sync RMP-701247
+QB-S356,2026-01-16,Credit Card Expense,Advocacy,15.63,Ramp sync RMP-701694
+QB-1166,09/14/2025,Salaries & Wages,Advocacy,90.95,
+QB-S393,2026-03-23,Credit Card Expense,Admin,348.04,Ramp sync RMP-700547
+QB-484,2025-03-22,Salaries & Wages,Prog - Fundraising,35.26,
+QB-S1026,2025-09-15,Credit Card Expense,Volunteer Training,57.68,Ramp sync RMP-702095
+QB-1628,05/21/2025,Salaries & Wages,Admin,419.75,
+QB-365,2026-02-17,Program Supplies,VOLUNTEER TRAINING,768.57,
+QB-1254,2025-06-01,Insurance,Admin,727.49,
+QB-S456,2025-05-31,Credit Card Expense,Volunteer Training,15.95,Ramp sync RMP-701003
+QB-S478,07/19/2025,Credit Card Expense,ADMIN,38.31,Ramp sync RMP-702138
+QB-423,06/20/2025,Software,Volunteer Training,337.55,
+QB-1497,12/21/2025,Insurance,Prog - Advocacy,202.91,
+QB-S109,2025-07-21,Credit Card Expense,Prog - Admin,25.63,Ramp sync RMP-700144
+QB-S776,2025-10-09,Credit Card Expense,VOLUNTEER TRAINING,76.48,Ramp sync RMP-701712
+QB-110,2025-06-16,Software,Advocacy,1158.53,
+QB-798,2025-02-24,Professional Fees,FUNDRAISING,285.96,
+QB-1051,2025-11-16,Salaries & Wages,Prog - Admin,127.57,
+QB-1316,2025-11-04,Salaries & Wages,Fundraising,421.36,
+QB-28,20-Nov-2025,Program Supplies,Prog - Volunteer Training,1550.79,
+QB-147,01/05/2025,Salaries & Wages,Prog - Fundraising,2705.79,
+QB-S389,2025-08-02,Credit Card Expense,Fundraising,45.52,Ramp sync RMP-701209
+QB-S435,2026-05-05,Credit Card Expense,Prog - Advocacy,112.39,Ramp sync RMP-702493
+QB-263,2026-06-07,Salaries & Wages,ADVOCACY,330.17,
+QB-832,2025-10-22,Insurance,FUNDRAISING,1160.28,
+QB-1207,05/10/2026,Salaries & Wages,ADVOCACY,2025.44,
+QB-806,2025-08-04,Program Supplies,Advocacy,660.03,
+QB-S203,28-Jul-2025,Credit Card Expense,Admin,148.94,Ramp sync RMP-701073
+QB-913,2026-04-14,Program Supplies,Prog - Volunteer Training,791.86,
+QB-57,2025-04-10,Program Supplies,Advocacy,270.26,
+QB-1554,2026-02-15,Salaries & Wages,Prog - Volunteer Training,519.98,
+QB-756,2025-05-04,Salaries & Wages,Prog - Advocacy,189.65,
+QB-1770,2025-09-03,Software,Advocacy,1846.61,
+QB-176,2025-06-22,Salaries & Wages,Admin,967.82,
+QB-1370,04/01/2026,Insurance,Advocacy,252.71,
+QB-S688,13-Apr-2026,Credit Card Expense,Volunteer Training,20.9,Ramp sync RMP-702530
+QB-379,12/20/2025,Salaries & Wages,VOLUNTEER TRAINING,437.67,
+QB-856,2025-02-25,Insurance,ADVOCACY,729.24,
+QB-90,2025-01-28,Program Supplies,Advocacy,63.77,
+QB-S640,2026-04-04,Credit Card Expense,ADVOCACY,26.25,Ramp sync RMP-702193
+QB-1763,2026-02-15,Salaries & Wages,ADMIN,895.2,
+QB-1068,09/24/2025,Software,Fundraising,25917.06,
+QB-762,2025-07-14,Salaries & Wages,,592.74,
+QB-S422,2025-01-02,Credit Card Expense,Fundraising,41.73,Ramp sync RMP-701751
+QB-S970,2025-07-19,Credit Card Expense,Fundraising,174.44,Ramp sync RMP-702219
+QB-S161,2025-12-01,Credit Card Expense,Prog - Advocacy,74.85,Ramp sync RMP-700695
+QB-1637,02/14/2025,Professional Fees,Advocacy,237.66,
+QB-S91,2026-06-09,Credit Card Expense,Fundraising,31.21,Ramp sync RMP-701391
+QB-1703,02/05/2026,Salaries & Wages,Prog - Volunteer Training,162.61,
+QB-1753,06/09/2026,Salaries & Wages,ADMIN,152.33,
+QB-S222,2026-01-11,Credit Card Expense,Prog - Fundraising,43.71,Ramp sync RMP-700384
+QB-887,2025-05-31,Program Supplies,Advocacy,1836.18,
+QB-241,04/14/2025,Rent,Advocacy,5461.51,
+QB-S3,02/18/2025,Credit Card Expense,Advocacy,19.87,Ramp sync RMP-701724
+QB-1790,2025-12-26,Professional Fees,ADMIN,305.14,
+QB-1653,2026-05-13,Software,Advocacy,400.25,
+QB-S710,2025-03-25,Credit Card Expense,Fundraising,13.38,Ramp sync RMP-702291
+QB-S474,10/27/2025,Credit Card Expense,Admin,22.05,Ramp sync RMP-700405
+QB-742,2025-04-17,Salaries & Wages,Admin,860.73,
+QB-613,2025-01-28,Program Supplies,ADVOCACY,706.7,
+QB-695,15-Mar-2025,Salaries & Wages,Prog - Advocacy,400.05,
+QB-S392,2026-06-27,Credit Card Expense,Fundraising,37.4,Ramp sync RMP-702456
+QB-592,02/03/2025,Software,ADMIN,184.19,
+QB-373,2025-11-21,Salaries & Wages,FUNDRAISING,45.07,
+QB-1145,2026-04-07,Insurance,Admin,294.38,
+QB-1253,2025-07-12,Salaries & Wages,Admin,197.98,
+QB-881,2025-02-12,Professional Fees,ADVOCACY,103.15,
+QB-S492,2025-03-01,Credit Card Expense,Advocacy,36.61,Ramp sync RMP-700073
+QB-68,2025-07-07,Salaries & Wages,Prog - Advocacy,149.89,
+QB-1794,2025-12-07,Rent,ADVOCACY,1077.14,
+QB-822,06/19/2026,Program Supplies,Prog - Volunteer Training,71.96,
+QB-543,12/25/2025,Software,Volunteer Training,92.63,
+QB-1783,2025-05-10,Program Supplies,Prog - Fundraising,644.74,
+QB-S990,23-May-2026,Credit Card Expense,ADVOCACY,29.78,Ramp sync RMP-700099
+QB-920,2026-02-24,Professional Fees,VOLUNTEER TRAINING,883.28,
+QB-S546,2026-01-07,Credit Card Expense,Advocacy,45.61,Ramp sync RMP-700101
+QB-1318,29-May-2026,Insurance,Fundraising,1986.51,
+QB-S515,2026-03-06,Credit Card Expense,Prog - Advocacy,36.31,Ramp sync RMP-701445
+QB-1098,25-Jun-2026,Program Supplies,Admin,1029.08,
+QB-1002,2026-04-04,Professional Fees,,1459.39,
+QB-1757,11/29/2025,Professional Fees,Advocacy,682.6,
+QB-S53,2025-04-10,Credit Card Expense,Fundraising,26.81,Ramp sync RMP-701515
+QB-S111,2026-04-19,Credit Card Expense,Advocacy,98.83,Ramp sync RMP-702445
+QB-1041,05/12/2025,Software,ADVOCACY,61.84,
+QB-S420,2025-12-23,Credit Card Expense,Advocacy,76.89,Ramp sync RMP-701997
+QB-1028,2025-08-27,Insurance,Prog - Admin,32.76,
+QB-64,02/08/2025,Rent,Fundraising,171.58,
+QB-S564,14-Mar-2025,Credit Card Expense,ADVOCACY,37.68,Ramp sync RMP-700909
+QB-1413,06/25/2026,Program Supplies,Advocacy,603.0,
+QB-S37,2025-09-29,Credit Card Expense,Volunteer Training,92.35,Ramp sync RMP-701707
+QB-684,03/19/2025,Salaries & Wages,Advocacy,288.79,
+QB-27,2025-09-26,Salaries & Wages,Prog - Advocacy,339.32,
+QB-1761,2025-07-08,Salaries & Wages,Fundraising,7092.83,
+QB-775,2026-05-13,Program Supplies,Advocacy,6886.19,
+QB-134,06/24/2026,Software,Advocacy,5589.93,
+QB-869,01/29/2026,Professional Fees,FUNDRAISING,103.71,
+QB-1740,2025-10-21,Insurance,ADVOCACY,883.27,
+QB-582,2025-12-07,Rent,ADVOCACY,787.22,
+QB-S503,28-Sep-2025,Credit Card Expense,Prog - Fundraising,172.49,Ramp sync RMP-701075
+QB-311,2025-05-15,Rent,Admin,632.71,
+QB-S369,05/21/2025,Credit Card Expense,Advocacy,46.98,Ramp sync RMP-702288
+QB-S316,03/01/2025,Credit Card Expense,Fundraising,129.78,Ramp sync RMP-700886
+QB-S891,2025-02-01,Credit Card Expense,Prog - Advocacy,56.24,Ramp sync RMP-701830
+QB-1567,03/04/2026,Professional Fees,Volunteer Training,563.2,
+QB-804,2025-09-25,Salaries & Wages,Advocacy,1126.7,
+QB-210,2026-05-27,Salaries & Wages,ADVOCACY,44.48,
+QB-593,2025-08-22,Program Supplies,Fundraising,99.86,
+QB-675,2025-10-10,Program Supplies,Volunteer Training,12451.09,
+QB-S901,2025-02-11,Credit Card Expense,Fundraising,145.19,Ramp sync RMP-700078
+QB-1199,2026-01-21,Software,,729.4,
+QB-295,04/12/2025,Program Supplies,Advocacy,343.71,
+QB-S438,2026-04-21,Credit Card Expense,Advocacy,41.86,Ramp sync RMP-701489
+QB-16,2025-10-27,Salaries & Wages,Prog - Admin,308.5,
+QB-1376,2025-06-16,Insurance,Advocacy,726.1,
+QB-1695,2025-01-16,Insurance,ADVOCACY,479.65,
+QB-S127,2025-08-25,Credit Card Expense,Prog - Advocacy,256.76,Ramp sync RMP-702306
+QB-728,06/16/2025,Program Supplies,Advocacy,2800.88,
+QB-831,03/02/2026,Insurance,Admin,458.85,
+QB-S959,2026-01-06,Credit Card Expense,Fundraising,112.18,Ramp sync RMP-701333
+QB-S911,05-Feb-2026,Credit Card Expense,Fundraising,216.03,Ramp sync RMP-702017
+QB-1152,2025-12-11,Salaries & Wages,ADVOCACY,5750.8,
+QB-S328,01/09/2026,Credit Card Expense,Prog - Advocacy,105.29,Ramp sync RMP-701032
+QB-S83,2025-06-04,Credit Card Expense,VOLUNTEER TRAINING,13.48,Ramp sync RMP-701542
+QB-871,2025-01-26,Program Supplies,Prog - Volunteer Training,325.48,
+QB-579,03-Nov-2025,Program Supplies,Prog - Advocacy,209.32,
+QB-S616,2025-03-31,Credit Card Expense,Volunteer Training,47.73,Ramp sync RMP-700361
+QB-1558,04/05/2026,Professional Fees,Prog - Admin,210.0,
+QB-1409,11/09/2025,Software,VOLUNTEER TRAINING,1039.93,
+QB-1411,02/08/2026,Software,Prog - Advocacy,474.12,
+QB-495,2025-10-14,Professional Fees,Volunteer Training,758.18,
+QB-S482,2025-11-23,Credit Card Expense,Admin,53.51,Ramp sync RMP-700651
+QB-1437,08/13/2025,Program Supplies,Admin,90.85,
+QB-S592,2025-04-23,Credit Card Expense,Advocacy,22.27,Ramp sync RMP-700570
+QB-819,2025-03-04,Software,ADMIN,139.53,
+QB-1249,16-Jun-2026,Software,Prog - Fundraising,1067.98,
+QB-S1011,01/05/2026,Credit Card Expense,FUNDRAISING,26.22,Ramp sync RMP-701701
+QB-S500,2025-09-25,Credit Card Expense,Fundraising,5.87,Ramp sync RMP-700083
+QB-1101,19-Jun-2025,Software,ADMIN,120.09,
+QB-S615,2025-05-11,Credit Card Expense,Volunteer Training,31.62,Ramp sync RMP-702415
+QB-1474,01/10/2026,Salaries & Wages,ADVOCACY,609.15,
+QB-589,01/14/2025,Program Supplies,Advocacy,332.81,
+QB-1378,20-May-2025,Program Supplies,Advocacy,434.6,
+QB-1297,01/02/2025,Salaries & Wages,Advocacy,289.01,
+QB-794,2025-01-13,Insurance,Admin,3977.51,
+QB-1264,2025-07-28,Salaries & Wages,Fundraising,1406.3,
+QB-1215,2026-03-02,Software,ADMIN,96.56,
+QB-20,03-May-2026,Professional Fees,ADVOCACY,541.65,
+QB-S61,05/05/2026,Credit Card Expense,Volunteer Training,97.05,Ramp sync RMP-702513
+QB-1592,2025-03-30,Professional Fees,ADVOCACY,136.69,
+QB-893,2025-03-22,Rent,ADVOCACY,187.42,
+QB-1565,2025-10-18,Rent,Advocacy,162.5,
+QB-145,2025-04-21,Salaries & Wages,Prog - Advocacy,378.39,
+QB-1283,2025-01-02,Insurance,Prog - Fundraising,211.52,
+QB-S362,21-Mar-2026,Credit Card Expense,ADVOCACY,40.24,Ramp sync RMP-702411
+QB-778,2025-03-12,Insurance,Fundraising,199.1,
+QB-S687,04-Oct-2025,Credit Card Expense,Volunteer Training,55.87,Ramp sync RMP-701636
+QB-359,2025-11-25,Salaries & Wages,Prog - Fundraising,95.77,
+QB-1529,2026-04-25,Insurance,Admin,1610.47,
+QB-1118,2025-01-05,Salaries & Wages,Advocacy,94.29,
+QB-S196,25-Jun-2026,Credit Card Expense,Volunteer Training,4.06,Ramp sync RMP-702238
+QB-S156,2025-08-04,Credit Card Expense,Advocacy,51.48,Ramp sync RMP-701983
+QB-S387,2025-04-27,Credit Card Expense,ADVOCACY,156.01,Ramp sync RMP-701528
+QB-S59,01/26/2025,Credit Card Expense,Fundraising,23.16,Ramp sync RMP-701367
+QB-638,2026-03-14,Program Supplies,Prog - Advocacy,783.42,
+QB-1232,2025-10-08,Salaries & Wages,ADMIN,417.29,
+QB-S1039,2026-04-19,Credit Card Expense,Prog - Volunteer Training,58.06,Ramp sync RMP-701480
+QB-1198,2025-03-28,Program Supplies,,2403.2,
+QB-S634,24-Feb-2026,Credit Card Expense,Advocacy,91.13,Ramp sync RMP-701289
+QB-S582,2025-02-02,Credit Card Expense,Advocacy,112.57,Ramp sync RMP-702243
+QB-245,2026-01-25,Salaries & Wages,Advocacy,1175.01,
+QB-182,2025-09-21,Program Supplies,ADMIN,228.15,
+QB-1448,2026-04-10,Program Supplies,Admin,2478.45,
+QB-1493,2025-03-30,Salaries & Wages,,1428.0,
+QB-248,2026-01-18,Software,ADMIN,1102.37,
+QB-S106,2025-11-21,Credit Card Expense,Admin,103.13,Ramp sync RMP-701235
+QB-614,2026-01-05,Salaries & Wages,Advocacy,276.61,
+QB-S606,2025-08-15,Credit Card Expense,Advocacy,23.13,Ramp sync RMP-700182
+QB-1656,2025-01-05,Professional Fees,Volunteer Training,1055.91,
+QB-1093,01/02/2026,Rent,Advocacy,769.32,
+QB-130,2025-07-14,Salaries & Wages,Admin,150.92,
+QB-S105,2025-01-12,Credit Card Expense,Fundraising,8.1,Ramp sync RMP-700360
+QB-404,2026-04-09,Software,Fundraising,167.87,
+QB-1659,2026-02-27,Program Supplies,Prog - Advocacy,384.72,
+QB-181,2026-02-21,Professional Fees,Prog - Volunteer Training,977.6,
+QB-1060,2025-11-14,Software,Admin,118.6,
+QB-107,2025-10-29,Salaries & Wages,Advocacy,125.26,
+QB-1715,2025-09-26,Salaries & Wages,Fundraising,164.73,
+QB-S96,2025-10-29,Credit Card Expense,Prog - Advocacy,43.18,Ramp sync RMP-700801
+QB-S419,26-Sep-2025,Credit Card Expense,Prog - Admin,58.55,Ramp sync RMP-700376
+QB-952,02/09/2026,Salaries & Wages,Advocacy,489.36,
+QB-S201,05-May-2025,Credit Card Expense,Volunteer Training,67.72,Ramp sync RMP-700312
+QB-S249,2025-01-04,Credit Card Expense,Prog - Fundraising,207.01,Ramp sync RMP-700663
+QB-689,02/24/2025,Program Supplies,Advocacy,255.1,
+QB-705,14-Jun-2025,Salaries & Wages,Prog - Advocacy,3869.69,
+QB-S159,2025-05-27,Credit Card Expense,Advocacy,160.43,Ramp sync RMP-702492
+QB-1284,10-May-2026,Rent,Fundraising,762.87,
+QB-S537,2025-10-11,Credit Card Expense,Advocacy,60.91,Ramp sync RMP-701999
+QB-801,2025-03-27,Salaries & Wages,ADVOCACY,526.2,
+QB-1178,2025-03-22,Salaries & Wages,Admin,869.65,
+QB-1599,15-Apr-2025,Professional Fees,Admin,216.16,
+QB-1025,2026-06-13,Program Supplies,Volunteer Training,238.08,
+QB-165,05/30/2026,Rent,Advocacy,566.93,
+QB-S218,04/13/2025,Credit Card Expense,Admin,8.56,Ramp sync RMP-700597
+QB-140,06/07/2026,Salaries & Wages,Fundraising,249.39,
+QB-S912,01/22/2026,Credit Card Expense,Fundraising,17.86,Ramp sync RMP-701533
+QB-1057,01-May-2026,Program Supplies,Advocacy,275.72,
+QB-1148,17-Apr-2025,Insurance,Advocacy,130.83,
+QB-1307,2025-01-30,Program Supplies,Prog - Volunteer Training,327.28,
+QB-1033,05/24/2026,Professional Fees,Prog - Fundraising,285.36,
+QB-S929,2025-09-08,Credit Card Expense,Prog - Admin,15.2,Ramp sync RMP-700007
+QB-1699,2025-01-11,Salaries & Wages,,679.76,
+QB-1174,2025-06-22,Rent,Prog - Advocacy,1030.74,
+QB-1506,09-Jul-2025,Software,,622.75,
+QB-S183,2026-02-11,Credit Card Expense,ADVOCACY,16.21,Ramp sync RMP-700789
+QB-1212,12/08/2025,Rent,Prog - Advocacy,612.81,
+QB-S722,08/09/2025,Credit Card Expense,ADVOCACY,203.82,Ramp sync RMP-700689
+QB-56,2026-01-04,Software,Advocacy,72.19,
+QB-1187,2026-04-06,Software,Prog - Admin,1978.33,
+QB-1122,2025-05-27,Insurance,Prog - Advocacy,581.24,
+QB-339,02/28/2026,Software,Volunteer Training,201.57,
+QB-1150,10/21/2025,Professional Fees,ADVOCACY,83.73,
+QB-1091,28-Jun-2025,Insurance,FUNDRAISING,229.37,
+QB-1724,2025-09-01,Salaries & Wages,Advocacy,907.13,
+QB-S350,2026-03-26,Credit Card Expense,Prog - Fundraising,17.71,Ramp sync RMP-702126
+QB-492,2025-05-16,Salaries & Wages,ADVOCACY,731.26,
+QB-1556,2025-08-31,Salaries & Wages,,195.74,
+QB-1309,05/13/2025,Rent,Fundraising,2767.56,
+QB-1489,03-Nov-2025,Salaries & Wages,FUNDRAISING,675.21,
+QB-298,02/10/2026,Salaries & Wages,Advocacy,135.79,
+QB-S881,22-Jan-2025,Credit Card Expense,Advocacy,47.86,Ramp sync RMP-700477
+QB-S940,08-Dec-2025,Credit Card Expense,VOLUNTEER TRAINING,31.27,Ramp sync RMP-701770
+QB-375,13-Dec-2025,Program Supplies,Advocacy,763.01,
+QB-S227,2025-12-27,Credit Card Expense,Advocacy,54.88,Ramp sync RMP-702155
+QB-719,08/20/2025,Program Supplies,FUNDRAISING,334.04,
+QB-18,06-Oct-2025,Professional Fees,Advocacy,69.02,
+QB-66,12/24/2025,Professional Fees,ADMIN,473.16,
+QB-S24,2025-01-19,Credit Card Expense,Admin,23.63,Ramp sync RMP-701548
+QB-S85,04-Aug-2025,Credit Card Expense,ADMIN,83.03,Ramp sync RMP-700822
+QB-S915,2025-11-09,Credit Card Expense,Prog - Volunteer Training,18.03,Ramp sync RMP-701509
+QB-1343,01/08/2026,Salaries & Wages,Advocacy,480.03,
+QB-S274,2025-08-12,Credit Card Expense,Prog - Fundraising,29.74,Ramp sync RMP-702549
+QB-S951,2025-06-17,Credit Card Expense,Advocacy,63.02,Ramp sync RMP-700848
+QB-1523,2025-12-05,Salaries & Wages,ADVOCACY,634.77,
+QB-S131,01/22/2026,Credit Card Expense,ADVOCACY,18.11,Ramp sync RMP-701035
+QB-663,04/17/2026,Program Supplies,Fundraising,557.78,
+QB-S136,2025-05-06,Credit Card Expense,Prog - Fundraising,12.87,Ramp sync RMP-701460
+QB-510,2025-10-27,Professional Fees,Admin,262.1,
+QB-372,2026-05-08,Insurance,ADMIN,418.88,
+QB-S869,09-Jan-2026,Credit Card Expense,Prog - Advocacy,40.16,Ramp sync RMP-701829
+QB-1788,06/03/2025,Salaries & Wages,ADVOCACY,184.0,
+QB-234,04/19/2025,Program Supplies,Admin,602.73,
+QB-S483,2026-03-12,Credit Card Expense,Prog - Advocacy,45.64,Ramp sync RMP-700475
+QB-1796,2025-06-18,Program Supplies,Prog - Admin,3061.99,
+QB-1082,03/23/2025,Professional Fees,ADVOCACY,375.53,
+QB-S335,2025-06-23,Credit Card Expense,Prog - Fundraising,18.27,Ramp sync RMP-700030
+QB-S15,06/07/2026,Credit Card Expense,VOLUNTEER TRAINING,22.23,Ramp sync RMP-700579
+QB-731,2026-01-02,Salaries & Wages,ADMIN,106.11,
+QB-1244,2025-06-06,Salaries & Wages,Prog - Admin,733.53,
+QB-1657,05-Jun-2026,Salaries & Wages,VOLUNTEER TRAINING,273.6,
+QB-1050,04/15/2025,Professional Fees,Advocacy,1622.3,
+QB-256,2025-04-16,Program Supplies,Advocacy,43.38,
+QB-1010,2026-02-25,Salaries & Wages,Volunteer Training,4675.0,
+QB-104,2026-05-05,Salaries & Wages,Prog - Advocacy,578.34,
+QB-222,05/18/2026,Salaries & Wages,,599.38,
+QB-915,2025-01-01,Salaries & Wages,Admin,1557.09,
+QB-1595,11/14/2025,Salaries & Wages,VOLUNTEER TRAINING,788.05,
+QB-1141,2025-05-02,Program Supplies,Prog - Admin,1759.06,
+QB-1163,2026-01-20,Salaries & Wages,Prog - Admin,129.08,
+QB-152,2025-07-31,Salaries & Wages,ADMIN,2097.97,
+QB-S657,2025-04-16,Credit Card Expense,Advocacy,105.99,Ramp sync RMP-701982
+QB-382,11/19/2025,Rent,Prog - Volunteer Training,2140.75,
+QB-S27,2026-01-22,Credit Card Expense,Prog - Volunteer Training,28.82,Ramp sync RMP-700969
+QB-1112,08/21/2025,Insurance,ADMIN,80.19,
+QB-1214,2026-02-01,Salaries & Wages,Advocacy,460.24,
+QB-S886,2026-05-31,Credit Card Expense,Volunteer Training,114.94,Ramp sync RMP-702214
+QB-814,17-Dec-2025,Software,Fundraising,1099.83,
+QB-1661,11/13/2025,Salaries & Wages,FUNDRAISING,946.67,
+QB-S401,2025-09-06,Credit Card Expense,ADMIN,25.03,Ramp sync RMP-701818
+QB-908,08/02/2025,Insurance,ADVOCACY,384.3,
+QB-1436,02/27/2025,Software,Fundraising,425.5,
+QB-838,2025-01-22,Salaries & Wages,Fundraising,516.22,
+QB-950,03/14/2026,Salaries & Wages,Advocacy,638.47,
+QB-282,19-Aug-2025,Program Supplies,Prog - Admin,369.78,
+QB-47,2026-03-23,Salaries & Wages,Advocacy,4773.47,
+QB-S761,06-May-2025,Credit Card Expense,Prog - Volunteer Training,72.12,Ramp sync RMP-700012
+QB-S321,2025-12-18,Credit Card Expense,Prog - Fundraising,37.76,Ramp sync RMP-701590
+QB-S957,06/07/2025,Credit Card Expense,Advocacy,32.03,Ramp sync RMP-702305
+QB-1680,03/28/2025,Salaries & Wages,Prog - Fundraising,1374.65,
+QB-S19,06/24/2025,Credit Card Expense,VOLUNTEER TRAINING,68.09,Ramp sync RMP-700820
+QB-S706,04/06/2025,Credit Card Expense,FUNDRAISING,86.77,Ramp sync RMP-702028
+QB-S508,2025-08-22,Credit Card Expense,Advocacy,342.72,Ramp sync RMP-701928
+QB-S5,2026-02-12,Credit Card Expense,Prog - Fundraising,199.32,Ramp sync RMP-700732
+QB-S924,03/07/2025,Credit Card Expense,Admin,204.72,Ramp sync RMP-702004
+QB-87,2026-06-06,Salaries & Wages,ADVOCACY,102.38,
+QB-S444,13-Jun-2025,Credit Card Expense,Fundraising,21.44,Ramp sync RMP-701668
+QB-707,2026-03-12,Insurance,Prog - Volunteer Training,575.24,
+QB-S186,08-Jan-2025,Credit Card Expense,Prog - Fundraising,99.56,Ramp sync RMP-701358
+QB-1331,2025-03-29,Salaries & Wages,Admin,350.66,
+QB-213,2025-11-21,Salaries & Wages,Fundraising,285.92,
+QB-1175,2025-11-26,Salaries & Wages,Prog - Advocacy,141.31,
+QB-1353,04-Oct-2025,Program Supplies,ADVOCACY,114.64,
+QB-42,01/30/2025,Program Supplies,Admin,61.88,
+QB-S972,05/03/2026,Credit Card Expense,Admin,12.31,Ramp sync RMP-702389
+QB-737,2026-05-01,Professional Fees,Prog - Fundraising,1411.26,
+QB-278,01-Jun-2026,Salaries & Wages,Prog - Volunteer Training,276.52,
+QB-427,2026-02-10,Professional Fees,Prog - Admin,411.53,
+QB-S932,2025-06-24,Credit Card Expense,Advocacy,25.41,Ramp sync RMP-702538
+QB-1382,2025-10-26,Salaries & Wages,Advocacy,1264.82,
+QB-S648,2026-01-18,Credit Card Expense,Advocacy,113.02,Ramp sync RMP-701529
+QB-1758,2025-07-24,Program Supplies,Prog - Advocacy,471.3,
+QB-S956,07/04/2025,Credit Card Expense,Prog - Advocacy,54.77,Ramp sync RMP-700953
+QB-823,2025-03-20,Salaries & Wages,VOLUNTEER TRAINING,280.67,
+QB-S374,2025-08-03,Credit Card Expense,Advocacy,51.47,Ramp sync RMP-701473
+QB-1142,05/04/2025,Rent,ADVOCACY,7795.1,
+QB-S38,2026-06-18,Credit Card Expense,Fundraising,36.67,Ramp sync RMP-700925
+QB-97,05/06/2026,Salaries & Wages,ADVOCACY,332.8,
+QB-912,03/04/2025,Rent,Advocacy,3500.02,
+QB-629,2025-07-19,Insurance,Prog - Advocacy,50.92,
+QB-S251,12/09/2025,Credit Card Expense,Volunteer Training,43.08,Ramp sync RMP-702084
+QB-S102,02/27/2026,Credit Card Expense,Fundraising,27.71,Ramp sync RMP-701306
+QB-330,2025-05-18,Professional Fees,Prog - Admin,1331.66,
+QB-S364,2025-07-31,Credit Card Expense,Advocacy,19.13,Ramp sync RMP-701563
+QB-277,2025-09-01,Salaries & Wages,Admin,219.31,
+QB-815,03/27/2026,Software,Advocacy,131.51,
+QB-168,03/21/2026,Salaries & Wages,Fundraising,905.31,
+QB-S536,2025-09-24,Credit Card Expense,Volunteer Training,45.67,Ramp sync RMP-700207
+QB-54,2025-02-23,Program Supplies,Prog - Advocacy,382.38,
+QB-1363,11/24/2025,Salaries & Wages,Advocacy,799.44,
+QB-862,2026-02-22,Professional Fees,Advocacy,977.05,
+QB-169,2025-12-01,Professional Fees,ADMIN,475.68,
+QB-1158,2025-11-16,Salaries & Wages,Admin,1356.12,
+QB-S559,2025-09-07,Credit Card Expense,Admin,262.12,Ramp sync RMP-702277
+QB-1598,2025-09-26,Salaries & Wages,ADMIN,441.99,
+QB-352,03/20/2025,Program Supplies,ADMIN,302.21,
+QB-1786,2025-07-29,Program Supplies,Advocacy,1567.75,
+QB-S785,02/27/2025,Credit Card Expense,Prog - Volunteer Training,40.68,Ramp sync RMP-700784
+QB-S449,2025-01-16,Credit Card Expense,Prog - Volunteer Training,96.71,Ramp sync RMP-701092
+QB-1338,2026-06-30,Software,Prog - Fundraising,1368.83,
+QB-S660,03-Apr-2025,Credit Card Expense,Advocacy,32.21,Ramp sync RMP-702439
+QB-471,24-Jun-2026,Professional Fees,ADVOCACY,279.9,
+QB-1192,2026-05-31,Insurance,Admin,381.24,
+QB-173,04/14/2025,Salaries & Wages,Volunteer Training,252.26,
+QB-S334,2025-10-21,Credit Card Expense,Volunteer Training,112.93,Ramp sync RMP-702003
+QB-1605,2025-01-17,Software,VOLUNTEER TRAINING,381.68,
+QB-1500,2026-02-08,Professional Fees,ADVOCACY,1007.99,
+QB-1682,2025-10-28,Software,Fundraising,628.64,
+QB-S685,03/23/2025,Credit Card Expense,VOLUNTEER TRAINING,52.71,Ramp sync RMP-701813
+QB-332,02/09/2026,Salaries & Wages,Admin,142.41,
+QB-S424,2026-03-16,Credit Card Expense,ADVOCACY,5.98,Ramp sync RMP-700674
+QB-149,2025-10-22,Program Supplies,Prog - Advocacy,256.0,
+QB-48,2026-03-08,Salaries & Wages,Prog - Fundraising,401.42,
+QB-1541,2025-12-11,Salaries & Wages,Prog - Volunteer Training,2600.9,
+QB-S596,02-Nov-2025,Credit Card Expense,VOLUNTEER TRAINING,100.57,Ramp sync RMP-700462
+QB-442,03/05/2025,Program Supplies,,813.17,
+QB-1172,2025-10-12,Salaries & Wages,ADMIN,477.31,
+QB-S312,11/06/2025,Credit Card Expense,Prog - Volunteer Training,63.74,Ramp sync RMP-702080
+QB-1457,2026-06-20,Program Supplies,Fundraising,96.7,
+QB-25,2026-04-19,Software,Prog - Advocacy,2631.08,
+QB-1678,2025-01-10,Software,Prog - Admin,79.52,
+QB-S664,03/04/2026,Credit Card Expense,Advocacy,45.22,Ramp sync RMP-700377
+QB-539,2025-06-07,Salaries & Wages,Advocacy,1174.85,
+QB-958,2025-05-16,Software,Prog - Admin,689.98,
+QB-886,2025-03-24,Software,Prog - Advocacy,674.12,
+QB-S662,28-Jun-2026,Credit Card Expense,Advocacy,183.4,Ramp sync RMP-701377
+QB-S999,2025-04-08,Credit Card Expense,Fundraising,14.0,Ramp sync RMP-700222
+QB-1235,19-Mar-2025,Program Supplies,Advocacy,1321.44,
+QB-43,2026-01-09,Software,Advocacy,770.38,
+QB-S958,2025-11-27,Credit Card Expense,Prog - Fundraising,104.83,Ramp sync RMP-701015
+QB-96,2025-02-07,Rent,FUNDRAISING,1435.7,
+QB-S906,2025-04-28,Credit Card Expense,Prog - Advocacy,125.41,Ramp sync RMP-700351
+QB-628,2025-11-30,Professional Fees,Advocacy,468.9,
+QB-1269,2025-01-31,Professional Fees,Admin,48.79,
+QB-1684,2025-03-23,Software,ADMIN,850.46,
+QB-426,2025-04-15,Rent,ADVOCACY,115.06,
+QB-S32,2026-03-31,Credit Card Expense,Prog - Fundraising,25.76,Ramp sync RMP-700887
+QB-115,2025-04-06,Program Supplies,ADVOCACY,1651.67,
+QB-1650,2025-07-19,Salaries & Wages,Advocacy,479.22,
+QB-599,2025-06-25,Program Supplies,Prog - Advocacy,801.19,
+QB-S663,2025-11-05,Credit Card Expense,Prog - Volunteer Training,52.52,Ramp sync RMP-700965
+QB-S151,2026-01-31,Credit Card Expense,Fundraising,42.7,Ramp sync RMP-702388
+QB-S863,2025-09-09,Credit Card Expense,FUNDRAISING,21.05,Ramp sync RMP-700593
+QB-1348,03/16/2026,Professional Fees,Prog - Volunteer Training,214.13,
+QB-1507,2025-01-18,Salaries & Wages,Fundraising,668.73,
+QB-79,12/11/2025,Salaries & Wages,Advocacy,558.15,
+QB-1625,2025-09-10,Program Supplies,Prog - Volunteer Training,726.53,
+QB-1449,25-Aug-2025,Salaries & Wages,ADVOCACY,417.8,
+QB-1591,27-Oct-2025,Program Supplies,Prog - Fundraising,991.72,
+QB-202,2025-01-16,Rent,Volunteer Training,122.84,
+QB-S399,01/30/2025,Credit Card Expense,Advocacy,15.14,Ramp sync RMP-700875
+QB-S255,16-Jun-2025,Credit Card Expense,VOLUNTEER TRAINING,303.62,Ramp sync RMP-701215
+QB-1365,12-Jun-2025,Salaries & Wages,Advocacy,283.85,
+QB-S272,06/19/2025,Credit Card Expense,Advocacy,25.46,Ramp sync RMP-702426
+QB-S76,2025-08-14,Credit Card Expense,Advocacy,38.78,Ramp sync RMP-700054
+QB-S477,27-May-2026,Credit Card Expense,Volunteer Training,73.66,Ramp sync RMP-700195
+QB-S953,2026-02-10,Credit Card Expense,Volunteer Training,118.6,Ramp sync RMP-701618
+QB-1451,2025-05-29,Salaries & Wages,VOLUNTEER TRAINING,530.64,
+QB-317,14-Jan-2026,Software,Advocacy,284.18,
+QB-1722,05-Aug-2025,Program Supplies,FUNDRAISING,729.3,
+QB-S400,2026-03-27,Credit Card Expense,Prog - Advocacy,26.36,Ramp sync RMP-701756
+QB-331,2025-08-18,Program Supplies,Fundraising,226.35,
+QB-S341,2025-05-08,Credit Card Expense,Advocacy,111.87,Ramp sync RMP-701493
+QB-S871,2026-03-28,Credit Card Expense,VOLUNTEER TRAINING,120.12,Ramp sync RMP-700995
+QB-464,2025-07-20,Salaries & Wages,VOLUNTEER TRAINING,413.0,
+QB-964,04-Jul-2025,Salaries & Wages,Prog - Volunteer Training,1930.02,
+QB-S525,2025-12-09,Credit Card Expense,VOLUNTEER TRAINING,98.63,Ramp sync RMP-700659
+QB-1013,09/04/2025,Salaries & Wages,VOLUNTEER TRAINING,364.51,
+QB-948,2026-02-11,Program Supplies,Fundraising,171.13,
+QB-S324,2025-09-02,Credit Card Expense,Advocacy,26.5,Ramp sync RMP-702319
+QB-S4,2025-05-22,Credit Card Expense,VOLUNTEER TRAINING,198.23,Ramp sync RMP-702571
+QB-1553,25-Feb-2026,Rent,ADVOCACY,4271.55,
+QB-755,2025-04-15,Salaries & Wages,Advocacy,113.94,
+QB-966,2025-06-12,Program Supplies,ADMIN,127.94,
+QB-S429,2025-12-07,Credit Card Expense,VOLUNTEER TRAINING,30.59,Ramp sync RMP-702379
+QB-S843,2026-03-15,Credit Card Expense,FUNDRAISING,48.26,Ramp sync RMP-701102
+QB-S512,12/05/2025,Credit Card Expense,Prog - Advocacy,8.67,Ramp sync RMP-702044
+QB-S754,2026-06-12,Credit Card Expense,ADMIN,59.41,Ramp sync RMP-701129
+QB-S360,06/24/2026,Credit Card Expense,Prog - Fundraising,56.18,Ramp sync RMP-700459
+QB-S726,29-Jan-2026,Credit Card Expense,Volunteer Training,13.78,Ramp sync RMP-701161
+QB-S769,11-Mar-2026,Credit Card Expense,Fundraising,58.75,Ramp sync RMP-701755
+QB-883,2025-03-24,Rent,Prog - Admin,1061.36,
+QB-S898,26-Feb-2026,Credit Card Expense,Admin,101.81,Ramp sync RMP-702064
+QB-853,2025-11-14,Rent,Advocacy,81.61,
+QB-609,01/25/2025,Program Supplies,Advocacy,550.82,
+QB-1756,12/04/2025,Salaries & Wages,Prog - Admin,4846.95,
+QB-S693,2026-04-05,Credit Card Expense,Prog - Admin,20.7,Ramp sync RMP-701275
+QB-1690,2025-11-10,Software,Advocacy,246.85,
+QB-S982,2025-06-15,Credit Card Expense,ADVOCACY,54.42,Ramp sync RMP-700427
+QB-1582,2025-04-26,Salaries & Wages,Advocacy,126.41,
+QB-S775,2025-06-04,Credit Card Expense,Prog - Admin,409.84,Ramp sync RMP-702377
+QB-1696,2026-05-31,Rent,VOLUNTEER TRAINING,177.04,
+QB-155,2025-09-17,Insurance,Volunteer Training,789.7,
+QB-1182,2025-07-07,Insurance,Advocacy,64.76,
+QB-703,2026-03-17,Rent,Fundraising,1213.51,
+QB-961,2025-06-11,Salaries & Wages,VOLUNTEER TRAINING,535.94,
+QB-1323,10/21/2025,Insurance,Prog - Fundraising,13398.76,
+QB-262,2025-11-10,Salaries & Wages,ADMIN,98.57,
+QB-1548,05/16/2026,Professional Fees,Prog - Admin,303.14,
+QB-361,2026-02-23,Program Supplies,Advocacy,133.32,
+QB-1161,2025-10-12,Salaries & Wages,ADVOCACY,12.13,
+QB-S150,2025-04-05,Credit Card Expense,Prog - Advocacy,111.87,Ramp sync RMP-701690
+QB-S289,13-Oct-2025,Credit Card Expense,Admin,23.3,Ramp sync RMP-700605
+QB-1231,02/20/2025,Program Supplies,Advocacy,2483.03,
+QB-1144,2025-10-16,Software,ADVOCACY,2307.64,
+QB-1102,06/24/2025,Rent,Fundraising,397.26,
+QB-1079,2025-02-27,Salaries & Wages,ADMIN,300.05,
+QB-934,01/21/2026,Program Supplies,Admin,100.68,
+QB-S647,05/24/2026,Credit Card Expense,ADMIN,28.65,Ramp sync RMP-701187
+QB-S405,06/03/2025,Credit Card Expense,Fundraising,36.79,Ramp sync RMP-701305
+QB-S673,2025-06-04,Credit Card Expense,Prog - Fundraising,769.83,Ramp sync RMP-700923
+QB-193,2026-03-12,Rent,Prog - Advocacy,1172.75,
+QB-S167,06/10/2025,Credit Card Expense,VOLUNTEER TRAINING,66.32,Ramp sync RMP-702257
+QB-S928,03-Jan-2026,Credit Card Expense,ADVOCACY,18.96,Ramp sync RMP-702396
+QB-969,2025-10-26,Salaries & Wages,Prog - Admin,141.91,
+QB-S968,2026-04-06,Credit Card Expense,Advocacy,6.45,Ramp sync RMP-702544
+QB-S486,2026-05-22,Credit Card Expense,Prog - Advocacy,49.36,Ramp sync RMP-700336
+QB-701,12/09/2025,Program Supplies,Admin,427.79,
+QB-S261,2025-01-14,Credit Card Expense,FUNDRAISING,41.56,Ramp sync RMP-701876
+QB-1143,06/19/2026,Software,,87.44,
+QB-1622,19-Jun-2026,Rent,Advocacy,217.19,
+QB-S849,03-Oct-2025,Credit Card Expense,Prog - Fundraising,7.56,Ramp sync RMP-701852
+QB-1748,06/17/2025,Software,Advocacy,276.41,
+QB-545,2026-01-22,Insurance,Prog - Admin,29.38,
+QB-988,2025-12-10,Insurance,Prog - Admin,205.94,
+QB-581,08/22/2025,Program Supplies,Prog - Admin,1917.74,
+QB-1295,2025-08-08,Salaries & Wages,Fundraising,327.39,
+QB-1,2025-10-23,Professional Fees,Prog - Admin,559.16,
+QB-810,2026-05-28,Salaries & Wages,Advocacy,982.89,
+QB-S991,2025-03-30,Credit Card Expense,Advocacy,10.03,Ramp sync RMP-700170
+QB-S517,2025-12-19,Credit Card Expense,Fundraising,69.39,Ramp sync RMP-702489
+QB-S519,2025-07-08,Credit Card Expense,FUNDRAISING,87.55,Ramp sync RMP-700966
+QB-S853,05/01/2026,Credit Card Expense,Advocacy,35.7,Ramp sync RMP-702487
+QB-895,2025-12-02,Rent,Advocacy,264.04,
+QB-986,2025-07-04,Salaries & Wages,Advocacy,467.53,
+QB-1738,22-Apr-2025,Software,Volunteer Training,1915.04,
+QB-1191,2026-02-14,Salaries & Wages,Advocacy,239.57,
+QB-603,2025-05-22,Software,Fundraising,395.04,
+QB-691,2026-04-04,Program Supplies,Advocacy,244.0,
+QB-S705,2025-08-21,Credit Card Expense,Admin,19.26,Ramp sync RMP-701627
+QB-709,2026-03-23,Software,Admin,799.32,
+QB-857,11/27/2025,Program Supplies,Advocacy,209.93,
+QB-1003,2026-03-01,Professional Fees,Admin,1378.61,
+QB-970,2025-10-09,Salaries & Wages,FUNDRAISING,1453.28,
+QB-S133,12/09/2025,Credit Card Expense,VOLUNTEER TRAINING,14.1,Ramp sync RMP-701395
+QB-S797,2026-04-30,Credit Card Expense,Fundraising,120.37,Ramp sync RMP-700332
+QB-249,2025-01-28,Rent,Advocacy,83.7,
+QB-11,07/31/2025,Professional Fees,Admin,2748.89,
+QB-S107,07/28/2025,Credit Card Expense,Prog - Volunteer Training,53.05,Ramp sync RMP-701356
+QB-S123,15-Jan-2026,Credit Card Expense,Fundraising,8.81,Ramp sync RMP-702516
+QB-S836,03/15/2026,Credit Card Expense,Volunteer Training,26.21,Ramp sync RMP-701243
+QB-299,21-Jan-2025,Salaries & Wages,Advocacy,584.92,
+QB-305,2025-10-28,Software,Fundraising,41.24,
+QB-855,2026-03-16,Rent,ADVOCACY,1031.62,
+QB-S604,29-Dec-2025,Credit Card Expense,Advocacy,70.25,Ramp sync RMP-701820
+QB-S377,2025-04-09,Credit Card Expense,ADVOCACY,14.14,Ramp sync RMP-700916
+QB-S520,2025-07-22,Credit Card Expense,Fundraising,183.44,Ramp sync RMP-702589
+QB-370,2025-02-14,Program Supplies,ADVOCACY,530.08,
+QB-608,2025-06-17,Salaries & Wages,Prog - Volunteer Training,281.76,
+QB-351,2026-05-11,Software,Fundraising,134.11,
+QB-S268,2026-06-13,Credit Card Expense,ADMIN,39.62,Ramp sync RMP-700595
+QB-191,04/30/2026,Program Supplies,Admin,292.1,
+QB-39,09/20/2025,Insurance,Prog - Fundraising,19.9,
+QB-S938,27-Jun-2026,Credit Card Expense,ADVOCACY,46.9,Ramp sync RMP-702581
+QB-S235,01/22/2025,Credit Card Expense,Advocacy,132.47,Ramp sync RMP-702131
+QB-S296,29-Nov-2025,Credit Card Expense,Volunteer Training,58.51,Ramp sync RMP-700212
+QB-1014,2025-03-29,Program Supplies,FUNDRAISING,158.84,
+QB-1084,2026-06-06,Salaries & Wages,FUNDRAISING,646.74,
+QB-195,2025-02-12,Salaries & Wages,ADVOCACY,1125.03,
+QB-1377,2026-04-17,Program Supplies,FUNDRAISING,824.21,
+QB-258,2025-12-18,Salaries & Wages,,123.55,
+QB-1630,2026-06-21,Salaries & Wages,Volunteer Training,1451.46,
+QB-72,09/13/2025,Salaries & Wages,ADMIN,391.82,
+QB-692,09-Jun-2026,Salaries & Wages,Prog - Advocacy,2203.68,
+QB-S311,2026-04-05,Credit Card Expense,FUNDRAISING,221.71,Ramp sync RMP-701144
+QB-1099,2026-06-13,Rent,Advocacy,587.02,
+QB-S588,22-Feb-2025,Credit Card Expense,Prog - Admin,91.11,Ramp sync RMP-702331
+QB-S833,02/21/2026,Credit Card Expense,ADVOCACY,54.33,Ramp sync RMP-700824
+QB-1300,01/26/2025,Professional Fees,Advocacy,706.81,
+QB-S463,2025-09-14,Credit Card Expense,Prog - Advocacy,36.03,Ramp sync RMP-700677
+QB-1330,2025-08-20,Rent,ADVOCACY,173.01,
+QB-1608,2025-05-17,Software,Volunteer Training,569.57,
+QB-1227,12/06/2025,Program Supplies,ADVOCACY,1986.43,
+QB-S30,14-Mar-2026,Credit Card Expense,FUNDRAISING,460.51,Ramp sync RMP-702108
+QB-406,11/26/2025,Software,Admin,417.41,
+QB-364,2025-03-01,Salaries & Wages,Prog - Advocacy,774.43,
+QB-S204,2025-11-11,Credit Card Expense,Volunteer Training,21.5,Ramp sync RMP-700022
+QB-650,2026-03-10,Program Supplies,ADVOCACY,553.31,
+QB-S365,2026-02-13,Credit Card Expense,ADVOCACY,43.76,Ramp sync RMP-701893
+QB-590,2025-07-29,Salaries & Wages,Advocacy,1056.08,
+QB-1515,01/04/2026,Salaries & Wages,Fundraising,701.6,
+QB-1642,2025-03-06,Rent,Prog - Advocacy,700.7,
+QB-1328,06/09/2026,Salaries & Wages,FUNDRAISING,813.22,
+QB-1559,2025-12-31,Program Supplies,Advocacy,243.51,
+QB-563,2025-10-11,Salaries & Wages,Prog - Fundraising,371.7,
+QB-625,2025-11-23,Software,ADVOCACY,329.03,
+QB-S608,07/20/2025,Credit Card Expense,VOLUNTEER TRAINING,122.88,Ramp sync RMP-700773
+QB-S347,2025-12-19,Credit Card Expense,ADMIN,101.67,Ramp sync RMP-701181
+QB-S695,2025-07-06,Credit Card Expense,Volunteer Training,19.03,Ramp sync RMP-702527
+QB-1194,07/01/2025,Program Supplies,ADMIN,225.95,
+QB-S739,2025-12-02,Credit Card Expense,Fundraising,144.13,Ramp sync RMP-701036
+QB-S1006,2025-12-27,Credit Card Expense,Volunteer Training,42.7,Ramp sync RMP-700553
+QB-S135,2025-12-18,Credit Card Expense,Prog - Fundraising,23.83,Ramp sync RMP-702269
+QB-S933,07/06/2025,Credit Card Expense,FUNDRAISING,36.06,Ramp sync RMP-700622
+QB-1789,06/17/2026,Program Supplies,,2028.27,
+QB-S895,09-Jun-2026,Credit Card Expense,Prog - Volunteer Training,20.3,Ramp sync RMP-700950
+QB-1798,10/07/2025,Professional Fees,Advocacy,2704.42,
+QB-123,15-Sep-2025,Salaries & Wages,ADVOCACY,2098.84,
+QB-S445,01-Jan-2025,Credit Card Expense,Prog - Fundraising,190.42,Ramp sync RMP-702514
+QB-945,2025-09-30,Program Supplies,Volunteer Training,1419.83,
+QB-306,2026-02-17,Salaries & Wages,Advocacy,856.99,
+QB-1200,03/14/2025,Salaries & Wages,Advocacy,533.02,
+QB-874,2025-09-14,Rent,Advocacy,634.23,
+QB-S212,2026-04-13,Credit Card Expense,Prog - Fundraising,28.04,Ramp sync RMP-702000
+QB-879,10/18/2025,Salaries & Wages,Advocacy,464.32,
+QB-1739,08-May-2026,Program Supplies,ADVOCACY,1515.86,
+QB-211,2025-11-27,Salaries & Wages,Advocacy,4154.8,
+QB-452,03/30/2025,Insurance,Admin,209.69,
+QB-S7,2025-12-27,Credit Card Expense,Fundraising,15.21,Ramp sync RMP-700903
+QB-366,06/12/2025,Salaries & Wages,ADVOCACY,548.02,
+QB-S1000,2025-03-24,Credit Card Expense,Fundraising,26.42,Ramp sync RMP-701703
+QB-381,2026-02-12,Salaries & Wages,Volunteer Training,627.76,
+QB-S549,2025-06-29,Credit Card Expense,Prog - Volunteer Training,49.05,Ramp sync RMP-701591
+QB-1055,2025-02-06,Software,ADMIN,992.61,
+QB-642,2026-05-28,Insurance,Advocacy,19.69,
+QB-1425,2025-10-17,Salaries & Wages,Fundraising,331.31,
+QB-1046,06/02/2026,Salaries & Wages,Volunteer Training,164.41,
+QB-S450,2025-06-17,Credit Card Expense,Prog - Fundraising,8.03,Ramp sync RMP-702144
+QB-S359,10/26/2025,Credit Card Expense,Advocacy,124.8,Ramp sync RMP-702022
+QB-979,2025-04-30,Rent,,1671.77,
+QB-S284,13-Nov-2025,Credit Card Expense,ADVOCACY,10.8,Ramp sync RMP-701699
+QB-S1023,28-Jan-2026,Credit Card Expense,Fundraising,79.41,Ramp sync RMP-702597
+QB-998,20-Oct-2025,Salaries & Wages,Admin,2441.7,
+QB-1206,2025-12-21,Professional Fees,Prog - Fundraising,231.32,
+QB-342,06/22/2026,Rent,FUNDRAISING,530.83,
+QB-708,2026-01-16,Software,Prog - Admin,358.62,
+QB-1762,2025-04-09,Insurance,Prog - Advocacy,402.11,
+QB-S295,2025-02-07,Credit Card Expense,Fundraising,76.3,Ramp sync RMP-700184
+QB-1654,2025-10-04,Salaries & Wages,Prog - Advocacy,624.01,
+QB-957,2025-10-29,Salaries & Wages,Prog - Volunteer Training,1195.46,
+QB-S971,2026-03-19,Credit Card Expense,ADMIN,118.95,Ramp sync RMP-701225
+QB-S9,2025-02-16,Credit Card Expense,Prog - Advocacy,18.16,Ramp sync RMP-701743
+QB-1151,2025-10-27,Professional Fees,Fundraising,831.88,
+QB-795,2025-07-05,Salaries & Wages,Advocacy,2365.5,
+QB-S496,10/29/2025,Credit Card Expense,Admin,196.84,Ramp sync RMP-700215
+QB-567,13-Jun-2025,Insurance,Advocacy,534.41,
+QB-345,06/04/2026,Insurance,Admin,2290.67,
+QB-S667,2026-06-07,Credit Card Expense,Advocacy,18.83,Ramp sync RMP-702532
+QB-530,2025-10-08,Software,ADVOCACY,65.19,
+QB-898,09/10/2025,Salaries & Wages,Prog - Advocacy,296.19,
+QB-989,2026-06-14,Program Supplies,Prog - Admin,70.13,
+QB-S994,04/27/2025,Credit Card Expense,Advocacy,34.87,Ramp sync RMP-701483
+QB-481,2025-06-26,Salaries & Wages,Advocacy,1230.41,
+QB-1777,2025-05-01,Salaries & Wages,Prog - Advocacy,57.14,
+QB-153,2025-04-29,Salaries & Wages,Admin,407.05,
+QB-17,10/25/2025,Salaries & Wages,ADVOCACY,541.38,
+QB-685,02/05/2025,Software,Fundraising,218.03,
+QB-1392,2026-03-03,Salaries & Wages,Advocacy,2028.3,
+QB-270,2025-04-23,Rent,Advocacy,265.97,
+QB-S765,2025-07-31,Credit Card Expense,ADVOCACY,6.14,Ramp sync RMP-701020
+QB-825,2026-05-10,Professional Fees,ADMIN,65.77,
+QB-S283,09/15/2025,Credit Card Expense,Advocacy,19.75,Ramp sync RMP-701674
+QB-942,2025-06-16,Salaries & Wages,ADMIN,579.61,
+QB-1645,08/12/2025,Software,ADVOCACY,153.26,
+QB-764,2025-03-06,Salaries & Wages,Fundraising,823.69,
+QB-S395,2026-02-05,Credit Card Expense,Prog - Advocacy,81.61,Ramp sync RMP-700932
+QB-745,02/11/2025,Professional Fees,Volunteer Training,741.78,
+QB-1561,05-May-2026,Insurance,Prog - Admin,918.7,
+QB-S962,2025-06-09,Credit Card Expense,Advocacy,32.3,Ramp sync RMP-701866
+QB-S571,04/16/2026,Credit Card Expense,ADMIN,21.15,Ramp sync RMP-700447
+QB-553,2025-02-24,Software,VOLUNTEER TRAINING,356.99,
+QB-1156,20-Jan-2026,Program Supplies,FUNDRAISING,1458.43,
+QB-500,2025-11-12,Program Supplies,Prog - Volunteer Training,291.4,
+QB-228,2026-03-23,Software,Admin,6131.26,
+QB-1059,2026-05-01,Program Supplies,Volunteer Training,1033.7,
+QB-S813,2025-11-01,Credit Card Expense,VOLUNTEER TRAINING,9.45,Ramp sync RMP-702374
+QB-774,15-Feb-2026,Program Supplies,Advocacy,1602.03,
+QB-1266,2025-12-18,Program Supplies,Prog - Volunteer Training,2249.25,
+QB-S904,19-Mar-2025,Credit Card Expense,Fundraising,90.09,Ramp sync RMP-701581
+QB-302,20-Jun-2026,Insurance,Advocacy,1114.12,
+QB-1139,2025-04-05,Salaries & Wages,Admin,444.16,
+QB-S542,2025-07-05,Credit Card Expense,Admin,62.08,Ramp sync RMP-702212
+QB-S976,2025-12-07,Credit Card Expense,Advocacy,34.14,Ramp sync RMP-701638
+QB-S118,2025-07-05,Credit Card Expense,ADVOCACY,65.49,Ramp sync RMP-701328
+QB-924,2025-05-24,Program Supplies,Admin,134.21,
+QB-1731,2026-03-31,Professional Fees,Admin,231.42,
+QB-1315,2026-04-17,Software,,770.92,
+QB-S919,07/19/2025,Credit Card Expense,Fundraising,17.72,Ramp sync RMP-701405
+QB-1012,07/02/2025,Salaries & Wages,ADVOCACY,326.37,
+QB-S784,2026-06-24,Credit Card Expense,ADVOCACY,106.87,Ramp sync RMP-701846
+QB-1676,01/29/2025,Program Supplies,Volunteer Training,354.99,
+QB-632,2025-12-01,Software,Prog - Volunteer Training,1657.21,
+QB-S626,01/31/2025,Credit Card Expense,FUNDRAISING,132.73,Ramp sync RMP-702275
+QB-5,2025-09-27,Program Supplies,FUNDRAISING,285.52,
+QB-252,07/05/2025,Insurance,ADVOCACY,606.82,
+QB-199,2025-06-13,Rent,Advocacy,1786.99,
+QB-863,2025-09-24,Salaries & Wages,FUNDRAISING,535.5,
+QB-S756,04-Jun-2025,Credit Card Expense,Volunteer Training,38.82,Ramp sync RMP-701150
+QB-S443,2026-05-05,Credit Card Expense,Prog - Volunteer Training,4.67,Ramp sync RMP-702192
+QB-1155,12-Mar-2026,Salaries & Wages,Advocacy,432.06,
+QB-S103,2025-06-02,Credit Card Expense,Advocacy,13.55,Ramp sync RMP-701940
+QB-S943,2026-03-21,Credit Card Expense,Volunteer Training,109.42,Ramp sync RMP-702362
+QB-980,2025-09-16,Rent,Advocacy,441.88,
+QB-S998,2025-04-08,Credit Card Expense,Prog - Advocacy,35.45,Ramp sync RMP-701131
+QB-1400,10-Jan-2026,Software,Advocacy,673.8,
+QB-1629,05/26/2026,Professional Fees,Volunteer Training,1176.36,
+QB-1256,2025-07-27,Salaries & Wages,Prog - Advocacy,632.62,
+QB-1179,17-Nov-2025,Rent,Prog - Advocacy,822.51,
+QB-S140,2026-03-03,Credit Card Expense,ADMIN,82.19,Ramp sync RMP-700720
+QB-S983,2025-04-16,Credit Card Expense,Advocacy,88.47,Ramp sync RMP-700279
+QB-296,2025-04-02,Professional Fees,Advocacy,193.07,
+QB-S414,2025-11-23,Credit Card Expense,Advocacy,28.61,Ramp sync RMP-700945
+QB-1324,2025-01-09,Salaries & Wages,Advocacy,168.42,
+QB-203,07/13/2025,Software,Prog - Advocacy,315.63,
+QB-1469,22-Nov-2025,Salaries & Wages,Admin,381.27,
+QB-S300,2025-10-29,Credit Card Expense,Advocacy,93.15,Ramp sync RMP-702518
+QB-1049,2026-05-23,Insurance,Admin,405.59,
+QB-475,2025-10-06,Professional Fees,ADMIN,4053.43,
+QB-1416,2026-04-01,Salaries & Wages,Prog - Advocacy,217.99,
+QB-S977,2025-05-21,Credit Card Expense,Volunteer Training,41.88,Ramp sync RMP-700562
+QB-485,12/07/2025,Salaries & Wages,Prog - Admin,263.99,
+QB-1772,09-Apr-2025,Salaries & Wages,Admin,856.13,
+QB-163,03-Mar-2025,Salaries & Wages,Admin,935.87,
+QB-669,07/12/2025,Program Supplies,Advocacy,399.15,
+QB-12,04-Jan-2026,Salaries & Wages,Fundraising,355.24,
+QB-1119,2025-03-13,Salaries & Wages,FUNDRAISING,519.72,
+QB-S826,2026-02-28,Credit Card Expense,Prog - Fundraising,24.6,Ramp sync RMP-701296
+QB-792,2025-06-11,Salaries & Wages,Advocacy,183.21,
+QB-S731,2026-04-22,Credit Card Expense,Volunteer Training,36.01,Ramp sync RMP-700478
+QB-S195,23-Jun-2026,Credit Card Expense,Fundraising,206.77,Ramp sync RMP-701224
+QB-807,19-Aug-2025,Salaries & Wages,Fundraising,775.69,
+QB-1579,06/06/2025,Salaries & Wages,Fundraising,110.74,
+QB-955,2025-11-23,Rent,Advocacy,335.02,
+QB-184,2026-04-01,Salaries & Wages,ADVOCACY,264.09,
+QB-S425,2025-08-23,Credit Card Expense,Fundraising,9.01,Ramp sync RMP-700489
+QB-640,2025-01-06,Insurance,Admin,1364.27,
+QB-616,2025-10-21,Salaries & Wages,,463.15,
+QB-1305,2025-07-16,Program Supplies,Fundraising,2041.9,
+QB-S1012,2025-08-23,Credit Card Expense,Prog - Advocacy,23.18,Ramp sync RMP-702118
+QB-S822,12/12/2025,Credit Card Expense,VOLUNTEER TRAINING,331.39,Ramp sync RMP-702447
+QB-981,2025-04-14,Professional Fees,,135.88,
+QB-839,06-Dec-2025,Professional Fees,ADVOCACY,215.38,
+QB-146,2025-08-08,Salaries & Wages,Admin,170.94,
+QB-S733,2025-02-11,Credit Card Expense,Prog - Fundraising,86.1,Ramp sync RMP-700503
+QB-S320,2025-02-13,Credit Card Expense,FUNDRAISING,10.67,Ramp sync RMP-700946
+QB-S531,2025-02-08,Credit Card Expense,Advocacy,40.06,Ramp sync RMP-702455
+QB-S973,2026-01-12,Credit Card Expense,Volunteer Training,208.18,Ramp sync RMP-700501
+QB-S78,09/02/2025,Credit Card Expense,Prog - Volunteer Training,321.09,Ramp sync RMP-702263
+QB-S194,2026-04-18,Credit Card Expense,Volunteer Training,22.42,Ramp sync RMP-702380
+QB-1274,2025-08-07,Program Supplies,Prog - Advocacy,1507.18,
+QB-188,2025-11-30,Rent,ADVOCACY,182.03,
+QB-739,2025-09-10,Rent,Fundraising,97.67,
+QB-1058,04/20/2025,Software,Volunteer Training,1221.25,
+QB-1590,2025-11-25,Rent,ADMIN,654.86,
+QB-S417,05/02/2026,Credit Card Expense,Prog - Fundraising,11.4,Ramp sync RMP-701298
+QB-1018,09-Nov-2025,Salaries & Wages,Advocacy,1065.55,
+QB-S774,09/02/2025,Credit Card Expense,Advocacy,25.52,Ramp sync RMP-702573
+QB-1393,12/27/2025,Rent,Fundraising,177.79,
+QB-384,11-Feb-2025,Program Supplies,VOLUNTEER TRAINING,3166.21,
+QB-1243,2025-07-22,Salaries & Wages,Volunteer Training,245.19,
+QB-281,01/21/2025,Rent,VOLUNTEER TRAINING,140.95,
+QB-1736,2026-01-09,Professional Fees,Prog - Volunteer Training,440.78,
+QB-820,2026-05-20,Rent,ADMIN,1480.95,
+QB-1278,05/16/2026,Rent,Advocacy,1226.01,
+QB-646,2026-03-04,Program Supplies,Advocacy,117.94,
+QB-1216,02/14/2025,Salaries & Wages,Prog - Volunteer Training,555.56,
+QB-1705,03/24/2025,Salaries & Wages,VOLUNTEER TRAINING,195.19,
+QB-344,12/26/2025,Salaries & Wages,Advocacy,732.47,
+QB-74,2025-09-14,Salaries & Wages,Prog - Advocacy,587.95,
+QB-1791,2025-11-06,Salaries & Wages,VOLUNTEER TRAINING,46.51,
+QB-450,24-Feb-2026,Salaries & Wages,Admin,747.66,
+QB-1177,2026-04-16,Salaries & Wages,Admin,349.48,
+QB-1531,2026-02-05,Professional Fees,Volunteer Training,645.8,
+QB-343,07/13/2025,Software,ADVOCACY,204.98,
+QB-S792,12/07/2025,Credit Card Expense,Prog - Admin,23.19,Ramp sync RMP-700704
+QB-1540,2026-02-15,Salaries & Wages,ADMIN,318.41,
+QB-1126,2026-02-20,Professional Fees,Volunteer Training,184.97,
+QB-724,2025-02-21,Software,ADVOCACY,251.59,
+QB-S847,2025-05-02,Credit Card Expense,Fundraising,36.91,Ramp sync RMP-702499
+QB-1247,04/11/2025,Salaries & Wages,VOLUNTEER TRAINING,172.52,
+QB-1162,01/13/2025,Software,Advocacy,1026.81,
+QB-194,2026-01-29,Insurance,Fundraising,876.11,
+QB-S238,05/27/2025,Credit Card Expense,Advocacy,44.4,Ramp sync RMP-700644
+QB-984,2026-01-04,Program Supplies,Fundraising,178.93,
+QB-922,2025-09-11,Salaries & Wages,Advocacy,298.29,
+QB-1104,2026-03-30,Software,Advocacy,837.28,
+QB-1132,09/26/2025,Software,Advocacy,3738.11,
+QB-S856,03/26/2026,Credit Card Expense,Prog - Admin,6.48,Ramp sync RMP-701691
+QB-S205,02/14/2026,Credit Card Expense,Prog - Advocacy,17.77,Ramp sync RMP-700055
+QB-24,2026-01-10,Program Supplies,Admin,333.15,
+QB-750,2025-02-11,Salaries & Wages,Advocacy,113.72,
+QB-601,11/14/2025,Professional Fees,Advocacy,1795.39,
+QB-612,2025-11-06,Rent,,3093.29,
+QB-287,2025-10-17,Software,Prog - Fundraising,626.21,
+QB-1799,2026-01-24,Salaries & Wages,Prog - Admin,1058.97,
+QB-410,2025-10-07,Salaries & Wages,ADVOCACY,428.34,
+QB-725,10-Aug-2025,Salaries & Wages,Prog - Fundraising,117.7,
+QB-477,2025-03-10,Insurance,ADMIN,171.05,
+QB-S423,2025-05-25,Credit Card Expense,ADMIN,14.48,Ramp sync RMP-701315
+QB-S507,29-Apr-2025,Credit Card Expense,Advocacy,44.9,Ramp sync RMP-700379
+QB-1521,2025-10-16,Professional Fees,Advocacy,753.48,
+QB-880,31-Oct-2025,Salaries & Wages,,112.65,
+QB-720,13-Apr-2026,Salaries & Wages,ADVOCACY,5367.04,
+QB-S370,2025-11-25,Credit Card Expense,ADVOCACY,16.12,Ramp sync RMP-700223
+QB-1528,05/13/2025,Program Supplies,ADMIN,6196.06,
+QB-S740,2025-06-13,Credit Card Expense,ADVOCACY,32.5,Ramp sync RMP-700204
+QB-1065,12/30/2025,Salaries & Wages,Prog - Advocacy,382.15,
+QB-S412,2025-11-25,Credit Card Expense,Admin,123.98,Ramp sync RMP-700982
+QB-1624,03/06/2026,Insurance,ADVOCACY,1138.01,
+QB-8,2026-05-02,Salaries & Wages,Advocacy,664.21,
+QB-1290,2025-04-06,Salaries & Wages,Advocacy,867.62,
+QB-428,2026-04-04,Salaries & Wages,Admin,152.91,
+QB-S189,06/25/2026,Credit Card Expense,Admin,95.99,Ramp sync RMP-700549
+QB-1005,05/24/2026,Professional Fees,Prog - Volunteer Training,1021.65,
+QB-S837,2025-10-17,Credit Card Expense,FUNDRAISING,81.94,Ramp sync RMP-702120
+QB-362,22-Jan-2025,Program Supplies,Prog - Advocacy,80.17,
+QB-S653,2025-05-22,Credit Card Expense,Fundraising,50.83,Ramp sync RMP-701014
+QB-S349,21-Feb-2025,Credit Card Expense,ADVOCACY,98.4,Ramp sync RMP-700868
+QB-S894,17-Dec-2025,Credit Card Expense,Volunteer Training,60.27,Ramp sync RMP-701278
+QB-220,2025-04-07,Insurance,Advocacy,88.26,
+QB-493,11/21/2025,Software,Prog - Admin,207.29,
+QB-349,30-Nov-2025,Insurance,ADMIN,7971.1,
+QB-760,2025-02-12,Program Supplies,Advocacy,722.57,
+QB-S948,2025-02-26,Credit Card Expense,Admin,14.38,Ramp sync RMP-700639
+QB-520,2025-03-01,Rent,Prog - Advocacy,5145.66,
+QB-65,2026-06-30,Salaries & Wages,Advocacy,222.01,
+QB-476,02/08/2025,Professional Fees,,177.03,
+QB-243,02/19/2026,Software,Prog - Fundraising,3189.95,
+QB-133,2025-12-22,Rent,Advocacy,269.61,
+QB-S66,2026-01-25,Credit Card Expense,Fundraising,140.84,Ramp sync RMP-702344
+QB-1114,2026-01-06,Salaries & Wages,Prog - Admin,327.44,
+QB-544,13-May-2025,Software,Fundraising,364.69,
+QB-463,02/14/2026,Salaries & Wages,FUNDRAISING,1485.11,
+QB-S922,07/08/2025,Credit Card Expense,VOLUNTEER TRAINING,37.37,Ramp sync RMP-702359
+QB-94,2025-04-02,Rent,ADVOCACY,1345.69,
+QB-S858,2026-06-30,Credit Card Expense,Prog - Advocacy,116.79,Ramp sync RMP-702235
+QB-1518,21-Apr-2026,Program Supplies,Advocacy,948.91,
+QB-1569,2026-05-28,Program Supplies,Fundraising,1152.44,
+QB-S182,2025-11-29,Credit Card Expense,Advocacy,90.08,Ramp sync RMP-700426
+QB-1292,01-Apr-2026,Professional Fees,Prog - Admin,135.3,
+QB-S861,2026-02-08,Credit Card Expense,Advocacy,72.55,Ramp sync RMP-701082
+QB-1641,2026-03-18,Program Supplies,Prog - Fundraising,1101.14,
+QB-S226,2025-02-07,Credit Card Expense,Fundraising,9.39,Ramp sync RMP-701776
+QB-899,2026-05-17,Salaries & Wages,Advocacy,1256.67,
+QB-1407,2025-10-02,Salaries & Wages,Admin,340.62,
+QB-108,2025-04-28,Salaries & Wages,Prog - Advocacy,952.83,
+QB-4,2026-01-22,Software,Prog - Volunteer Training,195.65,
+QB-505,07-May-2026,Software,Fundraising,800.01,
+QB-S202,2025-07-04,Credit Card Expense,Prog - Admin,124.93,Ramp sync RMP-700876
+QB-S325,05-Jul-2025,Credit Card Expense,Prog - Fundraising,16.22,Ramp sync RMP-701626
+QB-120,07/24/2025,Rent,Fundraising,253.63,
+QB-S58,2026-03-31,Credit Card Expense,Advocacy,55.1,Ramp sync RMP-701164
+QB-890,2025-02-06,Program Supplies,Advocacy,2978.45,
+QB-S245,2025-03-28,Credit Card Expense,ADVOCACY,40.48,Ramp sync RMP-700229
+QB-555,2026-06-18,Program Supplies,Advocacy,759.49,
+QB-S810,06/02/2026,Credit Card Expense,Prog - Advocacy,69.42,Ramp sync RMP-702075
+QB-S361,2026-06-02,Credit Card Expense,FUNDRAISING,49.03,Ramp sync RMP-701330
+QB-1263,2025-04-16,Salaries & Wages,Admin,404.18,
+QB-S35,03-Feb-2026,Credit Card Expense,Fundraising,80.32,Ramp sync RMP-701282
+QB-S214,09/13/2025,Credit Card Expense,ADMIN,35.57,Ramp sync RMP-700910
+QB-1186,2026-06-24,Software,Fundraising,1145.73,
+QB-803,21-Sep-2025,Rent,Admin,224.53,
+QB-1061,2025-03-17,Salaries & Wages,Volunteer Training,2602.65,
+QB-556,04-Feb-2025,Salaries & Wages,Admin,1151.82,
+QB-1534,28-Jan-2026,Rent,Advocacy,1951.94,
+QB-573,2025-10-04,Salaries & Wages,Advocacy,20.91,
+QB-158,02/18/2026,Insurance,Volunteer Training,1117.27,
+QB-S259,08-Jun-2026,Credit Card Expense,ADMIN,14.25,Ramp sync RMP-702113
+QB-1685,2025-07-31,Program Supplies,Volunteer Training,28.3,
+QB-S842,2026-01-09,Credit Card Expense,Fundraising,298.91,Ramp sync RMP-702363
+QB-1485,2025-04-29,Program Supplies,Advocacy,1312.27,
+QB-348,2025-03-09,Program Supplies,ADVOCACY,5778.76,
+QB-99,24-May-2025,Program Supplies,Prog - Volunteer Training,504.31,
+QB-813,2025-11-01,Salaries & Wages,Fundraising,188.5,
+QB-1668,2026-04-28,Software,Advocacy,425.3,
+QB-32,23-May-2026,Rent,Volunteer Training,1046.44,
+QB-417,27-Feb-2026,Software,Advocacy,125.13,
+QB-S372,2026-06-22,Credit Card Expense,Fundraising,21.7,Ramp sync RMP-700968
+QB-177,11/17/2025,Salaries & Wages,Prog - Advocacy,556.6,
+QB-799,2026-05-25,Insurance,Volunteer Training,1134.02,
+QB-S1001,2025-12-20,Credit Card Expense,Advocacy,19.17,Ramp sync RMP-700938
+QB-835,10-Jun-2026,Rent,FUNDRAISING,814.91,
+QB-371,2025-06-28,Professional Fees,Fundraising,568.22,
+QB-S631,2026-02-28,Credit Card Expense,Fundraising,75.18,Ramp sync RMP-700225
+QB-315,2025-07-23,Rent,VOLUNTEER TRAINING,406.48,
+QB-363,2025-09-18,Program Supplies,Advocacy,173.87,
+QB-929,05/01/2026,Software,Admin,506.83,
+QB-69,2025-05-19,Salaries & Wages,Advocacy,1619.25,
+QB-892,04/25/2025,Rent,Prog - Advocacy,6831.67,
+QB-291,2026-01-20,Professional Fees,Prog - Fundraising,970.48,
+QB-S759,2026-05-10,Credit Card Expense,FUNDRAISING,30.93,Ramp sync RMP-700981
+QB-788,2025-12-25,Salaries & Wages,Prog - Advocacy,511.04,
+QB-S143,2026-05-04,Credit Card Expense,Volunteer Training,134.76,Ramp sync RMP-702239
+QB-S337,2026-05-24,Credit Card Expense,Volunteer Training,176.44,Ramp sync RMP-702338
+QB-19,2026-01-09,Professional Fees,Prog - Volunteer Training,980.66,
+QB-S801,2026-03-12,Credit Card Expense,Fundraising,112.54,Ramp sync RMP-701738
+QB-S892,2025-03-25,Credit Card Expense,Volunteer Training,18.2,Ramp sync RMP-701953
+QB-721,20-Dec-2025,Salaries & Wages,Advocacy,531.42,
+QB-1452,01/09/2026,Software,ADVOCACY,112.52,
+QB-318,2025-10-21,Salaries & Wages,ADVOCACY,123.54,
+QB-S13,06/14/2026,Credit Card Expense,Admin,19.21,Ramp sync RMP-701916
+QB-717,04/08/2025,Salaries & Wages,Admin,143.78,
+QB-637,05/20/2026,Software,Admin,641.19,
+QB-S198,16-Dec-2025,Credit Card Expense,Prog - Fundraising,39.41,Ramp sync RMP-700885
+QB-1426,2025-11-06,Software,Advocacy,1418.18,
+QB-876,02/02/2025,Salaries & Wages,Admin,1219.35,
+QB-845,01/30/2025,Rent,Volunteer Training,185.69,
+QB-1286,02/07/2026,Program Supplies,ADMIN,79.47,
+QB-1361,2025-02-07,Software,VOLUNTEER TRAINING,1631.09,
+QB-S864,2025-05-16,Credit Card Expense,VOLUNTEER TRAINING,108.53,Ramp sync RMP-701192
+QB-36,2025-06-30,Program Supplies,Advocacy,1020.11,
+QB-1167,04/18/2025,Rent,ADVOCACY,1633.33,
+QB-S532,11-Jan-2025,Credit Card Expense,ADVOCACY,34.62,Ramp sync RMP-700075
+QB-S921,2026-02-18,Credit Card Expense,Volunteer Training,16.85,Ramp sync RMP-701283
+QB-S14,2026-02-09,Credit Card Expense,Fundraising,46.87,Ramp sync RMP-700942
+QB-S555,2025-11-22,Credit Card Expense,FUNDRAISING,45.48,Ramp sync RMP-701678
+QB-1442,2025-05-31,Program Supplies,Admin,124.04,
+QB-1094,01/31/2025,Software,Prog - Fundraising,947.61,
+QB-S806,2025-04-08,Credit Card Expense,Advocacy,46.94,Ramp sync RMP-701547
+QB-1707,2025-02-23,Software,FUNDRAISING,1298.5,
+QB-1511,2026-03-02,Salaries & Wages,Prog - Advocacy,460.22,
+QB-449,04/28/2026,Professional Fees,,533.48,
+QB-S381,02-Jan-2025,Credit Card Expense,Prog - Fundraising,18.14,Ramp sync RMP-700989
+QB-S569,2025-10-20,Credit Card Expense,Fundraising,71.37,Ramp sync RMP-701466
+QB-758,2025-01-06,Program Supplies,Prog - Admin,645.95,
+QB-81,2025-12-02,Professional Fees,ADVOCACY,496.91,
+QB-S418,2025-03-11,Credit Card Expense,ADVOCACY,41.12,Ramp sync RMP-701532
+QB-290,29-May-2025,Professional Fees,Advocacy,499.14,
+QB-217,10/17/2025,Software,Admin,121.08,
+QB-S629,06-Oct-2025,Credit Card Expense,Prog - Advocacy,9.62,Ramp sync RMP-700023
+QB-S447,2025-09-12,Credit Card Expense,Advocacy,367.57,Ramp sync RMP-700294
+QB-S471,2026-02-15,Credit Card Expense,Prog - Volunteer Training,122.46,Ramp sync RMP-700774
+QB-S69,2025-03-25,Credit Card Expense,Prog - Volunteer Training,23.43,Ramp sync RMP-702557
+QB-1123,2026-02-19,Program Supplies,Prog - Admin,914.44,
+QB-1109,2025-07-21,Professional Fees,ADVOCACY,370.77,
+QB-S468,2026-06-28,Credit Card Expense,FUNDRAISING,139.92,Ramp sync RMP-702281
+QB-S573,08/28/2025,Credit Card Expense,ADVOCACY,55.91,Ramp sync RMP-701576
+QB-S526,2025-04-27,Credit Card Expense,Prog - Admin,53.08,Ramp sync RMP-701037
+QB-1241,2025-06-16,Rent,Prog - Advocacy,117.2,
+QB-1704,07-Feb-2025,Salaries & Wages,Prog - Advocacy,250.98,
+QB-1467,2026-02-19,Software,Advocacy,525.54,
+QB-35,01/15/2025,Professional Fees,FUNDRAISING,1382.51,
+QB-1350,2026-02-10,Software,Advocacy,182.33,
+QB-1394,2025-11-06,Professional Fees,Advocacy,236.65,
+QB-891,2025-09-25,Program Supplies,FUNDRAISING,143.09,
+QB-1085,2025-05-16,Program Supplies,ADVOCACY,155.32,
+QB-818,2025-02-07,Software,ADVOCACY,64.68,
+QB-1017,2026-05-19,Insurance,Volunteer Training,276.08,
+QB-S120,07-Aug-2025,Credit Card Expense,Advocacy,69.95,Ramp sync RMP-701433
+QB-S21,09/18/2025,Credit Card Expense,Advocacy,65.17,Ramp sync RMP-702252
+QB-67,2025-01-09,Salaries & Wages,ADVOCACY,481.32,
+QB-683,2026-01-12,Program Supplies,Prog - Admin,934.96,
+QB-1581,2025-01-14,Software,,106.47,
+QB-519,19-May-2026,Salaries & Wages,ADVOCACY,171.94,
+QB-S880,2026-03-11,Credit Card Expense,Prog - Admin,40.56,Ramp sync RMP-700120
+QB-S627,2026-05-10,Credit Card Expense,VOLUNTEER TRAINING,8.02,Ramp sync RMP-701849
+QB-576,2026-05-03,Insurance,Advocacy,2521.87,
+QB-1000,04/11/2026,Rent,ADVOCACY,366.56,
+QB-S781,2025-02-25,Credit Card Expense,Advocacy,247.14,Ramp sync RMP-700399
+QB-566,07/16/2025,Salaries & Wages,Admin,180.63,
+QB-947,23-Feb-2026,Software,,164.18,
+QB-1494,10/02/2025,Insurance,Advocacy,4038.32,
+QB-S800,23-Jun-2025,Credit Card Expense,Prog - Admin,26.55,Ramp sync RMP-701392
+QB-1462,05/23/2026,Program Supplies,Admin,326.71,
+QB-1385,2026-04-23,Salaries & Wages,Advocacy,821.68,
+QB-S795,2025-06-02,Credit Card Expense,FUNDRAISING,16.29,Ramp sync RMP-700319
+QB-524,01/26/2026,Software,Advocacy,555.98,
+QB-142,15-Sep-2025,Professional Fees,Advocacy,443.38,
+QB-S624,2026-01-07,Credit Card Expense,Admin,3.74,Ramp sync RMP-701195
+QB-1428,2025-01-06,Program Supplies,Prog - Admin,200.54,
+QB-84,2026-04-17,Software,Prog - Volunteer Training,197.73,
+QB-1566,19-May-2026,Insurance,ADVOCACY,276.94,
+QB-1450,2026-01-06,Salaries & Wages,Prog - Advocacy,388.26,
+QB-S926,2025-05-12,Credit Card Expense,Advocacy,18.49,Ramp sync RMP-700461
+QB-S609,2026-06-09,Credit Card Expense,ADVOCACY,55.97,Ramp sync RMP-701957
+QB-10,05/05/2025,Software,Prog - Advocacy,1480.3,
+QB-S683,23-Mar-2026,Credit Card Expense,Prog - Fundraising,85.89,Ramp sync RMP-701888
+QB-S180,2025-07-30,Credit Card Expense,Prog - Advocacy,29.68,Ramp sync RMP-701302
+QB-982,30-Dec-2025,Software,FUNDRAISING,254.1,
+QB-973,27-Jan-2026,Insurance,Prog - Admin,380.38,
+QB-S745,01/31/2025,Credit Card Expense,Prog - Advocacy,18.73,Ramp sync RMP-700627
+QB-S787,2025-08-27,Credit Card Expense,ADVOCACY,792.85,Ramp sync RMP-701630
+QB-521,2025-07-02,Software,FUNDRAISING,150.81,
+QB-1644,2026-02-03,Software,VOLUNTEER TRAINING,181.76,
+QB-S543,2025-10-13,Credit Card Expense,ADMIN,42.82,Ramp sync RMP-700899
+QB-73,2025-06-28,Program Supplies,Advocacy,4493.98,
+QB-1464,05/26/2025,Insurance,Prog - Admin,2735.06,
+QB-S762,2025-08-18,Credit Card Expense,Advocacy,40.71,Ramp sync RMP-700444
+QB-897,03-Jun-2025,Software,ADVOCACY,12282.23,
+QB-S748,06/25/2026,Credit Card Expense,Volunteer Training,45.14,Ramp sync RMP-700302
+QB-557,2026-06-24,Software,Admin,1604.21,
+QB-772,11/10/2025,Rent,ADVOCACY,303.53,
+QB-S254,11/26/2025,Credit Card Expense,ADVOCACY,31.42,Ramp sync RMP-700372
+QB-S680,2026-04-14,Credit Card Expense,Prog - Fundraising,81.99,Ramp sync RMP-700071
+QB-S638,02/25/2026,Credit Card Expense,Fundraising,27.47,Ramp sync RMP-701084
+QB-S689,05/29/2026,Credit Card Expense,Volunteer Training,10.63,Ramp sync RMP-702459
+QB-261,2026-04-26,Software,ADVOCACY,3026.35,
+QB-537,2026-01-20,Salaries & Wages,ADVOCACY,562.81,
+QB-518,2025-05-20,Salaries & Wages,FUNDRAISING,1026.73,
+QB-1638,2025-07-26,Program Supplies,,340.76,
+QB-1570,20-Nov-2025,Program Supplies,Advocacy,554.11,
+QB-1369,2026-04-21,Salaries & Wages,Prog - Volunteer Training,1341.4,
+QB-698,06/03/2026,Software,Fundraising,171.98,
+QB-661,07-Mar-2026,Salaries & Wages,Prog - Advocacy,431.58,
+QB-1277,19-Mar-2026,Salaries & Wages,Prog - Fundraising,99.69,
+QB-260,2025-12-15,Professional Fees,Advocacy,40.11,
+QB-S292,2025-02-24,Credit Card Expense,VOLUNTEER TRAINING,31.03,Ramp sync RMP-701631
+QB-1268,09/03/2025,Software,Admin,1630.71,
+QB-S54,2026-01-06,Credit Card Expense,Advocacy,90.85,Ramp sync RMP-700161
+QB-S702,02/22/2025,Credit Card Expense,Advocacy,80.14,Ramp sync RMP-700972
+QB-1288,2026-04-28,Program Supplies,Volunteer Training,392.59,
+QB-S540,2025-12-09,Credit Card Expense,Prog - Advocacy,9.41,Ramp sync RMP-700307
+QB-846,2025-01-29,Salaries & Wages,Advocacy,1482.39,
+QB-S966,2025-03-20,Credit Card Expense,Prog - Advocacy,28.1,Ramp sync RMP-700051
+QB-1767,2025-11-07,Salaries & Wages,FUNDRAISING,177.98,
+QB-1745,2025-07-16,Rent,Advocacy,546.88,
+QB-744,02/22/2025,Salaries & Wages,Prog - Advocacy,756.05,
+QB-916,2025-04-04,Rent,Admin,222.81,
+QB-S981,2025-11-07,Credit Card Expense,Prog - Volunteer Training,56.7,Ramp sync RMP-701252
+QB-S841,2025-03-25,Credit Card Expense,VOLUNTEER TRAINING,64.11,Ramp sync RMP-701804
+QB-S623,06/07/2025,Credit Card Expense,Fundraising,62.53,Ramp sync RMP-701479
+QB-S510,06/07/2026,Credit Card Expense,Prog - Admin,182.0,Ramp sync RMP-702325
+QB-847,06/09/2025,Rent,ADVOCACY,355.18,
+QB-394,2026-01-19,Salaries & Wages,Volunteer Training,144.38,
+QB-S547,2025-06-01,Credit Card Expense,FUNDRAISING,29.0,Ramp sync RMP-700624
+QB-S1028,11/08/2025,Credit Card Expense,Prog - Advocacy,20.66,Ramp sync RMP-702056
+QB-S403,2025-04-27,Credit Card Expense,Prog - Advocacy,58.1,Ramp sync RMP-701408
+QB-S116,2025-08-28,Credit Card Expense,Prog - Volunteer Training,12.61,Ramp sync RMP-701462
+QB-S955,2025-03-21,Credit Card Expense,Advocacy,4.33,Ramp sync RMP-700536
+QB-279,2026-01-05,Software,ADVOCACY,1063.27,
+QB-S755,16-Jan-2025,Credit Card Expense,Prog - Advocacy,27.92,Ramp sync RMP-701715
+QB-1563,2026-06-10,Salaries & Wages,Advocacy,2157.05,
+QB-S637,05-Nov-2025,Credit Card Expense,Prog - Fundraising,14.53,Ramp sync RMP-700382
+QB-666,07-Feb-2025,Salaries & Wages,ADMIN,167.25,
+QB-334,2026-06-25,Professional Fees,Prog - Advocacy,575.25,
+QB-S987,2025-03-27,Credit Card Expense,Advocacy,72.9,Ramp sync RMP-700532
+QB-S357,28-Dec-2025,Credit Card Expense,Prog - Fundraising,17.1,Ramp sync RMP-700244
+QB-1009,2025-10-19,Program Supplies,Admin,1906.61,
+QB-S916,10/08/2025,Credit Card Expense,Fundraising,44.51,Ramp sync RMP-700232
+QB-751,19-Dec-2025,Salaries & Wages,Prog - Advocacy,167.97,
+QB-S65,2025-12-11,Credit Card Expense,Prog - Volunteer Training,34.4,Ramp sync RMP-701063
+QB-S727,2025-07-11,Credit Card Expense,Prog - Advocacy,64.65,Ramp sync RMP-701994
+QB-783,2025-11-05,Insurance,Admin,4114.57,
+QB-1712,10-Dec-2025,Salaries & Wages,Advocacy,2756.4,
+QB-S708,05/25/2025,Credit Card Expense,Advocacy,53.96,Ramp sync RMP-702074
+QB-1115,2026-03-20,Professional Fees,Advocacy,679.96,
+QB-S330,04/28/2026,Credit Card Expense,Advocacy,27.91,Ramp sync RMP-702460
+QB-1189,2025-08-25,Salaries & Wages,Prog - Advocacy,1797.6,
+QB-930,2025-04-21,Program Supplies,,1613.11,
+QB-60,2026-02-18,Program Supplies,Admin,481.68,
+QB-696,2026-03-31,Salaries & Wages,Advocacy,545.33,
+QB-S644,2025-09-04,Credit Card Expense,Prog - Fundraising,25.23,Ramp sync RMP-702483
+QB-1137,12/05/2025,Rent,ADVOCACY,1427.11,
+QB-1349,2025-09-22,Rent,ADMIN,208.72,
+QB-S497,2025-02-26,Credit Card Expense,Volunteer Training,31.07,Ramp sync RMP-701923
+QB-1026,2025-10-31,Software,ADMIN,183.74,
+QB-S481,2025-09-07,Credit Card Expense,Fundraising,42.63,Ramp sync RMP-702506
+QB-233,2025-05-18,Program Supplies,Volunteer Training,3531.01,
+QB-S199,09-Mar-2025,Credit Card Expense,Prog - Advocacy,32.79,Ramp sync RMP-700243
+QB-S974,03-Dec-2025,Credit Card Expense,Fundraising,54.29,Ramp sync RMP-702146
+QB-827,2025-11-27,Salaries & Wages,ADVOCACY,100.98,
+QB-1441,30-Jan-2025,Professional Fees,ADVOCACY,961.35,
+QB-517,2026-04-25,Professional Fees,Advocacy,1176.23,
+QB-S747,2026-03-14,Credit Card Expense,VOLUNTEER TRAINING,44.32,Ramp sync RMP-702233
+QB-304,2025-06-02,Program Supplies,Prog - Advocacy,770.07,
+QB-S716,05/24/2026,Credit Card Expense,Advocacy,89.61,Ramp sync RMP-702215
+QB-1499,25-Jun-2025,Program Supplies,Fundraising,818.4,
+QB-S1008,2025-12-31,Credit Card Expense,Fundraising,51.96,Ramp sync RMP-702187
+QB-S230,2025-09-22,Credit Card Expense,Advocacy,65.18,Ramp sync RMP-700258
+QB-738,2025-09-16,Salaries & Wages,Volunteer Training,364.18,
+QB-1320,02/13/2025,Program Supplies,Advocacy,129.45,
+QB-186,2025-04-14,Rent,Prog - Fundraising,379.73,
+QB-697,2025-06-04,Insurance,ADVOCACY,489.76,
+QB-1364,03/06/2026,Software,Prog - Advocacy,409.04,
+QB-255,05/08/2025,Program Supplies,,379.47,
+QB-S1021,2025-01-05,Credit Card Expense,Advocacy,34.58,Ramp sync RMP-702574
+QB-1226,2025-03-23,Salaries & Wages,VOLUNTEER TRAINING,2933.67,
+QB-1048,2026-02-12,Program Supplies,Fundraising,4015.79,
+QB-829,08/26/2025,Salaries & Wages,Prog - Advocacy,314.48,
+QB-824,2025-07-04,Software,Admin,864.03,
+QB-31,2025-03-16,Program Supplies,Prog - Volunteer Training,322.19,
+QB-1775,04/19/2025,Software,Admin,908.63,
+QB-S502,29-Mar-2025,Credit Card Expense,Prog - Fundraising,60.89,Ramp sync RMP-701671
+QB-562,01/23/2025,Program Supplies,Admin,241.16,
+QB-679,2026-04-16,Insurance,ADVOCACY,436.12,
+QB-1427,2025-08-16,Salaries & Wages,Advocacy,2851.63,
+QB-1594,2025-10-28,Rent,Volunteer Training,203.73,
+QB-1542,07/15/2025,Salaries & Wages,Admin,165.36,
+QB-274,03/20/2026,Insurance,ADVOCACY,627.65,
+QB-1487,01/24/2025,Professional Fees,Prog - Advocacy,101.23,
+QB-607,2025-09-21,Salaries & Wages,Admin,242.25,
+QB-1404,12/26/2025,Salaries & Wages,Volunteer Training,122.62,
+QB-231,2025-12-06,Software,ADVOCACY,436.35,
+QB-S308,12-Mar-2026,Credit Card Expense,Fundraising,42.74,Ramp sync RMP-701040
+QB-1088,01/31/2026,Salaries & Wages,ADVOCACY,1462.93,
+QB-643,2026-05-28,Salaries & Wages,Fundraising,672.37,
+QB-1423,02/26/2025,Salaries & Wages,Advocacy,1674.18,
+QB-S206,2026-06-26,Credit Card Expense,Prog - Advocacy,9.36,Ramp sync RMP-702171
+QB-S114,2025-09-20,Credit Card Expense,Volunteer Training,126.67,Ramp sync RMP-702366
+QB-S457,2026-06-11,Credit Card Expense,Fundraising,39.82,Ramp sync RMP-702416
+QB-S421,14-Apr-2025,Credit Card Expense,Prog - Volunteer Training,24.8,Ramp sync RMP-701396
+QB-S20,08/14/2025,Credit Card Expense,Volunteer Training,8.35,Ramp sync RMP-701216
+QB-S323,05/10/2025,Credit Card Expense,Prog - Advocacy,191.01,Ramp sync RMP-700506
+QB-369,2025-07-15,Insurance,Advocacy,616.97,
+QB-1755,2025-04-12,Program Supplies,Admin,892.42,
+QB-S275,2025-10-30,Credit Card Expense,Advocacy,155.39,Ramp sync RMP-700392
+QB-1219,2025-08-07,Software,Prog - Advocacy,450.8,
+QB-953,10/02/2025,Salaries & Wages,Advocacy,2320.43,
+QB-681,2025-02-12,Software,Admin,363.59,
+QB-577,2025-10-03,Software,ADMIN,878.95,
+QB-1053,08/29/2025,Software,Advocacy,4532.86,
+QB-143,19-Jun-2025,Salaries & Wages,ADMIN,992.1,
+QB-307,07/21/2025,Insurance,ADVOCACY,223.04,
+QB-S698,2025-06-07,Credit Card Expense,Prog - Fundraising,129.06,Ramp sync RMP-702485
+QB-1111,04/01/2025,Salaries & Wages,FUNDRAISING,219.41,
+QB-1420,04/29/2026,Professional Fees,Prog - Volunteer Training,225.54,
+QB-990,2026-02-21,Salaries & Wages,ADVOCACY,602.02,
+QB-1719,2025-02-27,Rent,Prog - Advocacy,5717.69,
+QB-808,2025-06-26,Program Supplies,Prog - Volunteer Training,827.14,
+QB-S796,2025-12-21,Credit Card Expense,Volunteer Training,9.32,Ramp sync RMP-702294
+QB-S344,02/03/2025,Credit Card Expense,Advocacy,32.89,Ramp sync RMP-702309
+QB-861,2026-05-07,Software,Advocacy,2085.43,
+QB-S603,2025-12-14,Credit Card Expense,Volunteer Training,68.77,Ramp sync RMP-701939
+QB-S285,2025-06-09,Credit Card Expense,Advocacy,29.33,Ramp sync RMP-700497
+QB-1296,2025-04-12,Salaries & Wages,Admin,922.36,
+QB-312,2025-03-22,Professional Fees,VOLUNTEER TRAINING,1947.61,
+QB-335,01/21/2025,Program Supplies,Prog - Admin,177.0,
+QB-S545,2026-05-25,Credit Card Expense,ADMIN,185.08,Ramp sync RMP-701697
+QB-1110,2025-02-06,Program Supplies,Advocacy,542.22,
+QB-367,2025-04-24,Insurance,Admin,1466.71,
+QB-1358,12/05/2025,Salaries & Wages,Prog - Advocacy,919.87,
+QB-S533,2025-07-31,Credit Card Expense,Prog - Fundraising,41.73,Ramp sync RMP-700556
+QB-907,06-May-2025,Salaries & Wages,Advocacy,1042.14,
+QB-1337,2025-02-21,Program Supplies,Prog - Advocacy,302.21,
+QB-779,2025-01-13,Professional Fees,VOLUNTEER TRAINING,283.86,
+QB-1236,24-Jun-2026,Professional Fees,Prog - Advocacy,59.63,
+QB-1356,2026-03-06,Software,ADVOCACY,98.29,
+QB-S36,05/22/2026,Credit Card Expense,Prog - Volunteer Training,155.16,Ramp sync RMP-700428
+QB-550,2025-04-08,Salaries & Wages,Prog - Admin,457.26,
+QB-1136,02/11/2026,Rent,Advocacy,297.76,
+QB-S375,2026-05-29,Credit Card Expense,Prog - Admin,106.87,Ramp sync RMP-701879
+QB-1242,2025-03-04,Salaries & Wages,Prog - Advocacy,75.12,
+QB-414,2026-03-04,Salaries & Wages,Advocacy,139.51,
+QB-1298,05/05/2026,Salaries & Wages,Prog - Fundraising,137.29,
+QB-1589,11/30/2025,Salaries & Wages,Advocacy,1120.54,
+QB-618,2025-02-06,Salaries & Wages,Prog - Volunteer Training,8983.34,
+QB-S986,2026-01-02,Credit Card Expense,Volunteer Training,18.33,Ramp sync RMP-701115
+QB-1456,2026-04-18,Program Supplies,ADMIN,661.9,
+QB-1342,2025-02-07,Insurance,Advocacy,1204.54,
+QB-S134,2026-06-05,Credit Card Expense,ADVOCACY,39.18,Ramp sync RMP-702583
+QB-S473,06/16/2026,Credit Card Expense,FUNDRAISING,5.38,Ramp sync RMP-702036
+QB-456,2025-09-24,Salaries & Wages,Advocacy,172.61,
+QB-1501,2025-08-18,Salaries & Wages,Advocacy,1972.82,
+QB-S322,2025-02-14,Credit Card Expense,Admin,30.26,Ramp sync RMP-700126
+QB-S1034,25-Jan-2025,Credit Card Expense,ADVOCACY,16.58,Ramp sync RMP-700653
+QB-754,2026-01-30,Program Supplies,Advocacy,715.21,
+QB-S138,07/01/2025,Credit Card Expense,Fundraising,34.35,Ramp sync RMP-700070
+QB-1153,01/17/2026,Professional Fees,Fundraising,243.84,
+QB-S744,2025-09-19,Credit Card Expense,Prog - Fundraising,41.13,Ramp sync RMP-700038
+QB-1432,2026-01-10,Program Supplies,Admin,361.43,
+QB-596,14-Nov-2025,Salaries & Wages,Prog - Volunteer Training,768.48,
+QB-336,06/11/2026,Software,Advocacy,252.77,
+QB-S294,05/22/2025,Credit Card Expense,ADVOCACY,25.86,Ramp sync RMP-702368
+QB-218,2025-08-02,Program Supplies,ADVOCACY,29.8,
+QB-159,2025-05-14,Salaries & Wages,Admin,745.59,
+QB-1357,2025-03-17,Salaries & Wages,Prog - Admin,277.75,
+QB-S622,2025-05-08,Credit Card Expense,Volunteer Training,43.35,Ramp sync RMP-701621
+QB-415,2026-03-08,Software,Advocacy,199.12,
+QB-S352,04/27/2026,Credit Card Expense,Prog - Advocacy,28.69,Ramp sync RMP-700845
+QB-1760,08/17/2025,Rent,Fundraising,2834.26,
+QB-S704,2025-10-13,Credit Card Expense,Advocacy,25.65,Ramp sync RMP-701461
+QB-S6,16-May-2025,Credit Card Expense,Fundraising,32.66,Ramp sync RMP-702244
+QB-1768,03/20/2025,Salaries & Wages,Fundraising,37.8,
+QB-1472,05/27/2025,Professional Fees,Admin,141.85,
+QB-S1017,2025-03-07,Credit Card Expense,Advocacy,15.59,Ramp sync RMP-701670
+QB-1438,02-Mar-2026,Salaries & Wages,FUNDRAISING,70.9,
+QB-S291,2025-04-12,Credit Card Expense,FUNDRAISING,61.09,Ramp sync RMP-702545
+QB-502,2026-06-23,Program Supplies,Volunteer Training,2147.92,
+QB-S476,2025-10-29,Credit Card Expense,Advocacy,27.1,Ramp sync RMP-700518
+QB-S436,10/12/2025,Credit Card Expense,Prog - Advocacy,20.41,Ramp sync RMP-700675
+QB-S846,2025-05-28,Credit Card Expense,Advocacy,57.1,Ramp sync RMP-701266
+QB-S464,2026-04-23,Credit Card Expense,Advocacy,21.22,Ramp sync RMP-702403
+QB-242,04/03/2026,Program Supplies,ADMIN,111.27,
+QB-1217,2025-12-09,Salaries & Wages,Admin,214.53,
+QB-S752,2026-05-02,Credit Card Expense,Volunteer Training,46.09,Ramp sync RMP-702010
+QB-1398,2026-04-01,Professional Fees,ADMIN,206.46,
+QB-983,2026-06-30,Salaries & Wages,ADVOCACY,71.0,
+QB-811,2025-04-14,Insurance,Prog - Admin,248.1,
+QB-904,2025-11-21,Professional Fees,Advocacy,983.94,
+QB-512,2025-11-18,Rent,Advocacy,1043.26,
+QB-704,04/07/2025,Professional Fees,Volunteer Training,382.96,
+QB-106,2025-12-07,Rent,FUNDRAISING,1285.83,
+QB-513,2025-04-20,Professional Fees,Advocacy,1177.3,
+QB-102,29-May-2025,Program Supplies,Volunteer Training,1195.68,
+QB-564,2025-04-23,Software,Prog - Advocacy,220.45,
+QB-734,2025-09-12,Salaries & Wages,Advocacy,801.66,
+QB-491,09-Jul-2025,Program Supplies,Fundraising,315.12,
+QB-253,14-Jul-2025,Salaries & Wages,Advocacy,114.93,
+QB-267,01/17/2025,Program Supplies,Volunteer Training,683.5,
+QB-440,2025-06-23,Program Supplies,Fundraising,192.55,
+QB-S84,2025-11-29,Credit Card Expense,Advocacy,44.09,Ramp sync RMP-701068
+QB-S141,03/17/2025,Credit Card Expense,ADVOCACY,20.75,Ramp sync RMP-701456
+QB-1675,2026-03-28,Professional Fees,Fundraising,3593.41,
+QB-1408,2026-01-31,Salaries & Wages,Advocacy,153.58,
+QB-S965,2025-10-08,Credit Card Expense,Fundraising,12.58,Ramp sync RMP-700957
+QB-396,2026-02-11,Salaries & Wages,Admin,236.76,
+QB-205,2026-05-29,Salaries & Wages,VOLUNTEER TRAINING,175.7,
+QB-221,09/06/2025,Salaries & Wages,Advocacy,594.97,
+QB-244,2026-02-06,Software,Admin,194.56,
+QB-S857,21-Nov-2025,Credit Card Expense,ADVOCACY,118.51,Ramp sync RMP-701017
+QB-1301,12/16/2025,Salaries & Wages,Volunteer Training,379.71,
+QB-1593,2025-01-15,Salaries & Wages,FUNDRAISING,67.11,
+QB-533,2026-03-17,Professional Fees,Volunteer Training,4293.11,
+QB-S595,01/02/2025,Credit Card Expense,Admin,160.9,Ramp sync RMP-700702
+QB-92,2026-05-22,Rent,Admin,507.9,
+QB-S518,2026-05-03,Credit Card Expense,Advocacy,133.04,Ramp sync RMP-700296
+QB-204,2025-01-09,Professional Fees,Admin,335.54,
+QB-S246,17-May-2026,Credit Card Expense,Advocacy,31.73,Ramp sync RMP-702335
+QB-1351,2025-08-31,Software,VOLUNTEER TRAINING,378.9,
+QB-732,2025-02-05,Salaries & Wages,ADVOCACY,781.44,
+QB-S1022,2025-04-25,Credit Card Expense,Prog - Volunteer Training,23.17,Ramp sync RMP-701544
+QB-21,03-Mar-2025,Software,Admin,1481.19,
+QB-S333,21-Mar-2025,Credit Card Expense,Fundraising,41.9,Ramp sync RMP-702164
+QB-833,2026-05-15,Professional Fees,Admin,471.12,
+QB-S934,05/18/2025,Credit Card Expense,Prog - Admin,154.19,Ramp sync RMP-701451
+QB-1665,2026-05-05,Software,Advocacy,1020.53,
+QB-S969,15-May-2025,Credit Card Expense,Prog - Advocacy,114.81,Ramp sync RMP-700085
+QB-660,15-Jul-2025,Professional Fees,Volunteer Training,1136.01,
+QB-S679,05/03/2026,Credit Card Expense,Volunteer Training,14.06,Ramp sync RMP-701726
+QB-S46,2025-12-12,Credit Card Expense,Fundraising,57.05,Ramp sync RMP-702427
+QB-872,2026-06-21,Program Supplies,VOLUNTEER TRAINING,887.65,
+QB-741,2025-08-22,Rent,,178.43,
+QB-867,2025-07-27,Insurance,ADMIN,191.38,
+QB-398,2025-02-27,Program Supplies,ADVOCACY,398.96,
+QB-132,2026-06-12,Professional Fees,Fundraising,2450.41,
+QB-S39,04-Aug-2025,Credit Card Expense,Advocacy,27.42,Ramp sync RMP-700434
+QB-225,2025-04-01,Salaries & Wages,Admin,3426.68,
+QB-S52,2025-04-23,Credit Card Expense,Admin,90.81,Ramp sync RMP-700435
+QB-1302,2025-04-12,Professional Fees,Admin,686.83,
+QB-S461,2026-05-28,Credit Card Expense,VOLUNTEER TRAINING,96.91,Ramp sync RMP-700357
+QB-1726,06/01/2026,Rent,Prog - Volunteer Training,474.82,
+QB-131,09/27/2025,Professional Fees,Volunteer Training,683.83,
+QB-1616,2025-09-02,Salaries & Wages,FUNDRAISING,124.96,
+QB-1008,2025-05-04,Rent,Prog - Advocacy,316.16,
+QB-S908,05/29/2025,Credit Card Expense,Advocacy,55.2,Ramp sync RMP-702547
+QB-949,01/27/2026,Salaries & Wages,Volunteer Training,185.55,
+QB-1611,2026-03-14,Program Supplies,FUNDRAISING,273.73,
+QB-393,07-Nov-2025,Salaries & Wages,ADVOCACY,132.95,
+QB-6,2025-11-20,Professional Fees,Advocacy,566.47,
+QB-S913,05/12/2025,Credit Card Expense,Fundraising,83.54,Ramp sync RMP-701303
+QB-161,20-Jan-2026,Professional Fees,Admin,705.46,
+QB-S598,2025-01-22,Credit Card Expense,ADMIN,61.2,Ramp sync RMP-701898
+QB-S271,2026-02-23,Credit Card Expense,Advocacy,78.22,Ramp sync RMP-700766
+QB-S558,06/20/2025,Credit Card Expense,Prog - Fundraising,25.32,Ramp sync RMP-702030
+QB-S877,2025-04-29,Credit Card Expense,ADVOCACY,92.33,Ramp sync RMP-701943
+QB-S172,2026-06-06,Credit Card Expense,VOLUNTEER TRAINING,120.37,Ramp sync RMP-701132
+QB-S1032,10/19/2025,Credit Card Expense,Admin,165.75,Ramp sync RMP-702169
+QB-1476,08/14/2025,Software,Prog - Advocacy,487.1,
+QB-529,04/01/2026,Insurance,Advocacy,131.65,
+QB-337,15-Apr-2025,Professional Fees,Admin,303.55,
+QB-435,2025-03-13,Insurance,Admin,1704.69,
+QB-963,03/18/2025,Professional Fees,Fundraising,1167.73,
+QB-S646,2026-02-20,Credit Card Expense,Prog - Admin,159.78,Ramp sync RMP-700128
+QB-767,2025-01-07,Professional Fees,Volunteer Training,1189.47,
+QB-418,19-Mar-2025,Professional Fees,Fundraising,544.48,
+QB-S988,2025-01-13,Credit Card Expense,Prog - Fundraising,119.57,Ramp sync RMP-700799
+QB-1211,04/20/2026,Program Supplies,Advocacy,77.68,
+QB-284,04/14/2026,Program Supplies,Advocacy,1187.91,
+QB-S763,2026-06-27,Credit Card Expense,Prog - Advocacy,61.01,Ramp sync RMP-700181
+QB-1741,2026-02-26,Salaries & Wages,FUNDRAISING,230.29,
+QB-S434,2026-06-15,Credit Card Expense,Advocacy,39.79,Ramp sync RMP-700618
+QB-S380,11-Mar-2025,Credit Card Expense,Fundraising,91.9,Ramp sync RMP-700739
+QB-1396,2025-01-27,Rent,Advocacy,204.62,
+QB-787,08/09/2025,Program Supplies,VOLUNTEER TRAINING,2425.39,
+QB-S941,01/23/2026,Credit Card Expense,Advocacy,20.14,Ramp sync RMP-700939
+QB-429,2025-09-05,Salaries & Wages,Admin,152.09,
+QB-S79,2025-01-20,Credit Card Expense,Prog - Fundraising,243.48,Ramp sync RMP-701495
+QB-1632,2025-12-27,Rent,Prog - Volunteer Training,245.5,
+QB-1688,2026-01-12,Salaries & Wages,ADVOCACY,1180.27,
+QB-598,2025-03-21,Salaries & Wages,Admin,11935.74,
+QB-1399,22-Apr-2025,Salaries & Wages,Volunteer Training,732.67,
+QB-S583,08-Nov-2025,Credit Card Expense,ADVOCACY,18.33,Ramp sync RMP-700472
+QB-S633,04/15/2025,Credit Card Expense,FUNDRAISING,124.65,Ramp sync RMP-702078
+QB-1347,2025-03-16,Software,Fundraising,2890.0,
+QB-S29,03/01/2025,Credit Card Expense,Advocacy,64.45,Ramp sync RMP-701485
+QB-S343,03/08/2025,Credit Card Expense,Advocacy,24.89,Ramp sync RMP-701376
+QB-896,2025-03-25,Salaries & Wages,Advocacy,325.55,
+QB-125,17-Aug-2025,Salaries & Wages,Prog - Admin,2854.04,
+QB-S779,15-Mar-2026,Credit Card Expense,Fundraising,58.89,Ramp sync RMP-701945
+QB-112,03/13/2026,Salaries & Wages,Prog - Volunteer Training,235.91,
+QB-S860,28-Apr-2026,Credit Card Expense,Prog - Fundraising,46.6,Ramp sync RMP-700140
+QB-S176,2026-04-21,Credit Card Expense,Prog - Fundraising,196.37,Ramp sync RMP-701219
+QB-S73,2025-10-21,Credit Card Expense,Prog - Admin,180.33,Ramp sync RMP-702434
+QB-S883,10/07/2025,Credit Card Expense,Prog - Volunteer Training,153.69,Ramp sync RMP-700893
+QB-743,2025-12-02,Program Supplies,ADVOCACY,787.11,
+QB-S465,03-Dec-2025,Credit Card Expense,Prog - Fundraising,51.55,Ramp sync RMP-702105
+QB-S584,2025-10-09,Credit Card Expense,Fundraising,81.44,Ramp sync RMP-701921
+QB-1062,2026-05-13,Software,ADVOCACY,2074.65,
+QB-S179,11/26/2025,Credit Card Expense,Prog - Volunteer Training,34.04,Ramp sync RMP-700757
+QB-784,2025-10-22,Rent,Prog - Admin,95.66,
+QB-126,04/19/2026,Salaries & Wages,Volunteer Training,4507.79,
+QB-1133,03/24/2026,Professional Fees,ADMIN,834.77,
+QB-S927,10-Jul-2025,Credit Card Expense,Prog - Advocacy,47.92,Ramp sync RMP-700804
+QB-1379,08/17/2025,Salaries & Wages,ADVOCACY,987.4,
+QB-494,09-Feb-2025,Program Supplies,Advocacy,330.7,
+QB-S146,04/19/2026,Credit Card Expense,FUNDRAISING,17.34,Ramp sync RMP-700879
+QB-S487,2025-07-14,Credit Card Expense,Prog - Admin,18.77,Ramp sync RMP-702450
+QB-1525,2025-11-20,Software,,1858.28,
+QB-1255,21-Jan-2026,Professional Fees,Admin,838.89,
+QB-34,2026-01-29,Professional Fees,Prog - Advocacy,2710.7,
+QB-273,2025-03-02,Rent,ADVOCACY,342.34,
+QB-S724,2025-02-08,Credit Card Expense,Advocacy,90.25,Ramp sync RMP-700105
+QB-301,2025-01-19,Program Supplies,,175.82,
+QB-S851,09/02/2025,Credit Card Expense,Prog - Advocacy,71.83,Ramp sync RMP-700541
+QB-1195,04/14/2025,Salaries & Wages,Volunteer Training,1306.5,
+QB-S490,2025-08-19,Credit Card Expense,Prog - Volunteer Training,28.04,Ramp sync RMP-701312
+QB-S694,05/20/2026,Credit Card Expense,Fundraising,176.17,Ramp sync RMP-701970
+QB-328,2026-06-19,Program Supplies,Fundraising,6658.64,
+QB-S824,06/25/2026,Credit Card Expense,Prog - Fundraising,18.18,Ramp sync RMP-701428
+QB-S799,02/17/2025,Credit Card Expense,Advocacy,2.64,Ramp sync RMP-700776
+QB-71,03/21/2025,Software,Admin,191.39,
+QB-1588,11/22/2025,Software,Admin,142.7,
+QB-S835,2025-07-03,Credit Card Expense,Prog - Admin,109.76,Ramp sync RMP-700586
+QB-619,2026-01-07,Salaries & Wages,Prog - Advocacy,3949.18,
+QB-1040,2025-04-21,Insurance,Prog - Admin,322.94,
+QB-S725,09/22/2025,Credit Card Expense,Admin,21.43,Ramp sync RMP-700645
+QB-178,2025-02-14,Insurance,VOLUNTEER TRAINING,322.07,
+QB-S1004,2026-04-06,Credit Card Expense,ADVOCACY,16.69,Ramp sync RMP-700537
+QB-S1027,2026-05-05,Credit Card Expense,Fundraising,12.51,Ramp sync RMP-701851
+QB-1586,01/24/2025,Program Supplies,Prog - Advocacy,90.95,
+QB-280,13-Nov-2025,Salaries & Wages,Volunteer Training,1165.21,
+QB-941,2025-09-08,Salaries & Wages,FUNDRAISING,332.67,
+QB-S470,11/13/2025,Credit Card Expense,Prog - Fundraising,36.5,Ramp sync RMP-700359
+QB-S113,2025-10-12,Credit Card Expense,Fundraising,16.38,Ramp sync RMP-701600
+QB-1031,2025-12-25,Salaries & Wages,Prog - Advocacy,5818.79,
+QB-S666,11/14/2025,Credit Card Expense,FUNDRAISING,25.39,Ramp sync RMP-700090
+QB-1708,2026-06-21,Salaries & Wages,ADVOCACY,1609.66,
+QB-S495,05/24/2026,Credit Card Expense,Advocacy,184.26,Ramp sync RMP-700509
+QB-558,04-May-2026,Software,VOLUNTEER TRAINING,1027.58,
+QB-124,08/28/2025,Salaries & Wages,Prog - Advocacy,218.03,
+QB-S309,26-Jun-2025,Credit Card Expense,Fundraising,27.15,Ramp sync RMP-701682
+QB-38,12/04/2025,Program Supplies,ADVOCACY,1227.13,
+QB-S371,05-Apr-2025,Credit Card Expense,Volunteer Training,57.53,Ramp sync RMP-700779
+QB-1764,2026-04-05,Program Supplies,Prog - Advocacy,454.03,
+QB-S690,2025-11-02,Credit Card Expense,Advocacy,22.9,Ramp sync RMP-700706
+QB-1776,11/09/2025,Program Supplies,Advocacy,892.1,
+QB-594,2025-10-17,Salaries & Wages,ADVOCACY,1917.45,
+QB-821,2025-09-22,Salaries & Wages,Volunteer Training,223.98,
+QB-1600,2026-06-01,Professional Fees,,483.5,
+QB-S691,02/18/2025,Credit Card Expense,VOLUNTEER TRAINING,46.33,Ramp sync RMP-701316
+QB-S590,09/03/2025,Credit Card Expense,Prog - Admin,35.24,Ramp sync RMP-702011
+QB-906,03/24/2025,Software,Advocacy,10234.28,
+QB-S832,2025-12-16,Credit Card Expense,ADVOCACY,25.29,Ramp sync RMP-701568
+QB-678,07/23/2025,Program Supplies,Volunteer Training,415.61,
+QB-S173,2025-09-17,Credit Card Expense,Fundraising,125.58,Ramp sync RMP-700274
+QB-S282,2026-04-29,Credit Card Expense,Fundraising,29.36,Ramp sync RMP-700081
+QB-S815,2025-03-28,Credit Card Expense,Advocacy,32.38,Ramp sync RMP-701798
+QB-458,2025-05-19,Rent,ADMIN,1851.03,
+QB-746,09/17/2025,Program Supplies,Fundraising,169.49,
+QB-S258,2026-06-21,Credit Card Expense,Volunteer Training,78.5,Ramp sync RMP-700058
+QB-S899,2025-09-24,Credit Card Expense,Fundraising,50.48,Ramp sync RMP-700390
+QB-1360,03/20/2025,Salaries & Wages,Advocacy,348.08,
+QB-383,2026-06-25,Salaries & Wages,Prog - Volunteer Training,334.52,
+QB-S163,2025-05-20,Credit Card Expense,ADMIN,62.8,Ramp sync RMP-701165
+QB-1468,2025-10-03,Software,ADVOCACY,436.89,
+QB-909,2026-04-07,Rent,Prog - Advocacy,228.84,
+QB-S398,2025-05-26,Credit Card Expense,Advocacy,39.13,Ramp sync RMP-700623
+QB-S1025,2025-04-16,Credit Card Expense,Admin,22.98,Ramp sync RMP-701403
+QB-1503,10/04/2025,Salaries & Wages,Advocacy,440.19,
+QB-997,2025-11-13,Salaries & Wages,,448.94,
+QB-1434,04/17/2026,Rent,Fundraising,295.77,
+QB-S299,03/01/2026,Credit Card Expense,FUNDRAISING,83.87,Ramp sync RMP-700224
+QB-385,04/05/2026,Salaries & Wages,Volunteer Training,209.44,
+QB-1771,2026-04-17,Program Supplies,Admin,627.59,
+QB-S954,2025-07-31,Credit Card Expense,Prog - Admin,45.58,Ramp sync RMP-701415
+QB-1430,11/06/2025,Program Supplies,ADVOCACY,111.6,
+QB-776,06/18/2026,Salaries & Wages,Advocacy,579.17,
+QB-S307,2025-10-10,Credit Card Expense,Prog - Volunteer Training,20.38,Ramp sync RMP-700588
+QB-715,2025-02-06,Software,Fundraising,350.46,
+QB-S878,2025-04-24,Credit Card Expense,Admin,22.13,Ramp sync RMP-700188
+QB-996,25-May-2025,Program Supplies,Fundraising,96.27,
+QB-S628,31-Aug-2025,Credit Card Expense,Prog - Volunteer Training,43.62,Ramp sync RMP-700352
+QB-S17,2026-03-02,Credit Card Expense,Prog - Advocacy,88.6,Ramp sync RMP-700603
+QB-S288,13-Sep-2025,Credit Card Expense,Volunteer Training,17.12,Ramp sync RMP-700540
+QB-1727,21-Sep-2025,Salaries & Wages,Volunteer Training,796.27,
+QB-1001,18-Feb-2025,Software,Advocacy,1639.28,
+QB-1510,08/31/2025,Rent,Admin,1276.53,
+QB-S945,01/28/2025,Credit Card Expense,Prog - Fundraising,20.13,Ramp sync RMP-701733
+QB-S651,2025-03-29,Credit Card Expense,Fundraising,84.6,Ramp sync RMP-702109
+QB-1422,2025-11-09,Salaries & Wages,Prog - Advocacy,1263.42,
+QB-1157,2026-01-07,Salaries & Wages,Advocacy,769.8,
+QB-226,06/16/2025,Rent,ADVOCACY,1155.91,
+QB-617,2026-04-24,Salaries & Wages,,1456.38,
+QB-431,2026-01-08,Insurance,Volunteer Training,285.89,
+QB-1754,31-Jul-2025,Insurance,Admin,772.58,
+QB-926,08/14/2025,Salaries & Wages,Advocacy,1418.18,
+QB-S825,09/27/2025,Credit Card Expense,Prog - Admin,54.32,Ramp sync RMP-702563
+QB-S1013,04/16/2025,Credit Card Expense,FUNDRAISING,25.67,Ramp sync RMP-702002
+QB-1265,2025-12-14,Rent,ADVOCACY,50.7,
+QB-S997,2025-10-28,Credit Card Expense,FUNDRAISING,11.82,Ramp sync RMP-702284
+QB-1333,01/23/2026,Program Supplies,,92.79,
+QB-7,16-Feb-2025,Insurance,Volunteer Training,221.54,
+QB-670,2025-05-12,Salaries & Wages,Admin,185.55,
+QB-S86,01/01/2026,Credit Card Expense,Admin,97.33,Ramp sync RMP-701307
+QB-730,2026-05-16,Insurance,VOLUNTEER TRAINING,354.09,
+QB-S656,2025-06-29,Credit Card Expense,Advocacy,42.73,Ramp sync RMP-700034
+QB-S56,02/19/2025,Credit Card Expense,Prog - Advocacy,21.06,Ramp sync RMP-700858
+QB-S1018,04/19/2025,Credit Card Expense,FUNDRAISING,11.41,Ramp sync RMP-702394
+QB-1181,02/03/2026,Program Supplies,ADVOCACY,326.75,
+QB-460,16-Apr-2025,Insurance,Advocacy,263.48,
+QB-873,2026-05-30,Salaries & Wages,Prog - Advocacy,814.69,
+QB-S611,09/02/2025,Credit Card Expense,Volunteer Training,28.42,Ramp sync RMP-700473
+QB-864,12/04/2025,Software,Advocacy,249.49,
+QB-735,2025-07-19,Software,Prog - Volunteer Training,932.72,
+QB-392,2026-04-02,Program Supplies,Advocacy,515.85,
+QB-109,05/31/2025,Salaries & Wages,VOLUNTEER TRAINING,115.76,
+QB-662,06/03/2026,Salaries & Wages,Advocacy,13495.71,
+QB-171,2025-10-15,Salaries & Wages,Prog - Fundraising,502.51,
+QB-S415,29-Jun-2026,Credit Card Expense,Admin,5.47,Ramp sync RMP-701095
+QB-403,2025-07-06,Salaries & Wages,Advocacy,1814.26,
+QB-769,2025-01-03,Salaries & Wages,Advocacy,56.17,
+QB-378,16-Jun-2025,Program Supplies,Advocacy,257.5,
+QB-809,2026-06-01,Software,Admin,912.59,
+QB-658,2025-06-07,Salaries & Wages,VOLUNTEER TRAINING,2884.51,
+QB-S944,2025-09-12,Credit Card Expense,Prog - Fundraising,9.52,Ramp sync RMP-702310
+QB-657,23-Jul-2025,Salaries & Wages,ADVOCACY,873.46,
+QB-665,2025-02-14,Program Supplies,Prog - Admin,661.72,
+QB-631,04-Mar-2026,Program Supplies,Fundraising,112.63,
+QB-1602,27-Jan-2026,Program Supplies,ADVOCACY,2560.22,
+QB-S635,03/18/2026,Credit Card Expense,Prog - Advocacy,71.68,Ramp sync RMP-702406
+QB-S599,2025-12-09,Credit Card Expense,Prog - Volunteer Training,69.66,Ramp sync RMP-702392
+QB-S92,27-Oct-2025,Credit Card Expense,Advocacy,28.88,Ramp sync RMP-701877
+QB-1617,2026-04-21,Rent,Advocacy,761.04,
+QB-S925,28-Apr-2025,Credit Card Expense,Advocacy,43.36,Ramp sync RMP-700198
+QB-S1,05/17/2025,Credit Card Expense,Prog - Volunteer Training,15.13,Ramp sync RMP-700333
+QB-S645,2025-07-17,Credit Card Expense,Advocacy,71.2,Ramp sync RMP-701992
+QB-531,01/30/2026,Salaries & Wages,Prog - Advocacy,733.82,
+QB-S453,18-Mar-2025,Credit Card Expense,Prog - Advocacy,125.86,Ramp sync RMP-700153
+QB-S373,2026-06-25,Credit Card Expense,Advocacy,70.69,Ramp sync RMP-702206
+QB-633,26-Mar-2026,Salaries & Wages,ADMIN,357.76,
+QB-S12,2026-04-10,Credit Card Expense,ADMIN,109.6,Ramp sync RMP-701959
+QB-668,10/29/2025,Insurance,Prog - Admin,1094.88,
+QB-1077,2026-03-22,Salaries & Wages,Advocacy,424.63,
+QB-S917,03/28/2026,Credit Card Expense,Volunteer Training,74.71,Ramp sync RMP-701259
+QB-816,09/26/2025,Salaries & Wages,Fundraising,156.86,
+QB-1504,2025-10-02,Salaries & Wages,FUNDRAISING,151.89,
+QB-S132,05/29/2026,Credit Card Expense,Volunteer Training,42.88,Ramp sync RMP-701675
+QB-1238,10/31/2025,Software,Admin,1317.74,
+QB-448,2025-10-17,Rent,Fundraising,58.43,
+QB-75,2025-08-06,Program Supplies,Advocacy,761.47,
+QB-1723,2026-04-27,Software,VOLUNTEER TRAINING,408.69,
+QB-946,20-Jun-2026,Salaries & Wages,Volunteer Training,873.6,
+QB-179,2026-06-30,Program Supplies,Advocacy,2755.39,
+QB-870,2026-05-05,Software,ADVOCACY,648.48,
+QB-S577,08/26/2025,Credit Card Expense,Admin,33.57,Ramp sync RMP-701454
+QB-1056,2025-07-24,Professional Fees,Volunteer Training,1749.74,
+QB-S439,04/30/2026,Credit Card Expense,Volunteer Training,185.04,Ramp sync RMP-700074
+QB-976,2025-06-13,Professional Fees,VOLUNTEER TRAINING,2288.45,
+QB-S440,2025-01-25,Credit Card Expense,Advocacy,31.82,Ramp sync RMP-700179
+QB-S550,2025-06-25,Credit Card Expense,ADMIN,22.91,Ramp sync RMP-702190
+QB-S625,2025-08-16,Credit Card Expense,Fundraising,47.83,Ramp sync RMP-700693
+QB-800,2025-02-14,Professional Fees,Fundraising,506.71,
+QB-1693,12/11/2025,Rent,Admin,326.02,
+QB-45,2025-07-04,Salaries & Wages,Advocacy,64.13,
+QB-S882,2026-05-11,Credit Card Expense,ADVOCACY,24.33,Ramp sync RMP-702511
+QB-1787,2025-12-27,Salaries & Wages,Advocacy,85.02,
+QB-190,2025-10-28,Professional Fees,Admin,2566.46,
+QB-1683,2025-07-25,Professional Fees,ADVOCACY,351.91,
+QB-1671,04/07/2025,Software,ADVOCACY,200.15,
+QB-S93,2026-06-07,Credit Card Expense,Admin,35.17,Ramp sync RMP-700535
+QB-786,03/03/2025,Program Supplies,Admin,1656.22,
+QB-611,2026-06-12,Salaries & Wages,Prog - Advocacy,100.92,
+QB-321,2025-06-05,Rent,Admin,710.01,
+QB-S94,2025-05-28,Credit Card Expense,Prog - Volunteer Training,78.59,Ramp sync RMP-701341
+QB-S62,17-Nov-2025,Credit Card Expense,Advocacy,182.3,Ramp sync RMP-702083
+QB-S278,2025-07-03,Credit Card Expense,Fundraising,26.86,Ramp sync RMP-701136
+QB-S240,20-Feb-2026,Credit Card Expense,Volunteer Training,56.29,Ramp sync RMP-702461
+QB-S613,02-Oct-2025,Credit Card Expense,VOLUNTEER TRAINING,101.27,Ramp sync RMP-702330
+QB-S264,26-May-2025,Credit Card Expense,Admin,124.45,Ramp sync RMP-700322
+QB-1667,2025-02-07,Salaries & Wages,Advocacy,275.17,
+QB-1429,2026-03-19,Professional Fees,Advocacy,2244.31,
+QB-S315,05/18/2026,Credit Card Expense,Volunteer Training,96.44,Ramp sync RMP-701786
+QB-S391,2026-06-22,Credit Card Expense,Fundraising,45.69,Ramp sync RMP-700056
+QB-308,05/19/2025,Program Supplies,Prog - Volunteer Training,62.38,
+QB-S597,2025-05-22,Credit Card Expense,Prog - Fundraising,8.91,Ramp sync RMP-702182
+QB-S701,08/13/2025,Credit Card Expense,Fundraising,73.97,Ramp sync RMP-700145
+QB-693,2026-03-31,Rent,Advocacy,1084.38,
+QB-1011,2025-02-19,Insurance,Prog - Advocacy,5046.78,
+QB-285,2025-03-19,Rent,Fundraising,293.44,
+QB-1620,2026-05-09,Software,Advocacy,571.55,
+QB-S618,05/18/2026,Credit Card Expense,Advocacy,19.4,Ramp sync RMP-702593
+QB-S1029,2025-08-09,Credit Card Expense,Fundraising,111.72,Ramp sync RMP-702121
+QB-S45,13-Jun-2025,Credit Card Expense,Prog - Advocacy,32.67,Ramp sync RMP-701842
+QB-S672,2025-08-19,Credit Card Expense,Volunteer Training,44.8,Ramp sync RMP-700778
+QB-S237,02/14/2025,Credit Card Expense,Prog - Fundraising,53.58,Ramp sync RMP-700687
+QB-1063,04/24/2026,Program Supplies,ADMIN,120.05,
+QB-991,2025-08-19,Salaries & Wages,Fundraising,747.76,
+QB-1797,2026-02-24,Professional Fees,Prog - Volunteer Training,1967.42,
+QB-180,2025-07-30,Program Supplies,ADVOCACY,440.3,
+QB-S992,2025-04-01,Credit Card Expense,Admin,19.64,Ramp sync RMP-700890
+QB-338,2025-12-02,Program Supplies,Advocacy,218.34,
+QB-624,04-Aug-2025,Program Supplies,ADVOCACY,389.89,
+QB-1779,09-May-2026,Software,Advocacy,87.35,
+QB-S513,2026-03-15,Credit Card Expense,Prog - Volunteer Training,24.93,Ramp sync RMP-702029
+QB-S829,29-Oct-2025,Credit Card Expense,Admin,128.07,Ramp sync RMP-700810
+QB-473,2025-12-06,Salaries & Wages,Prog - Fundraising,476.03,
+QB-1431,2025-01-02,Professional Fees,Admin,1742.56,
+QB-1564,25-Jul-2025,Professional Fees,Volunteer Training,1665.85,
+QB-S40,2026-01-23,Credit Card Expense,Prog - Volunteer Training,14.12,Ramp sync RMP-700898
+QB-S593,01/30/2026,Credit Card Expense,Fundraising,63.67,Ramp sync RMP-701205
+QB-S459,24-Oct-2025,Credit Card Expense,Prog - Fundraising,17.91,Ramp sync RMP-701589
+QB-S862,03/23/2025,Credit Card Expense,Fundraising,70.82,Ramp sync RMP-701297
+QB-S25,2026-02-14,Credit Card Expense,Fundraising,93.75,Ramp sync RMP-702245
+QB-S41,2025-10-20,Credit Card Expense,Admin,35.59,Ramp sync RMP-700231
+QB-S137,2025-11-24,Credit Card Expense,Prog - Advocacy,10.68,Ramp sync RMP-700368
+QB-1260,2025-12-03,Salaries & Wages,Admin,103.21,
+QB-413,03/09/2025,Salaries & Wages,Fundraising,219.39,
+QB-118,01/27/2025,Professional Fees,Advocacy,397.39,
+QB-1004,2025-03-09,Salaries & Wages,Advocacy,369.38,
+QB-S782,2026-01-08,Credit Card Expense,Fundraising,173.54,Ramp sync RMP-701178
+QB-S699,2025-05-21,Credit Card Expense,Prog - Advocacy,26.98,Ramp sync RMP-701575
+QB-1395,22-Dec-2025,Program Supplies,ADVOCACY,594.04,
+QB-499,2025-10-18,Rent,Prog - Admin,172.18,
+QB-636,2026-06-13,Rent,Prog - Advocacy,167.92,
+QB-844,01/15/2025,Salaries & Wages,Advocacy,990.93,
+QB-S789,2025-06-09,Credit Card Expense,ADMIN,14.08,Ramp sync RMP-701797
+QB-303,2026-06-22,Professional Fees,,393.04,
+QB-175,11-Mar-2026,Professional Fees,Fundraising,360.12,
+QB-571,2025-06-01,Rent,Prog - Advocacy,1062.99,
+QB-882,04/25/2026,Salaries & Wages,Volunteer Training,811.21,
+QB-S905,2025-03-18,Credit Card Expense,ADMIN,81.94,Ramp sync RMP-700149
+QB-323,09/22/2025,Software,ADMIN,159.04,
+QB-1532,2025-03-01,Professional Fees,Advocacy,368.27,
+QB-354,2025-01-20,Salaries & Wages,Prog - Admin,2822.33,
+QB-S318,2025-05-04,Credit Card Expense,Prog - Admin,22.48,Ramp sync RMP-701730
+QB-S67,05-Sep-2025,Credit Card Expense,Prog - Fundraising,126.27,Ramp sync RMP-700117
+QB-S757,2025-03-28,Credit Card Expense,Fundraising,23.28,Ramp sync RMP-700137
+QB-1636,2025-06-10,Program Supplies,Fundraising,362.64,
+QB-591,2025-02-09,Software,Prog - Admin,146.63,
+QB-S270,16-Feb-2026,Credit Card Expense,Volunteer Training,90.65,Ramp sync RMP-702127
+QB-1322,2025-09-20,Professional Fees,Admin,646.63,
+QB-490,12/16/2025,Software,ADVOCACY,76.49,
+QB-S191,2025-02-04,Credit Card Expense,ADMIN,16.75,Ramp sync RMP-701737
+QB-791,2025-12-03,Salaries & Wages,ADVOCACY,712.69,
+QB-S348,2026-06-28,Credit Card Expense,Advocacy,78.91,Ramp sync RMP-701780
+QB-S366,2025-08-26,Credit Card Expense,Fundraising,51.09,Ramp sync RMP-701516
+QB-606,10-Dec-2025,Rent,Volunteer Training,602.31,
+QB-752,09/16/2025,Professional Fees,Admin,1015.57,
+QB-1067,2025-03-04,Insurance,Advocacy,104.41,
+QB-S885,2025-08-08,Credit Card Expense,Admin,60.61,Ramp sync RMP-700160
+QB-1252,12/13/2025,Software,Prog - Admin,242.78,
+QB-247,2026-03-10,Salaries & Wages,Prog - Fundraising,1024.5,
+QB-S570,2025-08-16,Credit Card Expense,Prog - Volunteer Training,42.43,Ramp sync RMP-701757
+QB-S187,2025-05-17,Credit Card Expense,Fundraising,29.31,Ramp sync RMP-701439
+QB-667,2025-12-07,Professional Fees,Advocacy,1508.28,
+QB-1583,2025-05-19,Program Supplies,Fundraising,140.47,
+QB-S551,2026-06-09,Credit Card Expense,Prog - Advocacy,7.25,Ramp sync RMP-700041
+QB-1218,2025-01-17,Program Supplies,ADMIN,27.62,
+QB-1604,2025-06-18,Rent,Admin,1351.38,
+QB-S923,2025-02-13,Credit Card Expense,Advocacy,23.54,Ramp sync RMP-701556
+QB-237,02/13/2025,Software,Prog - Volunteer Training,578.63,
+QB-S8,29-Nov-2025,Credit Card Expense,Volunteer Training,110.0,Ramp sync RMP-701882
+QB-S485,04/12/2025,Credit Card Expense,Fundraising,19.68,Ramp sync RMP-700301
+QB-S394,07-May-2026,Credit Card Expense,Prog - Admin,152.67,Ramp sync RMP-702091
+QB-114,2025-12-28,Insurance,Advocacy,87.23,
+QB-S225,2025-12-26,Credit Card Expense,Prog - Advocacy,91.8,Ramp sync RMP-700453
+QB-1781,2025-04-20,Rent,FUNDRAISING,285.77,
+QB-1679,04/11/2025,Salaries & Wages,,146.54,
+QB-S659,2025-12-14,Credit Card Expense,Prog - Fundraising,74.1,Ramp sync RMP-701706
+QB-S889,2025-03-08,Credit Card Expense,FUNDRAISING,12.79,Ramp sync RMP-700830
+QB-1117,2025-03-05,Salaries & Wages,Prog - Advocacy,223.59,
+QB-486,2026-02-25,Salaries & Wages,VOLUNTEER TRAINING,1625.25,
+QB-S217,2025-02-07,Credit Card Expense,Advocacy,84.09,Ramp sync RMP-700313
+QB-936,11/24/2025,Program Supplies,Advocacy,4829.1,
+QB-S498,25-Apr-2026,Credit Card Expense,Fundraising,16.66,Ramp sync RMP-702174
+QB-1285,2025-11-21,Salaries & Wages,Advocacy,2735.26,
+QB-S130,2025-12-09,Credit Card Expense,Volunteer Training,43.65,Ramp sync RMP-700271
+QB-1246,2025-10-05,Software,Advocacy,1326.25,
+QB-424,2025-10-19,Salaries & Wages,ADVOCACY,1605.86,
+QB-S104,2025-03-04,Credit Card Expense,Volunteer Training,80.66,Ramp sync RMP-700813
+QB-S287,05-Jun-2026,Credit Card Expense,Fundraising,132.61,Ramp sync RMP-701835
+QB-1173,16-Sep-2025,Program Supplies,Advocacy,939.91,
+QB-605,06/26/2025,Salaries & Wages,ADVOCACY,611.05,
+QB-S575,03/10/2026,Credit Card Expense,ADVOCACY,4.78,Ramp sync RMP-701346
+QB-1313,2025-02-10,Salaries & Wages,Fundraising,189.19,
+QB-1711,2025-05-05,Software,Volunteer Training,525.73,
+QB-411,06/13/2025,Salaries & Wages,Admin,1510.66,
+QB-S828,01/14/2026,Credit Card Expense,Prog - Fundraising,44.41,Ramp sync RMP-700807
+QB-1308,2025-10-26,Salaries & Wages,Advocacy,525.99,
+QB-S890,2025-04-11,Credit Card Expense,Prog - Volunteer Training,35.73,Ramp sync RMP-700815
+QB-1557,2025-06-21,Software,Advocacy,307.45,
+QB-S181,09/08/2025,Credit Card Expense,FUNDRAISING,71.65,Ramp sync RMP-701217
+QB-214,2025-07-29,Professional Fees,ADVOCACY,183.28,
+QB-S378,2025-09-20,Credit Card Expense,Prog - Fundraising,41.71,Ramp sync RMP-700521
+QB-474,09/08/2025,Salaries & Wages,Advocacy,212.07,
+QB-1314,05/13/2026,Insurance,Prog - Admin,571.24,
+QB-1183,2026-03-14,Program Supplies,Prog - Advocacy,1837.82,
+QB-1568,16-Apr-2026,Salaries & Wages,Advocacy,29750.96,
+QB-S778,2025-07-05,Credit Card Expense,Admin,25.71,Ramp sync RMP-700962
+QB-33,2025-08-16,Program Supplies,Advocacy,151.05,
+QB-137,2026-02-13,Salaries & Wages,Advocacy,636.01,
+QB-711,2025-04-04,Program Supplies,Prog - Admin,962.09,
+QB-1185,2026-04-15,Rent,Prog - Advocacy,672.1,
+QB-S276,2026-04-26,Credit Card Expense,VOLUNTEER TRAINING,26.08,Ramp sync RMP-702112
+QB-S989,2026-03-03,Credit Card Expense,Volunteer Training,10.21,Ramp sync RMP-701777
+QB-1081,06/25/2026,Insurance,Advocacy,204.93,
+QB-1205,2025-09-11,Salaries & Wages,Advocacy,251.4,
+QB-421,2025-02-07,Program Supplies,VOLUNTEER TRAINING,104.92,
+QB-S493,02/14/2026,Credit Card Expense,Prog - Fundraising,74.55,Ramp sync RMP-701435
+QB-501,2025-05-12,Software,Advocacy,503.87,
+QB-817,07-Jan-2026,Salaries & Wages,Advocacy,155.9,
+QB-223,06/09/2026,Program Supplies,FUNDRAISING,168.93,
+QB-489,2025-03-29,Salaries & Wages,Fundraising,603.61,
+QB-23,2025-12-04,Software,VOLUNTEER TRAINING,562.25,
+QB-S980,15-Oct-2025,Credit Card Expense,Advocacy,29.94,Ramp sync RMP-700259
+QB-1597,2026-04-07,Professional Fees,Admin,158.75,
+QB-S224,2026-04-03,Credit Card Expense,Admin,400.69,Ramp sync RMP-700926
+QB-932,29-Nov-2025,Salaries & Wages,Advocacy,583.12,
+QB-S947,04-Oct-2025,Credit Card Expense,Prog - Advocacy,65.22,Ramp sync RMP-700415
+QB-S165,2026-05-07,Credit Card Expense,Fundraising,85.02,Ramp sync RMP-701752
+QB-S817,2026-03-12,Credit Card Expense,Fundraising,71.76,Ramp sync RMP-701665
+QB-951,2025-03-28,Insurance,Advocacy,53.04,
+QB-1619,2025-07-09,Program Supplies,Prog - Volunteer Training,2290.82,
+QB-S50,03/08/2025,Credit Card Expense,Prog - Fundraising,27.92,Ramp sync RMP-700151
+QB-S72,2025-06-17,Credit Card Expense,Prog - Volunteer Training,162.81,Ramp sync RMP-701125
+QB-753,12/03/2025,Salaries & Wages,Prog - Admin,54.38,
+QB-1022,2025-06-10,Rent,Advocacy,149.05,
+QB-900,03/24/2026,Rent,Fundraising,380.34,
+QB-S827,03/10/2026,Credit Card Expense,Prog - Advocacy,10.86,Ramp sync RMP-701676
+QB-S875,04/07/2025,Credit Card Expense,FUNDRAISING,27.06,Ramp sync RMP-700907
+QB-S211,2025-06-25,Credit Card Expense,VOLUNTEER TRAINING,14.22,Ramp sync RMP-700169
+QB-718,2025-01-21,Professional Fees,Prog - Fundraising,1757.32,
+QB-700,02-Nov-2025,Salaries & Wages,Admin,204.9,
+QB-266,2026-01-19,Salaries & Wages,Volunteer Training,3384.64,
+QB-S363,2026-05-01,Credit Card Expense,Fundraising,35.35,Ramp sync RMP-702423
+QB-935,2026-02-08,Program Supplies,Advocacy,554.95,
+QB-615,2026-01-19,Software,Advocacy,76.27,
+QB-S185,10/21/2025,Credit Card Expense,FUNDRAISING,21.26,Ramp sync RMP-702596
+QB-1146,04/02/2025,Program Supplies,Advocacy,341.44,
+QB-78,2025-10-11,Professional Fees,Prog - Admin,2597.9,
+QB-1203,2025-08-24,Software,Admin,694.73,
+QB-654,15-Dec-2025,Professional Fees,Advocacy,1409.93,
+QB-S850,2026-01-12,Credit Card Expense,Admin,45.83,Ramp sync RMP-701301
+QB-S125,11/04/2025,Credit Card Expense,Prog - Advocacy,90.43,Ramp sync RMP-701310
+QB-1697,23-Sep-2025,Software,Prog - Advocacy,1386.36,
+QB-S142,12/12/2025,Credit Card Expense,Advocacy,76.73,Ramp sync RMP-701078
+QB-S232,2025-06-10,Credit Card Expense,ADMIN,32.93,Ramp sync RMP-700337
+QB-1640,2026-05-19,Professional Fees,,1828.26,
+QB-S617,11/11/2025,Credit Card Expense,FUNDRAISING,41.67,Ramp sync RMP-701090
+QB-9,2026-02-15,Program Supplies,Prog - Advocacy,250.75,
+QB-121,08/08/2025,Software,ADMIN,8840.42,
+QB-S557,2026-01-24,Credit Card Expense,Fundraising,41.56,Ramp sync RMP-700265
+QB-S566,02-Apr-2026,Credit Card Expense,Admin,106.0,Ramp sync RMP-701646
+QB-483,2026-02-24,Program Supplies,Admin,133.65,
+QB-1021,12-Mar-2025,Software,Advocacy,2771.99,
+QB-1496,2026-04-02,Salaries & Wages,Advocacy,1358.64,
+QB-511,2025-10-26,Salaries & Wages,Prog - Advocacy,850.85,
+QB-S428,2026-06-03,Credit Card Expense,ADVOCACY,25.16,Ramp sync RMP-700680
+QB-1646,2025-10-16,Rent,Fundraising,263.83,
+QB-1670,2026-04-29,Software,ADVOCACY,107.16,
+QB-S70,03/27/2026,Credit Card Expense,Fundraising,35.35,Ramp sync RMP-701313
+QB-S790,2025-01-06,Credit Card Expense,Prog - Fundraising,51.68,Ramp sync RMP-701855
+QB-S358,10/14/2025,Credit Card Expense,Prog - Fundraising,42.33,Ramp sync RMP-702020
+QB-S852,03/15/2026,Credit Card Expense,Fundraising,70.5,Ramp sync RMP-700157
+QB-51,2025-07-29,Salaries & Wages,Fundraising,760.01,
+QB-1484,2025-10-10,Software,Prog - Volunteer Training,908.59,
+QB-S942,2025-08-18,Credit Card Expense,Fundraising,55.71,Ramp sync RMP-702027
+QB-1747,2026-02-18,Program Supplies,Fundraising,665.68,
+QB-1533,12-May-2025,Salaries & Wages,Advocacy,4773.92,
+QB-S77,01/01/2025,Credit Card Expense,VOLUNTEER TRAINING,118.3,Ramp sync RMP-701001
+QB-937,10/21/2025,Program Supplies,Advocacy,2036.96,
+QB-S766,2025-09-06,Credit Card Expense,Prog - Fundraising,40.03,Ramp sync RMP-701431
+QB-1251,2025-05-21,Rent,Prog - Admin,343.75,
+QB-1576,25-Aug-2025,Insurance,Admin,214.39,
+QB-S1024,07/01/2025,Credit Card Expense,Prog - Advocacy,181.54,Ramp sync RMP-701870
+QB-836,02/01/2026,Rent,Volunteer Training,618.93,
+QB-S1037,06/07/2025,Credit Card Expense,Prog - Fundraising,72.04,Ramp sync RMP-702210
+QB-S177,2026-04-13,Credit Card Expense,Fundraising,42.76,Ramp sync RMP-700615
+QB-S491,2025-11-10,Credit Card Expense,Fundraising,18.96,Ramp sync RMP-701320
+QB-S669,20-Jun-2026,Credit Card Expense,Fundraising,31.21,Ramp sync RMP-700176
+QB-S995,01/02/2026,Credit Card Expense,ADVOCACY,44.74,Ramp sync RMP-701135
+QB-319,2026-02-19,Program Supplies,Advocacy,169.52,
+QB-S170,31-Mar-2026,Credit Card Expense,Prog - Admin,20.38,Ramp sync RMP-701795
+QB-S383,2026-04-14,Credit Card Expense,VOLUNTEER TRAINING,13.51,Ramp sync RMP-700839
+QB-S336,02/20/2026,Credit Card Expense,VOLUNTEER TRAINING,109.19,Ramp sync RMP-701578
+QB-170,13-Apr-2026,Professional Fees,ADVOCACY,499.96,
+QB-S386,03/16/2026,Credit Card Expense,FUNDRAISING,25.22,Ramp sync RMP-700094
+QB-995,02/26/2026,Professional Fees,Volunteer Training,1764.19,
+QB-325,2025-10-20,Salaries & Wages,Advocacy,77.31,
+QB-S866,2025-05-15,Credit Card Expense,Advocacy,12.89,Ramp sync RMP-701363
+QB-797,28-May-2025,Software,ADMIN,459.03,
+QB-139,2026-06-05,Software,Advocacy,52.03,
+QB-939,2025-07-03,Software,ADVOCACY,687.95,
+QB-271,2026-02-20,Professional Fees,ADVOCACY,445.12,
+QB-865,2025-07-07,Software,FUNDRAISING,116.61,
+QB-1171,2026-06-07,Professional Fees,Advocacy,67.08,
+QB-580,2025-10-23,Software,Advocacy,370.13,
+QB-1070,2025-02-09,Rent,Advocacy,1110.19,
+QB-S247,24-Mar-2025,Credit Card Expense,Advocacy,16.79,Ramp sync RMP-701698
+QB-1549,08/05/2025,Software,Fundraising,147.83,
+QB-S772,2025-12-18,Credit Card Expense,Advocacy,34.21,Ramp sync RMP-702302
+QB-866,2026-04-20,Program Supplies,ADVOCACY,434.76,
+QB-447,02/05/2026,Rent,Advocacy,248.31,
+QB-549,2025-03-17,Salaries & Wages,Admin,604.26,
+QB-634,2025-08-04,Professional Fees,ADMIN,105.41,
+QB-805,2025-08-13,Salaries & Wages,ADMIN,146.76,
+QB-1019,10/15/2025,Salaries & Wages,Advocacy,756.71,
+QB-S63,2026-02-14,Credit Card Expense,ADVOCACY,99.4,Ramp sync RMP-701723
+QB-467,03/10/2026,Software,ADMIN,187.51,
+QB-S530,11-Apr-2026,Credit Card Expense,ADVOCACY,150.27,Ramp sync RMP-702449
+QB-1778,09-Apr-2025,Salaries & Wages,Admin,558.5,
+QB-968,2025-10-25,Rent,Volunteer Training,591.35,
+QB-S178,2025-05-13,Credit Card Expense,Fundraising,611.39,Ramp sync RMP-701140
+QB-S388,2025-08-29,Credit Card Expense,Prog - Admin,15.44,Ramp sync RMP-701858
+QB-793,07-Jun-2025,Salaries & Wages,Advocacy,604.04,
+QB-445,2025-04-23,Salaries & Wages,FUNDRAISING,1914.68,
+QB-1710,21-Oct-2025,Program Supplies,Advocacy,183.57,
+QB-387,03/26/2026,Salaries & Wages,Fundraising,40.79,
+QB-S22,02/19/2026,Credit Card Expense,Prog - Advocacy,80.13,Ramp sync RMP-701769
+QB-S175,2026-01-28,Credit Card Expense,Advocacy,83.91,Ramp sync RMP-701264
+QB-1488,2025-11-04,Salaries & Wages,ADMIN,129.86,
+QB-1329,2025-05-20,Salaries & Wages,Prog - Advocacy,3879.66,
+QB-S548,2025-11-02,Credit Card Expense,Volunteer Training,83.92,Ramp sync RMP-702152
+QB-559,2025-05-20,Software,Advocacy,4765.3,
+QB-S996,09/03/2025,Credit Card Expense,Fundraising,9.83,Ramp sync RMP-702159
+QB-3,2025-09-15,Insurance,Admin,638.9,
+QB-497,2026-02-24,Insurance,Admin,1558.69,
+QB-S451,25-Jun-2026,Credit Card Expense,Volunteer Training,89.18,Ramp sync RMP-700713
+QB-S589,03/16/2026,Credit Card Expense,ADVOCACY,74.61,Ramp sync RMP-700566
+QB-83,07/09/2025,Program Supplies,Advocacy,514.81,
+QB-1355,2026-02-07,Salaries & Wages,Volunteer Training,917.72,
+QB-905,12/17/2025,Software,Advocacy,222.74,
+QB-994,07-May-2026,Insurance,Prog - Admin,2687.45,
+QB-649,2025-05-16,Salaries & Wages,Advocacy,247.2,
+QB-1471,05/28/2026,Insurance,Admin,220.35,
+QB-1516,05-Sep-2025,Program Supplies,Fundraising,355.84,
+QB-944,2025-06-11,Rent,Volunteer Training,1497.91,
+QB-572,10-Jul-2025,Program Supplies,FUNDRAISING,448.6,
+QB-S488,05/20/2026,Credit Card Expense,Prog - Fundraising,32.19,Ramp sync RMP-701153
+QB-1795,2025-01-04,Program Supplies,Advocacy,546.67,
+QB-S535,2025-01-14,Credit Card Expense,FUNDRAISING,89.52,Ramp sync RMP-702065
+QB-1128,07-Jun-2026,Insurance,ADMIN,501.02,
+QB-S920,05-Jun-2025,Credit Card Expense,Prog - Advocacy,227.75,Ramp sync RMP-700654
+QB-536,2026-01-03,Salaries & Wages,Prog - Advocacy,1768.74,
+QB-S139,2026-04-12,Credit Card Expense,ADVOCACY,46.69,Ramp sync RMP-700696
+QB-1124,12/15/2025,Program Supplies,ADVOCACY,374.78,
+QB-1517,2025-06-26,Salaries & Wages,Advocacy,888.4,
+QB-1746,2025-09-12,Professional Fees,Fundraising,318.24,
+QB-S632,2025-02-10,Credit Card Expense,ADVOCACY,49.73,Ramp sync RMP-700852
+QB-433,2025-11-11,Professional Fees,ADVOCACY,49.58,
+QB-S43,18-Apr-2026,Credit Card Expense,Advocacy,18.36,Ramp sync RMP-700155
+QB-1371,2025-06-01,Salaries & Wages,Advocacy,191.42,
+QB-S721,2025-04-11,Credit Card Expense,Fundraising,40.78,Ramp sync RMP-702502
+QB-516,05/28/2026,Insurance,Volunteer Training,166.8,
+QB-1509,2025-07-03,Program Supplies,Prog - Volunteer Training,1415.82,
+QB-S124,2025-07-02,Credit Card Expense,Fundraising,17.67,Ramp sync RMP-702148
+QB-S229,2025-12-30,Credit Card Expense,Prog - Admin,83.32,Ramp sync RMP-700904
+QB-532,2025-11-15,Software,Volunteer Training,934.28,
+QB-561,2026-01-08,Program Supplies,Advocacy,488.99,
+QB-S281,08-Jul-2025,Credit Card Expense,FUNDRAISING,52.41,Ramp sync RMP-700734
+QB-22,23-Feb-2025,Salaries & Wages,ADVOCACY,961.94,
+QB-164,2025-01-07,Professional Fees,Advocacy,5294.11,
+QB-1401,2025-11-11,Salaries & Wages,Prog - Volunteer Training,3072.59,
+QB-1585,26-Dec-2025,Salaries & Wages,VOLUNTEER TRAINING,2535.34,
+QB-1766,01/20/2025,Rent,Advocacy,3893.08,
+QB-S10,2026-02-14,Credit Card Expense,VOLUNTEER TRAINING,33.72,Ramp sync RMP-701531
+QB-S427,2026-01-31,Credit Card Expense,ADMIN,22.96,Ramp sync RMP-701881
+QB-S602,02/22/2025,Credit Card Expense,Prog - Advocacy,20.29,Ramp sync RMP-700900
+QB-333,12/23/2025,Professional Fees,Prog - Admin,142.34,
+QB-1405,2025-12-28,Rent,FUNDRAISING,1238.64,
+QB-S317,2025-08-01,Credit Card Expense,Prog - Admin,27.41,Ramp sync RMP-700601
+QB-1038,05/31/2025,Program Supplies,Admin,526.96,
+QB-S48,2025-08-13,Credit Card Expense,Advocacy,107.11,Ramp sync RMP-701007
+QB-151,05/28/2026,Program Supplies,Prog - Advocacy,1120.02,
+QB-514,04/16/2026,Software,Admin,220.19,
+QB-461,29-May-2025,Professional Fees,FUNDRAISING,284.44,
+QB-S985,2026-04-11,Credit Card Expense,Advocacy,86.09,Ramp sync RMP-700806
+QB-1319,2026-05-18,Salaries & Wages,Advocacy,445.94,
+QB-S749,2025-03-09,Credit Card Expense,Prog - Admin,85.85,Ramp sync RMP-701717
+QB-313,21-Dec-2025,Insurance,ADVOCACY,646.99,
+QB-172,2025-01-12,Insurance,Advocacy,424.93,
+QB-S621,2025-08-17,Credit Card Expense,Prog - Admin,28.6,Ramp sync RMP-701273
+QB-903,05/12/2025,Professional Fees,Advocacy,653.11,
+QB-S1019,2026-01-07,Credit Card Expense,ADVOCACY,44.18,Ramp sync RMP-701011
+QB-229,07/05/2025,Salaries & Wages,,132.07,
+QB-S793,05/11/2026,Credit Card Expense,Admin,37.93,Ramp sync RMP-701041
+QB-S455,2025-12-25,Credit Card Expense,Admin,13.4,Ramp sync RMP-701553
+QB-S553,18-Feb-2026,Credit Card Expense,Prog - Admin,136.44,Ramp sync RMP-702025
+QB-542,2025-03-26,Salaries & Wages,Fundraising,124.1,
+QB-768,2025-08-07,Program Supplies,Prog - Admin,330.78,
+QB-1202,2026-03-19,Rent,ADVOCACY,424.91,
+QB-1578,02/02/2026,Program Supplies,FUNDRAISING,346.7,
+QB-80,2025-03-16,Salaries & Wages,Admin,455.77,
+QB-S682,05/16/2025,Credit Card Expense,Fundraising,11.86,Ramp sync RMP-702453
+QB-1674,2025-10-06,Salaries & Wages,Prog - Admin,314.3,
+QB-1706,02/01/2025,Salaries & Wages,Prog - Fundraising,557.78,
+QB-438,2025-07-04,Program Supplies,Admin,287.9,
+QB-157,2025-06-24,Salaries & Wages,Advocacy,70.04,
+QB-479,2025-04-30,Software,VOLUNTEER TRAINING,1019.89,
+QB-S524,2026-04-16,Credit Card Expense,VOLUNTEER TRAINING,25.5,Ramp sync RMP-702425
+QB-S753,2025-11-30,Credit Card Expense,Prog - Advocacy,84.62,Ramp sync RMP-700049
+QB-763,2025-11-20,Program Supplies,Volunteer Training,1044.15,
+QB-1466,2026-05-19,Salaries & Wages,Advocacy,980.37,
+QB-1551,2025-12-26,Rent,Prog - Advocacy,146.36,
+QB-802,2025-10-19,Program Supplies,Prog - Advocacy,89.45,
+QB-S605,2025-02-12,Credit Card Expense,FUNDRAISING,459.2,Ramp sync RMP-700440
+QB-1658,10/07/2025,Rent,Admin,2891.15,
+QB-1234,05-Feb-2025,Professional Fees,ADVOCACY,287.44,
+QB-S339,2026-02-09,Credit Card Expense,Advocacy,19.19,Ramp sync RMP-702173
+QB-960,2025-01-03,Insurance,Advocacy,257.77,
+QB-S960,2025-08-01,Credit Card Expense,Fundraising,232.05,Ramp sync RMP-702197
+QB-722,03/13/2025,Salaries & Wages,Advocacy,3215.95,
+QB-1201,11/06/2025,Software,Prog - Advocacy,449.96,
+QB-197,2025-01-11,Professional Fees,Advocacy,72.19,
+QB-548,03/23/2026,Salaries & Wages,Admin,672.27,
+QB-S528,2025-09-01,Credit Card Expense,Volunteer Training,77.7,Ramp sync RMP-700917
+QB-S580,2025-07-06,Credit Card Expense,Admin,86.33,Ramp sync RMP-701368
+QB-1743,2025-05-31,Professional Fees,Prog - Volunteer Training,936.04,
+QB-1560,03/19/2025,Salaries & Wages,Volunteer Training,1288.15,
+QB-S279,08/03/2025,Credit Card Expense,Fundraising,16.77,Ramp sync RMP-700700
+QB-1669,11/11/2025,Professional Fees,Volunteer Training,2521.02,
+QB-641,2025-08-07,Professional Fees,Prog - Fundraising,141.27,
+QB-S707,2026-03-18,Credit Card Expense,ADVOCACY,61.51,Ramp sync RMP-702413
+QB-S952,09/09/2025,Credit Card Expense,ADVOCACY,306.27,Ramp sync RMP-701905
+QB-S101,09/05/2025,Credit Card Expense,Admin,30.66,Ramp sync RMP-702201
+QB-S74,2025-04-06,Credit Card Expense,Prog - Advocacy,45.44,Ramp sync RMP-700370
+QB-341,04/14/2026,Insurance,Prog - Advocacy,542.21,
+QB-1652,2025-01-11,Software,Advocacy,849.57,
+QB-324,2025-02-18,Rent,Advocacy,315.47,
+QB-482,2025-04-02,Salaries & Wages,Admin,685.85,
+QB-S345,10/20/2025,Credit Card Expense,Admin,7.06,Ramp sync RMP-700067
+QB-723,2025-12-18,Software,Prog - Admin,1839.86,
+QB-257,2026-02-20,Program Supplies,Advocacy,654.98,
+QB-397,04/21/2026,Salaries & Wages,Admin,2154.12,
+QB-965,2026-04-25,Salaries & Wages,Fundraising,109.51,
+QB-S250,04-Mar-2026,Credit Card Expense,Fundraising,24.47,Ramp sync RMP-702441
+QB-498,06/23/2026,Salaries & Wages,Volunteer Training,751.48,
+QB-1728,2025-08-29,Professional Fees,Prog - Admin,577.47,
+QB-1455,2025-09-09,Professional Fees,ADMIN,360.54,
+QB-699,01/10/2026,Salaries & Wages,ADVOCACY,60.89,
+QB-S641,2026-01-01,Credit Card Expense,ADVOCACY,60.2,Ramp sync RMP-701649
+QB-1647,10/12/2025,Salaries & Wages,Admin,172.58,
+QB-300,2026-02-12,Professional Fees,ADVOCACY,226.08,
+QB-30,2026-01-07,Professional Fees,Prog - Fundraising,258.15,
+QB-276,2026-04-28,Software,Advocacy,344.21,
+QB-S587,2025-11-09,Credit Card Expense,Admin,37.62,Ramp sync RMP-701549
+QB-358,01/28/2025,Professional Fees,Prog - Fundraising,470.5,
+QB-1074,2026-01-18,Program Supplies,Admin,283.41,
+QB-706,2025-04-13,Program Supplies,ADVOCACY,265.7,
+QB-52,09/16/2025,Salaries & Wages,Admin,1508.64,
+QB-1742,2025-05-29,Salaries & Wages,Admin,656.96,
+QB-S437,2025-11-27,Credit Card Expense,FUNDRAISING,160.9,Ramp sync RMP-700980
+QB-441,2026-01-28,Program Supplies,Prog - Admin,271.11,
+QB-1664,2025-06-27,Software,Fundraising,3474.29,
+QB-S472,2026-04-27,Credit Card Expense,Fundraising,15.97,Ramp sync RMP-700867
+QB-S44,06/11/2026,Credit Card Expense,ADVOCACY,134.03,Ramp sync RMP-701000
+QB-1064,2026-01-24,Salaries & Wages,ADMIN,614.2,
+QB-1491,23-May-2026,Program Supplies,Admin,1684.5,
+QB-1116,03/17/2026,Salaries & Wages,ADVOCACY,333.44,
+QB-1435,2025-10-31,Software,FUNDRAISING,350.42,
+QB-1702,11/29/2025,Program Supplies,Advocacy,181.86,
+QB-S758,2026-06-01,Credit Card Expense,VOLUNTEER TRAINING,24.17,Ramp sync RMP-701663
+QB-S441,2025-04-17,Credit Card Expense,Prog - Admin,20.13,Ramp sync RMP-701317
+QB-S326,17-Apr-2026,Credit Card Expense,Prog - Admin,55.57,Ramp sync RMP-701912
+QB-S1007,2025-04-25,Credit Card Expense,Fundraising,58.43,Ramp sync RMP-701300
+QB-1044,01/29/2025,Salaries & Wages,Advocacy,75.2,
+QB-S31,12-Jan-2026,Credit Card Expense,ADVOCACY,33.2,Ramp sync RMP-702353
+QB-1176,2026-03-28,Professional Fees,Prog - Volunteer Training,82.51,
+QB-S696,19-Nov-2025,Credit Card Expense,Fundraising,10.29,Ramp sync RMP-700419
+QB-749,2026-04-11,Salaries & Wages,Advocacy,830.94,
+QB-322,2025-10-04,Software,Advocacy,283.35,
+QB-S0,2026-04-18,Credit Card Expense,FUNDRAISING,205.24,Ramp sync RMP-700840
+QB-S354,2025-09-03,Credit Card Expense,Admin,16.67,Ramp sync RMP-700394
+QB-S442,2026-02-15,Credit Card Expense,ADVOCACY,136.12,Ramp sync RMP-701357
+QB-41,17-Aug-2025,Program Supplies,Prog - Volunteer Training,587.65,
+QB-1039,2026-06-03,Program Supplies,Prog - Advocacy,3972.26,
+QB-S848,01/06/2025,Credit Card Expense,Advocacy,144.79,Ramp sync RMP-702296
+QB-S671,2025-03-16,Credit Card Expense,Prog - Fundraising,59.48,Ramp sync RMP-701814
+QB-S81,2025-06-15,Credit Card Expense,Admin,119.44,Ramp sync RMP-702308
+QB-1131,2025-12-17,Program Supplies,Prog - Advocacy,284.57,
+QB-1164,2026-06-25,Salaries & Wages,Advocacy,343.66,
+QB-S930,2026-02-20,Credit Card Expense,Advocacy,25.46,Ramp sync RMP-702371
+QB-999,06/20/2026,Program Supplies,Prog - Advocacy,388.36,
+QB-1304,2026-01-07,Salaries & Wages,VOLUNTEER TRAINING,1582.34,
+QB-1519,2025-01-13,Salaries & Wages,Admin,937.41,
+QB-1197,14-Oct-2025,Salaries & Wages,Admin,749.78,
+QB-1208,14-Feb-2026,Salaries & Wages,Advocacy,264.34,
+QB-S607,2026-01-05,Credit Card Expense,Volunteer Training,98.5,Ramp sync RMP-700837
+QB-954,2026-02-19,Salaries & Wages,Prog - Advocacy,1026.09,
+QB-1574,2026-04-09,Insurance,Fundraising,1408.29,
+QB-439,05/14/2025,Software,VOLUNTEER TRAINING,863.94,
+QB-1784,02/04/2026,Professional Fees,Fundraising,829.24,
+QB-1075,2026-05-13,Salaries & Wages,Advocacy,186.04,
+QB-S839,2025-04-05,Credit Card Expense,Fundraising,77.2,Ramp sync RMP-701285
+QB-425,26-Feb-2026,Rent,Prog - Advocacy,61.58,
+QB-894,2026-06-11,Insurance,Admin,467.41,
+QB-S410,2025-12-04,Credit Card Expense,Fundraising,41.54,Ramp sync RMP-702347
+QB-S807,2025-05-17,Credit Card Expense,Advocacy,36.66,Ramp sync RMP-701710
+QB-1792,04/19/2026,Salaries & Wages,Advocacy,2435.5,
+QB-S728,2025-02-17,Credit Card Expense,Prog - Volunteer Training,95.94,Ramp sync RMP-701056
+QB-S190,12/24/2025,Credit Card Expense,Prog - Advocacy,13.26,Ramp sync RMP-700463
+QB-224,05/20/2026,Professional Fees,Prog - Admin,273.68,
+QB-S967,01/01/2025,Credit Card Expense,Prog - Fundraising,159.79,Ramp sync RMP-701183
+QB-1733,2026-01-09,Salaries & Wages,Prog - Admin,177.31,
+QB-294,01/11/2026,Rent,Volunteer Training,1567.2,
+QB-1649,08/14/2025,Program Supplies,ADMIN,440.5,
+QB-538,25-May-2026,Software,Advocacy,397.43,
+QB-1346,2026-05-17,Software,Volunteer Training,404.6,
+QB-76,2025-09-24,Salaries & Wages,Fundraising,252.19,
+QB-116,2025-10-19,Rent,Prog - Volunteer Training,2397.79,
+QB-1054,09/27/2025,Software,Prog - Advocacy,691.32,
+QB-S816,06/12/2025,Credit Card Expense,Fundraising,11.6,Ramp sync RMP-700389
+QB-1380,14-Mar-2025,Salaries & Wages,,238.5,
+QB-977,2025-04-14,Program Supplies,Admin,1392.11,
+QB-S884,05/30/2026,Credit Card Expense,Fundraising,64.23,Ramp sync RMP-700741
+QB-647,2025-12-29,Program Supplies,Prog - Volunteer Training,270.65,
+QB-S171,2025-10-22,Credit Card Expense,ADMIN,24.29,Ramp sync RMP-702412
+QB-672,06/19/2025,Professional Fees,Advocacy,243.38,
+QB-420,06/19/2025,Salaries & Wages,Prog - Fundraising,30.06,
+QB-S614,03-Mar-2026,Credit Card Expense,Admin,43.97,Ramp sync RMP-700210
+QB-1223,05/12/2026,Salaries & Wages,Advocacy,1008.31,
+QB-S560,2025-06-27,Credit Card Expense,Advocacy,19.28,Ramp sync RMP-701537
+QB-S145,04/04/2025,Credit Card Expense,ADMIN,8.64,Ramp sync RMP-702504
+QB-122,2025-10-27,Salaries & Wages,Fundraising,258.48,
+QB-496,2025-09-13,Insurance,Prog - Fundraising,533.73,
+QB-525,05/24/2025,Salaries & Wages,Volunteer Training,211.31,
+QB-136,2025-11-04,Professional Fees,Prog - Advocacy,634.18,
+QB-S897,17-Sep-2025,Credit Card Expense,Fundraising,64.94,Ramp sync RMP-701502
+QB-1165,2025-10-20,Salaries & Wages,Admin,1118.54,
+QB-S99,08-Mar-2025,Credit Card Expense,ADVOCACY,37.54,Ramp sync RMP-702274
+QB-S522,04/10/2026,Credit Card Expense,Volunteer Training,5.53,Ramp sync RMP-701910
+QB-S902,2025-05-30,Credit Card Expense,Fundraising,11.33,Ramp sync RMP-700032
+QB-546,04-Sep-2025,Rent,Advocacy,540.86,
+QB-1130,06-Sep-2025,Software,Prog - Advocacy,57.95,
+QB-1609,2025-06-11,Professional Fees,Volunteer Training,592.57,
+QB-S219,2025-11-10,Credit Card Expense,Fundraising,33.0,Ramp sync RMP-700158
+QB-236,02-Mar-2026,Insurance,Fundraising,806.39,
+QB-S879,2025-10-30,Credit Card Expense,Prog - Volunteer Training,70.75,Ramp sync RMP-700109
+QB-S823,2025-07-12,Credit Card Expense,Admin,92.66,Ramp sync RMP-700568
+QB-688,2025-11-26,Rent,VOLUNTEER TRAINING,497.68,
+QB-1108,2026-05-29,Software,Advocacy,1525.09,
+QB-S562,04/08/2026,Credit Card Expense,Admin,9.67,Ramp sync RMP-702110
+QB-238,2025-12-08,Salaries & Wages,Advocacy,352.44,
+QB-1129,09/07/2025,Program Supplies,ADVOCACY,922.82,
+QB-374,01/05/2026,Insurance,FUNDRAISING,1718.2,
+QB-1030,2025-07-29,Program Supplies,Volunteer Training,636.05,
+QB-S568,2026-06-16,Credit Card Expense,Fundraising,18.5,Ramp sync RMP-701824
+QB-S162,2025-01-22,Credit Card Expense,Advocacy,34.18,Ramp sync RMP-700486
+QB-S868,2026-04-22,Credit Card Expense,VOLUNTEER TRAINING,44.05,Ramp sync RMP-700918
+QB-1250,2026-02-07,Program Supplies,Prog - Advocacy,325.51,
+QB-972,2026-02-14,Software,Prog - Fundraising,5561.21,
+QB-859,01/21/2025,Program Supplies,Prog - Advocacy,104.72,
+QB-1421,2026-06-22,Salaries & Wages,Advocacy,527.85,
+QB-812,11-Apr-2025,Professional Fees,ADVOCACY,98.06,
+QB-789,18-Jan-2026,Program Supplies,ADVOCACY,3.62,
+QB-1461,10/03/2025,Salaries & Wages,Prog - Advocacy,970.69,
+QB-419,2026-05-03,Salaries & Wages,Volunteer Training,427.47,
+QB-1220,2025-07-10,Professional Fees,Advocacy,870.84,
+QB-S169,2026-02-15,Credit Card Expense,Advocacy,47.46,Ramp sync RMP-701541
+QB-858,09/30/2025,Program Supplies,Advocacy,735.64,
+QB-843,2025-12-12,Salaries & Wages,Fundraising,1149.89,
+QB-1544,03/14/2025,Insurance,Advocacy,1822.07,
+QB-1402,2025-05-06,Professional Fees,Advocacy,1775.49,
+QB-S719,06/25/2026,Credit Card Expense,ADVOCACY,2.7,Ramp sync RMP-701204
+QB-S979,2025-03-30,Credit Card Expense,Fundraising,91.1,Ramp sync RMP-702070
+QB-1626,2025-02-12,Salaries & Wages,Prog - Advocacy,746.35,
+QB-S975,2025-12-23,Credit Card Expense,Prog - Advocacy,11.0,Ramp sync RMP-700018
+QB-940,2025-07-31,Insurance,Prog - Admin,231.05,
+QB-S16,2025-04-23,Credit Card Expense,VOLUNTEER TRAINING,10.71,Ramp sync RMP-701388
+QB-82,29-Dec-2025,Professional Fees,VOLUNTEER TRAINING,8102.44,
+QB-S767,2026-01-07,Credit Card Expense,Advocacy,20.63,Ramp sync RMP-701128
+QB-S210,2025-03-03,Credit Card Expense,VOLUNTEER TRAINING,186.57,Ramp sync RMP-700130
+QB-1311,2025-11-04,Salaries & Wages,Prog - Advocacy,4417.18,
+QB-1359,2026-03-26,Insurance,ADVOCACY,148.66,
+QB-1007,10/27/2025,Program Supplies,Volunteer Training,466.44,
+QB-416,2026-01-10,Salaries & Wages,Advocacy,466.78,
+QB-1321,02/10/2025,Salaries & Wages,Admin,146.99,
+QB-1016,18-Oct-2025,Professional Fees,ADVOCACY,151.18,
+QB-1273,06-May-2025,Program Supplies,Volunteer Training,104.7,
+QB-S501,11/07/2025,Credit Card Expense,Prog - Advocacy,99.13,Ramp sync RMP-701673
+QB-S620,01/27/2025,Credit Card Expense,Prog - Advocacy,64.94,Ramp sync RMP-700239
+QB-S676,2025-07-29,Credit Card Expense,Advocacy,32.96,Ramp sync RMP-701226
+QB-S115,2026-02-23,Credit Card Expense,Advocacy,96.39,Ramp sync RMP-701960
+QB-919,2025-10-25,Software,Admin,566.97,
+QB-1535,2025-01-14,Insurance,Admin,4606.14,
+QB-S301,2025-04-20,Credit Card Expense,Fundraising,41.65,Ramp sync RMP-702151
+QB-240,2026-01-13,Insurance,Fundraising,101.51,
+QB-S786,2025-08-30,Credit Card Expense,Prog - Advocacy,49.26,Ramp sync RMP-701908
+QB-S674,11/09/2025,Credit Card Expense,Admin,24.76,Ramp sync RMP-702357
+QB-S585,2025-10-17,Credit Card Expense,FUNDRAISING,175.49,Ramp sync RMP-701942
+QB-1259,2025-06-21,Salaries & Wages,Prog - Admin,2851.29,
+QB-1689,2026-03-04,Program Supplies,Advocacy,44.19,
+QB-399,02/20/2026,Salaries & Wages,Prog - Fundraising,1086.4,
+QB-S601,19-Aug-2025,Credit Card Expense,Fundraising,4.28,Ramp sync RMP-701552
+QB-1465,2026-02-06,Rent,Prog - Volunteer Training,426.54,
+QB-S33,11/11/2025,Credit Card Expense,ADVOCACY,41.3,Ramp sync RMP-700374
+QB-554,11/01/2025,Professional Fees,Fundraising,3692.68,
+QB-1700,20-Jan-2025,Professional Fees,Advocacy,184.61,
+QB-1083,2025-10-04,Salaries & Wages,Fundraising,1324.16,
+QB-198,04-Aug-2025,Professional Fees,Advocacy,103.98,
+QB-S730,06-Nov-2025,Credit Card Expense,VOLUNTEER TRAINING,102.4,Ramp sync RMP-700832
+QB-215,05-May-2025,Insurance,ADMIN,498.69,
+QB-748,07/29/2025,Program Supplies,Volunteer Training,1410.75,
+QB-S887,06/09/2026,Credit Card Expense,Volunteer Training,94.73,Ramp sync RMP-700299
+QB-S243,2025-04-27,Credit Card Expense,Fundraising,4.77,Ramp sync RMP-700833
+QB-1606,06/28/2026,Software,Admin,607.71,
+QB-759,2025-09-24,Insurance,Prog - Advocacy,1682.44,
+QB-987,29-Jan-2026,Software,Advocacy,385.31,
+QB-S760,2025-01-23,Credit Card Expense,Advocacy,98.76,Ramp sync RMP-701142
+QB-S811,2026-06-14,Credit Card Expense,ADMIN,50.13,Ramp sync RMP-701455
+QB-S939,2026-02-14,Credit Card Expense,Admin,32.72,Ramp sync RMP-700077
+QB-S714,08-Jun-2026,Credit Card Expense,Fundraising,19.61,Ramp sync RMP-702207
+QB-S1031,2026-06-11,Credit Card Expense,Fundraising,202.88,Ramp sync RMP-701018
+QB-S734,2026-06-19,Credit Card Expense,Advocacy,74.17,Ramp sync RMP-702367
+QB-S803,23-Mar-2025,Credit Card Expense,FUNDRAISING,84.15,Ramp sync RMP-700346
+QB-88,08/02/2025,Salaries & Wages,VOLUNTEER TRAINING,808.87,
+QB-910,2025-04-15,Rent,Fundraising,545.06,
+QB-782,2025-01-22,Program Supplies,Fundraising,1213.0,
+QB-1373,2026-02-19,Salaries & Wages,Admin,1466.71,
+QB-1537,19-Apr-2026,Salaries & Wages,ADMIN,1655.47,
+QB-S215,06/12/2026,Credit Card Expense,Volunteer Training,36.51,Ramp sync RMP-700261
+QB-1140,2025-09-16,Salaries & Wages,Advocacy,122.88,
+QB-250,04/17/2025,Rent,VOLUNTEER TRAINING,234.16,
+QB-585,09/15/2025,Software,Admin,1793.49,
+QB-S574,04-Jun-2025,Credit Card Expense,Prog - Fundraising,28.28,Ramp sync RMP-701411
+QB-S735,2025-05-19,Credit Card Expense,Advocacy,13.79,Ramp sync RMP-701237
+QB-1477,2026-06-03,Insurance,Prog - Advocacy,127.8,
+QB-1759,2026-05-02,Software,Prog - Admin,608.15,
+QB-S736,16-Oct-2025,Credit Card Expense,Advocacy,53.64,Ramp sync RMP-700877
+QB-1410,2026-05-07,Salaries & Wages,Admin,241.98,
+QB-S11,2025-06-24,Credit Card Expense,Prog - Advocacy,197.79,Ramp sync RMP-700640
+QB-1078,2025-10-15,Software,Admin,281.38,
+QB-1086,04/24/2025,Software,,479.98,
+QB-1034,2025-02-02,Salaries & Wages,Volunteer Training,131.53,
+QB-293,2026-01-30,Program Supplies,Advocacy,503.9,
+QB-504,10/09/2025,Salaries & Wages,Volunteer Training,73.27,
+QB-S390,08-Jun-2026,Credit Card Expense,VOLUNTEER TRAINING,21.93,Ramp sync RMP-702199
+QB-434,2026-06-23,Program Supplies,Advocacy,5592.87,
+QB-443,02/19/2026,Program Supplies,Fundraising,2438.76,
+QB-1069,02-Feb-2025,Salaries & Wages,FUNDRAISING,406.7,
+QB-S770,05/09/2026,Credit Card Expense,Prog - Volunteer Training,48.55,Ramp sync RMP-700152
+QB-526,27-Jan-2025,Salaries & Wages,Advocacy,216.44,
+QB-206,2025-10-20,Program Supplies,Admin,154.72,
+QB-1439,07/21/2025,Rent,Admin,863.65,
+QB-53,2025-10-13,Salaries & Wages,Prog - Admin,48.22,
+QB-S60,2026-03-09,Credit Card Expense,Prog - Advocacy,8.71,Ramp sync RMP-701526
+QB-682,2026-04-27,Program Supplies,Admin,4314.0,
+QB-1332,2025-07-20,Program Supplies,ADMIN,289.22,
+QB-S715,2026-02-16,Credit Card Expense,Admin,47.34,Ramp sync RMP-700961
+QB-141,2026-04-30,Program Supplies,,613.76,
+QB-508,2025-07-18,Professional Fees,Advocacy,503.05,
+QB-1015,2025-03-13,Software,Volunteer Training,561.08,
+QB-1262,2026-05-04,Software,ADVOCACY,549.88,
+QB-S448,2025-09-23,Credit Card Expense,ADVOCACY,41.17,Ramp sync RMP-701427
+QB-S746,2025-08-07,Credit Card Expense,Fundraising,6.82,Ramp sync RMP-700655
+QB-S305,2025-03-28,Credit Card Expense,Admin,20.91,Ramp sync RMP-702298
+QB-S639,09-Sep-2025,Credit Card Expense,Fundraising,11.18,Ramp sync RMP-700080
+QB-1221,26-Jan-2026,Insurance,ADVOCACY,1799.88,
+QB-884,2025-07-23,Program Supplies,Advocacy,155.88,
+QB-138,2026-03-17,Professional Fees,Advocacy,440.68,
+QB-933,03/21/2025,Program Supplies,ADVOCACY,369.93,
+QB-S340,2026-06-03,Credit Card Expense,Advocacy,110.55,Ramp sync RMP-700733
+QB-712,03/20/2026,Professional Fees,Advocacy,52.78,
+QB-135,04/21/2026,Program Supplies,Prog - Advocacy,251.85,
+QB-S499,2025-01-14,Credit Card Expense,Fundraising,35.34,Ramp sync RMP-702541
+QB-757,2025-04-09,Salaries & Wages,,104.36,
+QB-1282,31-Mar-2026,Software,Admin,1451.07,
+QB-1555,2026-06-01,Professional Fees,Prog - Fundraising,8523.77,
+QB-687,23-Jun-2025,Program Supplies,Prog - Fundraising,508.45,
+QB-156,03-Feb-2026,Professional Fees,Admin,3584.61,
+QB-S818,2025-07-31,Credit Card Expense,Volunteer Training,171.93,Ramp sync RMP-701918
+QB-S155,2025-06-03,Credit Card Expense,ADVOCACY,19.31,Ramp sync RMP-702040
+QB-S534,2026-06-14,Credit Card Expense,Advocacy,55.86,Ramp sync RMP-701103
+QB-1666,2026-03-13,Salaries & Wages,Advocacy,457.75,
+QB-978,2025-05-10,Professional Fees,Advocacy,2877.8,
+QB-1326,2025-05-08,Program Supplies,FUNDRAISING,6941.58,
+QB-1138,2025-03-21,Professional Fees,ADMIN,978.35,
+QB-1508,2026-02-18,Salaries & Wages,ADVOCACY,644.36,
+QB-S509,2026-03-24,Credit Card Expense,Fundraising,77.54,Ramp sync RMP-701322
+QB-1453,2026-05-31,Program Supplies,ADMIN,316.32,
+QB-386,29-Apr-2025,Rent,Admin,2099.35,
+QB-S838,04/17/2026,Credit Card Expense,Prog - Advocacy,118.31,Ramp sync RMP-701592
+QB-S313,11/10/2025,Credit Card Expense,ADVOCACY,18.05,Ramp sync RMP-701850
+QB-S297,24-Aug-2025,Credit Card Expense,VOLUNTEER TRAINING,33.91,Ramp sync RMP-700186
+QB-292,06/04/2025,Program Supplies,ADMIN,158.12,
+QB-246,28-Dec-2025,Salaries & Wages,Admin,822.19,
+QB-S193,04/02/2025,Credit Card Expense,Fundraising,43.88,Ramp sync RMP-700114
+QB-S260,07-May-2025,Credit Card Expense,ADVOCACY,67.57,Ramp sync RMP-700850
+QB-597,12-Feb-2026,Insurance,Advocacy,429.18,
+QB-S484,2025-04-03,Credit Card Expense,Fundraising,10.29,Ramp sync RMP-700560
+QB-716,06/17/2026,Rent,ADVOCACY,1051.8,
+QB-S257,2025-08-01,Credit Card Expense,Advocacy,35.6,Ramp sync RMP-701207
+QB-408,2026-05-15,Professional Fees,Prog - Fundraising,1419.63,
+QB-1100,2026-02-08,Salaries & Wages,ADVOCACY,526.35,
+QB-S262,2025-12-23,Credit Card Expense,VOLUNTEER TRAINING,67.37,Ramp sync RMP-701683
+QB-S290,2026-01-17,Credit Card Expense,Fundraising,62.63,Ramp sync RMP-700686
+QB-S732,01/30/2026,Credit Card Expense,Prog - Advocacy,13.68,Ramp sync RMP-701593
+QB-S711,2025-05-26,Credit Card Expense,Fundraising,32.63,Ramp sync RMP-701048
+QB-1729,17-Aug-2025,Professional Fees,Prog - Advocacy,3537.15,
+QB-1045,17-Dec-2025,Salaries & Wages,Advocacy,788.72,
+QB-S961,2026-02-26,Credit Card Expense,Prog - Volunteer Training,96.47,Ramp sync RMP-702341
+QB-1718,09/28/2025,Salaries & Wages,ADMIN,607.23,
+QB-S256,2025-04-17,Credit Card Expense,Prog - Admin,6.97,Ramp sync RMP-701995
+QB-S692,06/01/2026,Credit Card Expense,VOLUNTEER TRAINING,26.48,Ramp sync RMP-700664
+QB-868,15-Mar-2025,Salaries & Wages,Advocacy,204.06,
+QB-192,2026-04-02,Insurance,VOLUNTEER TRAINING,484.29,
+QB-S819,2025-02-01,Credit Card Expense,Advocacy,20.97,Ramp sync RMP-700064
+QB-S993,2025-06-25,Credit Card Expense,Prog - Volunteer Training,154.54,Ramp sync RMP-700014
+QB-444,2026-02-07,Salaries & Wages,Advocacy,1113.83,
+QB-S223,19-Nov-2025,Credit Card Expense,Advocacy,13.59,Ramp sync RMP-700798
+QB-1730,2026-03-28,Software,Admin,327.79,
+QB-487,2025-08-16,Software,ADVOCACY,307.56,
+QB-S743,04/05/2026,Credit Card Expense,Prog - Volunteer Training,44.87,Ramp sync RMP-700719
+QB-569,2025-01-10,Software,Volunteer Training,581.35,
+QB-1245,2026-05-30,Insurance,Prog - Advocacy,258.7,
+QB-49,06/18/2025,Software,Fundraising,1441.14,
+QB-622,04/10/2026,Program Supplies,Prog - Advocacy,97.65,
+QB-S88,03/02/2026,Credit Card Expense,ADVOCACY,76.59,Ramp sync RMP-702019
+QB-119,2025-11-01,Salaries & Wages,FUNDRAISING,694.83,
+QB-1193,03/13/2025,Salaries & Wages,Admin,971.09,
+QB-S1033,2025-02-21,Credit Card Expense,Prog - Volunteer Training,13.45,Ramp sync RMP-701027
+QB-S47,10-Mar-2025,Credit Card Expense,Volunteer Training,81.29,Ramp sync RMP-701179
+QB-430,2025-11-05,Professional Fees,Volunteer Training,894.04,
+QB-1335,2025-05-12,Program Supplies,Advocacy,258.8,
+QB-259,2026-01-18,Salaries & Wages,VOLUNTEER TRAINING,195.46,
+QB-S700,06/27/2025,Credit Card Expense,Fundraising,31.44,Ramp sync RMP-700940
+QB-702,2025-02-13,Salaries & Wages,Volunteer Training,218.85,
+QB-911,01/06/2026,Program Supplies,ADVOCACY,129.33,
+QB-S686,2026-01-06,Credit Card Expense,Admin,84.47,Ramp sync RMP-702098
+QB-S742,2025-10-30,Credit Card Expense,Fundraising,48.55,Ramp sync RMP-700780
+QB-602,2026-02-14,Professional Fees,VOLUNTEER TRAINING,321.87,
+QB-652,2026-06-19,Salaries & Wages,Prog - Volunteer Training,148.66,
+QB-S55,2025-02-04,Credit Card Expense,Admin,41.45,Ramp sync RMP-702097
+QB-971,2026-04-17,Salaries & Wages,Fundraising,717.56,
+QB-1663,2025-10-31,Insurance,Advocacy,1355.0,
+QB-1275,09/02/2025,Professional Fees,Volunteer Training,3551.51,
+QB-1782,04/29/2026,Salaries & Wages,Prog - Fundraising,1536.73,
+QB-1571,2025-09-12,Rent,Admin,1033.39,
+QB-635,2025-09-12,Salaries & Wages,Advocacy,48.77,
+QB-931,12/16/2025,Salaries & Wages,Advocacy,2649.18,
+QB-S71,07-Apr-2026,Credit Card Expense,Prog - Fundraising,24.11,Ramp sync RMP-702141
+QB-1087,2025-06-06,Program Supplies,Volunteer Training,796.9,
+QB-S798,2025-04-11,Credit Card Expense,Admin,43.79,Ramp sync RMP-701182
+QB-S331,2025-09-01,Credit Card Expense,Admin,46.87,Ramp sync RMP-701857
+QB-664,2026-04-03,Program Supplies,Advocacy,56.22,
+QB-1317,2026-04-04,Salaries & Wages,Volunteer Training,320.97,
+QB-457,2026-02-10,Rent,Prog - Admin,226.09,
+QB-S713,2025-01-27,Credit Card Expense,Fundraising,26.04,Ramp sync RMP-702063
+QB-357,2026-03-26,Rent,Volunteer Training,251.43,
+QB-254,2025-05-26,Rent,Admin,55.75,
+QB-S409,2025-12-09,Credit Card Expense,Prog - Advocacy,17.7,Ramp sync RMP-700282
+QB-S703,2025-06-25,Credit Card Expense,Prog - Fundraising,33.29,Ramp sync RMP-700387
+QB-S144,13-Mar-2025,Credit Card Expense,Prog - Fundraising,24.18,Ramp sync RMP-701807
+QB-1655,01/03/2025,Software,ADMIN,217.23,
+QB-S221,28-Jun-2025,Credit Card Expense,ADMIN,43.07,Ramp sync RMP-702165
+QB-S267,2025-05-27,Credit Card Expense,Prog - Fundraising,141.88,Ramp sync RMP-701920
+QB-S75,2025-12-27,Credit Card Expense,ADVOCACY,18.28,Ramp sync RMP-702085
+QB-185,14-Aug-2025,Program Supplies,Fundraising,46.94,
+QB-S234,13-May-2026,Credit Card Expense,Advocacy,30.27,Ramp sync RMP-702072
+QB-167,2026-01-14,Software,Advocacy,403.66,
+QB-1447,2026-04-11,Salaries & Wages,ADVOCACY,738.2,
+QB-S466,2026-06-24,Credit Card Expense,VOLUNTEER TRAINING,88.09,Ramp sync RMP-700084
+QB-584,2025-12-30,Program Supplies,Advocacy,401.22,
+QB-1345,06/15/2025,Insurance,Advocacy,1506.38,
+QB-S216,2026-03-25,Credit Card Expense,ADVOCACY,111.1,Ramp sync RMP-702575
+QB-100,07/16/2025,Insurance,VOLUNTEER TRAINING,94.02,
+QB-S332,2026-04-22,Credit Card Expense,Admin,20.92,Ramp sync RMP-700092
+QB-1184,2026-03-24,Program Supplies,Fundraising,610.77,
+QB-1744,23-Jun-2025,Software,Admin,613.32,
+QB-1066,2025-11-05,Software,Prog - Fundraising,2345.23,
+QB-1716,2025-07-13,Salaries & Wages,Prog - Advocacy,680.71,
+QB-S563,03/11/2025,Credit Card Expense,Fundraising,60.55,Ramp sync RMP-700652
+QB-578,07/09/2025,Program Supplies,Prog - Admin,1167.33,
+QB-547,2025-05-21,Program Supplies,ADVOCACY,73.27,
+QB-S751,24-Jun-2025,Credit Card Expense,Advocacy,27.75,Ramp sync RMP-701332
+QB-878,11/04/2025,Professional Fees,ADMIN,816.16,
+QB-1639,18-Apr-2025,Professional Fees,VOLUNTEER TRAINING,6228.84,
+QB-S164,14-Sep-2025,Credit Card Expense,Prog - Fundraising,38.26,Ramp sync RMP-702479
+QB-726,11/21/2025,Professional Fees,Admin,558.35,
+QB-1614,27-Apr-2026,Salaries & Wages,Admin,1951.5,
+QB-1623,2025-10-09,Salaries & Wages,ADVOCACY,91.38,
+QB-568,03/07/2026,Salaries & Wages,Advocacy,911.87,
+QB-S57,01/20/2026,Credit Card Expense,Fundraising,16.87,Ramp sync RMP-701438
+QB-1261,07-Mar-2026,Software,Advocacy,3922.48,
+QB-535,2025-04-29,Professional Fees,ADVOCACY,424.84,
+QB-770,04/09/2026,Program Supplies,Prog - Advocacy,643.37,
+QB-943,27-Jun-2026,Salaries & Wages,ADVOCACY,581.55,
+QB-S675,2026-03-20,Credit Card Expense,VOLUNTEER TRAINING,27.94,Ramp sync RMP-700580
+QB-S511,2025-11-10,Credit Card Expense,Fundraising,91.07,Ramp sync RMP-700102
+QB-673,09/22/2025,Salaries & Wages,Admin,1172.14,
+QB-S174,2025-08-04,Credit Card Expense,Fundraising,51.72,Ramp sync RMP-701465
+QB-S112,02/18/2026,Credit Card Expense,Advocacy,60.11,Ramp sync RMP-701984
+QB-1190,2025-06-30,Insurance,Prog - Advocacy,904.47,
+QB-1774,2025-05-21,Software,Admin,556.69,
+QB-1524,02/03/2025,Software,Admin,2601.25,
+QB-S565,2026-06-13,Credit Card Expense,Advocacy,22.42,Ramp sync RMP-700264
+QB-S18,2025-12-08,Credit Card Expense,ADVOCACY,12.01,Ramp sync RMP-700481
+QB-S541,2025-02-18,Credit Card Expense,Prog - Advocacy,19.05,Ramp sync RMP-700629
+QB-1543,06/28/2026,Insurance,Advocacy,483.72,
+QB-993,2025-02-14,Salaries & Wages,Advocacy,274.02,
+QB-S197,2026-04-10,Credit Card Expense,Advocacy,51.79,Ramp sync RMP-701902
+QB-713,2026-04-24,Salaries & Wages,ADVOCACY,853.93,
+QB-1793,2025-10-27,Program Supplies,Prog - Admin,1611.03,
+QB-S431,2025-04-01,Credit Card Expense,Advocacy,60.65,Ramp sync RMP-700783
+QB-S964,03/06/2025,Credit Card Expense,Prog - Advocacy,17.18,Ramp sync RMP-701536
+QB-834,2025-02-06,Software,Advocacy,253.09,
+QB-S834,2025-11-28,Credit Card Expense,Admin,36.61,Ramp sync RMP-700722
+QB-472,2026-05-25,Insurance,Fundraising,2603.93,
+QB-S936,2025-03-01,Credit Card Expense,Prog - Fundraising,36.88,Ramp sync RMP-700443
+QB-1662,05/07/2025,Salaries & Wages,Advocacy,1203.56,
+QB-639,2026-04-15,Salaries & Wages,Volunteer Training,284.78,
+QB-1596,2025-06-27,Salaries & Wages,Prog - Volunteer Training,4241.17,
+QB-S2,03/08/2026,Credit Card Expense,VOLUNTEER TRAINING,20.01,Ramp sync RMP-702387
+QB-1403,2025-01-07,Rent,Prog - Advocacy,275.21,
+QB-1293,08-Feb-2026,Program Supplies,Prog - Advocacy,69.23,
+QB-S432,03-Mar-2025,Credit Card Expense,Advocacy,121.7,Ramp sync RMP-700809
+QB-309,01/24/2025,Salaries & Wages,FUNDRAISING,3917.52,
+QB-S446,2026-04-25,Credit Card Expense,FUNDRAISING,176.25,Ramp sync RMP-700341
+QB-1694,02/28/2026,Salaries & Wages,Advocacy,1332.59,
+QB-S677,2026-02-04,Credit Card Expense,Prog - Advocacy,248.14,Ramp sync RMP-700880
+QB-S830,2025-04-18,Credit Card Expense,VOLUNTEER TRAINING,99.97,Ramp sync RMP-701832
+QB-S68,10/28/2025,Credit Card Expense,Advocacy,46.33,Ramp sync RMP-702395
+QB-389,07/08/2025,Software,Advocacy,683.87,
+QB-S346,2025-04-30,Credit Card Expense,Prog - Advocacy,184.13,Ramp sync RMP-701146
+QB-S407,2025-02-13,Credit Card Expense,Volunteer Training,10.64,Ramp sync RMP-702142
+QB-1071,2025-09-17,Salaries & Wages,Admin,2267.08,
+QB-1633,10/22/2025,Salaries & Wages,Fundraising,106.82,
+QB-S950,2025-06-29,Credit Card Expense,Admin,9.93,Ramp sync RMP-701702
+QB-790,2026-06-02,Insurance,Advocacy,217.48,
+QB-166,11/28/2025,Salaries & Wages,Prog - Admin,507.55,
+QB-S636,2025-06-29,Credit Card Expense,FUNDRAISING,13.17,Ramp sync RMP-701487
+QB-S737,09/16/2025,Credit Card Expense,Advocacy,38.08,Ramp sync RMP-701962
+QB-610,2026-06-11,Program Supplies,Prog - Admin,37.45,
+QB-623,04/25/2026,Rent,Advocacy,195.23,
+QB-S649,2025-05-13,Credit Card Expense,Fundraising,20.13,Ramp sync RMP-701442
+QB-1375,2026-01-21,Software,ADVOCACY,672.21,
+QB-S873,13-Mar-2025,Credit Card Expense,VOLUNTEER TRAINING,21.39,Ramp sync RMP-701796
+QB-S200,06/05/2026,Credit Card Expense,FUNDRAISING,169.28,Ramp sync RMP-700329
+QB-1334,12/27/2025,Software,Fundraising,2769.17,
+QB-1480,2026-04-15,Salaries & Wages,Volunteer Training,4095.25,
+QB-1089,2025-08-17,Insurance,Prog - Advocacy,214.67,
+QB-S859,12/27/2025,Credit Card Expense,ADVOCACY,28.9,Ramp sync RMP-702431
+QB-1612,17-Jan-2026,Software,ADMIN,161.73,
+QB-S820,2025-02-11,Credit Card Expense,Fundraising,54.19,Ramp sync RMP-701947
+QB-S119,2025-06-09,Credit Card Expense,Prog - Admin,28.85,Ramp sync RMP-700048
+QB-272,2025-03-12,Salaries & Wages,Advocacy,1116.84,
+QB-1414,2025-11-16,Software,ADMIN,1020.25,
+QB-200,2025-08-13,Salaries & Wages,,208.53,
+QB-1052,02/15/2025,Rent,Advocacy,92.63,
+QB-714,2026-05-09,Salaries & Wages,Advocacy,162.07,
+QB-1188,2026-05-30,Program Supplies,ADMIN,480.43,
+QB-1023,2025-05-07,Professional Fees,Admin,171.22,
+QB-S98,03/28/2026,Credit Card Expense,Prog - Admin,42.5,Ramp sync RMP-700345
+QB-1121,26-Nov-2025,Software,Admin,2106.72,
+QB-1479,2025-06-08,Program Supplies,Prog - Admin,67.76,
+QB-S1038,09/15/2025,Credit Card Expense,Prog - Fundraising,23.17,Ramp sync RMP-700110
+QB-1154,07/13/2025,Program Supplies,Prog - Advocacy,409.27,
+QB-402,06/09/2025,Software,ADVOCACY,55.79,
+QB-S658,2026-03-19,Credit Card Expense,Volunteer Training,50.07,Ramp sync RMP-702272
+QB-1391,2025-01-20,Professional Fees,Prog - Advocacy,219.84,
+QB-1120,2026-02-01,Software,Admin,205.16,
+QB-1513,14-Aug-2025,Professional Fees,Prog - Fundraising,751.22,
+QB-S26,2025-09-23,Credit Card Expense,Fundraising,236.0,Ramp sync RMP-700933
+QB-1327,2026-06-15,Salaries & Wages,Prog - Volunteer Training,289.25,
+QB-1687,2025-05-16,Salaries & Wages,Prog - Advocacy,155.91,
+QB-S684,11/01/2025,Credit Card Expense,ADMIN,91.22,Ramp sync RMP-701924
+QB-S475,2026-02-20,Credit Card Expense,Prog - Fundraising,50.09,Ramp sync RMP-701806
+QB-S909,15-Apr-2025,Credit Card Expense,Advocacy,32.52,Ramp sync RMP-701477
+QB-S768,2025-07-04,Credit Card Expense,ADVOCACY,24.82,Ramp sync RMP-702375
+QB-1134,2025-03-24,Program Supplies,Prog - Admin,2674.21,
+QB-1751,2026-03-02,Rent,Advocacy,2196.49,
+QB-S269,2025-08-06,Credit Card Expense,ADVOCACY,133.88,Ramp sync RMP-702049
+QB-1368,2026-02-18,Program Supplies,Fundraising,138.09,
+QB-1584,03/16/2025,Professional Fees,Advocacy,1406.41,
+QB-1096,2025-10-09,Program Supplies,Volunteer Training,445.73,
+QB-1415,2025-08-13,Software,VOLUNTEER TRAINING,377.25,
+QB-1473,2025-10-22,Salaries & Wages,ADVOCACY,534.82,
+QB-1239,2026-01-27,Salaries & Wages,Advocacy,666.66,
+QB-388,2026-03-17,Program Supplies,Prog - Admin,146.91,
+QB-S867,09-Oct-2025,Credit Card Expense,FUNDRAISING,162.54,Ramp sync RMP-701336
+QB-1721,2026-03-26,Software,,81.17,
+QB-105,06-Feb-2026,Program Supplies,Prog - Advocacy,572.29,
+QB-522,2026-02-23,Salaries & Wages,Prog - Volunteer Training,1479.43,
+QB-S64,2025-09-05,Credit Card Expense,Advocacy,60.55,Ramp sync RMP-701951
+QB-1672,2025-01-17,Salaries & Wages,Prog - Admin,387.27,
+QB-91,11-Nov-2025,Salaries & Wages,Advocacy,167.66,
+QB-1634,2026-04-20,Software,Prog - Advocacy,614.86,
+QB-740,2026-05-09,Rent,Advocacy,2696.79,
+QB-771,2025-11-01,Program Supplies,Prog - Advocacy,705.8,
+QB-626,2025-09-04,Professional Fees,Prog - Volunteer Training,4722.17,
+QB-1367,2025-11-25,Insurance,Prog - Advocacy,1714.28,
+QB-1267,17-Feb-2025,Software,Advocacy,3802.82,
+QB-S404,04/19/2025,Credit Card Expense,ADMIN,30.43,Ramp sync RMP-702539
+QB-1341,06/17/2025,Salaries & Wages,Admin,772.83,
+QB-S771,2025-01-18,Credit Card Expense,Admin,47.93,Ramp sync RMP-700539
+QB-967,2025-01-21,Salaries & Wages,Prog - Admin,2170.82,
+QB-466,04/15/2026,Software,Admin,823.95,
+QB-1562,2026-06-16,Salaries & Wages,Prog - Admin,1290.71,
+QB-826,05-Jan-2026,Program Supplies,Fundraising,1406.19,
+QB-0,2025-02-04,Salaries & Wages,Fundraising,155.62,
+QB-86,2025-03-11,Salaries & Wages,ADMIN,1163.09,
+QB-S505,2025-09-04,Credit Card Expense,FUNDRAISING,251.71,Ramp sync RMP-702531
+QB-S870,2026-06-17,Credit Card Expense,FUNDRAISING,13.02,Ramp sync RMP-701091
+QB-849,2026-02-24,Software,Advocacy,429.39,
+QB-1306,2026-05-25,Salaries & Wages,Fundraising,1135.96,
+QB-S479,2025-09-30,Credit Card Expense,ADVOCACY,78.88,Ramp sync RMP-701810
+QB-1481,01-Jan-2026,Salaries & Wages,Prog - Advocacy,339.67,
+QB-462,2025-07-04,Program Supplies,VOLUNTEER TRAINING,486.78,
+QB-S108,2026-06-02,Credit Card Expense,Admin,83.37,Ramp sync RMP-700257
+QB-422,2025-10-17,Software,Prog - Volunteer Training,20.61,
+QB-128,08/06/2025,Salaries & Wages,Advocacy,675.41,
+QB-S306,2025-03-14,Credit Card Expense,Advocacy,241.4,Ramp sync RMP-701878
+QB-407,2025-12-15,Insurance,Advocacy,465.86,
+QB-1446,2025-01-30,Professional Fees,Advocacy,1710.31,
+QB-S544,2025-07-21,Credit Card Expense,Admin,28.51,Ramp sync RMP-700063
+QB-S1010,2026-04-23,Credit Card Expense,Volunteer Training,8.03,Ramp sync RMP-701872
+QB-1424,05/03/2025,Salaries & Wages,ADVOCACY,91.04,
+QB-1490,09-May-2026,Rent,,1459.81,
+QB-S946,06/26/2026,Credit Card Expense,Advocacy,216.44,Ramp sync RMP-700111
+QB-478,10/04/2025,Salaries & Wages,ADVOCACY,1905.38,
+QB-S241,2025-08-21,Credit Card Expense,Prog - Advocacy,22.22,Ramp sync RMP-700557
+QB-503,10/30/2025,Salaries & Wages,FUNDRAISING,292.69,
+QB-S355,2025-07-31,Credit Card Expense,Volunteer Training,44.12,Ramp sync RMP-701781
+QB-765,2025-07-20,Salaries & Wages,ADVOCACY,24.86,
+QB-377,12/23/2025,Rent,FUNDRAISING,2369.89,
+QB-70,2025-10-25,Software,Prog - Advocacy,1093.66,
+QB-1105,2026-05-24,Salaries & Wages,Advocacy,307.08,
+QB-S157,2025-11-14,Credit Card Expense,Prog - Advocacy,46.73,Ramp sync RMP-701186
+QB-S678,03/26/2026,Credit Card Expense,Prog - Fundraising,4.04,Ramp sync RMP-702584
+QB-S95,04/27/2025,Credit Card Expense,Fundraising,43.0,Ramp sync RMP-700358
+QB-390,10/12/2025,Program Supplies,Volunteer Training,317.19,
+QB-S581,2025-09-05,Credit Card Expense,FUNDRAISING,26.06,Ramp sync RMP-701760
+QB-1677,2026-06-30,Software,VOLUNTEER TRAINING,774.96,
+QB-1459,23-Jun-2026,Salaries & Wages,Volunteer Training,1711.76,
+QB-S122,2025-06-21,Credit Card Expense,VOLUNTEER TRAINING,45.14,Ramp sync RMP-701389
+QB-S402,2025-09-03,Credit Card Expense,Volunteer Training,71.94,Ramp sync RMP-700248
+QB-154,01/20/2026,Software,Prog - Volunteer Training,634.45,
+QB-S844,2026-05-04,Credit Card Expense,Prog - Fundraising,77.43,Ramp sync RMP-701933
+QB-600,10/12/2025,Salaries & Wages,Fundraising,63.54,
+QB-1483,2025-08-17,Professional Fees,Prog - Advocacy,360.95,
+QB-S840,03/02/2025,Credit Card Expense,Prog - Volunteer Training,37.84,Ramp sync RMP-700135
+QB-S384,2025-06-01,Credit Card Expense,ADVOCACY,31.98,Ramp sync RMP-701774
+QB-1512,2025-02-22,Salaries & Wages,Volunteer Training,194.03,
+QB-50,03/22/2025,Program Supplies,Prog - Volunteer Training,1701.87,
+QB-S236,04-Aug-2025,Credit Card Expense,Admin,44.76,Ramp sync RMP-700162
+QB-1618,10-Apr-2026,Professional Fees,ADMIN,347.42,
+QB-S831,15-May-2025,Credit Card Expense,VOLUNTEER TRAINING,26.62,Ramp sync RMP-700439
+QB-S489,06/06/2026,Credit Card Expense,Advocacy,132.11,Ramp sync RMP-701787
+QB-1113,2025-09-10,Software,Fundraising,274.57,
+QB-98,2025-04-20,Software,,98.18,
+QB-727,04/05/2026,Rent,Advocacy,259.59,
+QB-451,2025-11-11,Program Supplies,ADVOCACY,354.25,
+QB-1168,02-Jul-2025,Software,Fundraising,429.78,
+QB-583,07/12/2025,Salaries & Wages,ADVOCACY,529.24,
+QB-1107,2025-04-06,Program Supplies,Advocacy,90.84,
+QB-S207,2026-03-08,Credit Card Expense,Prog - Fundraising,228.59,Ramp sync RMP-700589
+QB-405,2026-05-13,Professional Fees,Volunteer Training,316.04,
+QB-956,2025-04-22,Salaries & Wages,Prog - Advocacy,228.59,
+QB-694,2026-05-07,Professional Fees,Admin,406.57,
+QB-61,2026-04-27,Salaries & Wages,ADMIN,570.84,
+QB-1170,2026-06-18,Rent,ADVOCACY,182.52,
+QB-400,2025-09-08,Software,VOLUNTEER TRAINING,802.02,
+QB-162,31-Mar-2026,Insurance,Prog - Fundraising,1113.11,
+QB-1785,05/21/2026,Professional Fees,Prog - Fundraising,399.18,
+QB-59,11-Jul-2025,Salaries & Wages,,515.71,
+QB-S554,04/16/2025,Credit Card Expense,Prog - Admin,30.69,Ramp sync RMP-701350
+QB-1027,05/05/2026,Salaries & Wages,Advocacy,188.73,
+QB-316,10/06/2025,Salaries & Wages,Prog - Advocacy,233.64,
+QB-S777,2025-11-04,Credit Card Expense,Fundraising,706.29,Ramp sync RMP-701452
+QB-676,02/09/2026,Program Supplies,Volunteer Training,301.98,
+QB-1354,2025-11-04,Salaries & Wages,Advocacy,548.09,
+QB-651,2025-11-14,Rent,ADVOCACY,224.06,
+QB-S367,2025-09-14,Credit Card Expense,ADVOCACY,7.48,Ramp sync RMP-700401
+QB-1698,2025-01-20,Insurance,ADMIN,649.42,
+QB-S458,2026-06-02,Credit Card Expense,ADVOCACY,28.28,Ramp sync RMP-700790
+QB-509,2026-01-10,Software,Admin,1436.77,
+QB-523,2025-08-15,Salaries & Wages,ADMIN,2621.84,
+QB-S808,06/27/2026,Credit Card Expense,Prog - Advocacy,32.34,Ramp sync RMP-701891
+QB-S514,2026-05-02,Credit Card Expense,FUNDRAISING,65.27,Ramp sync RMP-701005
+QB-570,2026-02-02,Rent,Prog - Admin,183.92,
+QB-540,2025-03-27,Salaries & Wages,Advocacy,254.85,
+QB-129,04/10/2026,Rent,Advocacy,172.05,
+QB-S527,2026-06-10,Credit Card Expense,Volunteer Training,10.3,Ramp sync RMP-701647
+QB-S329,2026-05-31,Credit Card Expense,Fundraising,46.02,Ramp sync RMP-700512
+QB-1460,03/11/2026,Salaries & Wages,Prog - Advocacy,54.16,
+QB-888,15-Nov-2025,Insurance,ADMIN,1633.67,
+QB-14,05/15/2025,Insurance,Volunteer Training,390.12,
+QB-S426,25-Dec-2025,Credit Card Expense,Prog - Fundraising,45.92,Ramp sync RMP-702242
+QB-620,2025-04-12,Software,VOLUNTEER TRAINING,185.74,
+QB-S49,03/08/2026,Credit Card Expense,Admin,65.22,Ramp sync RMP-701736
+QB-1701,2025-10-06,Software,ADVOCACY,29.89,
+QB-1550,30-Apr-2026,Salaries & Wages,FUNDRAISING,328.72,
+QB-1603,2025-05-21,Salaries & Wages,Admin,505.95,
+QB-111,2026-03-01,Salaries & Wages,Volunteer Training,1585.99,
+QB-677,2026-04-25,Program Supplies,Admin,352.92,
+QB-1135,2026-06-25,Software,,245.32,
+QB-468,01/29/2025,Salaries & Wages,Admin,187.35,
+QB-S462,2026-06-06,Credit Card Expense,Prog - Fundraising,77.88,Ramp sync RMP-700786
+QB-S188,2025-05-29,Credit Card Expense,ADVOCACY,124.03,Ramp sync RMP-700398
+QB-S709,2025-12-08,Credit Card Expense,Advocacy,74.27,Ramp sync RMP-701055
+QB-327,2026-03-20,Salaries & Wages,Admin,1394.12,
+QB-160,2025-04-12,Salaries & Wages,Prog - Advocacy,327.69,
+QB-S1030,02/03/2025,Credit Card Expense,Advocacy,49.19,Ramp sync RMP-702092
+QB-1482,2025-01-01,Salaries & Wages,Prog - Volunteer Training,190.29,
+QB-26,2025-04-22,Salaries & Wages,Prog - Advocacy,5360.75,
+QB-S907,2026-06-12,Credit Card Expense,VOLUNTEER TRAINING,14.41,Ramp sync RMP-700298
+QB-1577,2026-04-17,Program Supplies,Prog - Fundraising,452.3,
+QB-1720,02/28/2025,Salaries & Wages,ADVOCACY,353.92,
+QB-1635,17-Apr-2026,Insurance,Prog - Volunteer Training,1303.45,
+QB-S430,2025-08-08,Credit Card Expense,Prog - Fundraising,25.66,Ramp sync RMP-702312
+QB-S273,01/30/2026,Credit Card Expense,Volunteer Training,53.19,Ramp sync RMP-701323
+QB-S523,01/08/2025,Credit Card Expense,Prog - Volunteer Training,58.45,Ramp sync RMP-701191
+QB-S192,2025-06-08,Credit Card Expense,ADVOCACY,110.89,Ramp sync RMP-700987
+QB-901,2025-09-30,Program Supplies,Advocacy,1380.51,
+QB-1073,2025-08-13,Program Supplies,FUNDRAISING,434.23,
+QB-885,05/18/2025,Professional Fees,Fundraising,1432.51,
+QB-1463,04/05/2025,Salaries & Wages,Volunteer Training,587.65,
+QB-S286,2025-08-13,Credit Card Expense,VOLUNTEER TRAINING,175.13,Ramp sync RMP-700421
+QB-848,2025-09-29,Salaries & Wages,Volunteer Training,1369.42,
+QB-S729,04/29/2025,Credit Card Expense,Advocacy,224.65,Ramp sync RMP-700643
+QB-15,2025-11-11,Program Supplies,ADMIN,175.9,
+QB-586,2026-05-26,Insurance,Advocacy,1692.96,
+QB-S717,07/27/2025,Credit Card Expense,Prog - Advocacy,102.56,Ramp sync RMP-700581
+QB-S303,2025-01-30,Credit Card Expense,Advocacy,77.44,Ramp sync RMP-701265
+QB-S630,08/28/2025,Credit Card Expense,Advocacy,288.67,Ramp sync RMP-700901
+QB-465,2025-08-08,Salaries & Wages,VOLUNTEER TRAINING,1175.66,
+QB-S591,13-Feb-2025,Credit Card Expense,ADVOCACY,6.05,Ramp sync RMP-700692
+QB-1233,04/23/2025,Salaries & Wages,Volunteer Training,216.84,
+QB-1336,06/26/2025,Program Supplies,Advocacy,187.94,
+QB-S935,2025-11-21,Credit Card Expense,Fundraising,24.23,Ramp sync RMP-701725
+QB-S314,2025-03-04,Credit Card Expense,Prog - Advocacy,9.96,Ramp sync RMP-700402
+QB-1229,22-Apr-2025,Program Supplies,Advocacy,1042.97,
+QB-S586,04/20/2026,Credit Card Expense,ADVOCACY,59.43,Ramp sync RMP-700263
+QB-S228,26-Jan-2026,Credit Card Expense,Advocacy,147.06,Ramp sync RMP-702569
+QB-S89,2025-08-07,Credit Card Expense,Prog - Volunteer Training,19.86,Ramp sync RMP-702270
+QB-1505,2025-08-05,Insurance,Prog - Volunteer Training,355.61,
+QB-289,04/10/2025,Salaries & Wages,Fundraising,161.41,
+QB-S681,2026-05-12,Credit Card Expense,Prog - Advocacy,35.64,Ramp sync RMP-702122
+QB-S396,2025-06-24,Credit Card Expense,Prog - Admin,33.39,Ramp sync RMP-701360
+QB-852,08/19/2025,Salaries & Wages,,1205.34,
+QB-1502,19-Nov-2025,Professional Fees,ADVOCACY,731.0,
+QB-1325,2025-02-22,Program Supplies,Fundraising,348.5,
+QB-S166,22-Jun-2026,Credit Card Expense,Fundraising,8.06,Ramp sync RMP-700267
+QB-686,2026-01-18,Salaries & Wages,ADVOCACY,1548.37,
+QB-227,09/08/2025,Program Supplies,ADVOCACY,299.62,
+QB-S397,2026-01-21,Credit Card Expense,ADVOCACY,11.92,Ramp sync RMP-702452
+QB-975,2025-03-23,Program Supplies,Advocacy,100.11,
+QB-1125,2025-12-31,Professional Fees,Advocacy,614.87,
+QB-S1036,20-Oct-2025,Credit Card Expense,Prog - Advocacy,143.24,Ramp sync RMP-700060
+QB-S23,2026-01-13,Credit Card Expense,Advocacy,19.03,Ramp sync RMP-701426
+QB-1310,2026-06-16,Program Supplies,Admin,2016.83,
+QB-587,2025-08-19,Salaries & Wages,Fundraising,1006.91,
+QB-488,2026-04-18,Professional Fees,Prog - Advocacy,817.38,
+QB-659,2025-11-26,Insurance,Prog - Advocacy,1211.82,
+QB-1433,2025-09-03,Insurance,ADVOCACY,2749.31,
+QB-1047,2026-05-07,Salaries & Wages,FUNDRAISING,800.67,
+QB-1386,2026-05-06,Professional Fees,Prog - Advocacy,1791.46,
+QB-113,03/15/2025,Program Supplies,ADVOCACY,1883.79,
+QB-S168,2026-01-14,Credit Card Expense,ADVOCACY,19.25,Ramp sync RMP-700762
+QB-S594,2026-04-13,Credit Card Expense,Prog - Fundraising,122.02,Ramp sync RMP-700468
+QB-S556,06/24/2025,Credit Card Expense,ADMIN,25.83,Ramp sync RMP-700670
+QB-S1002,2026-05-14,Credit Card Expense,Prog - Volunteer Training,216.49,Ramp sync RMP-700409
+QB-265,11/17/2025,Program Supplies,Advocacy,196.52,
+QB-1498,19-Sep-2025,Salaries & Wages,ADVOCACY,1420.67,
+QB-S1015,2026-06-12,Credit Card Expense,ADVOCACY,104.69,Ramp sync RMP-701550
+QB-320,03/04/2026,Salaries & Wages,Volunteer Training,1318.23,
+QB-1389,2026-03-23,Salaries & Wages,Fundraising,4328.62,
+QB-1691,08-Feb-2026,Salaries & Wages,VOLUNTEER TRAINING,471.03,
+QB-S874,2026-01-24,Credit Card Expense,ADVOCACY,41.06,Ramp sync RMP-701709
+QB-560,2025-04-10,Salaries & Wages,Fundraising,591.47,
+QB-S97,2025-10-19,Credit Card Expense,Volunteer Training,262.54,Ramp sync RMP-700015
+QB-S208,11-Oct-2025,Credit Card Expense,Volunteer Training,18.22,Ramp sync RMP-700441
+QB-851,25-Jun-2025,Program Supplies,ADVOCACY,718.78,
+QB-63,09/10/2025,Software,Prog - Admin,710.67,
+QB-889,2025-09-04,Professional Fees,Admin,413.94,
+QB-144,2026-04-06,Insurance,ADVOCACY,1132.88,
+QB-S467,2025-04-28,Credit Card Expense,Fundraising,16.61,Ramp sync RMP-701311
+QB-S949,06/21/2026,Credit Card Expense,Advocacy,90.36,Ramp sync RMP-702048
+QB-58,03/23/2026,Salaries & Wages,Prog - Advocacy,237.0,
+QB-S865,02/25/2025,Credit Card Expense,Prog - Advocacy,42.7,Ramp sync RMP-702180
+QB-2,2026-05-07,Program Supplies,,640.57,
+QB-208,2025-07-28,Program Supplies,Prog - Admin,202.67,
+QB-938,2026-05-09,Rent,Advocacy,597.25,
+QB-251,2026-06-24,Professional Fees,Volunteer Training,109.41,
+QB-391,2025-04-14,Program Supplies,Advocacy,453.85,
+QB-1299,07/19/2025,Insurance,ADVOCACY,1009.84,
+QB-1372,2026-06-22,Software,Admin,416.13,
+QB-1735,11/02/2025,Salaries & Wages,ADMIN,408.89,
+QB-541,27-Dec-2025,Rent,ADMIN,1257.09,
+QB-959,2025-11-29,Salaries & Wages,ADVOCACY,375.75,
+QB-1222,03/15/2026,Salaries & Wages,Prog - Advocacy,3403.43,
+QB-S265,06-Jan-2025,Credit Card Expense,ADVOCACY,116.79,Ramp sync RMP-701803
+QB-S876,08/01/2025,Credit Card Expense,Advocacy,90.79,Ramp sync RMP-701491
+QB-S51,2025-02-24,Credit Card Expense,ADVOCACY,109.19,Ramp sync RMP-701656
+QB-575,31-Aug-2025,Professional Fees,Prog - Advocacy,2301.34,
+QB-S529,11/27/2025,Credit Card Expense,ADVOCACY,11.96,Ramp sync RMP-702382
+QB-1280,2025-09-12,Professional Fees,Advocacy,422.79,
+QB-1660,08/26/2025,Software,Prog - Advocacy,444.01,
+QB-1383,2025-08-24,Rent,Volunteer Training,1063.21,
+QB-187,09-Aug-2025,Software,Prog - Admin,2478.76,
+QB-207,2025-03-25,Program Supplies,,699.61,
+QB-S413,2026-01-05,Credit Card Expense,Fundraising,43.55,Ramp sync RMP-700300
+QB-S158,17-Aug-2025,Credit Card Expense,Prog - Advocacy,68.42,Ramp sync RMP-701013
+QB-1312,01/21/2025,Salaries & Wages,Advocacy,208.81,
+QB-927,04/03/2026,Program Supplies,Admin,140.3,
+QB-S494,09/10/2025,Credit Card Expense,Volunteer Training,23.8,Ramp sync RMP-700108
+QB-269,07-Mar-2025,Program Supplies,Fundraising,474.57,
+QB-S244,2025-12-16,Credit Card Expense,Fundraising,23.05,Ramp sync RMP-702231
+QB-1514,11/15/2025,Software,ADVOCACY,5831.16,
+QB-288,2025-08-06,Professional Fees,ADMIN,1808.4,
+QB-1621,06/07/2026,Rent,FUNDRAISING,488.71,
+QB-830,10/19/2025,Salaries & Wages,ADMIN,265.71,
+QB-1536,2026-03-11,Salaries & Wages,ADMIN,213.58,
+QB-S642,09/28/2025,Credit Card Expense,Volunteer Training,62.41,Ramp sync RMP-700433
+QB-297,2026-02-15,Salaries & Wages,Prog - Advocacy,3580.49,
+QB-1043,01-Nov-2025,Professional Fees,VOLUNTEER TRAINING,696.28,
+QB-310,2025-01-12,Salaries & Wages,Admin,954.43,
+QB-1291,05/16/2026,Salaries & Wages,Prog - Volunteer Training,210.92,
+QB-S539,07-Jan-2025,Credit Card Expense,Fundraising,28.93,Ramp sync RMP-700755
+QB-918,2025-01-12,Program Supplies,Volunteer Training,427.03,
+QB-644,2025-07-08,Rent,Prog - Advocacy,2036.74,
+QB-S480,04/25/2026,Credit Card Expense,ADMIN,140.28,Ramp sync RMP-700197
+QB-189,02/22/2026,Software,ADMIN,48.59,
+QB-710,07-Jan-2025,Insurance,Admin,1591.33,
+QB-S100,20-Mar-2025,Credit Card Expense,Prog - Advocacy,42.95,Ramp sync RMP-700488
+QB-1271,2026-04-22,Salaries & Wages,Advocacy,3012.72,
+QB-S253,27-Oct-2025,Credit Card Expense,Prog - Fundraising,144.75,Ramp sync RMP-701331
+QB-1587,2026-02-10,Salaries & Wages,Prog - Volunteer Training,2802.32,
+QB-1714,06/16/2025,Salaries & Wages,Prog - Volunteer Training,2171.24,
+QB-S821,2026-06-15,Credit Card Expense,Fundraising,46.0,Ramp sync RMP-701714
+QB-925,2025-07-28,Insurance,ADVOCACY,1082.24,
+QB-1169,2026-01-02,Salaries & Wages,ADMIN,2436.77,
+QB-1495,2026-04-25,Professional Fees,Admin,1825.09,
+QB-1228,2025-12-26,Program Supplies,Advocacy,329.04,
+QB-515,16-Feb-2026,Software,Prog - Advocacy,143.57,
+QB-1384,07-Apr-2025,Program Supplies,Prog - Fundraising,1125.67,
+QB-1340,15-Nov-2025,Salaries & Wages,Volunteer Training,206.27,
+QB-432,2025-04-16,Salaries & Wages,Volunteer Training,96.02,
+QB-453,2025-12-23,Rent,ADVOCACY,1934.77,
+QB-S610,22-Jan-2026,Credit Card Expense,Admin,74.84,Ramp sync RMP-700782
+QB-1230,2025-10-30,Salaries & Wages,FUNDRAISING,933.72,
+QB-S1020,28-Jan-2025,Credit Card Expense,VOLUNTEER TRAINING,73.02,Ramp sync RMP-701200
+QB-127,2025-06-05,Salaries & Wages,Advocacy,753.4,
+QB-S809,27-May-2025,Credit Card Expense,Prog - Fundraising,38.75,Ramp sync RMP-701308
+QB-1575,2026-05-14,Insurance,Admin,477.28,
+QB-209,2025-02-27,Insurance,ADMIN,252.92,
+QB-314,03/11/2025,Insurance,Volunteer Training,204.7,
+QB-S579,2026-05-09,Credit Card Expense,Advocacy,9.58,Ramp sync RMP-700753
+QB-656,2025-05-20,Salaries & Wages,Prog - Fundraising,1996.34,
+QB-552,2026-04-11,Program Supplies,Prog - Volunteer Training,616.84,
+QB-S129,2026-01-15,Credit Card Expense,Prog - Fundraising,48.44,Ramp sync RMP-701083
+QB-S652,2025-04-27,Credit Card Expense,ADMIN,63.89,Ramp sync RMP-700037
+QB-S220,2025-12-22,Credit Card Expense,Volunteer Training,7.26,Ramp sync RMP-701088
+QB-368,20-Dec-2025,Salaries & Wages,Prog - Fundraising,1305.24,
+QB-1225,05-Apr-2025,Insurance,ADMIN,119.94,
+QB-902,05/22/2026,Software,Advocacy,270.81,
+QB-1412,01/12/2026,Salaries & Wages,ADVOCACY,482.29,
+QB-117,2025-06-26,Insurance,Admin,720.83,
+QB-S741,18-Apr-2026,Credit Card Expense,Volunteer Training,65.87,Ramp sync RMP-702535
+QB-1294,2025-01-08,Rent,Advocacy,1910.15,
+QB-S572,02/20/2026,Credit Card Expense,FUNDRAISING,80.0,Ramp sync RMP-702570
+QB-S804,02/05/2026,Credit Card Expense,FUNDRAISING,17.17,Ramp sync RMP-702060
+QB-S248,03/23/2025,Credit Card Expense,Advocacy,183.01,Ramp sync RMP-701868
+QB-S978,2025-06-02,Credit Card Expense,Fundraising,50.68,Ramp sync RMP-700208
+QB-S126,2025-08-19,Credit Card Expense,ADVOCACY,65.73,Ramp sync RMP-700606
+QB-55,2026-04-14,Salaries & Wages,Advocacy,16.63,
+QB-655,02/28/2025,Salaries & Wages,Advocacy,500.28,
+QB-1127,05/22/2026,Salaries & Wages,Prog - Volunteer Training,134.82,
+QB-S984,26-Apr-2025,Credit Card Expense,Admin,26.22,Ramp sync RMP-701369
+QB-455,2025-12-31,Salaries & Wages,Advocacy,2088.3,
+QB-595,03/09/2026,Program Supplies,Advocacy,223.02,
+QB-875,10/07/2025,Program Supplies,Admin,9185.53,
+QB-S567,05/20/2026,Credit Card Expense,Fundraising,116.53,Ramp sync RMP-701617
+QB-1580,2025-10-25,Salaries & Wages,Prog - Advocacy,262.77,
+QB-1458,02/15/2025,Insurance,Fundraising,139.75,
+QB-S266,04/13/2025,Credit Card Expense,ADMIN,9.74,Ramp sync RMP-702477
+QB-1210,2026-03-05,Salaries & Wages,ADVOCACY,256.99,
+QB-350,26-Mar-2025,Salaries & Wages,Admin,133.35,
+QB-1527,13-Aug-2025,Program Supplies,Advocacy,1173.92,
+QB-S152,2026-05-17,Credit Card Expense,Prog - Volunteer Training,26.42,Ramp sync RMP-700882
+QB-46,03/24/2026,Program Supplies,Prog - Advocacy,133.56,
+QB-S416,2026-02-15,Credit Card Expense,Prog - Admin,24.26,Ramp sync RMP-700793
+QB-674,2025-07-18,Salaries & Wages,ADMIN,908.34,
+QB-S34,2025-09-27,Credit Card Expense,FUNDRAISING,12.3,Ramp sync RMP-702352
+QB-340,2025-01-04,Program Supplies,Admin,34.05,
+QB-S231,01/12/2025,Credit Card Expense,Prog - Fundraising,22.39,Ramp sync RMP-700325
+QB-S469,2025-08-04,Credit Card Expense,VOLUNTEER TRAINING,129.52,Ramp sync RMP-700437
+QB-645,2025-09-04,Software,Admin,2057.54,
+QB-436,2026-01-13,Program Supplies,ADVOCACY,299.83,
+QB-S1009,2026-02-16,Credit Card Expense,Prog - Admin,102.12,Ramp sync RMP-701745
+QB-627,2025-03-29,Salaries & Wages,ADVOCACY,115.94,
+QB-S914,06/12/2025,Credit Card Expense,ADVOCACY,13.86,Ramp sync RMP-700466
+QB-1530,08/09/2025,Software,Advocacy,193.59,
+QB-S506,2025-04-21,Credit Card Expense,Advocacy,36.67,Ramp sync RMP-702533
+QB-S385,03/18/2025,Credit Card Expense,FUNDRAISING,23.4,Ramp sync RMP-701735
+QB-S578,2026-05-18,Credit Card Expense,Fundraising,47.09,Ramp sync RMP-701052
+QB-376,04/25/2025,Salaries & Wages,Volunteer Training,129.29,
+QB-1006,07/29/2025,Salaries & Wages,Admin,2550.95,
+QB-1478,2025-01-20,Software,Advocacy,981.94,
+QB-S406,04-Apr-2026,Credit Card Expense,Advocacy,11.08,Ramp sync RMP-700551
+QB-1732,2026-06-28,Salaries & Wages,Advocacy,1298.29,
+QB-1204,18-Aug-2025,Software,Prog - Admin,2207.59,
+QB-1545,2025-07-13,Salaries & Wages,Advocacy,1250.19,
+QB-S280,2025-09-16,Credit Card Expense,Volunteer Training,15.57,Ramp sync RMP-701155
+QB-150,2026-04-03,Software,Admin,193.45,
+QB-1287,05/09/2025,Program Supplies,Prog - Advocacy,1337.48,
+QB-777,23-Dec-2025,Program Supplies,Prog - Advocacy,711.45,
+QB-103,2025-05-18,Salaries & Wages,Advocacy,187.17,
+QB-347,03/19/2025,Program Supplies,ADMIN,2128.74,
+QB-551,2025-10-30,Rent,VOLUNTEER TRAINING,796.36,
+QB-S788,2026-04-29,Credit Card Expense,Fundraising,52.47,Ramp sync RMP-701468
+QB-1374,2025-12-09,Salaries & Wages,Admin,692.53,
+QB-S764,2026-06-13,Credit Card Expense,ADMIN,30.97,Ramp sync RMP-702282
+QB-1037,2026-06-24,Program Supplies,Prog - Volunteer Training,283.25,
+QB-1237,2025-02-14,Salaries & Wages,Admin,18.23,
+QB-S454,2025-11-23,Credit Card Expense,Fundraising,68.55,Ramp sync RMP-701930
+QB-985,2025-11-22,Program Supplies,Admin,787.17,
+QB-1147,2025-01-24,Program Supplies,Volunteer Training,662.89,
+QB-877,2025-10-21,Program Supplies,Fundraising,123.15,
+QB-1279,2025-08-15,Software,ADMIN,1570.65,
+QB-412,02/02/2026,Software,Admin,954.05,
+QB-S576,2025-10-23,Credit Card Expense,Volunteer Training,75.23,Ramp sync RMP-701615
+QB-S896,2026-04-20,Credit Card Expense,Fundraising,37.32,Ramp sync RMP-702179
+QB-1607,01/05/2025,Insurance,Advocacy,1705.75,
+QB-346,2025-03-14,Program Supplies,Advocacy,505.7,
+QB-680,2025-12-15,Insurance,Advocacy,1525.06,
+QB-1765,2025-07-13,Salaries & Wages,Prog - Advocacy,444.21,
+QB-S855,2025-09-16,Credit Card Expense,Advocacy,161.88,Ramp sync RMP-701734
+QB-S153,02/06/2026,Credit Card Expense,ADVOCACY,89.02,Ramp sync RMP-701838
+QB-917,28-Mar-2026,Professional Fees,Admin,138.16,
+QB-1651,05/19/2026,Professional Fees,ADMIN,249.03,
+QB-S233,03/28/2025,Credit Card Expense,VOLUNTEER TRAINING,43.7,Ramp sync RMP-701126
+QB-459,06/14/2025,Program Supplies,Admin,467.74,
+QB-1773,2025-11-18,Software,ADVOCACY,1127.36,
+QB-S213,2025-12-30,Credit Card Expense,FUNDRAISING,130.78,Ramp sync RMP-701518
+QB-1397,2025-02-16,Salaries & Wages,ADMIN,1290.17,
+QB-1072,09/24/2025,Insurance,Prog - Advocacy,397.18,
+QB-1387,23-Oct-2025,Insurance,FUNDRAISING,40.5,
+QB-506,10/07/2025,Rent,ADVOCACY,214.61,
+QB-1613,01/17/2026,Software,Prog - Advocacy,218.8,
+QB-S310,2025-06-30,Credit Card Expense,Prog - Admin,82.29,Ramp sync RMP-701963
+QB-1106,2025-08-28,Professional Fees,ADVOCACY,278.25,
+QB-923,2025-10-21,Program Supplies,Volunteer Training,16.58,
+QB-355,06/05/2025,Program Supplies,FUNDRAISING,982.37,
+QB-446,03/06/2025,Program Supplies,ADVOCACY,349.44,
+QB-534,2025-12-07,Rent,Volunteer Training,107.71,
+QB-S670,2025-12-03,Credit Card Expense,Advocacy,89.84,Ramp sync RMP-701270
+QB-380,2025-04-25,Salaries & Wages,ADVOCACY,1519.19,
+QB-1780,05/24/2025,Software,Advocacy,472.49,
+QB-S184,01/02/2026,Credit Card Expense,Advocacy,12.41,Ramp sync RMP-701349
+QB-201,09/03/2025,Program Supplies,Advocacy,235.12,
+QB-1381,04-Mar-2026,Software,Advocacy,1008.39,
+QB-671,13-Apr-2026,Salaries & Wages,Prog - Advocacy,578.86,
+QB-S376,2026-05-04,Credit Card Expense,ADVOCACY,45.42,Ramp sync RMP-702510
+QB-1020,2026-05-23,Salaries & Wages,Admin,67.24,
+QB-401,2025-08-08,Software,Prog - Admin,254.35,
+QB-286,06/14/2026,Program Supplies,ADVOCACY,5547.02,
+QB-1522,07-Mar-2026,Salaries & Wages,Admin,2117.42,
+QB-268,2026-01-05,Software,FUNDRAISING,222.3,
+QB-S338,2025-12-09,Credit Card Expense,Advocacy,48.46,Ramp sync RMP-702463
+QB-S712,07/28/2025,Credit Card Expense,Advocacy,28.72,Ramp sync RMP-700496
+QB-1258,19-Mar-2025,Salaries & Wages,Volunteer Training,394.79,
+QB-1390,2025-10-02,Salaries & Wages,Admin,248.62,
+QB-921,06/16/2025,Insurance,ADVOCACY,97.13,
+QB-690,2025-10-06,Rent,FUNDRAISING,460.54,
+QB-785,2025-01-31,Professional Fees,VOLUNTEER TRAINING,114.88,
+QB-1103,2025-03-15,Salaries & Wages,Prog - Fundraising,132.55,
+QB-1648,07/05/2025,Salaries & Wages,Advocacy,252.5,
+QB-1362,14-Nov-2025,Salaries & Wages,Advocacy,3549.99,
+QB-1539,2026-04-15,Salaries & Wages,ADMIN,85.51,
+QB-S783,29-Oct-2025,Credit Card Expense,Advocacy,415.08,Ramp sync RMP-702311
+QB-914,2025-01-26,Rent,Prog - Admin,447.29,
+QB-S888,2025-12-05,Credit Card Expense,Advocacy,252.05,Ramp sync RMP-701390
+QB-S160,2026-04-08,Credit Card Expense,Fundraising,11.3,Ramp sync RMP-701229
+QB-S805,2026-01-27,Credit Card Expense,ADMIN,52.9,Ramp sync RMP-702241
+QB-747,2026-01-04,Rent,ADVOCACY,3166.82,
+QB-S561,2026-03-04,Credit Card Expense,Fundraising,21.28,Ramp sync RMP-701514
+QB-232,03/22/2026,Salaries & Wages,ADMIN,91.46,
+QB-S612,2025-10-31,Credit Card Expense,Prog - Fundraising,128.15,Ramp sync RMP-700431
+QB-1615,12/21/2025,Software,,3602.81,
+QB-S433,01/19/2026,Credit Card Expense,Volunteer Training,78.37,Ramp sync RMP-700725
+QB-1526,2026-04-01,Salaries & Wages,Volunteer Training,1358.29,
+QB-62,04/03/2025,Insurance,Admin,597.16,
+QB-480,2025-03-27,Professional Fees,ADMIN,427.06,
+QB-780,2026-02-10,Salaries & Wages,ADVOCACY,424.26,
+QB-S872,2025-07-22,Credit Card Expense,Advocacy,54.47,Ramp sync RMP-700517
+QB-1547,03/06/2026,Program Supplies,Advocacy,494.58,
+QB-S910,2026-03-22,Credit Card Expense,Admin,35.13,Ramp sync RMP-701030
+QB-S845,2025-08-11,Credit Card Expense,Advocacy,81.97,Ramp sync RMP-701958
+QB-1270,2026-04-20,Program Supplies,ADMIN,1142.06,
+QB-S382,02/12/2026,Credit Card Expense,ADVOCACY,145.33,Ramp sync RMP-701761
+QB-S903,03/06/2025,Credit Card Expense,Fundraising,54.83,Ramp sync RMP-702135
+QB-360,30-Dec-2025,Program Supplies,Advocacy,500.21,
+QB-S538,07/23/2025,Credit Card Expense,Prog - Fundraising,46.18,Ramp sync RMP-700061
+QB-1388,2026-02-10,Software,Prog - Advocacy,1260.32,
+QB-S42,2025-10-12,Credit Card Expense,Fundraising,73.0,Ramp sync RMP-701199
+QB-S80,2025-11-29,Credit Card Expense,Prog - Advocacy,36.5,Ramp sync RMP-702495
+QB-S319,2026-05-06,Credit Card Expense,Volunteer Training,40.45,Ramp sync RMP-701227
+QB-S252,2026-04-06,Credit Card Expense,Fundraising,34.69,Ramp sync RMP-701121
+QB-S893,2025-11-24,Credit Card Expense,VOLUNTEER TRAINING,162.07,Ramp sync RMP-700993
+QB-44,2025-06-04,Salaries & Wages,ADMIN,943.86,
+QB-S720,05/02/2025,Credit Card Expense,Fundraising,54.65,Ramp sync RMP-701729
+QB-1492,2025-11-07,Software,Prog - Advocacy,592.83,
+QB-796,2025-11-05,Software,Volunteer Training,1199.65,
+QB-S963,2025-07-26,Credit Card Expense,Advocacy,7.17,Ramp sync RMP-701012
+QB-1159,2025-08-27,Professional Fees,ADMIN,282.35,
+QB-1454,2026-03-09,Rent,Prog - Advocacy,348.4,
+QB-1681,2026-04-15,Insurance,,3086.62,
+QB-1419,02/21/2026,Rent,Advocacy,414.59,
+QB-1095,18-Apr-2025,Program Supplies,Admin,1565.55,
+QB-630,2026-01-18,Rent,Fundraising,709.09,
+QB-S263,02/26/2026,Credit Card Expense,FUNDRAISING,15.04,Ramp sync RMP-700935
+QB-1240,2025-01-15,Software,Admin,502.86,
+QB-1692,08/31/2025,Software,ADVOCACY,213.16,
+QB-395,06/14/2025,Salaries & Wages,Prog - Volunteer Training,636.09,
+QB-S854,2026-05-18,Credit Card Expense,Prog - Fundraising,150.89,Ramp sync RMP-700089
+QB-S654,2026-06-02,Credit Card Expense,VOLUNTEER TRAINING,17.79,Ramp sync RMP-702355
+QB-S1014,09-Jun-2026,Credit Card Expense,Advocacy,18.02,Ramp sync RMP-701117
+QB-93,2025-08-24,Salaries & Wages,Advocacy,2286.29,
+QB-283,2026-06-10,Software,ADMIN,215.25,
+QB-S28,03/16/2025,Credit Card Expense,ADMIN,3.76,Ramp sync RMP-701860
+QB-S791,07-Jun-2025,Credit Card Expense,Prog - Advocacy,74.94,Ramp sync RMP-702224
+QB-S900,05/31/2025,Credit Card Expense,Prog - Volunteer Training,7.76,Ramp sync RMP-701457
+QB-89,2026-06-01,Salaries & Wages,Advocacy,222.25,
+QB-S918,2025-10-10,Credit Card Expense,Prog - Admin,118.11,Ramp sync RMP-701861
+QB-1366,12/24/2025,Software,Advocacy,1341.88,
+QB-653,2026-05-16,Salaries & Wages,Prog - Admin,183.83,
+QB-1406,09/21/2025,Salaries & Wages,Prog - Advocacy,240.15,
+QB-409,2026-05-05,Salaries & Wages,Volunteer Training,495.92,
+QB-S1003,11/17/2025,Credit Card Expense,Admin,40.47,Ramp sync RMP-701197
+QB-13,23-Sep-2025,Salaries & Wages,Admin,1355.99,
+QB-77,2025-11-13,Salaries & Wages,Prog - Advocacy,349.18,
+QB-1713,27-Feb-2026,Rent,Advocacy,86.21,
+QB-974,2025-06-14,Program Supplies,Admin,1668.32,
+QB-1224,2025-04-04,Insurance,VOLUNTEER TRAINING,1375.98,
+QB-574,2026-05-08,Professional Fees,Prog - Advocacy,167.05,
+QB-S302,09-Mar-2025,Credit Card Expense,Fundraising,27.0,Ramp sync RMP-701822
+QB-S643,26-Apr-2025,Credit Card Expense,Volunteer Training,59.49,Ramp sync RMP-701742
+QB-239,2025-07-20,Salaries & Wages,Advocacy,130.4,
+QB-356,2025-04-27,Program Supplies,ADVOCACY,131.16,
+QB-1552,05-Nov-2025,Rent,Volunteer Training,68.3,
+QB-S619,2025-03-19,Credit Card Expense,FUNDRAISING,71.3,Ramp sync RMP-702428
+QB-S750,2025-07-25,Credit Card Expense,Prog - Volunteer Training,117.11,Ramp sync RMP-700238
+QB-40,2025-03-19,Software,Fundraising,800.3,
+QB-S738,01/31/2026,Credit Card Expense,Fundraising,48.12,Ramp sync RMP-701327
+QB-S504,2026-02-15,Credit Card Expense,Advocacy,138.39,Ramp sync RMP-700723
+QB-1097,2026-01-25,Salaries & Wages,Prog - Advocacy,105.02,
+QB-1032,07/08/2025,Salaries & Wages,ADMIN,841.32,
+QB-S242,11/16/2025,Credit Card Expense,Fundraising,46.39,Ramp sync RMP-702361
+QB-S149,05/07/2025,Credit Card Expense,Prog - Volunteer Training,37.95,Ramp sync RMP-701619
+QB-1520,2025-12-27,Salaries & Wages,Prog - Advocacy,2230.92,
+QB-733,2026-06-12,Salaries & Wages,Advocacy,135.42,
+QB-S209,2025-06-21,Credit Card Expense,Advocacy,56.93,Ramp sync RMP-700811
+QB-1180,17-Mar-2026,Insurance,Advocacy,2777.59,
+QB-1344,2026-03-03,Salaries & Wages,Prog - Advocacy,380.61,
+QB-527,2026-05-23,Professional Fees,Fundraising,369.33,
+QB-1289,05/26/2025,Program Supplies,Prog - Advocacy,403.95,
